@@ -1,9 +1,0 @@
-Wed Jul  6 17:13:55 2016	Ethan (STEAM_0:1:72945201) has joined the game
-Wed Jul  6 17:13:55 2016	Ethan (STEAM_0:1:72945201) spawned
-Wed Jul  6 17:14:09 2016	Ethan (STEAM_0:1:72945201): /logs
-Wed Jul  6 17:14:11 2016	Ethan (STEAM_0:1:72945201): !logs
-Wed Jul  6 17:14:14 2016	Ethan (STEAM_0:1:72945201): /plogs
-Wed Jul  6 17:14:16 2016	Ethan (STEAM_0:1:72945201): !plogs
-Wed Jul  6 17:16:08 2016	Ethan (STEAM_0:1:72945201): plogs
-Wed Jul  6 17:16:23 2016	Ethan (STEAM_0:1:72945201): /plogs
-Wed Jul  6 17:16:26 2016	Ethan (STEAM_0:1:72945201): !plogs

@@ -1,5 +1,0 @@
-Wed Jul  6 01:19:28 2016	Ethan (STEAM_0:1:72945201) has joined the game
-Wed Jul  6 01:19:28 2016	Jedi Knight Ethan (STEAM_0:1:72945201) spawned
-Wed Jul  6 01:20:02 2016	Jedi Knight Ethan (STEAM_0:1:72945201): /name Ethan
-Wed Jul  6 01:21:22 2016	Ethan (STEAM_0:1:72945201) spawned SENT wt_rocketboots
-Wed Jul  6 01:21:40 2016	Ethan (STEAM_0:1:72945201) spawned SENT wt_rocketboots_remover
