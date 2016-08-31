@@ -1,0 +1,550 @@
+"STEAM_0:1:107760868"	
+{
+	"name"	"720 potato master"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"Fleet Ensign"
+}
+"STEAM_0:1:167333492"	
+{
+	"allow"	
+	{
+	}
+	"name"	"ilayaflalo2000X"
+	"deny"	
+	{
+	}
+	"group"	"STPVT"
+}
+"STEAM_0:1:7541443"	
+{
+	"name"	"chiken"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"STPVT"
+}
+"STEAM_0:0:48204858"	
+{
+	"allow"	
+	{
+	}
+	"name"	"ST PVT 1738 Savage"
+	"deny"	
+	{
+	}
+	"group"	"STPVT"
+}
+"STEAM_0:0:61413217"	
+{
+	"name"	"ST PVT 4892 Foz"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"501PFC"
+}
+"STEAM_0:0:115005775"	
+{
+	"name"	"ST PVT 3145 Noka​"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"STPVT"
+}
+"STEAM_0:1:56053138"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Finnerd"
+	"group"	"MEDPFC"
+}
+"STEAM_0:1:77134720"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"ST PVT 1489 Oce"
+	"group"	"STPVT"
+}
+"STEAM_0:0:27711570"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Daniel"
+	"deny"	
+	{
+	}
+	"group"	"STLT"
+}
+"STEAM_0:1:127069393"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Lyc4n1105jnr"
+	"deny"	
+	{
+	}
+	"group"	"RGPVT"
+}
+"STEAM_0:1:56783918"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"SKT CPT 2813 Hound"
+	"group"	"SKCPT"
+}
+"STEAM_0:1:81357128"	
+{
+	"name"	"Benji"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"admin"
+}
+"STEAM_0:1:72945201"	
+{
+	"name"	"MED REG COMM Ethan"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:1:47224045"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Sith Apperentice Eagle​"
+	"deny"	
+	{
+	}
+	"group"	"STPFC"
+}
+"STEAM_0:0:113721067"	
+{
+	"name"	"L1K34PRO"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"RGPVT"
+}
+"STEAM_0:0:69742669"	
+{
+	"name"	"ST PVT 3446 Mysterio"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"STPVT"
+}
+"STEAM_0:0:75670380"	
+{
+	"name"	"ST PVT 1812 Titus"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"STPVT"
+}
+"STEAM_0:1:90211140"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"hook12aaa"
+	"group"	"CM"
+}
+"STEAM_0:1:44584406"	
+{
+	"name"	"RG PVT 0001 Omid"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"RGPFC"
+}
+"STEAM_0:1:64526417"	
+{
+	"name"	"ST REG COMM Waffles"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"Event Manager"
+}
+"STEAM_0:1:105697682"	
+{
+	"name"	"Sith Master TOM"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"SITHSTALKER"
+}
+"STEAM_0:0:85963007"	
+{
+	"allow"	
+	{
+	}
+	"name"	"poli.tomy21"
+	"deny"	
+	{
+	}
+	"group"	"MEDPVT"
+}
+"STEAM_0:1:58993849"	
+{
+	"allow"	
+	{
+	}
+	"name"	"SHDT CPT 1488 ToasT"
+	"deny"	
+	{
+	}
+	"group"	"SDTCPT"
+}
+"STEAM_0:1:65953841"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"SHDT Batt Comm Drakx"
+	"group"	"SDTBATTCOM"
+}
+"STEAM_0:1:27652610"	
+{
+	"name"	"ST PVT 1456 Aladeen"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"STPVT"
+}
+"STEAM_0:0:78184134"	
+{
+	"allow"	
+	{
+	}
+	"name"	"slave Günter"
+	"deny"	
+	{
+	}
+	"group"	"SDREGCOM"
+}
+"STEAM_0:1:79001790"	
+{
+	"name"	"[RG] NievAchieve"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"admin"
+}
+"STEAM_0:0:131304126"	
+{
+	"allow"	
+	{
+	}
+	"name"	"toti37182"
+	"deny"	
+	{
+	}
+	"group"	"STPVT"
+}
+"STEAM_0:1:92889617"	
+{
+	"name"	"AngryChicken82"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"Head-Staff"
+}
+"STEAM_0:1:112426618"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Marshall"
+	"group"	"STPVT"
+}
+"STEAM_0:1:66459746"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"ST CPL 1228 Warrior"
+	"group"	"STCPL"
+}
+"STEAM_0:0:63975104"	
+{
+	"name"	"ST PVT 1765 Triggered"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"STPVT"
+}
+"STEAM_0:1:30091530"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Takwat"
+	"deny"	
+	{
+	}
+	"group"	"MEDCOL"
+}
+"STEAM_0:0:53304050"	
+{
+	"allow"	
+	{
+	}
+	"name"	"AJFERR"
+	"deny"	
+	{
+	}
+	"group"	"TPPVT"
+}
+"STEAM_0:0:113072611"	
+{
+	"allow"	
+	{
+	}
+	"name"	"bcwalton"
+	"deny"	
+	{
+	}
+	"group"	"JUDGE"
+}
+"STEAM_0:1:89688387"	
+{
+	"allow"	
+	{
+	}
+	"name"	"[KR] Bad RacOOn"
+	"deny"	
+	{
+	}
+	"group"	"TPMJR"
+}
+"STEAM_0:1:124324969"	
+{
+	"allow"	
+	{
+	}
+	"name"	"ST PVT 2002Croucher"
+	"deny"	
+	{
+	}
+	"group"	"STPVT"
+}
+"STEAM_0:1:88690147"	
+{
+	"allow"	
+	{
+	}
+	"name"	"[RG] Sloth"
+	"deny"	
+	{
+	}
+	"group"	"SKREGCOM"
+}
+"STEAM_0:0:81720841"	
+{
+	"name"	"The_Mantis_Shrimp"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"MEDBATTCOM"
+}
+"STEAM_0:1:150196740"	
+{
+	"name"	"leekillerawsomeness"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"SITHAPP"
+}
+"STEAM_0:0:102872178"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Dragonboy_Ryan"
+	"deny"	
+	{
+	}
+	"group"	"admin"
+}
+"STEAM_0:1:104893082"	
+{
+	"allow"	
+	{
+	}
+	"name"	"jjriddle02"
+	"deny"	
+	{
+	}
+	"group"	"STPFC"
+}
+"STEAM_0:1:87936506"	
+{
+	"name"	"Trial Sith Apprentice Roy"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"SITHAPP"
+}
+"STEAM_0:1:159024210"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Nova ● Sound_Wave"
+	"deny"	
+	{
+	}
+	"group"	"STPVT"
+}
+"STEAM_0:1:78787504"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"MVG Jam"
+	"group"	"STPVT"
+}
+"STEAM_0:1:97107306"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"ST PVT 1933 Branco"
+	"group"	"STPVT"
+}
+"STEAM_0:1:89597975"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"[KyloRP] [CM] Kenny"
+	"group"	"Fleet Ensign"
+}
+"STEAM_0:0:178199881"	
+{
+	"name"	"RG PVT 0435 Steve"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"RGPFC"
+}
+"STEAM_0:1:165468783"	
+{
+	"name"	"IDONTKNOW"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:1:61012606"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"ST PVT 1337 PinkiePie"
+	"group"	"STPVT"
+}

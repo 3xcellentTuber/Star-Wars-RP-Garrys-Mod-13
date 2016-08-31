@@ -1,0 +1,286 @@
+Sun Jul  3 16:12:49 2016	Marshall (STEAM_0:1:112426618) has joined the game
+Sun Jul  3 16:12:49 2016	Minge Reg Comm Alex (STEAM_0:1:112426618) spawned
+Sun Jul  3 16:13:08 2016	Sloth (STEAM_0:1:88690147) has joined the game
+Sun Jul  3 16:13:08 2016	SKT REG COMM Sloth (STEAM_0:1:88690147) spawned
+Sun Jul  3 16:13:10 2016	AngryChicken82 (STEAM_0:1:92889617) has joined the game
+Sun Jul  3 16:13:11 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) spawned
+Sun Jul  3 16:13:12 2016	Ethan (STEAM_0:1:72945201) has joined the game
+Sun Jul  3 16:13:12 2016	Emperor Ethan (STEAM_0:1:72945201) spawned
+Sun Jul  3 16:13:28 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): Alex?
+Sun Jul  3 16:13:37 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) spawned
+Sun Jul  3 16:13:42 2016	Minge Reg Comm Alex (STEAM_0:1:112426618): YES?\
+Sun Jul  3 16:14:00 2016	SKT REG COMM Sloth (STEAM_0:1:88690147) spawned
+Sun Jul  3 16:14:05 2016	Minge Reg Comm Alex (STEAM_0:1:112426618): /name ST PVT 9034 Marshall
+Sun Jul  3 16:14:28 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): Hey
+Sun Jul  3 16:14:34 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): Yeah
+Sun Jul  3 16:15:46 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): In a sec i need to do something
+Sun Jul  3 16:15:47 2016	Emperor Ethan (STEAM_0:1:72945201): // brb
+Sun Jul  3 16:16:03 2016	Emperor Ethan (STEAM_0:1:72945201): // need to fix the custom commands
+Sun Jul  3 16:16:48 2016	themicrogamer1 (STEAM_0:0:99218170) has joined the game
+Sun Jul  3 16:16:48 2016	Adir (STEAM_0:0:99218170) spawned
+Sun Jul  3 16:17:29 2016	Adir (STEAM_0:0:99218170) spawned
+Sun Jul  3 16:17:43 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): Marshall i whitlisted you if you didn't see
+Sun Jul  3 16:18:11 2016	Emperor Ethan (STEAM_0:1:72945201): !tp adir
+Sun Jul  3 16:18:25 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): Hey
+Sun Jul  3 16:18:33 2016	Emperor Ethan (STEAM_0:1:72945201): /name MED REG COMM Ethan
+Sun Jul  3 16:18:33 2016	MED REG COMM Ethan (STEAM_0:1:72945201) spawned
+Sun Jul  3 16:18:46 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): Oh xD
+Sun Jul  3 16:20:31 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): MINES BETTER MUHHAHHA
+Sun Jul  3 16:20:56 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): Am i your slave again? xD
+Sun Jul  3 16:21:45 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // I ranked up from Birtday Slave to Full Time Slave xD
+Sun Jul  3 16:21:47 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp adir
+Sun Jul  3 16:22:06 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !freezea dir
+Sun Jul  3 16:22:10 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !freeze adir
+Sun Jul  3 16:22:19 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !unfreeze adir
+Sun Jul  3 16:22:22 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): יתוא ליצת רידא
+Sun Jul  3 16:22:26 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // xD
+Sun Jul  3 16:22:47 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !hp ^ 500
+Sun Jul  3 16:22:53 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): /y SOMEONE!?
+Sun Jul  3 16:23:05 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): xD
+Sun Jul  3 16:23:08 2016	MED REG COMM Ethan was killed by Entity [321][func_door] with a func_door
+Sun Jul  3 16:23:17 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /name Ethan SkyWalker
+Sun Jul  3 16:23:18 2016	Ethan SkyWalker (STEAM_0:1:72945201) spawned
+Sun Jul  3 16:23:24 2016	Ethan SkyWalker (STEAM_0:1:72945201): /unjail anc
+Sun Jul  3 16:23:31 2016	Ethan SkyWalker (STEAM_0:1:72945201): /jail anc
+Sun Jul  3 16:23:35 2016	Ethan SkyWalker (STEAM_0:1:72945201): !goto anc
+Sun Jul  3 16:24:10 2016	FINKIY (STEAM_0:0:54614085) has joined the game
+Sun Jul  3 16:24:10 2016	FINKIY (STEAM_0:0:54614085) spawned
+Sun Jul  3 16:24:32 2016	Ethan SkyWalker (STEAM_0:1:72945201): !tp adir
+Sun Jul  3 16:25:03 2016	Ethan SkyWalker (STEAM_0:1:72945201): !tp adir
+Sun Jul  3 16:25:07 2016	SKT REG COMM Sloth was killed by SHDT Reg Comm Ancient with a weapon_lasermgun
+Sun Jul  3 16:25:08 2016	SKT REG COMM Sloth (STEAM_0:1:88690147) spawned
+Sun Jul  3 16:25:16 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // YEAH I WANNA FIGHT M8
+Sun Jul  3 16:25:22 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): !goto FINKIY
+Sun Jul  3 16:25:37 2016	SKT REG COMM Sloth (STEAM_0:1:88690147): // where are you
+Sun Jul  3 16:25:43 2016	Ethan SkyWalker (STEAM_0:1:72945201): !tp alsoth
+Sun Jul  3 16:25:45 2016	Ethan SkyWalker (STEAM_0:1:72945201): !tp slot
+Sun Jul  3 16:25:47 2016	Ethan SkyWalker (STEAM_0:1:72945201): !tp adir
+Sun Jul  3 16:25:50 2016	FINKIY (STEAM_0:0:54614085): ?
+Sun Jul  3 16:25:57 2016	FINKIY (STEAM_0:0:54614085): i'm new
+Sun Jul  3 16:26:05 2016	SHDT Reg Comm Ancient was killed by Adir with a weapon_lightsaber
+Sun Jul  3 16:26:10 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) spawned
+Sun Jul  3 16:26:12 2016	Ethan SkyWalker (STEAM_0:1:72945201): !tp anc
+Sun Jul  3 16:26:40 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): FINKIY
+Sun Jul  3 16:26:42 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): Wait
+Sun Jul  3 16:26:43 2016	FINKIY (STEAM_0:0:54614085): yes?
+Sun Jul  3 16:26:46 2016	FINKIY (STEAM_0:0:54614085): okey
+Sun Jul  3 16:26:55 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): To roam around the ship ypu need to complete your training
+Sun Jul  3 16:27:03 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): Do you want training?
+Sun Jul  3 16:27:05 2016	FINKIY (STEAM_0:0:54614085): yea
+Sun Jul  3 16:27:08 2016	FINKIY (STEAM_0:0:54614085): whynot
+Sun Jul  3 16:27:24 2016	ST PVT 9034 Marshall was killed by Adir with a weapon_lightsaber
+Sun Jul  3 16:27:28 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) spawned
+Sun Jul  3 16:27:34 2016	Ethan SkyWalker (STEAM_0:1:72945201): !tp adir
+Sun Jul  3 16:27:37 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): Have you ever played star wars RP before?
+Sun Jul  3 16:27:39 2016	FINKIY was killed by Ethan SkyWalker with a weapon_lightsaber
+Sun Jul  3 16:27:41 2016	FINKIY (STEAM_0:0:54614085): no
+Sun Jul  3 16:27:46 2016	FINKIY (STEAM_0:0:54614085): first time
+Sun Jul  3 16:27:53 2016	Adir was killed by SKT REG COMM Sloth with a weapon_752bf3_rt97c
+Sun Jul  3 16:27:55 2016	Adir (STEAM_0:0:99218170) spawned
+Sun Jul  3 16:27:57 2016	Ethan SkyWalker (STEAM_0:1:72945201): !tp adir
+Sun Jul  3 16:28:00 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): FINKIY
+Sun Jul  3 16:28:10 2016	FINKIY (STEAM_0:0:54614085): /name ST PVT 1234321 FINKIY
+Sun Jul  3 16:28:20 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) spawned
+Sun Jul  3 16:28:28 2016	ST PVT 1234321 FINKIY (STEAM_0:0:54614085): /name ST PVT FINKIY
+Sun Jul  3 16:28:35 2016	ST PVT FINKIY (STEAM_0:0:54614085) spawned
+Sun Jul  3 16:28:48 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): Fin
+Sun Jul  3 16:29:02 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): Have you ever played Star Wars RP before?
+Sun Jul  3 16:29:23 2016	ST PVT FINKIY (STEAM_0:0:54614085): no bro its my first time in gmod
+Sun Jul  3 16:29:27 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): Oh really?
+Sun Jul  3 16:29:29 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): Cool
+Sun Jul  3 16:29:30 2016	ST PVT FINKIY (STEAM_0:0:54614085): hhh yea
+Sun Jul  3 16:29:43 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): So im gonna teach you faces first 
+Sun Jul  3 16:29:48 2016	ST PVT FINKIY (STEAM_0:0:54614085): okey
+Sun Jul  3 16:29:51 2016	ST PVT 9034 Marshall was killed by Ethan SkyWalker with a weapon_lightsaber
+Sun Jul  3 16:29:52 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) spawned
+Sun Jul  3 16:29:55 2016	ST PVT FINKIY (STEAM_0:0:54614085): lets start
+Sun Jul  3 16:29:59 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): You can read about them there
+Sun Jul  3 16:30:10 2016	Ethan SkyWalker (STEAM_0:1:72945201): /advert Luke skywalker is in the HB attack him at once!
+Sun Jul  3 16:30:13 2016	Ethan SkyWalker was killed by Himself with a suicide trick
+Sun Jul  3 16:30:13 2016	Ethan SkyWalker (STEAM_0:1:72945201): !slay ^
+Sun Jul  3 16:30:14 2016	Ethan SkyWalker (STEAM_0:1:72945201) spawned
+Sun Jul  3 16:30:19 2016	SKT REG COMM Sloth was killed by Himself with a suicide trick
+Sun Jul  3 16:30:21 2016	SKT REG COMM Sloth (STEAM_0:1:88690147) spawned
+Sun Jul  3 16:30:23 2016	ST PVT FINKIY (STEAM_0:0:54614085): oh
+Sun Jul  3 16:30:24 2016	Ethan SkyWalker (STEAM_0:1:72945201): !t padir
+Sun Jul  3 16:30:26 2016	ST PVT FINKIY (STEAM_0:0:54614085): cool
+Sun Jul  3 16:30:26 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): Right face is this
+Sun Jul  3 16:30:30 2016	Adir (STEAM_0:0:99218170) spawned
+Sun Jul  3 16:30:33 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): Left face is this
+Sun Jul  3 16:30:33 2016	Ethan SkyWalker (STEAM_0:1:72945201): !tp adir
+Sun Jul  3 16:30:42 2016	SKT REG COMM Sloth (STEAM_0:1:88690147): /advert *IC* All troopers to the HB
+Sun Jul  3 16:30:42 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): About face is this
+Sun Jul  3 16:30:51 2016	Ethan SkyWalker (STEAM_0:1:72945201): /advert (event start)
+Sun Jul  3 16:31:06 2016	ST PVT FINKIY (STEAM_0:0:54614085) disconnected
+Sun Jul  3 16:31:06 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): When you do about face always spin over your right shoulder
+Sun Jul  3 16:31:07 2016	ST PVT 9034 Marshall was killed by SKT REG COMM Sloth with a e60r_rocket
+Sun Jul  3 16:31:11 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) spawned
+Sun Jul  3 16:31:22 2016	SKT REG COMM Sloth was killed by Ethan SkyWalker with a weapon_lightsaber
+Sun Jul  3 16:31:26 2016	SKT REG COMM Sloth (STEAM_0:1:88690147) spawned
+Sun Jul  3 16:31:57 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // I hate when people quit mid training >=(
+Sun Jul  3 16:32:01 2016	bcwalton (STEAM_0:0:113072611) has joined the game
+Sun Jul  3 16:32:01 2016	NT REG Commander Walton (STEAM_0:0:113072611) spawned
+Sun Jul  3 16:32:01 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // Xג
+Sun Jul  3 16:32:05 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // Xd
+Sun Jul  3 16:32:32 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // Ethan have you found a way to clear Decals yet?
+Sun Jul  3 16:32:44 2016	Ethan SkyWalker (STEAM_0:1:72945201): !tp adir
+Sun Jul  3 16:33:02 2016	Ethan SkyWalker (STEAM_0:1:72945201): !tp adir
+Sun Jul  3 16:33:06 2016	SKT REG COMM Sloth was killed by Himself with a suicide trick
+Sun Jul  3 16:33:07 2016	SKT REG COMM Sloth (STEAM_0:1:88690147) spawned
+Sun Jul  3 16:33:25 2016	Ethan SkyWalker (STEAM_0:1:72945201): !tp adir
+Sun Jul  3 16:33:36 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // GTG sorry guys <3 YOU ALL!
+Sun Jul  3 16:33:45 2016	Ethan SkyWalker (STEAM_0:1:72945201): /advert *jedi coms* on the way to the bridge
+Sun Jul  3 16:33:48 2016	Ethan SkyWalker (STEAM_0:1:72945201): // cya
+Sun Jul  3 16:33:51 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) disconnected
+Sun Jul  3 16:34:50 2016	Ethan SkyWalker (STEAM_0:1:72945201): !tp adir
+Sun Jul  3 16:34:52 2016	NT REG Commander Walton (STEAM_0:0:113072611): // well hello
+Sun Jul  3 16:34:57 2016	NT REG Commander Walton (STEAM_0:0:113072611): // whats going on
+Sun Jul  3 16:35:10 2016	SKT REG COMM Sloth was killed by Ethan SkyWalker with a weapon_lightsaber
+Sun Jul  3 16:35:11 2016	SKT REG COMM Sloth (STEAM_0:1:88690147) spawned
+Sun Jul  3 16:35:14 2016	Ethan SkyWalker (STEAM_0:1:72945201): !tp adir
+Sun Jul  3 16:35:19 2016	NT REG Commander Walton (STEAM_0:0:113072611) spawned
+Sun Jul  3 16:35:39 2016	NT REG Commander Walton (STEAM_0:0:113072611): // event?
+Sun Jul  3 16:35:41 2016	Ethan SkyWalker (STEAM_0:1:72945201): // yes
+Sun Jul  3 16:35:42 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) disconnected
+Sun Jul  3 16:36:20 2016	NT REG Commander Walton was killed by Ethan SkyWalker with a weapon_lightsaber
+Sun Jul  3 16:36:22 2016	NT REG Commander Walton (STEAM_0:0:113072611) spawned
+Sun Jul  3 16:36:34 2016	Adir was killed by Himself with a suicide trick
+Sun Jul  3 16:36:35 2016	Adir (STEAM_0:0:99218170) spawned
+Sun Jul  3 16:36:44 2016	SKT REG COMM Sloth was killed by Entity [0][worldspawn] with a unknown
+Sun Jul  3 16:36:47 2016	SKT REG COMM Sloth (STEAM_0:1:88690147) spawned
+Sun Jul  3 16:36:51 2016	Adir (STEAM_0:0:99218170) spawned
+Sun Jul  3 16:36:54 2016	Ethan SkyWalker (STEAM_0:1:72945201): !GOTO adir
+Sun Jul  3 16:36:59 2016	Ethan SkyWalker (STEAM_0:1:72945201): !tp adir
+Sun Jul  3 16:37:14 2016	Adir was killed by Himself with a suicide trick
+Sun Jul  3 16:37:16 2016	Adir (STEAM_0:0:99218170) spawned
+Sun Jul  3 16:37:20 2016	Ethan SkyWalker (STEAM_0:1:72945201): !tp adir
+Sun Jul  3 16:37:22 2016	NT REG Commander Walton (STEAM_0:0:113072611): he kills himself everytim
+Sun Jul  3 16:37:29 2016	NT REG Commander Walton was killed by Adir with a weapon_lightsaber
+Sun Jul  3 16:37:32 2016	NT REG Commander Walton (STEAM_0:0:113072611) spawned
+Sun Jul  3 16:37:34 2016	Ethan SkyWalker was killed by Himself with a suicide trick
+Sun Jul  3 16:37:35 2016	Ethan SkyWalker (STEAM_0:1:72945201) spawned
+Sun Jul  3 16:37:39 2016	Ethan SkyWalker (STEAM_0:1:72945201): !got oadir
+Sun Jul  3 16:37:41 2016	Adir was killed by Himself with a suicide trick
+Sun Jul  3 16:37:43 2016	Ethan SkyWalker (STEAM_0:1:72945201): !goto adi
+Sun Jul  3 16:37:45 2016	Adir (STEAM_0:0:99218170) spawned
+Sun Jul  3 16:37:47 2016	Ethan SkyWalker (STEAM_0:1:72945201): !goto adir
+Sun Jul  3 16:37:50 2016	Ethan SkyWalker (STEAM_0:1:72945201): !goto adir
+Sun Jul  3 16:37:53 2016	NT REG Commander Walton (STEAM_0:0:113072611): !warn adi failrp
+Sun Jul  3 16:38:04 2016	Adir (STEAM_0:0:99218170) spawned
+Sun Jul  3 16:38:08 2016	Ethan SkyWalker (STEAM_0:1:72945201): !goto adir
+Sun Jul  3 16:38:11 2016	Ethan SkyWalker (STEAM_0:1:72945201): !goto adir
+Sun Jul  3 16:38:53 2016	AhmetHOCA (STEAM_0:0:120419639) has joined the game
+Sun Jul  3 16:38:53 2016	AhmetHOCA (STEAM_0:0:120419639) spawned
+Sun Jul  3 16:38:57 2016	NT REG Commander Walton (STEAM_0:0:113072611): // HOW DO I PUT HIM ON THE WALL
+Sun Jul  3 16:39:12 2016	Ethan SkyWalker (STEAM_0:1:72945201): // e + left click 
+Sun Jul  3 16:39:31 2016	NT REG Commander Walton (STEAM_0:0:113072611): MOVE IN THE CELL
+Sun Jul  3 16:39:34 2016	Ethan SkyWalker (STEAM_0:1:72945201): !freeze sloth
+Sun Jul  3 16:39:38 2016	Ethan SkyWalker (STEAM_0:1:72945201): /me force chokes
+Sun Jul  3 16:39:46 2016	NT REG Commander Walton (STEAM_0:0:113072611): /ADVERT JEDI CAPTURED
+Sun Jul  3 16:39:51 2016	Ethan SkyWalker (STEAM_0:1:72945201): !unfreeze sloth
+Sun Jul  3 16:40:12 2016	Ethan SkyWalker (STEAM_0:1:72945201): /advert *jedi comms* im coming to help u
+Sun Jul  3 16:40:23 2016	NT REG Commander Walton (STEAM_0:0:113072611): /ADVERT *ic*
+Sun Jul  3 16:40:36 2016	Ethan SkyWalker was killed by Himself with a suicide trick
+Sun Jul  3 16:40:37 2016	Ethan SkyWalker (STEAM_0:1:72945201) spawned
+Sun Jul  3 16:40:42 2016	Ethan SkyWalker (STEAM_0:1:72945201): !goto walt
+Sun Jul  3 16:40:48 2016	NT REG Commander Walton (STEAM_0:0:113072611): OH HOW
+Sun Jul  3 16:40:50 2016	★Enes147★ (STEAM_0:0:79916087) has joined the game
+Sun Jul  3 16:40:50 2016	★Enes147★ (STEAM_0:0:79916087) spawned
+Sun Jul  3 16:40:54 2016	Ethan SkyWalker (STEAM_0:1:72945201) spawned
+Sun Jul  3 16:40:57 2016	AhmetHOCA was killed by NT REG Commander Walton with a weapon_752bf3_dl44
+Sun Jul  3 16:40:58 2016	AhmetHOCA (STEAM_0:0:120419639) spawned
+Sun Jul  3 16:41:12 2016	NT REG Commander Walton (STEAM_0:0:113072611): must.....follow orders
+Sun Jul  3 16:41:41 2016	SKT REG COMM Sloth was killed by Ethan SkyWalker with a weapon_lightsaber
+Sun Jul  3 16:41:42 2016	SKT REG COMM Sloth (STEAM_0:1:88690147) spawned
+Sun Jul  3 16:41:43 2016	NT REG Commander Walton was killed by Ethan SkyWalker with a weapon_lightsaber
+Sun Jul  3 16:41:44 2016	NT REG Commander Walton (STEAM_0:0:113072611) spawned
+Sun Jul  3 16:41:49 2016	AhmetHOCA (STEAM_0:0:120419639) disconnected
+Sun Jul  3 16:41:53 2016	NT REG Commander Walton was killed by Adir with a weapon_lightsaber
+Sun Jul  3 16:41:55 2016	NT REG Commander Walton (STEAM_0:0:113072611) spawned
+Sun Jul  3 16:42:01 2016	Adir was killed by Himself with a suicide trick
+Sun Jul  3 16:42:03 2016	Adir (STEAM_0:0:99218170) spawned
+Sun Jul  3 16:42:10 2016	Ethan SkyWalker (STEAM_0:1:72945201): /advert *COMMS* WE WANT A SHIP AND AN ESCORT TO HB AT ONCE
+Sun Jul  3 16:42:17 2016	Ethan SkyWalker (STEAM_0:1:72945201): !tp adir
+Sun Jul  3 16:42:22 2016	★Enes147★ (STEAM_0:0:79916087) disconnected
+Sun Jul  3 16:42:24 2016	Adir (STEAM_0:0:99218170) spawned
+Sun Jul  3 16:42:29 2016	Ethan SkyWalker (STEAM_0:1:72945201): !t padir
+Sun Jul  3 16:42:33 2016	Ethan SkyWalker (STEAM_0:1:72945201): !tp adir
+Sun Jul  3 16:42:39 2016	NT REG Commander Walton was killed by Adir with a weapon_lightsaber
+Sun Jul  3 16:42:41 2016	NT REG Commander Walton (STEAM_0:0:113072611) spawned
+Sun Jul  3 16:42:46 2016	Ethan SkyWalker (STEAM_0:1:72945201): /advert *RC* we were defeated
+Sun Jul  3 16:42:51 2016	NT REG Commander Walton was killed by Adir with a weapon_lightsaber
+Sun Jul  3 16:42:52 2016	NT REG Commander Walton (STEAM_0:0:113072611) spawned
+Sun Jul  3 16:42:52 2016	Ethan SkyWalker (STEAM_0:1:72945201): !tp sloth
+Sun Jul  3 16:43:10 2016	Adir was killed by Himself with a suicide trick
+Sun Jul  3 16:43:12 2016	Adir (STEAM_0:0:99218170) spawned
+Sun Jul  3 16:43:15 2016	SKT REG COMM Sloth was killed by Himself with a suicide trick
+Sun Jul  3 16:43:16 2016	SKT REG COMM Sloth (STEAM_0:1:88690147) spawned
+Sun Jul  3 16:43:27 2016	Adir (STEAM_0:0:99218170) spawned
+Sun Jul  3 16:43:31 2016	Ethan SkyWalker (STEAM_0:1:72945201): !tp adir
+Sun Jul  3 16:43:46 2016	Ethan SkyWalker (STEAM_0:1:72945201): !kick adir SRY BRO
+Sun Jul  3 16:43:46 2016	Adir (STEAM_0:0:99218170) disconnected
+Sun Jul  3 16:44:10 2016	NT REG Commander Walton (STEAM_0:0:113072611): get in
+Sun Jul  3 16:44:35 2016	NT REG Commander Walton (STEAM_0:0:113072611): /advert ENEMY DETAINED
+Sun Jul  3 16:44:54 2016	NT REG Commander Walton (STEAM_0:0:113072611): fuck off sloth he was using the force to control me dipshit
+Sun Jul  3 16:45:11 2016	NT REG Commander Walton (STEAM_0:0:113072611): lets interogate
+Sun Jul  3 16:45:32 2016	NT REG Commander Walton (STEAM_0:0:113072611): ethan rly
+Sun Jul  3 16:45:49 2016	NT REG Commander Walton (STEAM_0:0:113072611): rly ethan get in the cell
+Sun Jul  3 16:46:10 2016	Ethan SkyWalker (STEAM_0:1:72945201): !hp ^ 1
+Sun Jul  3 16:46:10 2016	Ethan SkyWalker was killed by SKT REG COMM Sloth with a weapon_752bf3_rt97c
+Sun Jul  3 16:46:30 2016	NT REG Commander Walton (STEAM_0:0:113072611): clean up floor 2 xD
+Sun Jul  3 16:47:44 2016	NT REG Commander Walton (STEAM_0:0:113072611): // ethan is he raging?
+Sun Jul  3 16:47:59 2016	SKT REG COMM Sloth (STEAM_0:1:88690147): // afk
+Sun Jul  3 16:48:03 2016	NT REG Commander Walton (STEAM_0:0:113072611): //k
+Sun Jul  3 16:48:06 2016	NT REG Commander Walton (STEAM_0:0:113072611): // k
+Sun Jul  3 16:48:30 2016	NT REG Commander Walton (STEAM_0:0:113072611): xD
+Sun Jul  3 16:48:41 2016	NT REG Commander Walton (STEAM_0:0:113072611): victory prizes
+Sun Jul  3 16:49:03 2016	NT REG Commander Walton (STEAM_0:0:113072611): sloth out my bunks now
+Sun Jul  3 16:49:25 2016	SKT REG COMM Sloth was killed by NT REG Commander Walton with a weapon_752bf3_dlt19
+Sun Jul  3 16:49:28 2016	SKT REG COMM Sloth (STEAM_0:1:88690147) spawned
+Sun Jul  3 16:49:41 2016	NT REG Commander Walton (STEAM_0:0:113072611): // #slothshotfirst
+Sun Jul  3 16:49:44 2016	NT REG Commander Walton was killed by SKT REG COMM Sloth with a weapon_752bf3_rt97c
+Sun Jul  3 16:49:46 2016	NT REG Commander Walton (STEAM_0:0:113072611) spawned
+Sun Jul  3 16:50:13 2016	NT REG Commander Walton was killed by SKT REG COMM Sloth with a weapon_752bf3_rt97c
+Sun Jul  3 16:50:15 2016	NT REG Commander Walton (STEAM_0:0:113072611) spawned
+Sun Jul  3 16:50:15 2016	SKT REG COMM Sloth was killed by Himself with a suicide trick
+Sun Jul  3 16:50:23 2016	SKT REG COMM Sloth (STEAM_0:1:88690147) spawned
+Sun Jul  3 16:50:33 2016	NT REG Commander Walton (STEAM_0:0:113072611): // 10/10 rp here
+Sun Jul  3 16:50:36 2016	SKT REG COMM Sloth (STEAM_0:1:88690147): // brb
+Sun Jul  3 16:50:42 2016	NT REG Commander Walton (STEAM_0:0:113072611): // dito
+Sun Jul  3 16:58:17 2016	Ethan SkyWalker (STEAM_0:1:72945201) spawned
+Sun Jul  3 16:58:20 2016	NT REG Commander Walton (STEAM_0:0:113072611): funny arnt ya sloth
+Sun Jul  3 16:58:21 2016	Ethan SkyWalker (STEAM_0:1:72945201): // ok im back
+Sun Jul  3 16:58:33 2016	NT REG Commander Walton (STEAM_0:0:113072611): // ethan sloths bullying meh
+Sun Jul  3 16:58:34 2016	Ethan SkyWalker (STEAM_0:1:72945201): // going to search for custom commands
+Sun Jul  3 16:58:38 2016	Ethan SkyWalker (STEAM_0:1:72945201): !goto wal
+Sun Jul  3 16:58:41 2016	NT REG Commander Walton (STEAM_0:0:113072611): // help
+Sun Jul  3 16:58:45 2016	Ethan SkyWalker (STEAM_0:1:72945201): !goto sloth
+Sun Jul  3 16:59:20 2016	NT REG Commander Walton (STEAM_0:0:113072611): // can i warn him xD
+Sun Jul  3 16:59:23 2016	Ethan SkyWalker (STEAM_0:1:72945201): // nah
+Sun Jul  3 16:59:27 2016	NT REG Commander Walton (STEAM_0:0:113072611): // xD
+Sun Jul  3 16:59:32 2016	NT REG Commander Walton (STEAM_0:0:113072611): thx
+Sun Jul  3 16:59:35 2016	SKT REG COMM Sloth (STEAM_0:1:88690147): // i have done it before#
+Sun Jul  3 16:59:42 2016	Ethan SkyWalker (STEAM_0:1:72945201): !tp sloth
+Sun Jul  3 16:59:49 2016	SKT REG COMM Sloth was killed by Himself with a suicide trick
+Sun Jul  3 16:59:55 2016	SKT REG COMM Sloth (STEAM_0:1:88690147) spawned
+Sun Jul  3 17:00:00 2016	NT REG Commander Walton (STEAM_0:0:113072611): !goto sloth
+Sun Jul  3 17:00:05 2016	Ethan SkyWalker (STEAM_0:1:72945201): // brb
+Sun Jul  3 17:00:10 2016	Ethan SkyWalker (STEAM_0:1:72945201): test
+Sun Jul  3 17:00:15 2016	NT REG Commander Walton (STEAM_0:0:113072611): !goto sloth
+Sun Jul  3 17:00:46 2016	NT REG Commander Walton (STEAM_0:0:113072611): // dont abuse it sloth xD
+Sun Jul  3 17:01:08 2016	NT REG Commander Walton (STEAM_0:0:113072611): // then advert practising xD
+Sun Jul  3 17:01:26 2016	NT REG Commander Walton (STEAM_0:0:113072611): no i wont
+Sun Jul  3 17:01:32 2016	NT REG Commander Walton (STEAM_0:0:113072611): // i wont
+Sun Jul  3 17:02:24 2016	NT REG Commander Walton (STEAM_0:0:113072611): !noclip
+Sun Jul  3 17:03:16 2016	NT REG Commander Walton (STEAM_0:0:113072611): no the judge is a form of staff i can warn, temp ban, tp and no clip thats it
+Sun Jul  3 17:03:29 2016	NT REG Commander Walton (STEAM_0:0:113072611): i dont get all staff powers
+Sun Jul  3 17:03:42 2016	NT REG Commander Walton (STEAM_0:0:113072611): // havin fun sloth
+Sun Jul  3 17:03:44 2016	SKT REG COMM Sloth (STEAM_0:1:88690147) disconnected
+Sun Jul  3 17:04:00 2016	Ethan SkyWalker (STEAM_0:1:72945201): // say I will fully restart
+Sun Jul  3 17:04:08 2016	NT REG Commander Walton (STEAM_0:0:113072611): // what for
+Sun Jul  3 17:04:11 2016	Ethan SkyWalker (STEAM_0:1:72945201): // cause I need to add that 1 addon
+Sun Jul  3 17:04:18 2016	Ethan SkyWalker (STEAM_0:1:72945201): // custom commands
+Sun Jul  3 17:04:18 2016	NT REG Commander Walton (STEAM_0:0:113072611): what addon
+Sun Jul  3 17:04:21 2016	NT REG Commander Walton (STEAM_0:0:113072611): ok
+Sun Jul  3 17:04:52 2016	NT REG Commander Walton was killed by Himself with a suicide trick
+Sun Jul  3 17:04:56 2016	NT REG Commander Walton (STEAM_0:0:113072611) spawned

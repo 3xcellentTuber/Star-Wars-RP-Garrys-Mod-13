@@ -1,0 +1,1909 @@
+"501PFC"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"CM"	
+{
+	"allow"	
+	{
+		"atsaccess"
+		"awarn_delete"
+		"awarn_remove"
+		"awarn_view"
+		"awarn_warn"
+		"darkrp_admincommands"
+		"ulx adduser"
+		"ulx adduserid"
+		"ulx administrate"
+		"ulx armor"
+		"ulx asay"
+		"ulx ban"
+		"ulx banid"
+		"ulx blind"
+		"ulx bring"
+		"ulx cleardecals"
+		"ulx cloak"
+		"ulx csay"
+		"ulx explode"
+		"ulx fbring"
+		"ulx forcerespawn"
+		"ulx freeze"
+		"ulx fteleport"
+		"ulx gag"
+		"ulx gimp"
+		"ulx god"
+		"ulx goto"
+		"ulx gravity"
+		"ulx hp"
+		"ulx ignite"
+		"ulx jail"
+		"ulx jailtp"
+		"ulx kick"
+		"ulx map"
+		"ulx maprestart"
+		"ulx maul"
+		"ulx model"
+		"ulx motd"
+		"ulx mute"
+		"ulx noclip"
+		"ulx playsound"
+		"ulx psay"
+		"ulx ragdoll"
+		"ulx removeuser"
+		"ulx removeuserid"
+		"ulx resetmap"
+		"ulx return"
+		"ulx send"
+		"ulx slap"
+		"ulx slay"
+		"ulx spectate"
+		"ulx sslay"
+		"ulx stopvote"
+		"ulx strip"
+		"ulx teleport"
+		"ulx thetime"
+		"ulx tsay"
+		"ulx unban"
+		"ulx unblind"
+		"ulx uncloak"
+		"ulx unfreeze"
+		"ulx ungag"
+		"ulx ungimp"
+		"ulx ungod"
+		"ulx unignite"
+		"ulx unigniteall"
+		"ulx unjail"
+		"ulx unmute"
+		"ulx unragdoll"
+		"ulx userallow"
+		"ulx userallowid"
+		"ulx userdeny"
+		"ulx userdenyid"
+		"ulx vote"
+		"ulx voteban"
+		"ulx votekick"
+		"ulx whip"
+	}
+	"inherit_from"	"superadmin"
+}
+"Mod"	
+{
+	"allow"	
+	{
+		"atsaccess"
+		"awarn_remove"
+		"awarn_view"
+		"awarn_warn"
+		"darkrp_admincommands"
+		"darkrp_getadminweapons"
+		"fpp_cleanup"
+		"ulx adduser"
+		"ulx adduserid"
+		"ulx administrate"
+		"ulx armor"
+		"ulx asay"
+		"ulx blind"
+		"ulx bring"
+		"ulx cleardecals"
+		"ulx cloak"
+		"ulx csay"
+		"ulx explode"
+		"ulx fbring"
+		"ulx forcerespawn"
+		"ulx freeze"
+		"ulx fteleport"
+		"ulx gag"
+		"ulx gimp"
+		"ulx give"
+		"ulx giveammo"
+		"ulx god"
+		"ulx goto"
+		"ulx gravity"
+		"ulx help"
+		"ulx hp"
+		"ulx ignite"
+		"ulx jail"
+		"ulx jailtp"
+		"ulx jumppower"
+		"ulx kick"
+		"ulx launch"
+		"ulx map"
+		"ulx maprestart"
+		"ulx model"
+		"ulx motd"
+		"ulx mute"
+		"ulx noclip"
+		"ulx playsound"
+		"ulx psay"
+		"ulx ragdoll"
+		"ulx removeragdolls"
+		"ulx removeuser"
+		"ulx removeuserid"
+		"ulx resetmap"
+		"ulx return"
+		"ulx scale"
+		"ulx send"
+		"ulx serverinfo"
+		"ulx setammo"
+		"ulx shock"
+		"ulx slap"
+		"ulx slay"
+		"ulx spectate"
+		"ulx speed"
+		"ulx sslay"
+		"ulx stopsounds"
+		"ulx strip"
+		"ulx teleport"
+		"ulx thetime"
+		"ulx tsay"
+		"ulx unadministrate"
+		"ulx unblind"
+		"ulx uncloak"
+		"ulx unfreeze"
+		"ulx ungag"
+		"ulx ungimp"
+		"ulx ungod"
+		"ulx unignite"
+		"ulx unigniteall"
+		"ulx unjail"
+		"ulx unmute"
+		"ulx unragdoll"
+		"ulx userallow"
+		"ulx userallowid"
+		"ulx userdeny"
+		"ulx userdenyid"
+		"ulx version"
+		"ulx vote"
+		"ulx whip"
+		"ulx who"
+	}
+	"inherit_from"	"admin"
+}
+"501REGCOM"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"RGCPL"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"STMJR"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"RGPFC"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"TPSGT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"TPPVT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"TPBATTCOM"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"shadow"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"SDTREGCOM"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"SDPFC"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"MEDSSGT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"SDTCPT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"SDLT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"501LT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"501PVT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"NTCOL"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"SKLT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"STSSGT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"Head-Staff"	
+{
+	"allow"	
+	{
+		"atsaccess"
+		"awarn_delete"
+		"awarn_remove"
+		"awarn_view"
+		"awarn_warn"
+		"darkrp_admincommands"
+		"permaprops_phys"
+		"permaprops_property"
+		"permaprops_save"
+		"permaprops_tool"
+		"permaprops_update"
+		"ulx adduser"
+		"ulx adduserid"
+		"ulx administrate"
+		"ulx armor"
+		"ulx asay"
+		"ulx ban"
+		"ulx banid"
+		"ulx blind"
+		"ulx bring"
+		"ulx cleardecals"
+		"ulx cloak"
+		"ulx csay"
+		"ulx explode"
+		"ulx forcerespawn"
+		"ulx freeze"
+		"ulx fteleport"
+		"ulx gag"
+		"ulx gimp"
+		"ulx give"
+		"ulx giveammo"
+		"ulx god"
+		"ulx goto"
+		"ulx gravity"
+		"ulx help"
+		"ulx hp"
+		"ulx ignite"
+		"ulx jail"
+		"ulx jailtp"
+		"ulx kick"
+		"ulx launch"
+		"ulx map"
+		"ulx maprestart"
+		"ulx maul"
+		"ulx model"
+		"ulx motd"
+		"ulx mute"
+		"ulx noclip"
+		"ulx playsound"
+		"ulx psay"
+		"ulx ragdoll"
+		"ulx removeuser"
+		"ulx removeuserid"
+		"ulx resetmap"
+		"ulx return"
+		"ulx send"
+		"ulx slap"
+		"ulx slay"
+		"ulx spectate"
+		"ulx sslay"
+		"ulx stopvote"
+		"ulx strip"
+		"ulx teleport"
+		"ulx thetime"
+		"ulx tsay"
+		"ulx unban"
+		"ulx unblind"
+		"ulx uncloak"
+		"ulx unfreeze"
+		"ulx ungag"
+		"ulx ungimp"
+		"ulx ungod"
+		"ulx unignite"
+		"ulx unigniteall"
+		"ulx unjail"
+		"ulx unmute"
+		"ulx unragdoll"
+		"ulx userallow"
+		"ulx userallowid"
+		"ulx userdeny"
+		"ulx userdenyid"
+		"ulx version"
+		"ulx vote"
+		"ulx whip"
+		"ulx who"
+	}
+	"inherit_from"	"superadmin"
+}
+"501BATTCOM"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"operator"	
+{
+	"allow"	
+	{
+		"ulx seeasay"
+	}
+	"can_target"	"!%admin"
+	"inherit_from"	"user"
+}
+"SDCPL"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"RGMJR"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"luke"	
+{
+	"allow"	
+	{
+	}
+	"inherit_from"	"user"
+}
+"SDREGCOM"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"NTPVT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"RGSSGT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"TPREGCOM"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"SDBATTCOM"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"MEDCPL"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"NTLT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"RGREGCOM"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"501COL"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"STREGCOM"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"SDTMJR"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"TMod"	
+{
+	"allow"	
+	{
+		"atsaccess"
+		"awarn_remove"
+		"awarn_view"
+		"awarn_warn"
+		"darkrp_admincommands"
+		"fpp_cleanup"
+		"ulx adduser"
+		"ulx adduserid"
+		"ulx administrate"
+		"ulx armor"
+		"ulx asay"
+		"ulx blind"
+		"ulx bring"
+		"ulx cleardecals"
+		"ulx cloak"
+		"ulx csay"
+		"ulx explode"
+		"ulx forcerespawn"
+		"ulx freeze"
+		"ulx friends"
+		"ulx fteleport"
+		"ulx gag"
+		"ulx gimp"
+		"ulx give"
+		"ulx giveammo"
+		"ulx god"
+		"ulx goto"
+		"ulx gravity"
+		"ulx hp"
+		"ulx ignite"
+		"ulx jail"
+		"ulx jailtp"
+		"ulx jumppower"
+		"ulx kick"
+		"ulx launch"
+		"ulx map"
+		"ulx maprestart"
+		"ulx model"
+		"ulx motd"
+		"ulx mute"
+		"ulx noclip"
+		"ulx physgunplayer"
+		"ulx playsound"
+		"ulx psay"
+		"ulx ragdoll"
+		"ulx removeuser"
+		"ulx removeuserid"
+		"ulx resetmap"
+		"ulx return"
+		"ulx scale"
+		"ulx send"
+		"ulx slap"
+		"ulx slay"
+		"ulx spectate"
+		"ulx speed"
+		"ulx sslay"
+		"ulx stopsounds"
+		"ulx strip"
+		"ulx teleport"
+		"ulx thetime"
+		"ulx unblind"
+		"ulx uncloak"
+		"ulx unfreeze"
+		"ulx ungag"
+		"ulx ungimp"
+		"ulx ungod"
+		"ulx unignite"
+		"ulx unigniteall"
+		"ulx unjail"
+		"ulx unmute"
+		"ulx unragdoll"
+		"ulx userallow"
+		"ulx userallowid"
+		"ulx userdeny"
+		"ulx userdenyid"
+		"ulx usermanagementhelp"
+		"ulx version"
+		"ulx vote"
+		"ulx votegag"
+		"ulx votemute"
+		"ulx who"
+	}
+	"inherit_from"	"admin"
+}
+"SKBATTCOM"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"STCPL"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"MEDCPT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"TPLT"	
+{
+	"allow"	
+	{
+	}
+	"inherit_from"	"user"
+}
+"VIP"	
+{
+	"allow"	
+	{
+	}
+	"inherit_from"	"user"
+}
+"STCPT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"501SSGT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"SDTCOL"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"MEDLT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"MEDSGT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"RGPVT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"NTREGCOM"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"NTCPT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"SDMJR"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"SKCPL"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"Fleet Commodore"	
+{
+	"allow"	
+	{
+	}
+	"inherit_from"	"user"
+}
+"MEDNJR"	
+{
+	"allow"	
+	{
+	}
+	"inherit_from"	"user"
+}
+"501CPL"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"TPCPL"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"TPMJR"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"SITHM"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"SKPVT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"NTSGT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"SITHSTALKER"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"MEDPFC"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"RGCOL"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"SKCOL"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"SKSSGT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"NTMJR"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"SDLY"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"Trial Fleet"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"SDTCPL"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"SKREGCOM"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"NTSSGT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"STCOL"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"SDPVT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"Fleet Captain"	
+{
+	"allow"	
+	{
+	}
+	"inherit_from"	"user"
+}
+"Event Manager"	
+{
+	"allow"	
+	{
+		"atsaccess"
+		"ulx armor"
+		"ulx asay"
+		"ulx bring"
+		"ulx cloak"
+		"ulx csay"
+		"ulx god"
+		"ulx goto"
+		"ulx help"
+		"ulx hp"
+		"ulx map"
+		"ulx model"
+		"ulx motd"
+		"ulx noclip"
+		"ulx physgunplayer"
+		"ulx return"
+		"ulx send"
+		"ulx spectate"
+		"ulx stopvote"
+		"ulx strip"
+		"ulx teleport"
+		"ulx thirdperson"
+		"ulx uncloak"
+		"ulx ungod"
+		"ulx vote"
+	}
+	"inherit_from"	"admin"
+}
+"owner"	
+{
+	"allow"	
+	{
+		"atsaccess"
+		"atsaccess.edit"
+		"awarn_delete"
+		"awarn_options"
+		"awarn_remove"
+		"awarn_view"
+		"awarn_warn"
+		"darkrp_admincommands"
+		"darkrp_changedoorsettings"
+		"darkrp_getadminweapons"
+		"darkrp_seeevents"
+		"darkrp_setdoorowner"
+		"darkrp_setlicense"
+		"darkrp_setmoney"
+		"fpp_cleanup"
+		"fpp_settings"
+		"fspectate"
+		"fspectateteleport"
+		"permaprops_delete"
+		"permaprops_menu"
+		"permaprops_menu_cfg"
+		"permaprops_phys"
+		"permaprops_property"
+		"permaprops_save"
+		"permaprops_tool"
+		"permaprops_update"
+		"ulogs.delete"
+		"ulogs.see"
+		"ulogs.seeip"
+		"ulx addgroup"
+		"ulx adduser"
+		"ulx adduserid"
+		"ulx administrate"
+		"ulx armor"
+		"ulx asay"
+		"ulx ban"
+		"ulx bancheck"
+		"ulx banid"
+		"ulx banip"
+		"ulx blind"
+		"ulx bring"
+		"ulx cexec"
+		"ulx chattime"
+		"ulx cleardecals"
+		"ulx cloak"
+		"ulx color"
+		"ulx convar"
+		"ulx crash"
+		"ulx csay"
+		"ulx csaycolor"
+		"ulx deaths"
+		"ulx donate"
+		"ulx ent"
+		"ulx enter"
+		"ulx exec"
+		"ulx exit"
+		"ulx explode"
+		"ulx fakeban"
+		"ulx fbring"
+		"ulx forcerespawn"
+		"ulx frags_deaths"
+		"ulx freeze"
+		"ulx fteleport"
+		"ulx gag"
+		"ulx getcommandtable"
+		"ulx gethooktable"
+		"ulx gimp"
+		"ulx give"
+		"ulx giveammo"
+		"ulx god"
+		"ulx goto"
+		"ulx gravity"
+		"ulx groupallow"
+		"ulx groupdeny"
+		"ulx help"
+		"ulx hiddenecho"
+		"ulx hide"
+		"ulx hook"
+		"ulx hp"
+		"ulx ignite"
+		"ulx ip"
+		"ulx jail"
+		"ulx jailtp"
+		"ulx jumppower"
+		"ulx kick"
+		"ulx kickafternamechanges"
+		"ulx kickafternamechangescooldown"
+		"ulx kickafternamechangeswarning"
+		"ulx kickbots"
+		"ulx launch"
+		"ulx loadoutadd"
+		"ulx loadoutremove"
+		"ulx logchat"
+		"ulx logdir"
+		"ulx logecho"
+		"ulx logechocolorconsole"
+		"ulx logechocolordefault"
+		"ulx logechocoloreveryone"
+		"ulx logechocolormisc"
+		"ulx logechocolorplayer"
+		"ulx logechocolorplayerasgroup"
+		"ulx logechocolors"
+		"ulx logechocolorself"
+		"ulx logevents"
+		"ulx logfile"
+		"ulx logjoinleaveecho"
+		"ulx logspawns"
+		"ulx logspawnsecho"
+		"ulx luarun"
+		"ulx map"
+		"ulx maprestart"
+		"ulx material"
+		"ulx maul"
+		"ulx mechatenabled"
+		"ulx model"
+		"ulx motd"
+		"ulx motdfile"
+		"ulx motdurl"
+		"ulx mute"
+		"ulx noclip"
+		"ulx notepad"
+		"ulx notifications"
+		"ulx physgunplayer"
+		"ulx playsound"
+		"ulx psay"
+		"ulx ragdoll"
+		"ulx rcon"
+		"ulx removegroup"
+		"ulx removeuser"
+		"ulx removeuserid"
+		"ulx renamegroup"
+		"ulx reservedslots"
+		"ulx resetcolor"
+		"ulx resetmap"
+		"ulx resetmaterial"
+		"ulx restrict"
+		"ulx return"
+		"ulx rslots"
+		"ulx rslotsmode"
+		"ulx rslotsvisible"
+		"ulx scale"
+		"ulx seeanonymousechoes"
+		"ulx seeasay"
+		"ulx seesasay"
+		"ulx send"
+		"ulx setgroupcantarget"
+		"ulx setlimit"
+		"ulx showmotd"
+		"ulx slap"
+		"ulx slay"
+		"ulx spawnecho"
+		"ulx spectate"
+		"ulx sslay"
+		"ulx stopvote"
+		"ulx strip"
+		"ulx teleport"
+		"ulx thetime"
+		"ulx thirdperson"
+		"ulx tsay"
+		"ulx unban"
+		"ulx unblind"
+		"ulx uncloak"
+		"ulx unfreeze"
+		"ulx ungag"
+		"ulx ungimp"
+		"ulx ungod"
+		"ulx unignite"
+		"ulx unigniteall"
+		"ulx unjail"
+		"ulx unmute"
+		"ulx unragdoll"
+		"ulx unrestrict"
+		"ulx urs_echo_commands"
+		"ulx urs_echo_spawns"
+		"ulx urs_overwrite_sbox"
+		"ulx urs_weaponpickups"
+		"ulx userallow"
+		"ulx userallowid"
+		"ulx userdeny"
+		"ulx userdenyid"
+		"ulx usermanagementhelp"
+		"ulx version"
+		"ulx veto"
+		"ulx vote"
+		"ulx voteban"
+		"ulx votebanminvotes"
+		"ulx votebansuccessratio"
+		"ulx voteecho"
+		"ulx votegagminvotes"
+		"ulx votegagsuccessratio"
+		"ulx votekick"
+		"ulx votekicksuccessratio"
+		"ulx votemap"
+		"ulx votemap2"
+		"ulx votemap2minvotes"
+		"ulx votemap2successratio"
+		"ulx votemapenabled"
+		"ulx votemapmapmode"
+		"ulx votemapmintime"
+		"ulx votemapminvotes"
+		"ulx votemapsuccessratio"
+		"ulx votemapvetotime"
+		"ulx votemapwaittime"
+		"ulx votemuteminvotes"
+		"ulx votemutesuccessratio"
+		"ulx welcomemessage"
+		"ulx whip"
+		"ulx who"
+		"ulx workshop"
+		"xgui_gmsettings"
+		"xgui_managebans"
+		"xgui_managegroups"
+		"xgui_svsettings"
+		"xgui_urs"
+	}
+	"inherit_from"	"superadmin"
+}
+"Fleet Lieutenant"	
+{
+	"allow"	
+	{
+	}
+	"inherit_from"	"user"
+}
+"STSGT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"Grand Admiral"	
+{
+	"allow"	
+	{
+	}
+	"inherit_from"	"user"
+}
+"MEDREGCOM"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"SKCPT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"bobba"	
+{
+	"allow"	
+	{
+	}
+	"inherit_from"	"user"
+}
+"501SGT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"MEDMJR"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"SITHAPP"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"RGLT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"superadmin"	
+{
+	"allow"	
+	{
+		"atsaccess"
+		"atsaccess.edit"
+		"awarn_delete"
+		"awarn_options"
+		"darkrp_changedoorsettings"
+		"darkrp_setlicense"
+		"darkrp_setmoney"
+		"fpp_settings"
+		"permaprops_menu_cfg"
+		"ulogs.delete"
+		"ulogs.seeip"
+		"ulx addgroup"
+		"ulx adduser"
+		"ulx adduserid"
+		"ulx administrate"
+		"ulx banid"
+		"ulx banip"
+		"ulx cexec"
+		"ulx convar"
+		"ulx crash"
+		"ulx ent"
+		"ulx exec"
+		"ulx fakeban"
+		"ulx getcommandtable"
+		"ulx gethooktable"
+		"ulx gravity"
+		"ulx groupallow"
+		"ulx groupdeny"
+		"ulx hiddenecho"
+		"ulx hide"
+		"ulx hook"
+		"ulx ip"
+		"ulx loadoutadd"
+		"ulx loadoutremove"
+		"ulx logchat"
+		"ulx logdir"
+		"ulx logecho"
+		"ulx logechocolorconsole"
+		"ulx logechocolordefault"
+		"ulx logechocoloreveryone"
+		"ulx logechocolormisc"
+		"ulx logechocolorplayer"
+		"ulx logechocolorplayerasgroup"
+		"ulx logechocolors"
+		"ulx logechocolorself"
+		"ulx logevents"
+		"ulx logfile"
+		"ulx logjoinleaveecho"
+		"ulx logspawns"
+		"ulx logspawnsecho"
+		"ulx luarun"
+		"ulx maprestart"
+		"ulx maul"
+		"ulx printhooks"
+		"ulx rcon"
+		"ulx removegroup"
+		"ulx removehook"
+		"ulx removehookcl"
+		"ulx removeuser"
+		"ulx removeuserid"
+		"ulx renamegroup"
+		"ulx resetmap"
+		"ulx resettimescale"
+		"ulx restrict"
+		"ulx runscript"
+		"ulx runscriptcl"
+		"ulx sasay"
+		"ulx sconvar"
+		"ulx scrash"
+		"ulx seesasay"
+		"ulx sendlua"
+		"ulx setgroupcantarget"
+		"ulx setlimit"
+		"ulx speed"
+		"ulx srunscript"
+		"ulx srunscriptcl"
+		"ulx ssendlua"
+		"ulx stopsounds"
+		"ulx stopvote"
+		"ulx surl"
+		"ulx timescale"
+		"ulx unadministrate"
+		"ulx unbanip"
+		"ulx unrestrict"
+		"ulx url"
+		"ulx userallow"
+		"ulx userallowid"
+		"ulx userdeny"
+		"ulx userdenyid"
+		"ulx voteecho"
+		"xgui_gmsettings"
+		"xgui_managebans"
+		"xgui_managegroups"
+		"xgui_svsettings"
+		"xgui_urs"
+	}
+	"inherit_from"	"admin"
+}
+"STPFC"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"yoda"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"TPSSGT"	
+{
+	"allow"	
+	{
+	}
+	"inherit_from"	"user"
+}
+"SDSGT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"DARTH"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"SDTSGT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"501MJR"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"JUDGE"	
+{
+	"allow"	
+	{
+		"atsaccess"
+		"awarn_delete"
+		"awarn_remove"
+		"awarn_view"
+		"awarn_warn"
+		"ulx adduser"
+		"ulx adduserid"
+		"ulx armor"
+		"ulx blind"
+		"ulx bring"
+		"ulx cloak"
+		"ulx freeze"
+		"ulx god"
+		"ulx goto"
+		"ulx hp"
+		"ulx ignite"
+		"ulx jail"
+		"ulx jailtp"
+		"ulx kick"
+		"ulx maul"
+		"ulx motd"
+		"ulx noclip"
+		"ulx playsound"
+		"ulx ragdoll"
+		"ulx removeuser"
+		"ulx removeuserid"
+		"ulx return"
+		"ulx send"
+		"ulx slap"
+		"ulx slay"
+		"ulx spectate"
+		"ulx sslay"
+		"ulx strip"
+		"ulx teleport"
+		"ulx unblind"
+		"ulx uncloak"
+		"ulx unfreeze"
+		"ulx ungod"
+		"ulx unignite"
+		"ulx unigniteall"
+		"ulx unjail"
+		"ulx unragdoll"
+		"ulx vote"
+		"ulx whip"
+	}
+	"inherit_from"	"user"
+}
+"SKMJR"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"MEDBATTCOM"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"RGSGT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"TPCPT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"DarthVader"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"TPCOL"	
+{
+	"allow"	
+	{
+	}
+	"inherit_from"	"user"
+}
+"SDTPFC"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"501CPT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"NTCPL"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"STPVT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"RGCPT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"MEDPVT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"SDTSSGT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"Fleet Admiral"	
+{
+	"allow"	
+	{
+	}
+	"inherit_from"	"user"
+}
+"SKSGT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"SDTBATTCOM"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"EmperorPalpatine"	
+{
+	"allow"	
+	{
+	}
+	"inherit_from"	"user"
+}
+"SDTLT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"SDSSGT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"SKPFC"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"STLT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"TPPFC"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"user"	
+{
+	"allow"	
+	{
+		"ulx asay"
+		"ulx donate"
+		"ulx help"
+		"ulx motd"
+		"ulx profile"
+		"ulx psay"
+		"ulx soundlist"
+		"ulx thetime"
+		"ulx thirdperson"
+		"ulx urs_echo_commands"
+		"ulx urs_echo_spawns"
+		"ulx urs_overwrite_sbox"
+		"ulx urs_weaponpickups"
+		"ulx usermanagementhelp"
+		"ulx version"
+		"ulx votegag"
+		"ulx votemap"
+		"ulx votemute"
+		"ulx who"
+		"ulx workshop"
+	}
+}
+"SDCPT"	
+{
+	"allow"	
+	{
+	}
+	"inherit_from"	"user"
+}
+"MEDCOL"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"STBATTCOM"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"SDTPVT"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"Fleet Ensign"	
+{
+	"allow"	
+	{
+	}
+	"inherit_from"	"user"
+}
+"RGBATTCOM"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"admin"	
+{
+	"allow"	
+	{
+		"atsaccess"
+		"atsaccess.edit"
+		"awarn_remove"
+		"awarn_view"
+		"awarn_warn"
+		"darkrp_admincommands"
+		"darkrp_getadminweapons"
+		"darkrp_seeevents"
+		"darkrp_setdoorowner"
+		"fpp_cleanup"
+		"fspectate"
+		"fspectateteleport"
+		"permaprops_phys"
+		"permaprops_property"
+		"permaprops_save"
+		"permaprops_tool"
+		"permaprops_update"
+		"ulogs.see"
+		"ulx adduser"
+		"ulx adduserid"
+		"ulx armor"
+		"ulx ban"
+		"ulx bancheck"
+		"ulx blind"
+		"ulx bring"
+		"ulx chattime"
+		"ulx cleardecals"
+		"ulx cloak"
+		"ulx color"
+		"ulx csay"
+		"ulx csaycolor"
+		"ulx deaths"
+		"ulx enter"
+		"ulx exit"
+		"ulx explode"
+		"ulx fbring"
+		"ulx forcerespawn"
+		"ulx frags_deaths"
+		"ulx freeze"
+		"ulx friends"
+		"ulx fteleport"
+		"ulx gag"
+		"ulx gimp"
+		"ulx give"
+		"ulx giveammo"
+		"ulx god"
+		"ulx goto"
+		"ulx gravity"
+		"ulx hp"
+		"ulx ignite"
+		"ulx jail"
+		"ulx jailtp"
+		"ulx jumppower"
+		"ulx kick"
+		"ulx kickafternamechanges"
+		"ulx kickafternamechangescooldown"
+		"ulx kickafternamechangeswarning"
+		"ulx kickbots"
+		"ulx launch"
+		"ulx map"
+		"ulx maprestart"
+		"ulx material"
+		"ulx mechatenabled"
+		"ulx model"
+		"ulx motd"
+		"ulx motdfile"
+		"ulx motdurl"
+		"ulx multiban"
+		"ulx mute"
+		"ulx noclip"
+		"ulx notepad"
+		"ulx notifications"
+		"ulx pgag"
+		"ulx physgunplayer"
+		"ulx playsound"
+		"ulx printpgags"
+		"ulx ragdoll"
+		"ulx removeragdolls"
+		"ulx removetrail"
+		"ulx removeuser"
+		"ulx removeuserid"
+		"ulx reservedslots"
+		"ulx resetcolor"
+		"ulx resetmap"
+		"ulx resetmaterial"
+		"ulx return"
+		"ulx rslots"
+		"ulx rslotsmode"
+		"ulx rslotsvisible"
+		"ulx sban"
+		"ulx scale"
+		"ulx seeanonymousechoes"
+		"ulx send"
+		"ulx serverinfo"
+		"ulx setammo"
+		"ulx setwarp"
+		"ulx sgive"
+		"ulx shock"
+		"ulx showmotd"
+		"ulx skick"
+		"ulx slap"
+		"ulx slay"
+		"ulx spawnecho"
+		"ulx spectate"
+		"ulx sslay"
+		"ulx stopsounds"
+		"ulx strip"
+		"ulx teleport"
+		"ulx timedcmd"
+		"ulx trail"
+		"ulx tsay"
+		"ulx tsaycolor"
+		"ulx unban"
+		"ulx unblind"
+		"ulx uncloak"
+		"ulx unfreeze"
+		"ulx ungag"
+		"ulx ungimp"
+		"ulx ungod"
+		"ulx unignite"
+		"ulx unigniteall"
+		"ulx unjail"
+		"ulx unmute"
+		"ulx unpgag"
+		"ulx unragdoll"
+		"ulx unvotegag"
+		"ulx unvotemute"
+		"ulx unwatch"
+		"ulx userallow"
+		"ulx userallowid"
+		"ulx userdeny"
+		"ulx userdenyid"
+		"ulx vote"
+		"ulx votebanminvotes"
+		"ulx votebansuccessratio"
+		"ulx votegagminvotes"
+		"ulx votegagsuccessratio"
+		"ulx votekick"
+		"ulx votekickminvotes"
+		"ulx votekicksuccessratio"
+		"ulx votemap2"
+		"ulx votemap2minvotes"
+		"ulx votemap2successratio"
+		"ulx votemapenabled"
+		"ulx votemapmapmode"
+		"ulx votemapmintime"
+		"ulx votemapminvotes"
+		"ulx votemapsuccessratio"
+		"ulx votemapvetotime"
+		"ulx votemapwaittime"
+		"ulx votemuteminvotes"
+		"ulx votemutesuccessratio"
+		"ulx warp"
+		"ulx watch"
+		"ulx watchlist"
+		"ulx welcomemessage"
+		"ulx whip"
+		"ulx who"
+	}
+	"can_target"	"!%superadmin"
+	"inherit_from"	"operator"
+}
+"NTPFC"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"SDCOL"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"jedi"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}
+"NTBATTCOM"	
+{
+	"allow"	
+	{
+		"atsaccess"
+	}
+	"inherit_from"	"user"
+}

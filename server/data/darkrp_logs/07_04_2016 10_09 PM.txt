@@ -1,0 +1,129 @@
+Mon Jul  4 22:09:43 2016	IDONTKNOW (STEAM_0:1:165468783) has joined the game
+Mon Jul  4 22:09:43 2016	Bobba Ren (STEAM_0:1:165468783) spawned
+Mon Jul  4 22:10:45 2016	Ethan (STEAM_0:1:72945201) has joined the game
+Mon Jul  4 22:10:45 2016	Darth Ethan (STEAM_0:1:72945201) spawned
+Mon Jul  4 22:10:50 2016	AngryChicken82 (STEAM_0:1:92889617) has joined the game
+Mon Jul  4 22:10:50 2016	Darth Vaper (STEAM_0:1:92889617) spawned
+Mon Jul  4 22:11:00 2016	Bobba Ren (STEAM_0:1:165468783) spawned
+Mon Jul  4 22:11:08 2016	Sloth (STEAM_0:1:88690147) has joined the game
+Mon Jul  4 22:11:08 2016	luke skywanker (STEAM_0:1:88690147) spawned
+Mon Jul  4 22:11:36 2016	Darth Ethan (STEAM_0:1:72945201) spawned
+Mon Jul  4 22:11:46 2016	Benji (STEAM_0:1:81357128) has joined the game
+Mon Jul  4 22:11:46 2016	rebel commander squid (STEAM_0:1:81357128) spawned
+Mon Jul  4 22:11:49 2016	Darth Vaper (STEAM_0:1:92889617) spawned
+Mon Jul  4 22:12:07 2016	[KyloRP] [CM] Kenny (STEAM_0:1:89597975) has joined the game
+Mon Jul  4 22:12:07 2016	Fleet Ensign Kenny (STEAM_0:1:89597975) spawned
+Mon Jul  4 22:12:11 2016	Darth Vaper (STEAM_0:1:92889617): // What have i missed? xD
+Mon Jul  4 22:12:21 2016	Darth Vaper (STEAM_0:1:92889617): // Fleet ensign Kenny!/
+Mon Jul  4 22:12:22 2016	Darth Ethan (STEAM_0:1:72945201): // nothing much
+Mon Jul  4 22:12:23 2016	luke skywanker (STEAM_0:1:88690147) spawned
+Mon Jul  4 22:12:26 2016	Darth Vaper (STEAM_0:1:92889617): // I missed taht xD
+Mon Jul  4 22:12:44 2016	luke skywanker (STEAM_0:1:88690147): /NAME SKT REG COMM Sloth
+Mon Jul  4 22:12:45 2016	SKT REG COMM Sloth (STEAM_0:1:88690147): /Me Salute
+Mon Jul  4 22:13:08 2016	Darth Vaper (STEAM_0:1:92889617): Hey
+Mon Jul  4 22:13:14 2016	Darth Vaper was killed by rebel commander squid with a weapon_lightsaber
+Mon Jul  4 22:13:18 2016	Darth Ethan (STEAM_0:1:72945201): rise..
+Mon Jul  4 22:13:19 2016	Darth Vaper (STEAM_0:1:92889617): FUN!
+Mon Jul  4 22:13:23 2016	Fleet Ensign Kenny (STEAM_0:1:89597975) spawned
+Mon Jul  4 22:13:25 2016	Darth Vaper (STEAM_0:1:92889617) spawned
+Mon Jul  4 22:13:33 2016	rebel commander squid (STEAM_0:1:81357128): /ooc GTG cya
+Mon Jul  4 22:13:34 2016	Darth Ethan (STEAM_0:1:72945201): dudre
+Mon Jul  4 22:13:39 2016	Darth Ethan (STEAM_0:1:72945201): Ren is now Boba
+Mon Jul  4 22:13:40 2016	Darth Vaper (STEAM_0:1:92889617): // Cya
+Mon Jul  4 22:13:40 2016	rebel commander squid was killed by Bobba Ren with a weapon_752bf3_ee3
+Mon Jul  4 22:13:44 2016	Fleet Ensign Kenny (STEAM_0:1:89597975): /ooc are we doing a debreif or what
+Mon Jul  4 22:13:45 2016	rebel commander squid (STEAM_0:1:81357128) spawned
+Mon Jul  4 22:13:46 2016	Darth Ethan (STEAM_0:1:72945201): so this job is again on the store
+Mon Jul  4 22:13:48 2016	rebel commander squid (STEAM_0:1:81357128) disconnected
+Mon Jul  4 22:13:49 2016	Darth Vaper (STEAM_0:1:92889617): Yeah i saw on the forums
+Mon Jul  4 22:13:51 2016	Darth Ethan (STEAM_0:1:72945201): thats why im using it
+Mon Jul  4 22:13:56 2016	Darth Vaper (STEAM_0:1:92889617): Oh cool
+Mon Jul  4 22:14:02 2016	Darth Vaper (STEAM_0:1:92889617): At ease Trooper(s)
+Mon Jul  4 22:14:05 2016	Darth Vaper (STEAM_0:1:92889617): Oops
+Mon Jul  4 22:14:14 2016	Darth Vaper (STEAM_0:1:92889617): /name SHDT Reg Comm Ancient
+Mon Jul  4 22:14:26 2016	Bobba Ren (STEAM_0:1:165468783): !goto sloth
+Mon Jul  4 22:14:28 2016	SKT REG COMM Sloth was killed by Darth Ethan with a weapon_lightsaber
+Mon Jul  4 22:14:32 2016	SKT REG COMM Sloth (STEAM_0:1:88690147) spawned
+Mon Jul  4 22:14:32 2016	Bobba Ren (STEAM_0:1:165468783): !goto sl
+Mon Jul  4 22:14:33 2016	Darth Ethan (STEAM_0:1:72945201): !tp sloth
+Mon Jul  4 22:14:35 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): !model ^ models/player/b4p/b4p_jawa.mdl
+Mon Jul  4 22:14:39 2016	Darth Ethan (STEAM_0:1:72945201): nice
+Mon Jul  4 22:14:46 2016	SKT REG COMM Sloth was killed by Himself with a suicide trick
+Mon Jul  4 22:14:47 2016	SKT REG COMM Sloth (STEAM_0:1:88690147) spawned
+Mon Jul  4 22:14:54 2016	Fleet Ensign Kenny (STEAM_0:1:89597975): /advert *Workstation* Turning on Workstation!
+Mon Jul  4 22:14:55 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): !scale 0.5
+Mon Jul  4 22:14:59 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): !scale ^ models/player/b4p/b4p_jawa.mdl
+Mon Jul  4 22:15:05 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): !scale ^ 0.5
+Mon Jul  4 22:15:09 2016	Fleet Ensign Kenny (STEAM_0:1:89597975): /advert *Workstation Check the DataBase!
+Mon Jul  4 22:15:12 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): !goto eth
+Mon Jul  4 22:15:16 2016	Fleet Ensign Kenny (STEAM_0:1:89597975): /ooc checking
+Mon Jul  4 22:15:35 2016	Bobba Ren (STEAM_0:1:165468783): !goto et
+Mon Jul  4 22:15:40 2016	Darth Ethan (STEAM_0:1:72945201): !scale ^ 0.4
+Mon Jul  4 22:15:43 2016	Bobba Ren (STEAM_0:1:165468783): !goto ethan
+Mon Jul  4 22:15:53 2016	Darth Ethan (STEAM_0:1:72945201): !resetmap
+Mon Jul  4 22:15:54 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): Those voice sweps are TOO fun
+Mon Jul  4 22:15:56 2016	Fleet Ensign Kenny (STEAM_0:1:89597975): /ooc are we going to do a Debrief Ethan?
+Mon Jul  4 22:15:58 2016	Bobba Ren (STEAM_0:1:165468783): !return
+Mon Jul  4 22:16:02 2016	Fleet Ensign Kenny was killed by Himself with a suicide trick
+Mon Jul  4 22:16:03 2016	Fleet Ensign Kenny (STEAM_0:1:89597975) spawned
+Mon Jul  4 22:16:05 2016	Darth Ethan (STEAM_0:1:72945201): !scale ^ 1
+Mon Jul  4 22:16:14 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): /y Can you hear those voices
+Mon Jul  4 22:16:16 2016	Darth Ethan (STEAM_0:1:72945201): // guys i gtg
+Mon Jul  4 22:16:19 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): Wait
+Mon Jul  4 22:16:22 2016	Darth Ethan (STEAM_0:1:72945201): // I will be abck in one hour
+Mon Jul  4 22:16:23 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): Cna you here this
+Mon Jul  4 22:16:24 2016	Darth Ethan (STEAM_0:1:72945201): rise..
+Mon Jul  4 22:16:29 2016	Darth Ethan (STEAM_0:1:72945201): yes
+Mon Jul  4 22:16:31 2016	Darth Ethan (STEAM_0:1:72945201): I can
+Mon Jul  4 22:16:32 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): YAY
+Mon Jul  4 22:16:35 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): So cute
+Mon Jul  4 22:16:44 2016	Darth Ethan (STEAM_0:1:72945201): yes?
+Mon Jul  4 22:16:44 2016	Bobba Ren (STEAM_0:1:165468783): !goto ethan
+Mon Jul  4 22:16:48 2016	Darth Ethan (STEAM_0:1:72945201): its OOC btw
+Mon Jul  4 22:17:09 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): brb downloading the collcetion so i could see ren
+Mon Jul  4 22:17:11 2016	Bobba Ren (STEAM_0:1:165468783): !return
+Mon Jul  4 22:18:15 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // New items have been added to the collection im downloading them and ill be right back :D
+Mon Jul  4 22:18:20 2016	Darth Ethan (STEAM_0:1:72945201): // kk
+Mon Jul  4 22:18:26 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) disconnected
+Mon Jul  4 22:18:31 2016	Darth Ethan (STEAM_0:1:72945201): esstarwarsrp.enjin.com
+Mon Jul  4 22:18:44 2016	Darth Ethan was killed by Himself with a suicide trick
+Mon Jul  4 22:18:50 2016	Darth Ethan (STEAM_0:1:72945201): // cya later gusy
+Mon Jul  4 22:18:55 2016	Darth Ethan (STEAM_0:1:72945201) disconnected
+Mon Jul  4 22:26:55 2016	yarinking .i. (STEAM_0:0:172979541) has joined the game
+Mon Jul  4 22:26:55 2016	yarinking .i. (STEAM_0:0:172979541) spawned
+Mon Jul  4 22:27:01 2016	SKT REG COMM Sloth (STEAM_0:1:88690147) disconnected
+Mon Jul  4 22:27:14 2016	Bobba Ren (STEAM_0:1:165468783): english
+Mon Jul  4 22:27:24 2016	Bobba Ren (STEAM_0:1:165468783): yo
+Mon Jul  4 22:27:30 2016	yarinking .i. (STEAM_0:0:172979541): y
+Mon Jul  4 22:27:39 2016	yarinking .i. (STEAM_0:0:172979541): yes
+Mon Jul  4 22:27:42 2016	Bobba Ren (STEAM_0:1:165468783): goos
+Mon Jul  4 22:28:11 2016	Bobba Ren (STEAM_0:1:165468783): !return
+Mon Jul  4 22:28:16 2016	yarinking .i. (STEAM_0:0:172979541): /me
+Mon Jul  4 22:28:21 2016	yarinking .i. (STEAM_0:0:172979541): what do me
+Mon Jul  4 22:28:22 2016	yarinking .i. (STEAM_0:0:172979541): ?
+Mon Jul  4 22:28:35 2016	yarinking .i. (STEAM_0:0:172979541): y
+Mon Jul  4 22:28:56 2016	yarinking .i. (STEAM_0:0:172979541): u here?
+Mon Jul  4 22:29:03 2016	yarinking .i. (STEAM_0:0:172979541): me
+Mon Jul  4 22:29:06 2016	yarinking .i. (STEAM_0:0:172979541): what to do
+Mon Jul  4 22:29:18 2016	yarinking .i. (STEAM_0:0:172979541): where to go
+Mon Jul  4 22:29:54 2016	Bobba Ren (STEAM_0:1:165468783): ./name
+Mon Jul  4 22:29:59 2016	yarinking .i. (STEAM_0:0:172979541): /name st pvt 1234 bob
+Mon Jul  4 22:30:02 2016	st pvt 1234 bob (STEAM_0:0:172979541): i do it
+Mon Jul  4 22:30:17 2016	st pvt 1234 bob (STEAM_0:0:172979541): /name st pvt 1234 me me me 
+Mon Jul  4 22:30:29 2016	st pvt 1234 me me me (STEAM_0:0:172979541): y
+Mon Jul  4 22:30:45 2016	st pvt 1234 me me me (STEAM_0:0:172979541): i need space?
+Mon Jul  4 22:30:51 2016	Bobba Ren (STEAM_0:1:165468783): ST PVT 1234 MEMEME
+Mon Jul  4 22:31:08 2016	st pvt 1234 me me me (STEAM_0:0:172979541) disconnected
+Mon Jul  4 22:31:40 2016	Fleet Ensign Kenny (STEAM_0:1:89597975) disconnected
+Mon Jul  4 22:32:43 2016	Bobba Ren (STEAM_0:1:165468783) disconnected
+Mon Jul  4 22:47:39 2016	AngryChicken82 (STEAM_0:1:92889617) has joined the game
+Mon Jul  4 22:47:39 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) spawned
+Mon Jul  4 22:48:36 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) spawned
+Mon Jul  4 22:53:51 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) disconnected
+Tue Jul  5 14:05:15 2016	AngryChicken82 (STEAM_0:1:92889617) has joined the game
+Tue Jul  5 14:05:15 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) spawned
+Tue Jul  5 14:06:22 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) disconnected
+Tue Jul  5 15:07:35 2016	Marshall (STEAM_0:1:112426618) has joined the game
+Tue Jul  5 15:07:35 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) spawned
+Tue Jul  5 15:08:57 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) spawned
+Tue Jul  5 15:09:30 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) disconnected

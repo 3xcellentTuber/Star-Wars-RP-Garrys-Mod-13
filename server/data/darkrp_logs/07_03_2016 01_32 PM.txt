@@ -1,0 +1,15 @@
+Sun Jul  3 13:32:56 2016	GregSkl (STEAM_0:1:119047868) has joined the game
+Sun Jul  3 13:32:56 2016	ADMIN​ (STEAM_0:1:119047868) spawned
+Sun Jul  3 13:32:58 2016	Ethan (STEAM_0:1:72945201) has joined the game
+Sun Jul  3 13:32:58 2016	Emperor Ethan (STEAM_0:1:72945201) spawned
+Sun Jul  3 13:33:33 2016	Emperor Ethan (STEAM_0:1:72945201) spawned
+Sun Jul  3 13:33:35 2016	ADMIN​ (STEAM_0:1:119047868) spawned
+Sun Jul  3 13:34:30 2016	Emperor Ethan (STEAM_0:1:72945201) disconnected
+Sun Jul  3 13:34:35 2016	ADMIN​ (STEAM_0:1:119047868) disconnected
+Sun Jul  3 14:07:24 2016	AngryChicken82 (STEAM_0:1:92889617) has joined the game
+Sun Jul  3 14:07:24 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) spawned
+Sun Jul  3 14:09:05 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) disconnected
+Sun Jul  3 14:09:18 2016	AngryChicken82 (STEAM_0:1:92889617) has joined the game
+Sun Jul  3 14:09:18 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) spawned
+Sun Jul  3 14:09:38 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // Ok
+Sun Jul  3 14:09:52 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // Sure

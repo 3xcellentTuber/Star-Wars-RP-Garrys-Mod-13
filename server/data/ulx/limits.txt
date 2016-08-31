@@ -1,0 +1,1 @@
+{"vehicle":[],"prop":{"superadmin":5,"admin":10},"npc":[],"sent":[],"effect":[],"ragdoll":[]}

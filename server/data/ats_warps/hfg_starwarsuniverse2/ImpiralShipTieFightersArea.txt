@@ -1,0 +1,1 @@
+steamid=STEAM_0:1:72945201;name=ImpiralShipTieFightersArea;vec=1850.527466 8217.442383 13177.534180;ang=0.000 176.955 0.000

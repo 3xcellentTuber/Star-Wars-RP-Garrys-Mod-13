@@ -1,0 +1,2436 @@
+<Logging continued from "data/ulx_logs/07-03-16.txt">
+[00:00:02] SHDT Reg Comm Ancient: !return
+[00:00:02] SHDT Reg Comm Ancient returned Themself to their original position
+[00:00:05] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:00:05] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:00:06] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:00:09] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:00:09] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:00:10] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:00:11] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool remover on models/seagull.mdl
+[00:00:12] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:00:13] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:00:13] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:00:24] MED REG COMM Ethan suicided!
+[00:00:32] SHDT Reg Comm Ancient: // Oops
+[00:00:52] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:00:58] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:00:59] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:01:01] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:01:16] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool npctool_controller on maps/rp_stardestroyer_v1.bsp
+[00:01:17] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool npctool_controller on maps/rp_stardestroyer_v1.bsp
+[00:01:17] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool npctool_controller on maps/rp_stardestroyer_v1.bsp
+[00:01:17] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool npctool_controller on maps/rp_stardestroyer_v1.bsp
+[00:01:18] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool npctool_controller on maps/rp_stardestroyer_v1.bsp
+[00:02:54] ST PVT 1456 Phenixer killed MED REG COMM Ethan using weapon_lightsaber
+[00:03:33] MED REG COMM Ethan suicided!
+[00:03:40] MED REG COMM Ethan suicided!
+[00:03:48] MED REG COMM Ethan suicided!
+[00:03:57] MED REG COMM Ethan: // OOOH YEAH
+[00:04:04] MED REG COMM Ethan: // COME EHRE AND WATCH THIS
+[00:04:09] MED REG COMM Ethan: !bring anc
+[00:04:15] MED REG COMM Ethan: // Nadav come ehre
+[00:04:19] MED REG COMM Ethan suicided!
+[00:04:22] SHDT Reg Comm Ancient: // Ok in asec
+[00:04:28] MED REG COMM Ethan suicided!
+[00:04:35] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:04:36] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:04:36] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:04:38] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:04:38] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:04:50] SHDT Reg Comm Ancient: !goto ethan
+[00:05:00] SHDT Reg Comm Ancient: !goto phe
+[00:05:00] SHDT Reg Comm Ancient teleported to ST PVT 1456 Phenixer
+[00:05:11] SHDT Reg Comm Ancient: Wow
+[00:05:47] SHDT Reg Comm Ancient: // Im in mid trying to remove those dead birds
+[00:05:50] SHDT Reg Comm Ancient: // xD
+[00:06:00] SHDT Reg Comm Ancient: !return
+[00:06:00] SHDT Reg Comm Ancient returned Themself to their original position
+[00:06:21] SHDT Reg Comm Ancient: !cleardecals
+[00:06:21] SHDT Reg Comm Ancient cleared decals
+[00:06:29] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:06:29] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:06:30] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:06:30] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:06:30] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:06:50] MED REG COMM Ethan: !cleardecals
+[00:06:50] MED REG COMM Ethan cleared decals
+[00:07:07] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:07:08] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:07:29] ST PVT 1456 Phenixer suicided!
+[00:07:38] MED REG COMM Ethan suicided!
+[00:07:47] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep gmod_tool
+[00:07:48] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_physgun
+[00:07:48] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep gmod_tool
+[00:07:51] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:07:52] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:07:52] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:07:52] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:07:52] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:07:53] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:07:53] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:07:53] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:07:53] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:07:54] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:07:54] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:07:54] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:07:54] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:07:55] SHDT Reg Comm Ancient: // Ethan i think that to remove the Birds Corpses (xD) we need to clear ragdolls do we have any ragdolls that require in the m
+[00:07:55] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:07:55] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[00:07:58] SHDT Reg Comm Ancient: // map*
+[00:08:07] Dropped "ST PVT 1456 Phenixer" from server<STEAM_0:1:7541443>
+[00:08:10] MED REG COMM Ethan: !mapreset
+[00:08:12] SHDT Reg Comm Ancient: // ?
+[00:08:13] MED REG COMM Ethan: !resetmap
+[00:08:13] MED REG COMM Ethan reset the map to its original state
+[00:08:23] SHDT Reg Comm Ancient: // Great
+[00:08:54] SHDT Reg Comm Ancient: // OH NO! 2 לגיס IS GONE
+[00:09:05] SHDT Reg Comm Ancient: wow sexy
+[00:09:17] SHDT Reg Comm Ancient: We need it bacl cause we SHADOW
+[00:09:25] SHDT Reg Comm Ancient<STEAM_0:1:92889617> spawned/gave himself swep weapon_lightsaber
+[00:09:36] MED REG COMM Ethan: !god
+[00:09:36] MED REG COMM Ethan granted god mode upon Themself
+[00:09:41] MED REG COMM Ethan killed SHDT Reg Comm Ancient using weapon_lightsaber
+[00:09:41] SHDT Reg Comm Ancient: !god
+[00:09:41] SHDT Reg Comm Ancient granted god mode upon Themself
+[00:09:43] MED REG COMM Ethan: well
+[00:09:46] SHDT Reg Comm Ancient: !god
+[00:09:46] SHDT Reg Comm Ancient granted god mode upon Themself
+[00:09:48] MED REG COMM Ethan: !god anc
+[00:09:48] MED REG COMM Ethan granted god mode upon SHDT Reg Comm Ancient
+[00:09:50] SHDT Reg Comm Ancient<STEAM_0:1:92889617> spawned/gave himself swep weapon_lightsaber
+[00:09:57] MED REG COMM Ethan: !tp anc
+[00:09:57] MED REG COMM Ethan teleported SHDT Reg Comm Ancient
+[00:10:12] SHDT Reg Comm Ancient: המ תא
+[00:10:23] SHDT Reg Comm Ancient: OH SHIT
+[00:10:31] SHDT Reg Comm Ancient: THE WORLDS ABOYUT TO DIE
+[00:10:35] MED REG COMM Ethan suicided!
+[00:10:38] MED REG COMM Ethan: !got oanc
+[00:10:41] MED REG COMM Ethan: !goto anc
+[00:10:41] MED REG COMM Ethan teleported to SHDT Reg Comm Ancient
+[00:10:48] MED REG COMM Ethan: !cleardecals
+[00:10:48] MED REG COMM Ethan cleared decals
+[00:11:08] SHDT Reg Comm Ancient: yay xD
+[00:12:10] SHDT Reg Comm Ancient: Ethan: Mom I finished turning the server to LINUX!!! yay Mom: Yeah sure.... *Calls asylum*
+[00:12:17] MED REG COMM Ethan suicided!
+[00:12:20] MED REG COMM Ethan: welp
+[00:12:23] MED REG COMM Ethan: !got oanc
+[00:12:27] MED REG COMM Ethan: !goto anc
+[00:12:27] MED REG COMM Ethan teleported to SHDT Reg Comm Ancient
+[00:12:37] SHDT Reg Comm Ancient: Yeha its great
+[00:12:47] SHDT Reg Comm Ancient: and that we could create a cult
+[00:13:07] SHDT Reg Comm Ancient: and you know what they say the more cult members, the best! :D
+[00:13:13] SHDT Reg Comm Ancient: HAIL SATAN!
+[00:13:40] SHDT Reg Comm Ancient: So because Isis tryouts next week im going to practice a bit
+[00:13:43] MED REG COMM Ethan: oh
+[00:13:47] SHDT Reg Comm Ancient: !explode ^
+[00:13:47] SHDT Reg Comm Ancient suicided!
+[00:13:47] SHDT Reg Comm Ancient exploded Themself
+[00:13:48] MED REG COMM Ethan: ima help u
+[00:13:55] MED REG COMM Ethan: wait
+[00:13:58] SHDT Reg Comm Ancient: // Sure is fun
+[00:13:58] MED REG COMM Ethan<STEAM_0:1:72945201> spawned NPC npc_monk
+[00:14:04] SHDT Reg Comm Ancient: // xD
+[00:14:06] MED REG COMM Ethan: !explode npc_monk
+[00:14:27] MED REG COMM Ethan: shhhhhhhhhhhhhhhhh
+[00:14:31] MED REG COMM Ethan: nothing happend
+[00:14:34] SHDT Reg Comm Ancient: WIW
+[00:14:37] MED REG COMM Ethan<STEAM_0:1:72945201> spawned NPC npc_pigeon
+[00:14:55] MED REG COMM Ethan: well this si pure savage
+[00:14:57] MED REG COMM Ethan: is*
+[00:14:59] MED REG COMM Ethan<STEAM_0:1:72945201> spawned NPC npc_seagull
+[00:15:01] MED REG COMM Ethan<STEAM_0:1:72945201> spawned NPC npc_seagull
+[00:15:19] MED REG COMM Ethan: anyways
+[00:15:22] MED REG COMM Ethan: ima go now
+[00:15:28] MED REG COMM Ethan: cause I need to do a few things
+[00:15:30] SHDT Reg Comm Ancient: Ok
+[00:15:32] MED REG COMM Ethan: !explode ^
+[00:15:32] MED REG COMM Ethan suicided!
+[00:15:32] MED REG COMM Ethan exploded Themself
+[00:15:38] SHDT Reg Comm Ancient: // BA BAYYYUYYY
+[00:15:45] MED REG COMM Ethan: are u still going to be up on here?
+[00:15:47] SHDT Reg Comm Ancient: // Ima go aswell
+[00:15:48] MED REG COMM Ethan: or r u going off
+[00:15:50] MED REG COMM Ethan: nice
+[00:15:56] SHDT Reg Comm Ancient: // Bye Cya
+[00:15:57] MED REG COMM Ethan: im ago and watch some mcjuggernuggets
+[00:16:03] SHDT Reg Comm Ancient: // xD
+[00:16:04] MED REG COMM Ethan: if U K who he is
+[00:16:10] SHDT Reg Comm Ancient: // I know
+[00:16:19] MED REG COMM Ethan: #10/10 Psycho kid
+[00:16:22] SHDT Reg Comm Ancient: // Didn't he end his series or whatever?
+[00:16:26] MED REG COMM Ethan: ya
+[00:16:28] SHDT Reg Comm Ancient: // xD
+[00:16:34] MED REG COMM Ethan: it was a great series
+[00:16:37] MED REG COMM Ethan: i liked it
+[00:16:39] MED REG COMM Ethan: BUT
+[00:16:40] SHDT Reg Comm Ancient: // Heared That on Cancer Alert
+[00:16:41] MED REG COMM Ethan: HE SAID
+[00:16:46] MED REG COMM Ethan: THAT HE HAS
+[00:17:19] MED REG COMM Ethan: MORE THAN 2 TB OF BEHIND THE SCENES, DELETED SCENES AND MORE 
+[00:17:31] MED REG COMM Ethan: and that he will upload all of that in the following year
+[00:17:43] MED REG COMM Ethan: which si quality banter
+[00:17:46] MED REG COMM Ethan: is*
+[00:17:52] SHDT Reg Comm Ancient: // Cool i dont really watch him that much but he had an interesting series
+[00:17:56] MED REG COMM Ethan: ya
+[00:17:56] SHDT Reg Comm Ancient: // Banter Indeed xD
+[00:17:59] MED REG COMM Ethan: !mapreset
+[00:18:02] MED REG COMM Ethan: !resetmap
+[00:18:03] MED REG COMM Ethan reset the map to its original state
+[00:18:05] MED REG COMM Ethan: ok
+[00:18:09] MED REG COMM Ethan: ima go off now
+[00:18:11] SHDT Reg Comm Ancient: Bye!
+[00:18:12] MED REG COMM Ethan: cya
+[00:18:14] Dropped "MED REG COMM Ethan" from server<STEAM_0:1:72945201>
+[00:18:14] Dropped "SHDT Reg Comm Ancient" from server<STEAM_0:1:92889617>
+[01:59:16] Client "Emre 🆅🅰🅻🆅🅴" connected.
+[02:00:37] Client "Emre 🆅🅰🅻🆅🅴" spawned in server <STEAM_0:1:105697682> (took 81 seconds).
+[02:04:34] Emre 🆅🅰🅻🆅🅴 suicided!
+[02:07:13] Dropped "Emre 🆅🅰🅻🆅🅴" from server<STEAM_0:1:105697682>
+[08:54:25] Client "Marshall" connected.
+[08:55:22] Client "Marshall" spawned in server <STEAM_0:1:112426618> (took 57 seconds).
+[08:58:25] Dropped "ST PVT 9034 Marshall" from server<STEAM_0:1:112426618>
+[09:58:46] Client "L1K34PRO" connected.
+[10:02:25] Client "L1K34PRO" connected.
+[10:05:25] Client "L1K34PRO" spawned in server <STEAM_0:0:113721067> (took 180 seconds).
+[10:06:58] ST PVT 1234 L1K34PR0: hey
+[10:09:18] ST PVT 1234 L1K34PR0<STEAM_0:0:113721067> spawned/gave himself swep weapon_752_ihr
+[10:09:24] ST PVT 1234 L1K34PR0<STEAM_0:0:113721067> spawned/gave himself swep weapon_752_elg3a
+[10:09:27] ST PVT 1234 L1K34PR0<STEAM_0:0:113721067> spawned/gave himself swep weapon_lightsaber
+[10:28:02] ST PVT 1234 L1K34PR0: pts
+[10:28:18] ST PVT 1234 L1K34PR0: PRS
+[10:28:21] ST PVT 1234 L1K34PR0: PTS
+[10:53:35] Client "liron312" connected.
+[10:54:07] Client "liron312" spawned in server <STEAM_0:0:64179865> (took 32 seconds).
+[10:55:12] liron312<STEAM_0:0:64179865> spawned/gave himself swep weapon_camo
+[10:56:20] ST PVT 1234 L1K34PR0: sup
+[10:56:27] Dropped "liron312" from server<STEAM_0:0:64179865>
+[11:01:43] Client "toti37182" connected.
+[11:03:03] Client "toti37182" spawned in server <STEAM_0:0:131304126> (took 80 seconds).
+[11:03:05] Client "Ponchic 993939213" connected.
+[11:03:32] toti37182<STEAM_0:0:131304126> spawned/gave himself swep dc17grapple
+[11:07:56] toti37182<STEAM_0:0:131304126> spawned/gave himself swep weapon_laserpistol
+[11:07:58] toti37182<STEAM_0:0:131304126> spawned/gave himself swep weapon_laserpistol2
+[11:07:59] toti37182<STEAM_0:0:131304126> spawned/gave himself swep weapon_lasersmg
+[11:09:26] ST PVT 1234 L1K34PR0 was killed by func_door
+[11:17:26] ST PVT 1234 L1K34PR0 was killed by func_tracktrain
+[11:22:57] ST PVT 1234 L1K34PR0 suicided!
+[11:24:56] Client "Danil_Mirniy" connected.
+[11:25:35] ST PVT 1234 L1K34PR0: kill
+[11:25:49] toti37182 suicided!
+[11:27:02] Client "Ethan" connected.
+[11:28:21] Client "Ethan" spawned in server <STEAM_0:1:72945201> (took 79 seconds).
+[11:28:48] ST PVT 1234 L1K34PR0: do i have a PTS
+[11:28:50] ST PVT 1234 L1K34PR0: ?
+[11:28:53] Client "poli.tomy21" connected.
+[11:29:30] (Console) kicked MED REG COMM Ethan (timing out)
+[11:29:30] Dropped "MED REG COMM Ethan" from server<STEAM_0:1:72945201>
+[11:29:48] Client "Ethan" connected.
+[11:29:59] Client "Ethan" spawned in server <STEAM_0:1:72945201> (took 11 seconds).
+[11:30:08] Dropped "toti37182" from server<STEAM_0:0:131304126>
+[11:30:13] Client "poli.tomy21" spawned in server <STEAM_0:0:85963007> (took 80 seconds).
+[11:30:33] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_physgun
+[11:31:16] Sith APP Tomy: hi i am sexy philipin thats WANT SWORD
+[11:32:48] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep gmod_tool
+[11:32:58] Sith APP Tomy: /drop
+[11:37:20] MED REG COMM Ethan: !tp l1k
+[11:37:20] MED REG COMM Ethan teleported ST PVT 1234 L1K34PR0
+[11:37:47] MED REG COMM Ethan: /name Darth Ethan
+[11:37:47] MED REG COMM Ethan<STEAM_0:1:72945201> changed their name to Darth Ethan
+[11:37:54] Darth Ethan: !goto tomy
+[11:38:00] Darth Ethan: !goto tomy
+[11:38:00] Darth Ethan teleported to Sith APP Tomy
+[11:38:08] Darth Ethan: !hp * 6000
+[11:38:08] Darth Ethan set the hp for Everyone to 6000
+[11:38:18] Darth Ethan: !hp @ 6000
+[11:38:18] Darth Ethan set the hp for ST PVT 1234 L1K34PR0 to 6000
+[11:38:26] Darth Ethan: !hp ^ 8000
+[11:38:26] Darth Ethan set the hp for Themself to 8000
+[11:38:29] Darth Ethan<STEAM_0:1:72945201> spawned/gave himself swep gmod_tool
+[11:38:34] Darth Ethan<STEAM_0:1:72945201> used the tool rb655_lightsaber on maps/rp_stardestroyer_v1.bsp
+[11:38:47] Darth Ethan<STEAM_0:1:72945201> used the tool rb655_lightsaber on maps/rp_stardestroyer_v1.bsp
+[11:38:55] Darth Ethan: !cleardecals
+[11:38:55] Darth Ethan cleared decals
+[11:39:43] Darth Ethan: /advert get ready, both of you against me
+[11:39:52] ST PVT 1234 L1K34PR0: ok
+[11:39:53] Darth Ethan: /advert go
+[11:40:58] Darth Ethan: // u cant use anything except force jump
+[11:43:10] Darth Ethan killed ST PVT 1234 L1K34PR0 using weapon_lightsaber
+[11:43:15] ST PVT 1234 L1K34PR0: gg XD
+[11:44:15] Sith APP Tomy: 110 hp
+[11:44:45] Darth Ethan killed Sith APP Tomy using weapon_lightsaber
+[11:44:56] Darth Ethan: /adver t well
+[11:45:02] Sith APP Tomy: tp me and how much hp u had?
+[11:45:06] Darth Ethan: /advert match is over
+[11:45:15] Darth Ethan: /advert you can do a rematch between you 2
+[11:45:19] Darth Ethan: !cleardecals
+[11:45:19] Darth Ethan cleared decals
+[11:45:25] Darth Ethan: !hp * 8000
+[11:45:25] Darth Ethan set the hp for Everyone to 8000
+[11:45:29] ST PVT 1234 L1K34PR0: let's do this
+[11:45:30] Darth Ethan: !tp tomy
+[11:45:30] Darth Ethan teleported Sith APP Tomy
+[11:46:09] Darth Ethan suicided!
+[11:46:19] Darth Ethan suicided!
+[11:46:24] Darth Ethan: !goto tomy
+[11:46:24] Darth Ethan teleported to Sith APP Tomy
+[11:46:34] Darth Ethan teleported to ST PVT 1234 L1K34PR0
+[11:47:04] Sith APP Tomy: i have 8k
+[11:47:08] ST PVT 1234 L1K34PR0: mee 2
+[11:47:12] Darth Ethan: !hp * 13000
+[11:47:12] Darth Ethan set the hp for Everyone to 13000
+[11:47:16] Sith APP Tomy: k
+[11:47:20] Darth Ethan: !hp ^ 8000
+[11:47:20] Darth Ethan set the hp for Themself to 8000
+[11:47:27] ST PVT 1234 L1K34PR0: let's do a showdown
+[11:50:21] ST PVT 1234 L1K34PR0: wow
+[11:50:53] ST PVT 1234 L1K34PR0: i'm at the top! XD
+[11:52:36] Sith APP Tomy killed Darth Ethan using weapon_lightsaber
+[11:52:44] Darth Ethan: /advert well done
+[11:52:49] ST PVT 1234 L1K34PR0: gg
+[11:52:50] Darth Ethan: /advert anyways
+[11:52:50] Sith APP Tomy: 6843 hp :D
+[11:52:53] Darth Ethan: // I gtg
+[11:52:56] Darth Ethan: // cya later
+[11:52:58] ST PVT 1234 L1K34PR0: 3490 :P
+[11:53:04] Dropped "Darth Ethan" from server<STEAM_0:1:72945201>
+[11:53:21] ST PVT 1234 L1K34PR0: let's do a showdown
+[11:55:23] ST PVT 1234 L1K34PR0 suicided!
+[11:55:34] ST PVT 1234 L1K34PR0 suicided!
+[11:56:03] ST PVT 1234 L1K34PR0 suicided!
+[11:57:49] Sith APP Tomy: i go to scream at ppl in csgo so bay :D i will come here later
+[11:57:58] Dropped "Sith APP Tomy" from server<STEAM_0:0:85963007>
+[12:08:29] ST PVT 1234 L1K34PR0 suicided!
+[12:10:51] Client "toti37182" connected.
+[12:12:03] Client "toti37182" spawned in server <STEAM_0:0:131304126> (took 72 seconds).
+[12:12:17] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:12:24] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:12:36] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:14:00] toti37182 was killed by func_door
+[12:14:31] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:20:02] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:21:18] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:22:36] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:23:21] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:23:44] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:24:06] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:24:14] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:24:22] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:24:30] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:27:08] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:27:43] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:27:52] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:28:00] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:28:07] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:28:13] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:28:27] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:28:44] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:28:51] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:30:50] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:31:22] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:31:37] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:31:52] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:32:25] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:32:50] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:33:32] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:34:15] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:34:43] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:35:29] ST PVT 1234 L1K34PR0 killed toti37182 using player
+[12:35:45] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:36:56] ST PVT 1234 L1K34PR0: /me salutes
+[12:38:40] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:40:45] Client "Amaterasu" connected.
+[12:41:25] ST PVT 1234 L1K34PR0 suicided!
+[12:42:47] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:43:01] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:43:09] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:43:12] Client "Amaterasu" spawned in server <STEAM_0:0:71366456> (took 147 seconds).
+[12:43:44] toti37182<STEAM_0:0:131304126> spawned model models/props_borealis/door_wheel001a.mdl
+[12:44:05] toti37182<STEAM_0:0:131304126> spawned model models/props_borealis/door_wheel001a.mdl
+[12:44:11] toti37182<STEAM_0:0:131304126> spawned model models/props_c17/fence01a.mdl
+[12:44:15] toti37182<STEAM_0:0:131304126> spawned model models/props_c17/furnitureboiler001a.mdl
+[12:44:15] ST PVT 1234 L1K34PR0<STEAM_0:0:113721067> spawned model models/props_borealis/mooring_cleat01.mdl
+[12:44:25] toti37182<STEAM_0:0:131304126> spawned model models/props_c17/gravestone003a.mdl
+[12:44:30] toti37182<STEAM_0:0:131304126> spawned model models/combine_helicopter/helicopter_bomb01.mdl
+[12:44:42] ST PVT 1234 L1K34PR0<STEAM_0:0:113721067> spawned/gave himself swep dc17grapple
+[12:44:48] ST PVT 1234 L1K34PR0<STEAM_0:0:113721067> spawned model models/props_c17/furniturestove001a.mdl
+[12:44:50] Amaterasu<STEAM_0:0:71366456> spawned/gave himself swep sw_weapon_first_order_f11d
+[12:44:52] toti37182<STEAM_0:0:131304126> spawned model models/props_combine/breenchair.mdl
+[12:45:05] toti37182<STEAM_0:0:131304126> spawned model models/props_junk/plasticbucket001a.mdl
+[12:46:44] ST PVT 1234 L1K34PR0: ammm
+[12:46:59] ST PVT 1234 L1K34PR0: why are you running
+[12:47:08] Amaterasu: как ставить ресы
+[12:47:20] ST PVT 1234 L1K34PR0: english please
+[12:48:17] Amaterasu: плять
+[12:48:53] toti37182 was killed by func_door
+[12:48:56] ST PVT 1234 L1K34PR0 was killed by func_door
+[12:49:27] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:49:58] Amaterasu was killed by func_door
+[12:50:19] toti37182 was killed by func_door
+[12:50:59] Amaterasu was killed by func_door
+[12:51:08] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:51:21] ST PVT 1234 L1K34PR0 suicided!
+[12:51:28] Amaterasu<STEAM_0:0:71366456> spawned/gave himself swep dc17grapple
+[12:51:43] Amaterasu<STEAM_0:0:71366456> spawned/gave himself swep dc17grapple
+[12:51:52] Amaterasu<STEAM_0:0:71366456> spawned/gave himself swep weapon_357
+[12:51:53] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:52:05] Amaterasu<STEAM_0:0:71366456> spawned/gave himself swep weapon_crowbar
+[12:52:20] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:52:23] ST PVT 1234 L1K34PR0 killed Amaterasu using weapon_lightsaber
+[12:52:41] ST PVT 1234 L1K34PR0: whoops sry XD
+[12:52:53] Dropped "Amaterasu" from server<STEAM_0:0:71366456>
+[12:52:58] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:53:24] ST PVT 1234 L1K34PR0 killed toti37182 using weapon_lightsaber
+[12:54:13] Client "AngryChicken82" connected.
+[12:54:25] toti37182 suicided!
+[12:54:34] toti37182 suicided!
+[12:54:55] toti37182<STEAM_0:0:131304126> spawned model models/props_c17/furnituretable002a.mdl
+[12:55:02] Client "AngryChicken82" spawned in server <STEAM_0:1:92889617> (took 49 seconds).
+[12:55:03] toti37182<STEAM_0:0:131304126> spawned model models/props_c17/fountain_01.mdl
+[12:55:10] ST PVT 1234 L1K34PR0: HI
+[12:55:30] toti37182<STEAM_0:0:131304126> spawned/gave himself swep weapon_claws
+[12:55:32] toti37182<STEAM_0:0:131304126> spawned/gave himself swep dc17grapple
+[12:55:35] SHDT Reg Comm Ancient: /me Salutes
+[12:55:44] SHDT Reg Comm Ancient: // Hello!
+[12:55:53] SHDT Reg Comm Ancient: Hey toti37182
+[12:55:59] SHDT Reg Comm Ancient: Come here
+[12:56:02] toti37182 suicided!
+[12:56:19] SHDT Reg Comm Ancient: Do you want training?
+[12:56:20] toti37182 suicided!
+[12:56:58] SHDT Reg Comm Ancient: Do you want training?
+[12:57:11] SHDT Reg Comm Ancient: Do you know how to chat?
+[12:57:15] SHDT Reg Comm Ancient: press y
+[12:57:27] toti37182: k
+[12:57:45] SHDT Reg Comm Ancient: Have you ever played on a star wars rp server?
+[12:57:51] toti37182: nope
+[12:57:59] SHDT Reg Comm Ancient: have you ever played any rp?
+[12:58:19] toti37182: yes, only one
+[12:58:27] SHDT Reg Comm Ancient: Which kind?
+[12:58:38] toti37182: normal rp
+[12:58:43] SHDT Reg Comm Ancient: Ok
+[12:58:50] SHDT Reg Comm Ancient: So first thing first
+[12:58:53] SHDT Reg Comm Ancient: Faces
+[12:59:03] SHDT Reg Comm Ancient: Read this
+[12:59:13] SHDT Reg Comm Ancient: and ill give you examples after
+[12:59:35] SHDT Reg Comm Ancient: // Ok!
+[12:59:59] SHDT Reg Comm Ancient: // ST PVT 1234 L1K34PR0
+[13:00:10] SHDT Reg Comm Ancient: // why are you a sith?
+[13:01:13] ST PVT 1234 L1K34PR0: the owner gave it to me just for today cuz the server was empty when we was on
+[13:01:19] SHDT Reg Comm Ancient: // ST PVT 1234 L1K34PR0 Why are you a sith
+[13:01:33] Client "JetHunter" connected.
+[13:01:35] ST PVT 1234 L1K34PR0: btw i'm the brother of the player you guiding
+[13:02:03] ST PVT 1234 L1K34PR0: he don't know english so i'm traslateing to him
+[13:02:34] SHDT Reg Comm Ancient: /y ST PVT 1234 L1K34PR0 Answer me that time why are sith?
+[13:02:39] SHDT Reg Comm Ancient: why are you*
+[13:02:50] SHDT Reg Comm Ancient: toti37182
+[13:02:51] ST PVT 1234 L1K34PR0: the owner gave it to me just for today
+[13:02:54] SHDT Reg Comm Ancient: Ok
+[13:03:10] SHDT Reg Comm Ancient: toti read this
+[13:03:12] ST PVT 1234 L1K34PR0: i'm toti37182's brother
+[13:03:17] SHDT Reg Comm Ancient: Oh cool
+[13:03:22] ST PVT 1234 L1K34PR0: he dont know english
+[13:03:25] SHDT Reg Comm Ancient: Oh
+[13:03:30] SHDT Reg Comm Ancient: What language
+[13:03:38] ST PVT 1234 L1K34PR0: i'm translateing to him
+[13:03:52] SHDT Reg Comm Ancient: What language i might know
+[13:04:28] ST PVT 1234 L1K34PR0: hebrew
+[13:04:40] SHDT Reg Comm Ancient: בינגמ
+[13:04:44] SHDT Reg Comm Ancient: xD
+[13:04:47] ST PVT 1234 L1K34PR0: חחחחחחחחחחח
+[13:05:25] SHDT Reg Comm Ancient: But i dont have a mic and i need to type it all backwards so i would love if you could strill translate
+[13:05:32] ST PVT 1234 L1K34PR0: k
+[13:05:50] SHDT Reg Comm Ancient: Could you explain him what that say
+[13:06:48] ST PVT 1234 L1K34PR0: ok he got it
+[13:06:52] SHDT Reg Comm Ancient: Great
+[13:07:23] SHDT Reg Comm Ancient: So im gonna give letters to each face coulfd you explain which face in which
+[13:07:31] ST PVT 1234 L1K34PR0: k
+[13:07:49] SHDT Reg Comm Ancient: R= Right Face L= Left Face A= About face F= Front Face
+[13:08:31] Client "Batuhan Cabuk" connected.
+[13:08:54] ST PVT 1234 L1K34PR0: he got it too
+[13:09:14] SHDT Reg Comm Ancient: Ok now i need to test him on those but ill make it easy
+[13:09:21] SHDT Reg Comm Ancient: Stand on this wall
+[13:09:33] SHDT Reg Comm Ancient: R
+[13:09:39] SHDT Reg Comm Ancient: L
+[13:10:01] SHDT Reg Comm Ancient: no once i say l turn left like this
+[13:10:04] SHDT Reg Comm Ancient: R
+[13:10:07] SHDT Reg Comm Ancient: L
+[13:10:28] SHDT Reg Comm Ancient: a
+[13:10:37] SHDT Reg Comm Ancient: F
+[13:10:43] SHDT Reg Comm Ancient: L
+[13:10:53] SHDT Reg Comm Ancient: A
+[13:10:57] Client "Batuhan Cabuk" spawned in server <STEAM_0:0:175321810> (took 146 seconds).
+[13:11:04] SHDT Reg Comm Ancient: Great!
+[13:11:21] SHDT Reg Comm Ancient: Now ST PVT 1234 L1K34PR0 do you know formations?
+[13:11:41] ST PVT 1234 L1K34PR0: no i did not got it
+[13:11:44] SHDT Reg Comm Ancient: Ok
+[13:11:51] SHDT Reg Comm Ancient: Ill explain to you
+[13:11:54] ST PVT 1234 L1K34PR0: ok
+[13:12:10] SHDT Reg Comm Ancient: Single column means a single line behind me
+[13:12:19] ST PVT 1234 L1K34PR0: k
+[13:12:20] SHDT Reg Comm Ancient: !bring Batuhan Cabuk
+[13:12:20] SHDT Reg Comm Ancient brought Batuhan Cabuk
+[13:12:31] SHDT Reg Comm Ancient: Do you want training Batuhan Cabuk?
+[13:12:54] SHDT Reg Comm Ancient: Well lets start with a single column on me
+[13:13:08] ST PVT 1234 L1K34PR0: like that?
+[13:13:14] Dropped "Batuhan Cabuk" from server<STEAM_0:0:175321810>
+[13:13:25] SHDT Reg Comm Ancient: Lik this ill show you the dots will be troopers
+[13:13:44] ST PVT 1234 L1K34PR0: ohhh i think i got it
+[13:13:54] SHDT Reg Comm Ancient: // Now each one of you stand in a dot
+[13:14:19] SHDT Reg Comm Ancient: This is called a single column
+[13:14:30] SHDT Reg Comm Ancient: Now double column
+[13:15:05] SHDT Reg Comm Ancient: Now each one of you stand in a dot
+[13:15:16] SHDT Reg Comm Ancient: Great
+[13:15:33] SHDT Reg Comm Ancient: When i say center face you look at eacotyher
+[13:15:41] SHDT Reg Comm Ancient: Center face
+[13:15:48] SHDT Reg Comm Ancient: Great
+[13:16:12] SHDT Reg Comm Ancient: In a double column there needs to be enough space for you cpmmanding officer to walk through
+[13:16:22] SHDT Reg Comm Ancient: Good
+[13:16:45] SHDT Reg Comm Ancient: When your commanding officer walk through you need to say /me Salute
+[13:17:03] SHDT Reg Comm Ancient: Toti doesn't have to do it 
+[13:17:14] SHDT Reg Comm Ancient: You should bind it
+[13:17:18] ST PVT 1234 L1K34PR0: /me Salute
+[13:17:21] ST PVT 1234 L1K34PR0: ok
+[13:17:22] SHDT Reg Comm Ancient: open console
+[13:17:28] SHDT Reg Comm Ancient: and do 
+[13:17:44] ST PVT 1234 L1K34PR0: yhea i know what to dp
+[13:17:45] SHDT Reg Comm Ancient: bind (whatever key you want) "/me Salutes
+[13:17:48] ST PVT 1234 L1K34PR0: do*
+[13:18:25] SHDT Reg Comm Ancient: you could tell him to do that too and whenever a situation like this happen he could just press a button you tell him
+[13:19:13] ST PVT 1234 L1K34PR0: i won't work for me
+[13:19:15] SHDT Reg Comm Ancient: oops i forgot
+[13:19:18] SHDT Reg Comm Ancient: do
+[13:19:42] SHDT Reg Comm Ancient: bind (whatever key you want) "say /me Salutes"
+[13:19:50] SHDT Reg Comm Ancient: Now it supposed to work
+[13:19:59] ST PVT 1234 L1K34PR0: /me Salute
+[13:20:06] ST PVT 1234 L1K34PR0: yep that worked
+[13:20:08] SHDT Reg Comm Ancient: Great
+[13:20:22] ST PVT 1234 L1K34PR0: wait i will do that to him
+[13:20:27] SHDT Reg Comm Ancient: Sure
+[13:21:51] ST PVT 1234 L1K34PR0: done
+[13:21:54] SHDT Reg Comm Ancient: Great
+[13:22:03] toti37182: /me salutes
+[13:22:05] SHDT Reg Comm Ancient: now lets move on to prisoner box
+[13:22:36] SHDT Reg Comm Ancient: stand on one of these dots
+[13:22:59] SHDT Reg Comm Ancient: When you do this you usually type
+[13:23:22] SHDT Reg Comm Ancient: ./me Strips weapons & comms 
+[13:23:32] SHDT Reg Comm Ancient: without the . at the start
+[13:23:37] ST PVT 1234 L1K34PR0: bind that too?
+[13:23:45] SHDT Reg Comm Ancient: You could
+[13:23:49] ST PVT 1234 L1K34PR0: ok
+[13:23:51] SHDT Reg Comm Ancient: But its not as important
+[13:24:10] ST PVT 1234 L1K34PR0: oh
+[13:24:12] SHDT Reg Comm Ancient: bind key "say /me Strips Weapons & Comms
+[13:24:37] ST PVT 1234 L1K34PR0: i will bind that just in case
+[13:24:42] SHDT Reg Comm Ancient: Good
+[13:25:19] SHDT Reg Comm Ancient: !scale ^ 0.5
+[13:25:19] SHDT Reg Comm Ancient set the scale for Themself to 0
+[13:25:36] ST PVT 1234 L1K34PR0: omg XD
+[13:25:38] SHDT Reg Comm Ancient: xD
+[13:25:40] ST PVT 1234 L1K34PR0: /me Strips Weapons & Comms
+[13:25:44] SHDT Reg Comm Ancient: !scale ^ 1
+[13:25:44] SHDT Reg Comm Ancient set the scale for Themself to 1
+[13:25:47] SHDT Reg Comm Ancient: Great
+[13:25:48] ST PVT 1234 L1K34PR0: that works
+[13:25:57] SHDT Reg Comm Ancient: Now vip diamond
+[13:26:09] SHDT Reg Comm Ancient: IT looks the same but it has a different purpose
+[13:26:14] ST PVT 1234 L1K34PR0: okey dokey
+[13:26:20] SHDT Reg Comm Ancient: Instead of getting a prisoner
+[13:26:31] SHDT Reg Comm Ancient: it's to protect a vip
+[13:26:43] SHDT Reg Comm Ancient: Grat
+[13:26:51] ST PVT 1234 L1K34PR0: lol
+[13:26:57] toti37182: XD
+[13:27:14] SHDT Reg Comm Ancient: The most important rule is the golden rule
+[13:27:30] SHDT Reg Comm Ancient: Could you explain it to him?
+[13:27:35] ST PVT 1234 L1K34PR0: ok
+[13:28:00] ST PVT 1234 L1K34PR0: he got it
+[13:28:22] ST PVT 1234 L1K34PR0: eyo
+[13:28:23] SHDT Reg Comm Ancient: And when you see Darth Vader or Emperor Palpatine you must bow
+[13:28:40] ST PVT 1234 L1K34PR0: we know that
+[13:28:50] SHDT Reg Comm Ancient: Get th =e keys in your hands and press r and press bow
+[13:28:53] SHDT Reg Comm Ancient: Oh great
+[13:29:01] SHDT Reg Comm Ancient: Now firing line
+[13:29:23] ST PVT 1234 L1K34PR0: he cant be a storm trooper
+[13:29:44] SHDT Reg Comm Ancient added toti37182 to group STPVT
+[13:29:48] SHDT Reg Comm Ancient: // Now he can
+[13:29:54] ST PVT 1234 L1K34PR0: one sec
+[13:30:06] SHDT Reg Comm Ancient: !bring toti
+[13:30:06] SHDT Reg Comm Ancient brought toti37182
+[13:30:15] SHDT Reg Comm Ancient: Stand on those dots
+[13:30:33] SHDT Reg Comm Ancient: Come ST PVT 1234 L1K34PR0
+[13:30:47] SHDT Reg Comm Ancient: Have your weapons out
+[13:30:50] ST PVT 1234 L1K34PR0: shold i change too?
+[13:30:58] SHDT Reg Comm Ancient: No it's ok
+[13:31:03] ST PVT 1234 L1K34PR0: yay :D
+[13:31:09] SHDT Reg Comm Ancient: /DROP
+[13:31:21] SHDT Reg Comm Ancient: You got it?
+[13:31:25] ST PVT 1234 L1K34PR0: thea
+[13:31:28] ST PVT 1234 L1K34PR0: yhea
+[13:31:32] SHDT Reg Comm Ancient: Good
+[13:31:37] SHDT Reg Comm Ancient: Now firing squad
+[13:31:44] Client "Flying Muscle" connected.
+[13:32:05] SHDT Reg Comm Ancient: !cleardecals
+[13:32:05] SHDT Reg Comm Ancient cleared decals
+[13:32:26] SHDT Reg Comm Ancient: Stand on those dots
+[13:32:52] SHDT Reg Comm Ancient: The first line crouches and the second one dont ST PVT 1234 L1K34PR0 crouch
+[13:33:33] SHDT Reg Comm Ancient: and when someone says about face while here we switch and the second line crouches and all look backwards
+[13:33:41] SHDT Reg Comm Ancient: About face
+[13:33:52] Client "Flying Muscle" spawned in server <STEAM_0:1:146849666> (took 128 seconds).
+[13:33:53] SHDT Reg Comm Ancient: Great
+[13:34:16] SHDT Reg Comm Ancient: This is pretty much it could you show him how to change hid name?
+[13:34:34] ST PVT 1234 L1K34PR0: just like what i did?
+[13:34:40] SHDT Reg Comm Ancient: Yeah
+[13:34:44] ST PVT 1234 L1K34PR0: ok
+[13:34:49] SHDT Reg Comm Ancient: Just a different name at the end
+[13:34:50] Flying Muscle<STEAM_0:1:146849666> spawned/gave himself swep weapon_claws
+[13:34:58] Flying Muscle<STEAM_0:1:146849666> spawned/gave himself swep weapon_ak472
+[13:34:59] Flying Muscle<STEAM_0:1:146849666> spawned/gave himself swep weapon_ak47custom
+[13:35:01] SHDT Reg Comm Ancient: !bring Flying Muscle
+[13:35:01] SHDT Reg Comm Ancient brought Flying Muscle
+[13:35:02] Flying Muscle<STEAM_0:1:146849666> spawned/gave himself swep forcechoke
+[13:35:05] SHDT Reg Comm Ancient: Hello
+[13:35:13] SHDT Reg Comm Ancient: !bring fly
+[13:35:13] SHDT Reg Comm Ancient brought Flying Muscle
+[13:35:39] SHDT Reg Comm Ancient: !bring fly
+[13:35:39] SHDT Reg Comm Ancient brought Flying Muscle
+[13:35:44] SHDT Reg Comm Ancient: !freeze fly
+[13:35:44] SHDT Reg Comm Ancient froze Flying Muscle
+[13:36:00] SHDT Reg Comm Ancient: You cannot leave this area until you are trained
+[13:36:08] SHDT Reg Comm Ancient: Do you want training?\
+[13:36:14] Dropped "Flying Muscle" from server<STEAM_0:1:146849666>
+[13:36:19] toti37182: /name ST PVT 4859 Toti
+[13:36:20] toti37182<STEAM_0:0:131304126> changed their name to ST PVT 4859 Toti
+[13:36:34] SHDT Reg Comm Ancient: Great
+[13:36:46] SHDT Reg Comm Ancient: He could roam around the ship now! :D
+[13:36:47] SHDT Reg Comm Ancient: At ease Trooper(s)
+[13:36:51] SHDT Reg Comm Ancient: OOps misbind
+[13:37:00] SHDT Reg Comm Ancient: !cleardecalse
+[13:37:06] SHDT Reg Comm Ancient: !cleardecals
+[13:37:06] SHDT Reg Comm Ancient cleared decals
+[13:37:16] ST PVT 1234 L1K34PR0: that's it?
+[13:37:32] SHDT Reg Comm Ancient: The training? yeah that's all the training
+[13:37:37] ST PVT 1234 L1K34PR0: ok
+[13:37:43] SHDT Reg Comm Ancient: Enjoy your time
+[13:37:46] ST PVT 1234 L1K34PR0: thx
+[13:38:24] ST PVT 1234 L1K34PR0: follow me for a sec
+[13:39:07] ST PVT 1234 L1K34PR0: we can train at the firing range?
+[13:39:15] SHDT Reg Comm Ancient: Yeah!
+[13:39:19] ST PVT 1234 L1K34PR0: ok thx
+[13:39:23] SHDT Reg Comm Ancient: No problem
+[13:39:49] SHDT Reg Comm Ancient: // The firing range is up here do you want me to tp you there?
+[13:39:54] ST PVT 1234 L1K34PR0: ok
+[13:40:07] SHDT Reg Comm Ancient: !tp like
+[13:40:13] SHDT Reg Comm Ancient: !tp lik
+[13:40:17] SHDT Reg Comm Ancient: !tp ST PVT 1234 L1K34PR0
+[13:40:24] SHDT Reg Comm Ancient: !tp l1k3
+[13:40:24] SHDT Reg Comm Ancient teleported ST PVT 1234 L1K34PR0
+[13:40:29] SHDT Reg Comm Ancient: !tp toti
+[13:40:29] SHDT Reg Comm Ancient teleported ST PVT 4859 Toti
+[13:40:32] ST PVT 1234 L1K34PR0: thx
+[13:40:40] SHDT Reg Comm Ancient: No problem
+[13:41:43] SHDT Reg Comm Ancient: // There's not much players now because most of the players here arent from israel and they sleep right now
+[13:42:01] ST PVT 1234 L1K34PR0: yhea i know XD
+[13:42:01] SHDT Reg Comm Ancient: // But later more will come around
+[13:42:27] ST PVT 1234 L1K34PR0: and then i'll change again to storm trooper
+[13:42:44] SHDT Reg Comm Ancient: !model ^ models/katharsmodels/animals/horse/horsebrown-1.mdl
+[13:42:44] SHDT Reg Comm Ancient set the model for Themself to models/katharsmodels/animals/horse/horsebrown-1.mdl
+[13:43:10] ST PVT 1234 L1K34PR0: you an error man
+[13:43:16] SHDT Reg Comm Ancient: Oh :( xD
+[13:43:20] ST PVT 1234 L1K34PR0: XD
+[13:43:41] SHDT Reg Comm Ancient: !model ^ models/player/b4p/b4p_jawa.mdl
+[13:43:41] SHDT Reg Comm Ancient set the model for Themself to models/player/b4p/b4p_jawa.mdl
+[13:43:47] SHDT Reg Comm Ancient: !scale 0.5
+[13:43:52] SHDT Reg Comm Ancient: !scale ^ 0.5
+[13:43:52] SHDT Reg Comm Ancient set the scale for Themself to 0
+[13:44:00] ST PVT 1234 L1K34PR0: ohhhhh :D
+[13:44:03] SHDT Reg Comm Ancient: What about now? still an error?
+[13:44:16] ST PVT 1234 L1K34PR0: no but you soo cute :D
+[13:44:18] SHDT Reg Comm Ancient: xD
+[13:44:44] SHDT Reg Comm Ancient: !model ^ v
+[13:44:44] SHDT Reg Comm Ancient set the model for Themself to v
+[13:44:55] SHDT Reg Comm Ancient: !model ^ 
+[13:45:05] SHDT Reg Comm Ancient: !model ^ models/player/techknow/jarjar.mdl
+[13:45:05] SHDT Reg Comm Ancient set the model for Themself to models/player/techknow/jarjar.mdl
+[13:45:09] SHDT Reg Comm Ancient: !scale 1
+[13:45:13] SHDT Reg Comm Ancient: !scale ^ 1
+[13:45:13] SHDT Reg Comm Ancient set the scale for Themself to 1
+[13:45:24] ST PVT 1234 L1K34PR0: sup jar jar XD
+[13:45:32] SHDT Reg Comm Ancient<STEAM_0:1:92889617> spawned/gave himself swep sswep_jarjar
+[13:45:42] ST PVT 1234 L1K34PR0: /:
+[13:45:45] ST PVT 1234 L1K34PR0: how
+[13:45:47] SHDT Reg Comm Ancient: JAR JARRRR
+[13:45:48] ST PVT 4859 Toti: XD
+[13:45:55] SHDT Reg Comm Ancient<STEAM_0:1:92889617> spawned/gave himself swep sswep_palpatine
+[13:46:01] ST PVT 1234 L1K34PR0: lol
+[13:46:13] SHDT Reg Comm Ancient: /name Darth Vaper
+[13:46:13] SHDT Reg Comm Ancient<STEAM_0:1:92889617> changed their name to Darth Vaper
+[13:46:20] ST PVT 1234 L1K34PR0: jar jar mixed with shaya labof XD
+[13:46:23] Darth Vaper: xED
+[13:46:39] Darth Vaper: Do you even vape bruh! xD
+[13:46:49] ST PVT 1234 L1K34PR0: LOlL
+[13:47:06] ST PVT 1234 L1K34PR0: omg XD
+[13:47:14] Darth Vaper: 360 do it
+[13:47:37] ST PVT 1234 L1K34PR0: XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD 
+[13:47:38] Darth Vaper: !model ^ models/starwars/b4p_vader.mdl
+[13:47:38] Darth Vaper set the model for Themself to models/starwars/b4p_vader.mdl
+
+
+
+[13:48:38] New map: rp_stardestroyer_v1
+[13:48:47] Client "L1K34PRO" connected.
+[13:50:19] Client "L1K34PRO" spawned in server <STEAM_0:0:113721067> (took 92 seconds).
+[13:50:36] Client "toti37182" connected.
+[13:51:25] Client "toti37182" spawned in server <STEAM_0:0:131304126> (took 49 seconds).
+[13:58:33] Client "alexander" connected.
+[13:59:50] Client "smokeweed| kickback.com" connected.
+[14:00:06] Client "alexander" connected.
+[14:04:00] Client "yarinking .i." connected.
+[14:06:09] Client "yarinking .i." spawned in server <STEAM_0:0:172979541> (took 129 seconds).
+[14:06:47] Dropped "ST PVT 1234 L1K34PR0" from server<STEAM_0:0:113721067>
+[14:07:19] yarinking .i.: hi im new what to do
+[14:07:56] Dropped "yarinking .i." from server<STEAM_0:0:172979541>
+[14:10:40] ST PVT 4859 Toti suicided!
+[14:10:54] ST PVT 4859 Toti suicided!
+[14:17:12] Client "Pobeda587" connected.
+[14:18:22] Client "L1K34PRO" connected.
+[14:19:35] Client "Pobeda587" spawned in server <STEAM_0:1:67408044> (took 143 seconds).
+[14:20:56] Pobeda587<STEAM_0:1:67408044> spawned/gave himself swep weapon_claws
+[14:21:18] Dropped "Pobeda587" from server<STEAM_0:1:67408044>
+[14:22:00] Client "Псих175" connected.
+[14:22:24] Client "L1K34PRO" spawned in server <STEAM_0:0:113721067> (took 242 seconds).
+[14:26:55] ST PVT 1234 L1K34PR0 suicided!
+[14:31:41] ST PVT 1234 L1K34PR0 suicided!
+[14:32:41] ST PVT 1234 L1K34PR0 suicided!
+[14:33:30] ST PVT 1234 L1K34PR0 killed ST PVT 4859 Toti using player
+[14:33:59] ST PVT 1234 L1K34PR0 suicided!
+[14:34:12] ST PVT 4859 Toti killed ST PVT 1234 L1K34PR0 using player
+[14:34:16] ST PVT 1234 L1K34PR0 killed ST PVT 4859 Toti using player
+[14:34:19] ST PVT 1234 L1K34PR0 suicided!
+[14:35:07] Client "Kaneki_[Senpai]" connected.
+[14:35:27] ST PVT 4859 Toti was killed by func_door
+[14:38:10] ST PVT 4859 Toti killed ST PVT 1234 L1K34PR0 using player
+[14:38:27] ST PVT 4859 Toti suicided!
+[14:38:35] ST PVT 1234 L1K34PR0 killed ST PVT 4859 Toti using player
+[14:38:39] ST PVT 4859 Toti killed ST PVT 1234 L1K34PR0 using player
+[14:38:44] ST PVT 1234 L1K34PR0 killed ST PVT 4859 Toti using player
+[14:38:47] ST PVT 1234 L1K34PR0 suicided!
+[14:40:31] ST PVT 1234 L1K34PR0 suicided!
+[14:40:35] ST PVT 4859 Toti suicided!
+[14:41:56] ST PVT 1234 L1K34PR0 suicided!
+[14:42:49] ST PVT 4859 Toti killed ST PVT 1234 L1K34PR0 using player
+[14:42:53] ST PVT 4859 Toti suicided!
+[14:43:14] ST PVT 1234 L1K34PR0 killed ST PVT 4859 Toti using player
+[14:43:18] ST PVT 1234 L1K34PR0 suicided!
+[14:43:41] ST PVT 4859 Toti killed ST PVT 1234 L1K34PR0 using player
+[14:43:59] ST PVT 1234 L1K34PR0 killed ST PVT 4859 Toti using player
+[14:44:02] ST PVT 1234 L1K34PR0 suicided!
+[14:44:26] ST PVT 1234 L1K34PR0 suicided!
+[14:44:42] ST PVT 1234 L1K34PR0 killed ST PVT 4859 Toti using player
+[14:44:47] ST PVT 4859 Toti killed ST PVT 1234 L1K34PR0 using player
+[14:44:59] ST PVT 1234 L1K34PR0 killed ST PVT 4859 Toti using player
+[14:45:27] ST PVT 4859 Toti killed ST PVT 1234 L1K34PR0 using player
+[14:45:33] Dropped "ST PVT 1234 L1K34PR0" from server<STEAM_0:0:113721067>
+[14:47:08] Dropped "ST PVT 4859 Toti" from server<STEAM_0:0:131304126>
+[15:44:35] Client "Bad RacOOn" connected.
+[15:45:24] Client "Bad RacOOn" spawned in server <STEAM_0:1:89688387> (took 49 seconds).
+[15:49:47] Dropped "TP MJR 1212 Buff" from server<STEAM_0:1:89688387>
+[16:56:18] Client "balaban1981" connected.
+[16:56:26] Client "҉М҉Е҉ГА҉ ҉П҉О҉З҉" connected.
+[18:47:37] Client "Benji" connected.
+[18:49:31] Client "Benji" spawned in server <STEAM_0:1:81357128> (took 114 seconds).
+[18:54:21] Client "IDONTKNOW" connected.
+[18:55:20] Client "IDONTKNOW" spawned in server <STEAM_0:1:165468783> (took 59 seconds).
+[19:04:14] Client "ahmed.themalix" connected.
+[19:05:27] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep weapon_rape
+[19:06:25] TP REG commander Benji: !bring darth
+[19:06:25] TP REG commander Benji brought Darth Vader
+[19:06:40] Darth Vader: !whip ben 100000
+[19:06:47] Darth Vader: /me At ease trooper(s), your respect has been noticed
+[19:06:57] TP REG commander Benji: !whip ben 1
+[19:06:58] Darth Vader: !whip ben 100
+[19:06:58] Darth Vader whipped TP REG commander Benji 100 times with 0 damage
+[19:07:14] TP REG commander Benji: !jail ben
+[19:07:14] TP REG commander Benji jailed Themself
+[19:07:19] Darth Vader killed TP REG commander Benji using weapon_lightsaber
+[19:07:21] TP REG commander Benji: !noclip
+[19:07:23] TP REG commander Benji: !noclip
+[19:07:30] TP REG commander Benji: !unjail
+[19:07:37] TP REG commander Benji: !unjail benji
+[19:07:37] TP REG commander Benji unjailed Themself
+[19:07:39] TP REG commander Benji: !noclip
+[19:07:41] TP REG commander Benji: !noclip
+[19:07:45] TP REG commander Benji: !noclip
+[19:07:47] TP REG commander Benji: !noclip
+[19:07:48] TP REG commander Benji: !noclip
+[19:07:53] TP REG commander Benji: !noclip
+[19:07:59] Darth Vader: bind v "ulx noclip@
+[19:08:10] TP REG commander Benji: !noclip
+[19:08:15] TP REG commander Benji: !noclip
+[19:08:17] Darth Vader:  bind v "ulx noclip"
+[19:08:58] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep weapon_rape
+[19:09:02] Client "hook12aaa" connected.
+[19:09:33] Darth Vader<STEAM_0:1:165468783> spawned/gave himself swep weapon_rape
+[19:09:36] Client "hook12aaa" spawned in server <STEAM_0:1:90211140> (took 34 seconds).
+[19:10:10] Darth Vader<STEAM_0:1:165468783> spawned/gave himself swep weapon_rape
+[19:10:44] Darth Vader: !goto ben
+[19:10:44] Darth Vader teleported to TP REG commander Benji
+[19:11:05] HOOK: @admins Come here
+[19:11:05] HOOK to admins: admins Come here
+[19:11:11] TP REG commander Benji: !GOTO HOOK
+[19:11:16] (TEAM) Darth Vader: !unspectate hook
+[19:11:20] TP REG commander Benji: !goto hook
+[19:11:20] TP REG commander Benji teleported to HOOK
+[19:11:29] Darth Vader: !goto hook
+[19:11:29] Darth Vader teleported to HOOK
+[19:11:50] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep weapon_physgun
+[19:11:56] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep gmod_tool
+[19:12:02] Client "The_Mantis_Shrimp" connected.
+[19:12:10] Client "Finnerd" connected.
+[19:12:17] Darth Vader added HOOK to group CM
+[19:12:41] TP REG commander Benji: !ulx add user hook Cm
+[19:12:46] Darth Vader: ulx adduser ben rank
+[19:13:02] Dropped "Darth Vader" from server<STEAM_0:1:165468783>
+[19:13:07] Client "The_Mantis_Shrimp" spawned in server <STEAM_0:0:81720841> (took 65 seconds).
+[19:13:08] HOOK: !noclip
+[19:13:10] Client "IDONTKNOW" connected.
+[19:13:11] HOOK: !noclip
+[19:13:13] HOOK: !noclip
+[19:13:26] Client "IDONTKNOW" spawned in server <STEAM_0:1:165468783> (took 16 seconds).
+[19:13:47] HOOK: !noclip
+[19:14:06] TP REG commander Benji: /ooc thanks hook ur so beautiful
+[19:14:19] Darth Vader added Infected Trooper Shrimp to group SDTCPL
+[19:14:40] TP REG commander Benji: !cloak
+[19:14:40] TP REG commander Benji cloaked Themself by amount 0
+[19:15:20] Darth Vader<STEAM_0:1:165468783> spawned/gave himself swep weapon_rape
+[19:15:20] HOOK: !noclip
+[19:15:29] TP REG commander Benji: /OOC shrimp change ur name
+[19:15:29] Darth Vader<STEAM_0:1:165468783> spawned/gave himself swep forcechoke
+[19:15:34] Darth Vader<STEAM_0:1:165468783> spawned/gave himself swep weapon_lightsaber
+[19:15:37] Infected Trooper Shrimp: //im a colnel!
+[19:15:45] HOOK added Infected Trooper Shrimp to group SDTCOL
+[19:15:45] TP REG commander Benji: !uncloak
+[19:15:45] TP REG commander Benji uncloaked Themself
+[19:15:50] Infected Trooper Shrimp: // im a colonel
+[19:15:58] HOOK teleported to Infected Trooper Shrimp
+[19:16:06] HOOK: !noclip
+[19:16:09] HOOK teleported to TP REG commander Benji
+[19:16:12] TP REG commander Benji: /ooc good m'lord
+[19:16:15] TP REG commander Benji: #
+[19:16:26] Infected Trooper Shrimp: // im meant to be a colonel!
+[19:16:33] Infected Trooper Shrimp suicided!
+[19:16:34] Darth Vader:  bind v "ulx noclip"
+[19:16:36] HOOK jailed TP REG commander Benji
+[19:16:47] Infected Trooper Shrimp: // please change me!
+[19:16:48] HOOK unjailed TP REG commander Benji
+[19:16:52] HOOK: !noclip
+[19:16:57] Darth Vader<STEAM_0:1:165468783> spawned/gave himself swep weapon_cuff_elastic
+[19:17:27] Darth Vader:  bind v "ulx noclip"
+[19:17:28] HOOK: !noclip
+[19:17:52] Client "Finnerd" spawned in server <STEAM_0:1:56053138> (took 342 seconds).
+[19:18:04] Infected Trooper Shrimp: /name SHDT COL 0512 Shrimp
+[19:18:04] Infected Trooper Shrimp<STEAM_0:0:81720841> changed their name to SHDT COL 0512 Shrimp
+[19:18:37] SHDT COL 0512 Shrimp: /me salutes
+[19:18:55] HOOK<STEAM_0:1:90211140> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[19:19:00] SHDT COL 0512 Shrimp: /me salutes
+[19:19:13] TP REG commander Benji: !cloak
+[19:19:13] TP REG commander Benji cloaked Themself by amount 0
+[19:20:20] HOOK brought TP REG commander Benji
+[19:20:34] HOOK brought Darth Vader
+[19:20:35] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep gmod_tool
+[19:21:00] SHDT COL 0512 Shrimp: can you here me?
+[19:21:08] SHDT COL 0512 Shrimp: hear?
+[19:21:09] Finnerd: speak
+[19:21:35] Client "Ethan" connected.
+[19:21:51] TP REG commander Benji: !goto hook
+[19:21:51] TP REG commander Benji teleported to HOOK
+[19:21:55] HOOK teleported to Finnerd
+[19:21:59] Darth Vader: !return
+[19:21:59] Darth Vader returned Themself to their original position
+[19:22:04] TP REG commander Benji: !goto hook
+[19:22:04] TP REG commander Benji teleported to HOOK
+[19:22:18] HOOK brought TP REG commander Benji
+[19:22:21] Finnerd: cant hear you now
+[19:22:23] TP REG commander Benji<STEAM_0:1:81357128> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:22:23] TP REG commander Benji<STEAM_0:1:81357128> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:22:25] TP REG commander Benji<STEAM_0:1:81357128> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:22:42] Client "Ethan" spawned in server <STEAM_0:1:72945201> (took 67 seconds).
+[19:22:45] Darth Vader: is everythuing going okay?
+[19:22:47] SHDT COL 0512 Shrimp: can you hear?
+[19:22:48] HOOK teleported to Darth Ethan
+[19:22:55] Darth Ethan: // HEY YA WANKER
+[19:23:01] TP REG commander Benji<STEAM_0:1:81357128> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:23:02] Darth Vader: sup ethan
+[19:23:08] TP REG commander Benji<STEAM_0:1:81357128> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:23:08] TP REG commander Benji<STEAM_0:1:81357128> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:23:15] TP REG commander Benji<STEAM_0:1:81357128> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:23:16] TP REG commander Benji<STEAM_0:1:81357128> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:23:17] Finnerd: np
+[19:23:18] TP REG commander Benji<STEAM_0:1:81357128> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:23:20] Finnerd: no
+[19:23:22] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep weapon_physgun
+[19:23:25] Darth Vader: train him
+[19:23:28] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep gmod_tool
+[19:23:30] TP REG commander Benji<STEAM_0:1:81357128> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:23:38] TP REG commander Benji<STEAM_0:1:81357128> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:23:39] SHDT COL 0512 Shrimp: read these signs
+[19:23:46] Finnerd: its something to do with how it loads
+[19:23:59] Darth Vader: am i a error
+[19:24:06] Finnerd: no
+[19:24:10] Darth Vader: kk good
+[19:24:22] SHDT COL 0512 Shrimp: doesnt matter, read these signs
+[19:24:26] TP REG commander Benji<STEAM_0:1:81357128> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[19:24:26] TP REG commander Benji<STEAM_0:1:81357128> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[19:24:36] Darth Vader: read all of them
+[19:24:39] SHDT COL 0512 Shrimp: read the signs
+[19:24:41] HOOK teleported to TP REG commander Benji
+[19:25:06] SHDT COL 0512 Shrimp: goos
+[19:25:08] Darth Vader: press r and clock bow only once
+[19:25:09] SHDT COL 0512 Shrimp: good
+[19:25:17] Darth Vader: good
+[19:25:26] Darth Vader: and u call me m'lord
+[19:25:36] HOOK brought Darth Ethan
+[19:25:39] Finnerd: yes m'lord
+[19:25:46] HOOK stripped weapons from Darth Ethan
+[19:25:46] Darth Vader: good trooper
+[19:25:46] SHDT COL 0512 Shrimp: to salute  tyoe /me salute in chat
+[19:25:55] TP REG commander Benji: !uncloak
+[19:25:55] TP REG commander Benji uncloaked Themself
+[19:25:59] Finnerd: /me salute
+[19:26:02] Darth Vader: bind it in console
+[19:26:11] Darth Vader: copy this 
+[19:26:20] TP REG commander Benji: !hp benji 1000
+[19:26:20] TP REG commander Benji set the hp for Themself to 1000
+[19:26:28] Darth Vader: bind p "say /me salute"
+[19:26:37] Darth Vader: type that in consloe 
+[19:26:39] Finnerd: thanks m'lord
+[19:26:49] Darth Vader: press f10 and pasteit 
+[19:27:01] Darth Vader: then click enter
+[19:27:08] SHDT COL 0512 Shrimp: /me salutes
+[19:27:09] SHDT COL 0512 Shrimp: at ease trooper(s)
+[19:27:25] Darth Vader:  bind p "say /me salute"
+[19:27:33] TP REG commander Benji: !explode ethan
+[19:27:40] Darth Vader: dont use that only with rp resons
+[19:27:43] Darth Ethan: !explode ben
+[19:27:43] TP REG commander Benji suicided!
+[19:27:43] Darth Ethan exploded TP REG commander Benji
+[19:27:49] Darth Ethan: // banter indeed
+[19:27:52] Darth Ethan teleported to Finnerd
+[19:27:55] HOOK teleported to Darth Ethan
+[19:28:02] Darth Vader: ethan chnge your name
+[19:28:09] Darth Ethan: /name MED REG COMM Ethan
+[19:28:10] Darth Ethan<STEAM_0:1:72945201> changed their name to MED REG COMM Ethan
+[19:28:14] Darth Vader: !cloak hook
+[19:28:14] TP REG commander Benji: /ooc top notch english-isralian banter
+[19:28:18] Finnerd: /me salute
+[19:28:19] MED REG COMM Ethan: // xD
+[19:28:20] Finnerd: /me salute
+[19:28:21] Finnerd: /me salute
+[19:28:21] Finnerd: /me salute
+[19:28:23] TP REG commander Benji: !menu
+[19:28:28] Darth Vader: xD
+[19:28:31] Finnerd: done that m'lord
+[19:28:40] HOOK ignited Darth Vader for 300 seconds
+[19:28:41] Darth Vader: press p
+[19:28:43] Finnerd: /me salute
+[19:28:45] Finnerd: /me salute
+[19:28:47] Darth Vader: okay xD
+[19:28:53] MED REG COMM Ethan: !uninate vader
+[19:29:04] (TEAM) Darth Vader: !uninate 
+[19:29:05] MED REG COMM Ethan: !slay vader
+[19:29:05] Darth Vader suicided!
+[19:29:05] MED REG COMM Ethan slayed Darth Vader
+[19:29:06] HOOK: !menu
+[19:29:11] SHDT COL 0512 Shrimp: anyways read this wall
+[19:29:13] MED REG COMM Ethan: brb
+[19:29:17] Darth Vader: !goto finnerd
+[19:29:17] Darth Vader teleported to Finnerd
+[19:29:18] HOOK brought Darth Vader
+[19:29:26] Darth Vader: good
+[19:29:34] SHDT COL 0512 Shrimp: read it?
+[19:29:42] (tsay from TP REG commander Benji) Welcome To Royal Star Gaming, Star wars RP, check out our fourms: http://esstarwarsrp.enjin.com/forum , Enjoy your stay
+[19:29:42] Darth Vader: oi
+[19:29:47] Client "Marshall" connected.
+[19:29:49] Darth Vader: good
+[19:29:55] TP REG commander Benji: /ooc that nice ethan
+[19:29:55] SHDT COL 0512 Shrimp: read it?
+[19:30:00] Finnerd: yes
+[19:30:03] Darth Vader: i will whie list him when u done
+[19:30:21] HOOK: /advert AFK I'm checking the forms 
+[19:30:26] Client "Marshall" spawned in server <STEAM_0:1:112426618> (took 39 seconds).
+[19:30:30] HOOK: /name AFK Mate
+[19:30:30] HOOK<STEAM_0:1:90211140> changed their name to AFK Mate
+[19:30:40] SHDT COL 0512 Shrimp: im gonna use L for left face, R for right face, A for about face and F for front face
+[19:30:41] Client "calico1910" connected.
+[19:30:59] SHDT COL 0512 Shrimp: got it?
+[19:31:06] Finnerd: yep
+[19:31:11] Finnerd: sir
+[19:31:11] SHDT COL 0512 Shrimp: on the wall please
+[19:31:17] Darth Vader: read the thing behind u
+[19:31:23] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep weapon_rape
+[19:31:30] MED REG COMM Ethan: !explode ben
+[19:31:30] TP REG commander Benji suicided!
+[19:31:30] MED REG COMM Ethan exploded TP REG commander Benji
+[19:31:31] Darth Vader: /ooc ethan to me
+[19:31:36] MED REG COMM Ethan: ffs
+[19:31:47] TP REG commander Benji: /ooc banter
+[19:31:59] TP REG commander Benji: whatz uo
+[19:32:07] TP REG commander Benji: im gonna get roasted
+[19:32:28] Darth Vader: !goto ethan
+[19:32:28] Darth Vader teleported to MED REG COMM Ethan
+[19:32:31] Client "calico1910" spawned in server <STEAM_0:1:177547485> (took 110 seconds).
+[19:32:43] Darth Vader<STEAM_0:1:165468783> spawned/gave himself swep weapon_physgun
+[19:32:44] Darth Vader<STEAM_0:1:165468783> spawned/gave himself swep gmod_tool
+[19:33:03] Darth Vader added ST PVT 9034 Marshall to group STPVT
+[19:33:20] MED REG COMM Ethan: /y switch job
+[19:33:38] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_physgun
+[19:33:56] MED REG COMM Ethan: wait
+[19:34:14] Darth Vader: english
+[19:34:32] MED REG COMM Ethan: !kick cali 
+[19:34:32] MED REG COMM Ethan kicked calico1910
+[19:34:32] Dropped "calico1910" from server<STEAM_0:1:177547485>
+[19:34:47] Finnerd: /me salute
+[19:35:11] MED REG COMM Ethan: !cleardecals
+[19:35:11] MED REG COMM Ethan cleared decals
+[19:35:14] Darth Vader: read them
+[19:35:20] Darth Vader<STEAM_0:1:165468783> spawned/gave himself swep weapon_752_dc17
+[19:35:26] Darth Vader: read them
+[19:35:33] MED REG COMM Ethan: !cleardecals
+[19:35:33] MED REG COMM Ethan cleared decals
+[19:35:41] Darth Vader: !cleardecals
+[19:35:41] Darth Vader cleared decals
+[19:35:46] TP REG commander Benji: !clear decals
+[19:35:47] Darth Vader: read them
+[19:35:55] Darth Vader: goo
+[19:35:59] Darth Vader: goos
+[19:36:15] TP REG commander Benji: !cleardecals
+[19:36:15] TP REG commander Benji cleared decals
+[19:36:17] Darth Vader: hi ben
+[19:36:51] Client "gshchrdeev" connected.
+[19:38:01] AFK Mate: /advert Done
+[19:38:10] AFK Mate: /name HOOK
+[19:38:11] AFK Mate<STEAM_0:1:90211140> changed their name to HOOK
+[19:38:13] MED REG COMM Ethan: // nice
+[19:38:19] HOOK teleported to Darth Vader
+[19:38:23] Client "Sloth" connected.
+[19:38:29] Darth Vader: hi hook
+[19:38:51] Finnerd: /name ST PVT 2109 Finnerd
+[19:38:52] Finnerd<STEAM_0:1:56053138> changed their name to ST PVT 2109 Finnerd
+[19:39:23] MED REG COMM Ethan: !cleardecals
+[19:39:23] MED REG COMM Ethan cleared decals
+[19:39:33] MED REG COMM Ethan suicided!
+[19:39:37] MED REG COMM Ethan: sup
+[19:39:39] MED REG COMM Ethan: yes
+[19:39:50] MED REG COMM Ethan added ST PVT 2109 Finnerd to group STPVT
+[19:39:52] Darth Vader added ST PVT 2109 Finnerd to group STPVT
+[19:40:01] HOOK teleported to MED REG COMM Ethan
+[19:40:07] TP REG commander Benji added ST PVT 2109 Finnerd to group STPVT
+[19:40:09] MED REG COMM Ethan: /advert MED TRYOUTS IN MH | 2  mins | 2 strikes
+[19:40:38] Client "Sloth" spawned in server <STEAM_0:1:88690147> (took 135 seconds).
+[19:41:02] MED REG COMM Ethan: /advert MED TRYOUTS IN MH | in 1  min | 2 strikes
+[19:41:08] SHDT COL 0512 Shrimp: hes coming
+[19:41:14] HOOK<STEAM_0:1:90211140> spawned/gave himself swep weapon_camo
+[19:41:17] HOOK<STEAM_0:1:90211140> spawned/gave himself swep weapon_physgun
+[19:41:18] HOOK<STEAM_0:1:90211140> spawned/gave himself swep gmod_tool
+[19:41:24] HOOK<STEAM_0:1:90211140> spawned/gave himself swep taser
+[19:41:25] Darth Vader brought ST PVT 2109 Finnerd
+[19:41:28] HOOK<STEAM_0:1:90211140> spawned/gave himself swep weapon_cuff_police
+[19:41:38] Darth Vader: do u want to be a medic
+[19:41:38] MED REG COMM Ethan: do you want to be a Medic?
+[19:41:38] SHDT COL 0512 Shrimp: // bring me too
+[19:41:45] MED REG COMM Ethan: !bring shrimp
+[19:41:45] MED REG COMM Ethan brought SHDT COL 0512 Shrimp
+[19:41:54] Dropped "ST PVT 9034 Marshall" from server<STEAM_0:1:112426618>
+[19:42:01] ST PVT 2109 Finnerd: /me salute
+[19:42:02] MED REG COMM Ethan: yes
+[19:42:03] ST PVT 2109 Finnerd: /me salute
+[19:42:07] SKT REG COMM Sloth: /pm darth hi adam
+[19:42:13] HOOK: !menu
+[19:42:16] Dropped "ST PVT 2109 Finnerd" from server<STEAM_0:1:56053138>
+[19:42:22] TP REG commander Benji: !cloak
+[19:42:22] TP REG commander Benji cloaked Themself by amount 0
+[19:42:29] MED REG COMM Ethan: hey sloth
+[19:42:33] HOOK<STEAM_0:1:90211140> spawned sent wt_rocketboots
+[19:42:35] Client "Finnerd" connected.
+[19:42:39] HOOK: /me Shows ID: [ImperialName:Hook ] [Rank:SSGT ] [Numbers: 4312] [Height: 500cm] [Weight: 60kg]
+[19:42:47] HOOK teleported to MED REG COMM Ethan
+[19:43:02] HOOK: /name R3D5
+[19:43:03] HOOK<STEAM_0:1:90211140> changed their name to R3D5
+[19:43:25] MED REG COMM Ethan: !saly shrimp
+[19:43:29] MED REG COMM Ethan: !slay shri
+[19:43:29] SHDT COL 0512 Shrimp suicided!
+[19:43:29] MED REG COMM Ethan slayed SHDT COL 0512 Shrimp
+[19:43:36] MED REG COMM Ethan: !tp shrimp
+[19:43:36] MED REG COMM Ethan teleported SHDT COL 0512 Shrimp
+[19:43:45] Client "Finnerd" spawned in server <STEAM_0:1:56053138> (took 70 seconds).
+[19:43:50] (TEAM) Darth Vader: ethan have i been inactive
+[19:44:00] Darth Vader: ethan have i been inactive
+[19:44:08] R3D5<STEAM_0:1:90211140> spawned/gave himself swep dc17grapple
+[19:44:09] TP REG commander Benji: duduududududud
+[19:44:10] SKT REG COMM Sloth: !motd
+[19:44:11] MED REG COMM Ethan: !forcerespan finn
+[19:44:15] MED REG COMM Ethan: !tp finn
+[19:44:21] TP REG commander Benji: syhdsgdghsdgshgdsghdgsdhgshgdsghdhg OGGGGGGGGGGGGGHHHHHHHHHHHHHHHHHHHHHHHHH
+[19:44:23] MED REG COMM Ethan: !forcerespawn finn
+[19:44:23] MED REG COMM Ethan respawned ST PVT 2109 Finnerd​
+[19:44:25] MED REG COMM Ethan: !tp finn
+[19:44:25] MED REG COMM Ethan teleported ST PVT 2109 Finnerd​
+[19:44:39] TP REG commander Benji: !UNCLOAK
+[19:44:39] TP REG commander Benji uncloaked Themself
+[19:44:40] Darth Vader: !uncloak ben
+[19:44:40] Darth Vader uncloaked TP REG commander Benji
+[19:44:50] R3D5<STEAM_0:1:90211140> spawned/gave himself swep forcechoke
+[19:45:12] MED REG COMM Ethan: welp
+[19:45:16] MED REG COMM Ethan: !tp shr
+[19:45:16] MED REG COMM Ethan teleported SHDT COL 0512 Shrimp
+[19:45:27] MED REG COMM Ethan: !tp shr
+[19:45:27] MED REG COMM Ethan teleported SHDT COL 0512 Shrimp
+[19:45:37] Darth Vader: !tp sloth
+[19:45:37] Darth Vader teleported SKT REG COMM Sloth
+[19:45:41] R3D5<STEAM_0:1:90211140> spawned/gave himself swep weapon_frag
+[19:45:53] MED REG COMM Ethan: !cloak
+[19:45:53] MED REG COMM Ethan cloaked Themself by amount 0
+[19:45:54] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_physgun
+[19:45:54] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep gmod_tool
+[19:46:17] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:46:20] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:46:40] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:46:41] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:46:42] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:46:43] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:46:44] Darth Vader: dtop
+[19:46:44] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:46:45] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:46:46] Darth Vader: stop
+[19:46:48] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:46:52] Darth Vader<STEAM_0:1:165468783> spawned/gave himself swep taser
+[19:47:01] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:47:03] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:47:07] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[19:47:07] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[19:47:17] R3D5<STEAM_0:1:90211140> spawned/gave himself swep weapon_cuff_elastic
+[19:47:18] R3D5<STEAM_0:1:90211140> spawned/gave himself swep weapon_cuff_standard
+[19:47:28] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:47:32] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[19:47:33] R3D5<STEAM_0:1:90211140> spawned/gave himself swep weapon_cuff_plastic
+[19:47:43] Darth Vader: what did he do?s
+[19:48:16] SHDT COL 0512 Shrimp: // rape!
+[19:48:17] Darth Vader: what didi he do
+[19:48:22] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:48:23] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:48:25] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[19:48:28] Client "★✦Bu11s3Y3✦★" connected.
+[19:48:33] Darth Vader: take him to prison
+[19:48:38] SHDT COL 0512 Shrimp: // againts my will
+[19:49:04] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:49:06] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[19:49:07] SHDT COL 0512 Shrimp was killed by func_door
+[19:49:19] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:49:21] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[19:49:22] R3D5 brought SHDT COL 0512 Shrimp
+[19:49:35] Client "★✦Bu11s3Y3✦★" spawned in server <STEAM_0:1:63532136> (took 67 seconds).
+[19:49:39] R3D5<STEAM_0:1:90211140> spawned/gave himself swep weapon_cuff_elastic
+[19:49:43] Darth Vader teleported to ★✦Bu11s3Y3✦★
+[19:49:47] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:49:49] Darth Vader: hello
+[19:49:49] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[19:50:01] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:50:09] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:50:10] Darth Vader<STEAM_0:1:165468783> spawned/gave himself swep weapon_752_dc17
+[19:50:11] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[19:50:12] Dropped "ST PVT 2109 Finnerd​" from server<STEAM_0:1:56053138>
+[19:50:13] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[19:50:18] MED REG COMM Ethan: // brb
+[19:50:31] SHDT COL 0512 Shrimp suicided!
+[19:50:37] Darth Vader: /ooc i need a trainer
+[19:50:48] R3D5 jailed SHDT COL 0512 Shrimp
+[19:50:56] R3D5 teleported to SHDT COL 0512 Shrimp
+[19:51:12] R3D5 unjailed SHDT COL 0512 Shrimp
+[19:51:41] MED REG COMM Ethan: !uncloak
+[19:51:41] MED REG COMM Ethan uncloaked Themself
+[19:51:54] MED REG COMM Ethan teleported to ★✦Bu11s3Y3✦★
+[19:52:11] Darth Vader: kk
+[19:52:48] MED REG COMM Ethan: !goto shrimp
+[19:52:48] MED REG COMM Ethan teleported to SHDT COL 0512 Shrimp
+[19:53:05] MED REG COMM Ethan: !goto vader
+[19:53:05] MED REG COMM Ethan teleported to Darth Vader
+[19:53:12] Dropped "★✦Bu11s3Y3✦★" from server<STEAM_0:1:63532136>
+[19:53:16] Darth Vader: idk hook arested him
+[19:53:19] SHDT COL 0512 Shrimp: /me is sad
+[19:53:22] MED REG COMM Ethan: !goto hook
+[19:53:27] MED REG COMM Ethan: !goto r2
+[19:53:31] MED REG COMM Ethan: !goyo r2d2
+[19:53:33] SHDT COL 0512 Shrimp: /me cant be bothered anymore
+[19:53:34] Darth Vader: !goto shrimp
+[19:53:34] Darth Vader teleported to SHDT COL 0512 Shrimp
+[19:53:35] R3D5: /advert *IC* Darth Vader he is in prison
+[19:53:45] Darth Vader: !return
+[19:53:45] Darth Vader returned Themself to their original position
+[19:54:05] MED REG COMM Ethan: ok
+[19:54:18] R3D5<STEAM_0:1:90211140> spawned/gave himself swep weapon_cuff_elastic
+[19:54:49] R3D5 suicided!
+[19:54:49] MED REG COMM Ethan exploded R3D5
+[19:54:51] SKT REG COMM Sloth suicided!
+[19:54:51] MED REG COMM Ethan exploded SKT REG COMM Sloth
+[19:54:55] MED REG COMM Ethan: !slay ^
+[19:54:55] MED REG COMM Ethan suicided!
+[19:54:55] MED REG COMM Ethan slayed Themself
+[19:55:02] MED REG COMM Ethan: !goto shrimp
+[19:55:02] MED REG COMM Ethan teleported to SHDT COL 0512 Shrimp
+[19:55:05] SHDT COL 0512 Shrimp: //ooc haha suckers i got away
+[19:55:05] R3D5 teleported to SHDT COL 0512 Shrimp
+[19:55:31] R3D5<STEAM_0:1:90211140> spawned/gave himself swep weapon_cuff_elastic
+[19:55:39] Darth Vader<STEAM_0:1:165468783> used the tool duplicator on maps/rp_stardestroyer_v1.bsp
+[19:56:09] R3D5: !menu
+[19:56:27] (TEAM) Darth Vader: !cleardecals
+[19:56:27] Darth Vader cleared decals
+[19:56:30] MED REG COMM Ethan suicided!
+[19:56:30] R3D5 exploded MED REG COMM Ethan
+[19:56:36] MED REG COMM Ethan suicided!
+[19:56:36] R3D5 exploded MED REG COMM Ethan
+[19:56:52] Darth Vader: !goto ethan
+[19:56:52] Darth Vader teleported to MED REG COMM Ethan
+[19:57:02] SHDT COL 0512 Shrimp suicided!
+[19:57:18] R3D5 teleported to SHDT COL 0512 Shrimp
+[19:57:31] SKT REG COMM Sloth: // AFK
+[19:57:33] MED REG COMM Ethan: // kk
+[19:57:52] Darth Vader: /name Bobba Ren
+[19:57:52] Darth Vader<STEAM_0:1:165468783> changed their name to Bobba Ren
+[19:57:53] MED REG COMM Ethan: !motd
+[19:57:55] MED REG COMM Ethan suicided!
+[19:57:55] R3D5 exploded MED REG COMM Ethan
+[19:58:06] MED REG COMM Ethan: http://steamcommunity.com/sharedfiles/filedetails/?id=675039044
+[19:58:16] R3D5: !ragdoll hook
+[19:58:23] MED REG COMM Ethan teleported to TP REG commander Benji
+[19:58:31] R3D5: !ragdoll R3
+[19:58:31] R3D5 ragdolled Themself
+[19:58:38] Dropped "R3D5" from server<STEAM_0:1:90211140>
+[19:58:40] MED REG COMM Ethan: !regdoll ethan
+[19:58:48] Bobba Ren: !goto ethan
+[19:58:48] Bobba Ren teleported to MED REG COMM Ethan
+[19:58:49] MED REG COMM Ethan: !ragdoll ethan
+[19:58:49] MED REG COMM Ethan ragdolled Themself
+[19:58:55] MED REG COMM Ethan: !unragdoll
+[19:58:56] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[19:59:13] MED REG COMM Ethan: !unragdoll ethan
+[19:59:13] MED REG COMM Ethan unragdolled Themself
+[20:00:11] Bobba Ren: !hp ren 1000
+[20:00:11] Bobba Ren set the hp for Themself to 1000
+[20:00:18] Bobba Ren: !hp ren 10000
+[20:00:18] Bobba Ren set the hp for Themself to 10000
+[20:01:17] SHDT COL 0512 Shrimp: /me salutes
+[20:01:17] Bobba Ren: !model ren models/lillwasa/sw/bobafett.mdl
+[20:01:17] Bobba Ren set the model for Themself to models/lillwasa/sw/bobafett.mdl
+[20:01:25] MED REG COMM Ethan: // done
+[20:01:31] Bobba Ren: !goto ethan
+[20:01:31] Bobba Ren teleported to MED REG COMM Ethan
+[20:01:57] Bobba Ren suicided!
+[20:02:04] Bobba Ren: !goto ethan
+[20:02:04] Bobba Ren teleported to MED REG COMM Ethan
+[20:02:18] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[20:02:52] MED REG COMM Ethan: !model ^ models/player/hutt/huttjedi.mdl
+[20:02:52] MED REG COMM Ethan set the model for Themself to models/player/hutt/huttjedi.mdl
+[20:03:17] MED REG COMM Ethan: !model ^ models/player/sgg/starwars/battledroid_commander.mdl
+[20:03:17] MED REG COMM Ethan set the model for Themself to models/player/sgg/starwars/battledroid_commander.mdl
+[20:03:33] MED REG COMM Ethan: !model ^ models/bobafett_tfu.mdl
+[20:03:33] MED REG COMM Ethan set the model for Themself to models/bobafett_tfu.mdl
+[20:05:11] Bobba Ren<STEAM_0:1:165468783> spawned sent slave
+[20:06:53] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_physgun
+[20:06:53] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep gmod_tool
+[20:06:54] Bobba Ren<STEAM_0:1:165468783> used the tool camera on models/firespray/firespray1.mdl
+[20:08:44] MED REG COMM Ethan: !model ^ models/bobafett_tfu.mdl
+[20:08:44] MED REG COMM Ethan set the model for Themself to models/bobafett_tfu.mdl
+[20:10:13] Bobba Ren<STEAM_0:1:165468783> used the tool rb655_lightsaber on maps/rp_stardestroyer_v1.bsp
+[20:11:00] Bobba Ren: kk
+[20:11:20] MED REG COMM Ethan: // every one, go and recheck the collection, there are 2 new items that you need to subscibe to
+[20:11:34] SHDT COL 0512 Shrimp: // what are they?
+[20:11:35] MED REG COMM Ethan: // http://steamcommunity.com/sharedfiles/filedetails/?id=675039044
+[20:11:39] MED REG COMM Ethan: // Boba fett models
+[20:11:53] MED REG COMM Ethan: // once u download it I will restart the server
+[20:12:10] SHDT COL 0512 Shrimp: ive already got them
+[20:12:21] MED REG COMM Ethan: // btw Adam(Ren) is now Boba Fett, and Darth vader is available again on the shop
+[20:12:23] Client "Finnerd" connected.
+[20:13:05] MED REG COMM Ethan: // ok we will  do a restart in 10 mins
+[20:13:18] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep gmod_tool
+[20:13:21] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool remover on models/firespray/firespray1.mdl
+[20:13:30] MED REG COMM Ethan: !cleardecals
+[20:13:30] MED REG COMM Ethan cleared decals
+[20:13:59] Dropped "Bobba Ren" from server<STEAM_0:1:165468783>
+[20:15:47] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_physgun
+[20:16:25] MED REG COMM Ethan suicided!
+[20:16:46] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep gmod_tool
+[20:16:49] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[20:16:58] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[20:17:00] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[20:17:03] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[20:17:05] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[20:17:12] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_physgun
+[20:17:55] Client "IDONTKNOW" connected.
+[20:18:22] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[20:18:23] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[20:18:26] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[20:18:58] Client "IDONTKNOW" spawned in server <STEAM_0:1:165468783> (took 63 seconds).
+[20:19:10] Client "Finnerd" connected.
+[20:19:14] Client "lironlevi74" connected.
+[20:19:18] MED REG COMM Ethan: / /YES
+[20:19:20] MED REG COMM Ethan: // YES
+[20:19:26] MED REG COMM Ethan: // OH BABY I LOVE THIS
+[20:19:44] Bobba Ren: i carnt change to bobba
+[20:19:55] Bobba Ren: it wont let me :(
+[20:20:44] Client "lironlevi74" spawned in server <STEAM_0:0:166670731> (took 90 seconds).
+[20:20:55] Bobba Ren teleported to lironlevi74
+[20:21:38] MED REG COMM Ethan: can you ehar us
+[20:21:45] MED REG COMM Ethan: so you understand English?
+[20:21:46] lironlevi74<STEAM_0:0:166670731> spawned/gave himself swep weapon_lightsaber
+[20:21:54] lironlevi74<STEAM_0:0:166670731> spawned/gave himself swep weapon_752bf3_a280
+[20:21:54] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_physgun
+[20:22:03] Bobba Ren: english
+[20:22:08] MED REG COMM Ethan: !kick liron sry,but u dont know english
+[20:22:08] MED REG COMM Ethan kicked lironlevi74 (sry,but u dont know english)
+[20:22:08] Dropped "lironlevi74" from server<STEAM_0:0:166670731>
+[20:22:23] Bobba Ren: !hp ren 6000
+[20:22:23] Bobba Ren set the hp for Themself to 6000
+[20:22:43] Client "Finnerd" spawned in server <STEAM_0:1:56053138> (took 213 seconds).
+[20:23:06] Bobba Ren: http://steamcommunity.com/sharedfiles/filedetails/?id=675039044&insideModal=0&requirelogin=1
+[20:23:15] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_physgun
+[20:23:28] Bobba Ren<STEAM_0:1:165468783> spawned sent slave
+[20:23:29] Client "timonheidema" connected.
+[20:23:40] Bobba Ren: /ooc New person!!!!!!!
+[20:23:46] MED REG COMM Ethan: !forcerespawn finn
+[20:23:46] MED REG COMM Ethan respawned ST PVT 2109 Finnerd​
+[20:23:49] MED REG COMM Ethan: !tp finn
+[20:23:49] MED REG COMM Ethan teleported ST PVT 2109 Finnerd​
+[20:24:06] Dropped "SKT REG COMM Sloth" from server<STEAM_0:1:88690147>
+[20:24:30] Bobba Ren: /ooc sloth downloading thing
+[20:24:34] MED REG COMM Ethan: // k
+[20:24:51] Bobba Ren<STEAM_0:1:165468783> spawned sent shuttle_752_firespray_jango
+[20:25:09] Bobba Ren<STEAM_0:1:165468783> spawned sent shuttle_752_firespray_boba
+[20:25:11] Client "timonheidema" spawned in server <STEAM_0:1:65953841> (took 102 seconds).
+[20:25:19] MED REG COMM Ethan: !goyo ren
+[20:25:25] MED REG COMM Ethan: !goto ren
+[20:25:25] MED REG COMM Ethan teleported to Bobba Ren
+[20:25:33] MED REG COMM Ethan: !model ^ models/bobafett_tfu.mdl
+[20:25:33] MED REG COMM Ethan set the model for Themself to models/bobafett_tfu.mdl
+[20:25:42] MED REG COMM Ethan: !goto finn
+[20:25:42] MED REG COMM Ethan teleported to ST PVT 2109 Finnerd​
+[20:25:48] Client "Sloth" connected.
+[20:25:51] Bobba Ren: !model ren models/bobafett_tfu.mdl
+[20:25:51] Bobba Ren set the model for Themself to models/bobafett_tfu.mdl
+[20:25:57] SHDT Batt Comm Drakx: // Hey everyone! I am a Friend of AngryChicken... I am a.k.a Drakx
+[20:25:58] Bobba Ren<STEAM_0:1:165468783> spawned sent slave
+[20:25:59] MED REG COMM Ethan<STEAM_0:1:72945201> spawned vehicle models/nova/jeep_seat.mdl
+[20:26:01] SHDT Batt Comm Drakx: // Wot?
+[20:26:04] MED REG COMM Ethan: // Hey!
+[20:26:15] MED REG COMM Ethan: !goto drakx
+[20:26:15] MED REG COMM Ethan teleported to SHDT Batt Comm Drakx
+[20:26:26] SHDT Batt Comm Drakx: // I got this server recommended from him
+[20:26:26] Client "Sloth" spawned in server <STEAM_0:1:88690147> (took 38 seconds).
+[20:26:33] SHDT Batt Comm Drakx: // But i got on here before
+[20:26:36] Bobba Ren<STEAM_0:1:165468783> spawned sent shuttle_752_firespray_boba
+[20:26:45] SHDT Batt Comm Drakx: Yes
+[20:26:57] SHDT Batt Comm Drakx: I also was on TG
+[20:27:09] Bobba Ren<STEAM_0:1:165468783> spawned sent shuttle_752_firespray_boba
+[20:27:11] SHDT Batt Comm Drakx: SHDT isnt in the list?
+[20:27:14] MED REG COMM Ethan added SHDT Batt Comm Drakx to group SDTBATTCOM
+[20:27:18] MED REG COMM Ethan: !goto finn
+[20:27:18] MED REG COMM Ethan teleported to ST PVT 2109 Finnerd​
+[20:27:22] SHDT Batt Comm Drakx: Oh nvm
+[20:27:22] MED REG COMM Ethan suicided!
+[20:27:26] MED REG COMM Ethan: !goto finn
+[20:27:26] MED REG COMM Ethan teleported to ST PVT 2109 Finnerd​
+[20:27:29] Bobba Ren<STEAM_0:1:165468783> spawned sent slave
+[20:27:40] Bobba Ren: !model models/bobafett_tfu.mdl
+[20:27:45] Bobba Ren: !model ren models/bobafett_tfu.mdl
+[20:27:45] Bobba Ren set the model for Themself to models/bobafett_tfu.mdl
+[20:27:51] SHDT Batt Comm Drakx: // AngryChicken told me he owned this Server? While this is TG?
+[20:28:01] MED REG COMM Ethan: // nah, he jsut coppied my message
+[20:28:09] SHDT Batt Comm Drakx: // Oh wow
+[20:28:17] MED REG COMM Ethan: // this is RSG not cancer TG
+[20:28:21] SKT REG COMM Sloth suicided!
+[20:28:26] Client "MVG Jam" connected.
+[20:28:28] Bobba Ren: !hp ren 10000
+[20:28:28] Bobba Ren set the hp for Themself to 10000
+[20:28:31] SHDT Batt Comm Drakx: // Did it change?
+[20:28:50] MED REG COMM Ethan: // will explain ya later
+[20:28:57] SHDT Batt Comm Drakx: // But i thought: :O HE HAS A SERVER :O
+[20:29:01] MED REG COMM Ethan: // xD
+[20:29:02] Bobba Ren: !tp sloth
+[20:29:02] Bobba Ren teleported SKT REG COMM Sloth
+[20:29:09] SHDT Batt Comm Drakx: // I told him to keep a Commander Spot open for me
+[20:29:12] MED REG COMM Ethan: R A L F
+[20:29:16] SHDT Batt Comm Drakx: // And he said: "Sure"
+[20:29:25] SHDT Batt Comm Drakx: // While its just.....
+[20:29:48] Dropped "SHDT Batt Comm Drakx" from server<STEAM_0:1:65953841>
+[20:29:52] Bobba Ren: !model ren models/bobafett_tfu.mdl
+[20:29:52] Bobba Ren set the model for Themself to models/bobafett_tfu.mdl
+[20:30:01] MED REG COMM Ethan: L A R F L R
+[20:30:03] Client "MVG Jam" spawned in server <STEAM_0:1:78787504> (took 97 seconds).
+[20:30:09] MED REG COMM Ethan: !TP SHRIMP
+[20:30:09] MED REG COMM Ethan teleported SHDT COL 0512 Shrimp
+[20:30:17] SHDT COL 0512 Shrimp suicided!
+[20:30:18] MED REG COMM Ethan: !SEND SHRIMP mvg
+[20:31:06] ST PVT 2109 Finnerd​: /me salute
+[20:31:08] ST PVT 2109 Finnerd​: /me salute
+[20:31:09] ST PVT 2109 Finnerd​: /me salute
+[20:31:16] Bobba Ren: !tp sloth
+[20:31:16] Bobba Ren teleported SKT REG COMM Sloth
+[20:31:31] MVG Jam: /name ST PVT 1271 Jam
+[20:31:32] MVG Jam<STEAM_0:1:78787504> changed their name to ST PVT 1271 Jam
+[20:31:51] MED REG COMM Ethan: /me strips weapons and comms
+[20:32:00] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_physgun
+[20:32:01] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep gmod_tool
+[20:32:05] Bobba Ren<STEAM_0:1:165468783> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[20:32:16] ST PVT 1271 Jam: /me salutes
+[20:32:18] MED REG COMM Ethan: bind key "say /me strips weapons and comms"
+[20:32:32] MED REG COMM Ethan: !cleardecals
+[20:32:32] MED REG COMM Ethan cleared decals
+[20:32:48] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[20:33:20] ST PVT 2109 Finnerd​: /me strips weapons and comms
+[20:33:31] Bobba Ren: !goto ethan
+[20:33:31] Bobba Ren teleported to MED REG COMM Ethan
+[20:33:51] Bobba Ren: !return
+[20:33:51] Bobba Ren returned Themself to their original position
+[20:34:13] ST PVT 1271 Jam: /me Binds your hands andstrips you of any weapons and comms.
+[20:34:14] Bobba Ren<STEAM_0:1:165468783> spawned sent lambda
+[20:34:31] TP REG commander Benji<STEAM_0:1:81357128> spawned sent sentinel
+[20:34:54] MED REG COMM Ethan added ST PVT 1271 Jam to group STPVT
+[20:35:12] SHDT COL 0512 Shrimp: http://steamcommunity.com/sharedfiles/filedetails/?id=675039044
+[20:35:20] TP REG commander Benji: !GOTO BOB
+[20:35:31] TP REG commander Benji: !goto bob
+[20:35:31] TP REG commander Benji teleported to Bobba Ren
+[20:35:34] Bobba Ren<STEAM_0:1:165468783> spawned sent lambda
+[20:35:41] Bobba Ren<STEAM_0:1:165468783> spawned sent sentinel
+[20:35:54] MED REG COMM Ethan: !tp shrimp
+[20:35:54] MED REG COMM Ethan teleported SHDT COL 0512 Shrimp
+[20:35:58] Dropped "ST PVT 1271 Jam" from server<STEAM_0:1:78787504>
+[20:37:03] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_752_e60r
+[20:37:13] Bobba Ren: !model ren models/bobafett_tfu.mdl
+[20:37:13] Bobba Ren set the model for Themself to models/bobafett_tfu.mdl
+[20:37:49] MED REG COMM Ethan added ST PVT 2109 Finnerd​ to group MEDPFC
+[20:37:51] ST PVT 2109 Finnerd​: /name MED PVT 2109 Finnerd
+[20:37:51] ST PVT 2109 Finnerd​<STEAM_0:1:56053138> changed their name to MED PVT 2109 Finnerd
+[20:38:18] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep weapon_rape
+[20:38:21] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep gmod_tool
+[20:38:28] Bobba Ren: |!tp sloth
+[20:38:32] Bobba Ren: !tp sloth
+[20:38:32] Bobba Ren teleported SKT REG COMM Sloth
+[20:38:36] Bobba Ren<STEAM_0:1:165468783> spawned sent lambda
+[20:38:38] MED REG COMM Ethan: !menu
+[20:38:39] TP REG commander Benji<STEAM_0:1:81357128> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[20:38:39] TP REG commander Benji<STEAM_0:1:81357128> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[20:38:40] TP REG commander Benji<STEAM_0:1:81357128> used the tool remover on models/lamba/lamba1.mdl
+[20:38:40] MED PVT 2109 Finnerd: /name MED PFC 2109 Finnerd
+[20:38:40] TP REG commander Benji<STEAM_0:1:81357128> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[20:38:40] MED PVT 2109 Finnerd<STEAM_0:1:56053138> changed their name to MED PFC 2109 Finnerd
+[20:38:45] TP REG commander Benji<STEAM_0:1:81357128> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[20:38:45] TP REG commander Benji<STEAM_0:1:81357128> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[20:38:46] TP REG commander Benji<STEAM_0:1:81357128> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[20:38:46] TP REG commander Benji<STEAM_0:1:81357128> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[20:38:46] TP REG commander Benji<STEAM_0:1:81357128> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[20:39:00] SHDT COL 0512 Shrimp suicided!
+[20:39:00] The time is now 08:39 PM.
+[20:39:20] MED PFC 2109 Finnerd: /me salute
+[20:39:24] SHDT COL 0512 Shrimp: at ease trooper(s)
+[20:39:56] MED REG COMM Ethan started a vote (Event and an Off world event later?)
+[20:39:58] TP REG commander Benji voted for: Yes PLS SENPI
+[20:39:58] Bobba Ren voted for: Yes PLS SENPI
+[20:39:59] SKT REG COMM Sloth voted for: Yes PLS SENPI
+[20:40:01] MED PFC 2109 Finnerd voted for: Yes PLS SENPI
+[20:40:03] Bobba Ren: /ooc help
+[20:40:04] SHDT COL 0512 Shrimp voted for: Yes PLS SENPI
+[20:40:08] MED REG COMM Ethan: !goto ren
+[20:40:08] MED REG COMM Ethan teleported to Bobba Ren
+[20:40:16] Vote results: Option 'Yes PLS SENPI' won. (5/6)
+[20:40:26] MED REG COMM Ethan: // nice
+[20:40:33] MED PFC 2109 Finnerd: /ooc ducks
+[20:40:36] MED REG COMM Ethan: // will do so soon
+[20:40:44] MED REG COMM Ethan: !cleardecals
+[20:40:44] MED REG COMM Ethan cleared decals
+[20:41:05] MED REG COMM Ethan: /name Darth Ethan
+[20:41:05] MED REG COMM Ethan<STEAM_0:1:72945201> changed their name to Darth Ethan
+[20:41:11] Darth Ethan<STEAM_0:1:72945201> spawned/gave himself swep gmod_tool
+[20:41:11] Darth Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_physgun
+[20:41:12] Darth Ethan<STEAM_0:1:72945201> spawned/gave himself swep gmod_tool
+[20:41:21] Darth Ethan<STEAM_0:1:72945201> used the tool rb655_lightsaber on maps/rp_stardestroyer_v1.bsp
+[20:41:29] Darth Ethan<STEAM_0:1:72945201> used the tool rb655_lightsaber on maps/rp_stardestroyer_v1.bsp
+[20:41:42] Client "MVG Jam" connected.
+[20:41:43] Darth Ethan<STEAM_0:1:72945201> spawned sent darth_vader_theme
+[20:42:00] Darth Ethan<STEAM_0:1:72945201> spawned sent darth_vader_theme
+[20:42:25] Client "MVG Jam" spawned in server <STEAM_0:1:78787504> (took 43 seconds).
+[20:42:29] Bobba Ren: /ooc unarrest me
+[20:42:45] Darth Ethan: rise..
+[20:43:25] Client "[KyloRP] [CM] Kenny" connected.
+[20:43:32] Darth Ethan suicided!
+[20:43:52] Bobba Ren killed TP REG commander Benji using player
+[20:44:04] Bobba Ren: !cleardecals
+[20:44:04] Bobba Ren cleared decals
+[20:44:19] Darth Ethan: xD
+[20:44:26] TP REG commander Benji<STEAM_0:1:81357128> spawned sent kyloren_arrives_battle
+[20:44:36] Darth Ethan: // xD
+[20:44:38] TP REG commander Benji<STEAM_0:1:81357128> spawned sent temple_march
+[20:44:51] MED PFC 2109 Finnerd: /me salute
+[20:44:58] SHDT COL 0512 Shrimp: /me salutes
+[20:45:07] Client "[KyloRP] [CM] Kenny" spawned in server <STEAM_0:1:89597975> (took 102 seconds).
+[20:45:20] TP REG commander Benji<STEAM_0:1:81357128> spawned sent chosen_one_theme
+[20:45:36] TP REG commander Benji<STEAM_0:1:81357128> spawned sent throne_room_theme
+[20:45:51] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep weapon_physgun
+[20:46:12] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep gmod_tool
+[20:46:15] Darth Ethan teleported to TP REG commander Benji
+[20:46:35] Darth Ethan teleported to Bobba Ren
+[20:46:45] MED PFC 2109 Finnerd: /me strips weapons and comms
+[20:46:50] TP REG commander Benji<STEAM_0:1:81357128> spawned sent battle_of_heroes
+[20:47:19] TP REG commander Benji<STEAM_0:1:81357128> spawned sent nihilus_theme
+[20:47:30] TP REG commander Benji<STEAM_0:1:81357128> spawned sent march_of_the_resistance
+[20:47:44] TP REG commander Benji<STEAM_0:1:81357128> spawned sent reys_theme
+[20:47:46] TP REG commander Benji<STEAM_0:1:81357128> spawned sent reys_theme
+[20:47:55] TP REG commander Benji<STEAM_0:1:81357128> spawned sent sith_theme
+[20:47:56] SKT REG COMM Sloth: /pm et which server is his
+[20:48:02] TP REG commander Benji<STEAM_0:1:81357128> spawned sent falcon
+[20:48:04] Darth Ethan: /pm sloth IDk
+[20:48:06] Bobba Ren<STEAM_0:1:165468783> spawned sent stap
+[20:48:08] TP REG commander Benji<STEAM_0:1:81357128> spawned sent chosen_one_theme
+[20:48:16] ST PVT 1271 Jam​: /me salutes
+[20:48:17] Darth Ethan added Sith Inquisitor Kenny to group STPVT
+[20:48:26] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[20:48:39] TP REG commander Benji<STEAM_0:1:81357128> spawned sent trailer_music_extended
+[20:48:41] Darth Ethan: /pm ren he is starting to annoy me
+[20:48:59] Darth Ethan: !tp kenn
+[20:48:59] Darth Ethan teleported Sith Inquisitor Kenny
+[20:49:18] Sith Inquisitor Kenny: /name ST PVT 5465 Kenny
+[20:49:18] Sith Inquisitor Kenny<STEAM_0:1:89597975> changed their name to ST PVT 5465 Kenny
+[20:49:21] TP REG commander Benji<STEAM_0:1:81357128> spawned sent star_wars_theme
+[20:49:24] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_camo
+[20:49:28] TP REG commander Benji<STEAM_0:1:81357128> spawned sent throne_room_theme
+[20:49:37] Dropped "ST PVT 1271 Jam​" from server<STEAM_0:1:78787504>
+[20:49:48] TP REG commander Benji<STEAM_0:1:81357128> spawned sent darth_vader_theme
+[20:50:00] Darth Ethan: @ do you mind if he become fleet ensign?
+[20:50:00] Darth Ethan to admins: do you mind if he become fleet ensign?
+[20:50:08] TP REG commander Benji: @no
+[20:50:08] TP REG commander Benji to admins: no
+[20:50:23] Bobba Ren: @ yh
+[20:50:23] Bobba Ren to admins: yh
+[20:50:30] ST PVT 5465 Kenny: !Cloak
+[20:50:31] Darth Ethan added ST PVT 5465 Kenny to group Fleet Ensign
+[20:50:31] ST PVT 5465 Kenny: /ADVERT GRANTED!
+[20:50:32] Bobba Ren: !menu
+[20:50:32] ST PVT 5465 Kenny: /ADVERT GRANTED!
+[20:50:34] ST PVT 5465 Kenny: /ADVERT GRANTED!
+[20:50:42] ST PVT 5465 Kenny: /advert test
+[20:50:57] ST PVT 5465 Kenny: /name Fleet Ensign Kenny
+[20:50:57] ST PVT 5465 Kenny<STEAM_0:1:89597975> changed their name to Fleet Ensign Kenny
+[20:50:58] TP REG commander Benji<STEAM_0:1:81357128> used the tool fading_door on maps/rp_stardestroyer_v1.bsp
+[20:50:58] TP REG commander Benji<STEAM_0:1:81357128> used the tool fading_door on models/speakers/speakers/speaker_medium.mdl
+[20:50:59] TP REG commander Benji<STEAM_0:1:81357128> used the tool fading_door on models/speakers/speakers/speaker_medium.mdl
+[20:51:00] TP REG commander Benji<STEAM_0:1:81357128> used the tool fading_door on models/speakers/speakers/speaker_medium.mdl
+[20:51:05] TP REG commander Benji<STEAM_0:1:81357128> used the tool fading_door on models/speakers/speakers/speaker_medium.mdl
+[20:51:05] TP REG commander Benji<STEAM_0:1:81357128> used the tool fading_door on models/speakers/speakers/speaker_medium.mdl
+[20:51:09] TP REG commander Benji<STEAM_0:1:81357128> used the tool permaprops on models/speakers/speakers/speaker_medium.mdl
+[20:51:20] TP REG commander Benji<STEAM_0:1:81357128> spawned sent the_force_theme
+[20:51:35] TP REG commander Benji<STEAM_0:1:81357128> spawned sent fly_anything
+[20:51:39] Fleet Ensign Kenny: @ Ethan to me
+[20:51:39] Fleet Ensign Kenny to admins: Ethan to me
+[20:51:39] TP REG commander Benji<STEAM_0:1:81357128> spawned sent temple_march
+[20:51:51] Darth Ethan: !cloak
+[20:51:51] Darth Ethan cloaked Themself by amount 0
+[20:51:57] Darth Ethan: /name Ethan On Duty
+[20:51:57] Darth Ethan<STEAM_0:1:72945201> changed their name to Ethan On Duty
+[20:52:04] Fleet Ensign Kenny: /ooc Ethan can you plz TP to me
+[20:52:09] Ethan On Duty: !tp kenn
+[20:52:09] Ethan On Duty teleported Fleet Ensign Kenny
+[20:52:13] Ethan On Duty<STEAM_0:1:72945201> spawned/gave himself swep weapon_physgun
+[20:52:24] TP REG commander Benji<STEAM_0:1:81357128> used the tool permaprops on models/speakers/speakers/speaker_medium.mdl
+[20:52:31] Bobba Ren: !tp kenny
+[20:52:31] Bobba Ren teleported Fleet Ensign Kenny
+[20:52:31] SHDT COL 0512 Shrimp: fin?
+[20:52:32] TP REG commander Benji<STEAM_0:1:81357128> spawned sent throne_room_theme
+[20:52:37] Ethan On Duty: !goto kenn
+[20:52:41] Ethan On Duty: !goto kenn
+[20:52:41] Ethan On Duty teleported to Fleet Ensign Kenny
+[20:52:58] TP REG commander Benji<STEAM_0:1:81357128> used the tool permaprops on models/speakers/speakers/speaker_medium.mdl
+[20:53:07] TP REG commander Benji<STEAM_0:1:81357128> spawned sent darth_vader_theme
+[20:53:10] Dropped "MED PFC 2109 Finnerd" from server<STEAM_0:1:56053138>
+[20:53:10] Fleet Ensign Kenny: !Cloak
+[20:53:12] Fleet Ensign Kenny: !Cloak
+[20:53:18] Ethan On Duty: !resetmap
+[20:53:19] Ethan On Duty reset the map to its original state
+[20:53:26] TP REG commander Benji<STEAM_0:1:81357128> spawned sent darth_vader_theme
+[20:53:47] TP REG commander Benji<STEAM_0:1:81357128> used the tool permaprops on models/speakers/speakers/speaker_medium.mdl
+[20:53:58] Bobba Ren<STEAM_0:1:165468783> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[20:54:13] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[20:54:15] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[20:54:15] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[20:54:16] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[20:54:17] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[20:54:17] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[20:54:18] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[20:54:18] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[20:54:18] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[20:54:19] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[20:54:19] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[20:54:22] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[20:54:23] Fleet Ensign Kenny: /me taking a cop of coffe
+[20:54:30] Bobba Ren<STEAM_0:1:165468783> spawned NPC npc_seagull
+[20:54:48] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/seagull.mdl
+[20:54:57] Ethan On Duty: !resetmap
+[20:54:57] Ethan On Duty reset the map to its original state
+[20:55:08] Ethan On Duty<STEAM_0:1:72945201> spawned/gave himself swep gmod_tool
+[20:55:10] Bobba Ren<STEAM_0:1:165468783> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[20:55:12] Ethan On Duty<STEAM_0:1:72945201> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[20:55:15] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep weapon_lasermgun
+[20:55:25] TP REG commander Benji: !hp 10000
+[20:55:25] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[20:55:26] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[20:55:30] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[20:55:33] TP REG commander Benji: !hp benji 10000
+[20:55:33] TP REG commander Benji set the hp for Themself to 10000
+[20:55:35] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[20:55:37] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[20:55:40] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[20:55:40] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on models/hunter/plates/plate1x1.mdl
+[20:55:41] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[20:55:48] Bobba Ren: !hp ben 250
+[20:55:48] Bobba Ren set the hp for TP REG commander Benji to 250
+[20:55:57] TP REG commander Benji: !hp 5000
+[20:55:58] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[20:56:04] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[20:56:05] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[20:56:06] TP REG commander Benji: !hp benji 5000
+[20:56:06] TP REG commander Benji set the hp for Themself to 5000
+[20:56:07] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[20:56:09] Ethan On Duty<STEAM_0:1:72945201> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[20:56:21] Fleet Ensign Kenny: /advert *Workstation* Checking Engine for Problems
+[20:56:43] Bobba Ren: !cleardecal
+[20:56:55] Bobba Ren: !cleardecals
+[20:56:55] Bobba Ren cleared decals
+[20:56:57] TP REG commander Benji: !cleardeclas
+[20:57:09] Bobba Ren: !reset the map to its original state
+[20:57:16] Bobba Ren killed SKT REG COMM Sloth using player
+[20:57:33] TP REG commander Benji: !hp benji 10000
+[20:57:33] TP REG commander Benji set the hp for Themself to 10000
+[20:57:38] Client "Finnerd" connected.
+[20:57:43] TP REG commander Benji: !hp benji 10000
+[20:57:43] TP REG commander Benji set the hp for Themself to 10000
+[20:57:47] SKT REG COMM Sloth: /advert *IC* All troopers to the bridge 
+[20:57:53] Ethan On Duty: // busy
+[20:57:58] Ethan On Duty<STEAM_0:1:72945201> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[20:58:02] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_laserrifle1
+[20:58:03] TP REG commander Benji suicided!
+[20:58:14] TP REG commander Benji ragdolled Bobba Ren
+[20:58:17] TP REG commander Benji unragdolled Bobba Ren
+[20:58:21] Ethan On Duty: @ darth vader will be = to Grand Muff
+[20:58:21] Ethan On Duty to admins: darth vader will be = to Grand Muff
+[20:58:25] Ethan On Duty: @ k
+[20:58:25] Ethan On Duty to admins: k
+[20:58:25] TP REG commander Benji teleported to Bobba Ren
+[20:58:27] Ethan On Duty: @ ?
+[20:58:27] Ethan On Duty to admins: ?
+[20:58:31] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep weapon_lasermgun
+[20:58:31] TP REG commander Benji suicided!
+[20:58:43] TP REG commander Benji suicided!
+[20:58:51] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[20:59:05] TP REG commander Benji: !hp benji 10000
+[20:59:05] TP REG commander Benji set the hp for Themself to 10000
+[20:59:12] TP REG commander Benji suicided!
+[20:59:23] TP REG commander Benji: !hp benji 10000
+[20:59:23] TP REG commander Benji set the hp for Themself to 10000
+[20:59:28] TP REG commander Benji suicided!
+[20:59:31] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep weapon_laserrpg
+[20:59:35] TP REG commander Benji suicided!
+[20:59:35] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_laserrpg
+[20:59:36] Fleet Ensign Kenny: /advert *Workstation* Engine is 100% Working no problems
+[20:59:40] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_lasermgun
+[20:59:40] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep weapon_laserrpg
+[20:59:44] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_laserrifle1
+[20:59:45] TP REG commander Benji suicided!
+[20:59:50] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[20:59:50] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_laserpistol
+[20:59:55] TP REG commander Benji jailed Bobba Ren
+[21:00:04] Fleet Ensign Kenny: /me Checking Database
+[21:00:05] TP REG commander Benji: !hp 10000
+[21:00:09] TP REG commander Benji suicided!
+[21:00:20] SKT REG COMM Sloth suicided!
+[21:00:22] TP REG commander Benji: !hp benji 10000
+[21:00:22] TP REG commander Benji set the hp for Themself to 10000
+[21:00:26] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep weapon_laserrifle1
+[21:00:28] TP REG commander Benji suicided!
+[21:00:28] SKT REG COMM Sloth suicided!
+[21:00:30] Bobba Ren: !unjail ren
+[21:00:30] Bobba Ren unjailed Themself
+[21:00:32] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep weapon_laserrifle1
+[21:00:38] (TEAM) Bobba Ren: !clear declas
+[21:00:43] Bobba Ren: !cleardecals
+[21:00:43] Bobba Ren cleared decals
+[21:00:46] TP REG commander Benji suicided!
+[21:00:46] Bobba Ren suicided!
+[21:00:46] SKT REG COMM Sloth suicided!
+[21:00:51] Ethan On Duty<STEAM_0:1:72945201> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[21:00:53] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep weapon_lasermgun
+[21:01:07] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_laserrifle1
+[21:01:12] TP REG commander Benji: !hp benji 10000
+[21:01:12] TP REG commander Benji set the hp for Themself to 10000
+[21:01:20] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_laserpistol2
+[21:01:34] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_laserpistol
+[21:01:35] Ethan On Duty: @ who is higer fleet commondore or captain?
+[21:01:35] Ethan On Duty to admins: who is higer fleet commondore or captain?
+[21:01:44] SKT REG COMM Sloth: /me gives meal
+[21:01:47] (TEAM) Bobba Ren: @ com
+[21:01:47] Bobba Ren to admins: com
+[21:01:49] Ethan On Duty: !goto ben
+[21:01:49] Ethan On Duty teleported to TP REG commander Benji
+[21:01:54] Ethan On Duty: @ ok
+[21:01:54] Ethan On Duty to admins: ok
+[21:01:58] Fleet Ensign Kenny: /dropmoney 100
+[21:02:05] Bobba Ren: @ no cap
+[21:02:05] Bobba Ren to admins: no cap
+[21:02:13] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_laserpistol2
+[21:02:17] Bobba Ren suicided!
+[21:02:17] Client "Finnerd" spawned in server <STEAM_0:1:56053138> (took 279 seconds).
+[21:02:26] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[21:02:27] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[21:02:30] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[21:02:31] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[21:02:36] (TEAM) Bobba Ren: !model models/bobafett_tfu.mdl
+[21:02:38] Ethan On Duty<STEAM_0:1:72945201> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[21:02:39] Ethan On Duty<STEAM_0:1:72945201> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[21:02:43] (TEAM) Bobba Ren: !model ren models/bobafett_tfu.mdl
+[21:02:43] Bobba Ren set the model for Themself to models/bobafett_tfu.mdl
+[21:02:46] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_laserpistol
+[21:02:58] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_laserrifle1
+[21:02:59] TP REG commander Benji suicided!
+[21:02:59] Bobba Ren suicided!
+[21:02:59] SKT REG COMM Sloth suicided!
+[21:03:10] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_laserpistol2
+[21:03:11] Ethan On Duty<STEAM_0:1:72945201> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[21:03:22] SKT REG COMM Sloth: // STOP WITH THAT FUCKING GUN YOU WANKERS
+[21:03:31] Bobba Ren: /ooc Sorry 
+[21:03:41] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_laserrifle1
+[21:03:43] SKT REG COMM Sloth: // dick
+[21:03:48] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[21:03:52] Ethan On Duty: // WOW WOW
+[21:03:52] TP REG commander Benji: !hp bob 600
+[21:03:52] TP REG commander Benji set the hp for Bobba Ren to 600
+[21:03:55] Ethan On Duty: // chill
+[21:03:56] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[21:04:01] Bobba Ren: !goto ethan
+[21:04:01] Bobba Ren teleported to Ethan On Duty
+[21:04:07] Ethan On Duty: !admin
+[21:04:07] (SILENT) Ethan On Duty is now administrating
+[21:04:12] SKT REG COMM Sloth: // he was abusing his admin powers
+[21:04:21] TP REG commander Benji suicided!
+[21:04:21] Bobba Ren suicided!
+[21:04:21] SKT REG COMM Sloth suicided!
+[21:04:26] SKT REG COMM Sloth: // SEE
+[21:04:29] Bobba Ren: !goto ethan
+[21:04:29] Bobba Ren teleported to Ethan On Duty
+[21:04:30] TP REG commander Benji: !hp ren 600
+[21:04:30] TP REG commander Benji set the hp for Bobba Ren to 600
+[21:04:31] Ethan On Duty: !goto sloth
+[21:04:31] Ethan On Duty teleported to SKT REG COMM Sloth
+[21:04:35] Bobba Ren: !goto ethan
+[21:04:35] Bobba Ren teleported to Ethan On Duty
+[21:04:45] Ethan On Duty: !return ^
+[21:04:45] Ethan On Duty returned Themself to their original position
+[21:04:56] Bobba Ren: !goto ben
+[21:04:56] Bobba Ren teleported to TP REG commander Benji
+[21:05:01] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_laserrifle1
+[21:05:03] Ethan On Duty<STEAM_0:1:72945201> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[21:05:07] Ethan On Duty: hey
+[21:05:08] SHDT COL 0512 Shrimp: /advert *Comms* I am guarding the bridge from rebel scum
+[21:05:13] Fleet Ensign Kenny: /advert *Workstation* Scanning Space for Unknown Ship's
+[21:05:14] TP REG commander Benji: /advert *IC* squad of 3 to the bridge
+[21:05:32] Bobba Ren: !goto be
+[21:05:32] Bobba Ren teleported to TP REG commander Benji
+[21:05:37] Bobba Ren suicided!
+[21:05:42] (TEAM) Bobba Ren: !model models/bobafett_tfu.mdl
+[21:05:47] Bobba Ren: !model ren models/bobafett_tfu.mdl
+[21:05:47] Bobba Ren set the model for Themself to models/bobafett_tfu.mdl
+[21:06:05] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[21:06:05] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[21:06:08] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[21:06:14] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752_ihr
+[21:06:32] Ethan On Duty<STEAM_0:1:72945201> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[21:06:33] Ethan On Duty<STEAM_0:1:72945201> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[21:06:33] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep weapon_lasermgun
+[21:06:42] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep sw_weapon_first_order_f11d
+[21:06:50] TP REG commander Benji: !hp 5000
+[21:06:53] Fleet Ensign Kenny: /advert *Workstation* Found one Unknown Ship in space 4 kilominer's away!
+[21:06:57] TP REG commander Benji: !hp benji 1000
+[21:06:57] TP REG commander Benji set the hp for Themself to 1000
+[21:07:00] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752_dh17
+[21:07:04] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752_dh17
+[21:07:06] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_dh17
+[21:07:07] TP REG commander Benji: !hp benji 5000
+[21:07:07] TP REG commander Benji set the hp for Themself to 5000
+[21:07:11] SHDT COL 0512 Shrimp: // kilominers?
+[21:07:19] SHDT COL 0512 Shrimp: /me salutes
+[21:07:21] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[21:07:22] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[21:07:23] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[21:07:24] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[21:07:25] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[21:07:26] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[21:07:27] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[21:07:29] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[21:07:31] Ethan On Duty<STEAM_0:1:72945201> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[21:07:32] TP REG commander Benji: /advert *VR Start im entering the bridge
+[21:07:48] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_se14c
+[21:07:50] Ethan On Duty: @ Chain of command is done
+[21:07:50] Ethan On Duty to admins: Chain of command is done
+[21:08:09] TP REG commander Benji killed SKT REG COMM Sloth using weapon_lasermgun
+[21:08:13] TP REG commander Benji killed Bobba Ren using weapon_lasermgun
+[21:08:21] Bobba Ren: !hp ren 10000
+[21:08:21] Bobba Ren set the hp for Themself to 10000
+[21:08:29] MED PFC 2109 Finnerd: /me salute
+[21:08:31] MED PFC 2109 Finnerd: /me salute
+[21:08:33] SHDT COL 0512 Shrimp: at ease trooper(s)
+[21:08:39] MED PFC 2109 Finnerd: /me salute
+[21:08:41] MED PFC 2109 Finnerd: /me salute
+[21:08:58] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[21:09:05] Bobba Ren: !model ren models/bobafett_tfu.mdl
+[21:09:05] Bobba Ren set the model for Themself to models/bobafett_tfu.mdl
+[21:09:05] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[21:09:06] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[21:09:07] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[21:09:08] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[21:09:10] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_camo
+[21:09:11] Ethan On Duty<STEAM_0:1:72945201> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[21:09:29] Fleet Ensign Kenny: /advert *Comms* i got taking in the bridge by a Rebel!
+[21:09:35] TP REG commander Benji: /advert *VR* i have a fleet do not enter the bridge
+[21:09:36] MED PFC 2109 Finnerd: /me salute
+[21:09:37] MED PFC 2109 Finnerd: /me salute
+[21:09:38] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[21:09:38] MED PFC 2109 Finnerd: /me salute
+[21:09:39] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[21:09:39] MED PFC 2109 Finnerd: /me salute
+[21:09:42] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[21:09:43] MED PFC 2109 Finnerd: /me salute
+[21:09:45] Ethan On Duty<STEAM_0:1:72945201> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[21:09:46] TP REG commander Benji: /me takes weapons and comms
+[21:09:47] Ethan On Duty<STEAM_0:1:72945201> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[21:09:52] Ethan On Duty: !uncloak
+[21:09:52] Ethan On Duty uncloaked Themself
+[21:09:56] Ethan On Duty: // vader is back
+[21:10:01] Ethan On Duty: /name Darth Ethan
+[21:10:01] Ethan On Duty<STEAM_0:1:72945201> changed their name to Darth Ethan
+[21:10:07] TP REG commander Benji: /advert *VR* if anyone trys to save him he will die
+[21:10:08] Darth Ethan: !hp ^ 12000
+[21:10:08] Darth Ethan set the hp for Themself to 12000
+[21:10:15] Darth Ethan: !goto ben
+[21:10:15] Darth Ethan teleported to TP REG commander Benji
+[21:10:30] Darth Ethan: !cloak
+[21:10:30] Darth Ethan cloaked Themself by amount 0
+[21:10:47] Darth Ethan: !uncloak
+[21:10:47] Darth Ethan uncloaked Themself
+[21:11:15] Darth Ethan: !cleardecals
+[21:11:15] Darth Ethan cleared decals
+[21:11:31] SHDT COL 0512 Shrimp: /advert *Comms* A commander has the Fleet Ensign
+[21:11:45] Darth Ethan: !resetmap
+[21:11:46] Darth Ethan reset the map to its original state
+[21:11:46] TP REG commander Benji: /advert *VR come to the meeting room. I will expect nogatiatons
+[21:12:01] SKT REG COMM Sloth: /advert *comms* Stay in there and get use more information if you can
+[21:12:08] Darth Ethan: rise...
+[21:13:09] Darth Ethan: /advert *VR* Is everything going well, I hope it does. kill the rebel scum
+[21:14:18] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_cuff_elastic
+[21:15:07] Darth Ethan started a vote (Off world event in 5 mins?)
+[21:15:09] Bobba Ren voted for: Yes PLS SENPI
+[21:15:10] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep weapon_cuff_tactical
+[21:15:10] SKT REG COMM Sloth voted for: Yes PLS SENPI
+[21:15:11] Fleet Ensign Kenny voted for: Yes PLS SENPI
+[21:15:12] SHDT COL 0512 Shrimp voted for: Yes PLS SENPI
+[21:15:13] TP REG commander Benji voted for: Nah ya wanker
+[21:15:14] MED PFC 2109 Finnerd voted for: Yes PLS SENPI
+[21:15:24] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep weapon_cuff_elastic
+[21:15:27] Vote results: Option 'Yes PLS SENPI' won. (5/7)
+[21:15:33] Darth Ethan: // banter
+[21:16:00] Darth Ethan<STEAM_0:1:72945201> spawned sent darth_vader_theme
+[21:16:10] SHDT COL 0512 Shrimp: /advert *Comms* The Rebels have a fleet member
+[21:16:26] Darth Ethan: /advert *comms* I am entering 
+[21:16:34] SHDT COL 0512 Shrimp: /advert *Comms* they are armed and dangerous
+[21:16:34] TP REG commander Benji: *VR* i have your fleet come up to nogatiate if you wish. I have scanners i can see cloaked people entering.
+[21:17:24] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep weapon_cuff_elastic
+[21:17:47] TP REG commander Benji: /me strips weapons
+[21:18:20] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_physgun
+[21:18:21] Darth Ethan: /advert *comms* my comms and weapons will be removed
+[21:18:37] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep weapon_physgun
+[21:18:55] Bobba Ren: !CLEARDECLAS
+[21:19:15] SHDT COL 0512 Shrimp: // why is bobba fett here/
+[21:19:17] SHDT COL 0512 Shrimp: ??
+[21:19:25] SHDT COL 0512 Shrimp: // doesnt make sense
+[21:19:28] Bobba Ren: /OOC i AM SPECIAL
+[21:19:46] SHDT COL 0512 Shrimp: // >:(
+[21:19:52] SKT REG COMM Sloth: /pm bobba i am in the bridge XD
+[21:20:24] SHDT COL 0512 Shrimp: /advert *comms* All troops to hangar bay
+[21:20:28] Bobba Ren: /pm Can we just kill him
+[21:20:35] Darth Ethan: // wait
+[21:20:39] Bobba Ren: /pm ethan can we just kill him
+[21:20:48] Darth Ethan: /pm ren sure, once we are there
+[21:20:53] SHDT COL 0512 Shrimp: /advert *comms* Hold that!
+[21:21:18] Bobba Ren: !model ben npc_rodian_hostile
+[21:21:18] Bobba Ren set the model for TP REG commander Benji to npc_rodian_hostile
+[21:21:47] Darth Ethan: /advert *comms* Troopers, go and get 1000000 credits, and meet me and Fett at the HB
+[21:22:05] Bobba Ren: !model ren models/jazzmcfly/jka/younglings/jka_young_anikan.mdl
+[21:22:05] Bobba Ren set the model for Themself to models/jazzmcfly/jka/younglings/jka_young_anikan.mdl
+[21:22:12] SHDT COL 0512 Shrimp: /advert *Comms* Shall we prepare an ambush?
+[21:22:17] Darth Ethan: // shhhh
+[21:22:20] Darth Ethan: // he ahs the comms
+[21:22:22] Darth Ethan: // buy ya
+[21:22:25] Darth Ethan: // has
+[21:22:29] Bobba Ren: !model re models/bobafett_tfu.mdl
+[21:22:29] Bobba Ren set the model for Themself,SKT REG COMM Sloth,TP REG commander Benji to models/bobafett_tfu.mdl
+[21:22:36] Darth Ethan: /advert *comms* no . ;)
+[21:22:47] Darth Ethan brought TP REG commander Benji
+[21:22:51] SKT REG COMM Sloth: // WHY AM I BOBBA FETT
+[21:22:52] TP REG commander Benji: /advert *Comms* i saw that imperial scum its in ope comms not *IC*
+[21:23:16] Darth Ethan: // switch back
+[21:23:21] Darth Ethan killed Fleet Ensign Kenny using weapon_lightsaber
+[21:23:22] SKT REG COMM Sloth suicided!
+[21:23:24] Darth Ethan: // shit
+[21:23:27] SHDT COL 0512 Shrimp: /advert *IC* sorry i didn't know
+[21:23:27] Darth Ethan: !tp kenny
+[21:23:27] Darth Ethan teleported Fleet Ensign Kenny
+[21:23:29] TP REG commander Benji: !bring kennt
+[21:23:35] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep weapon_cuff_plastic
+[21:23:35] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep weapon_cuff_police
+[21:23:37] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep weapon_cuff_rope
+[21:23:38] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep weapon_cuff_elastic
+[21:23:40] Bobba Ren: !model ben models/player/swbtc/phase 1 clone trooper.mdl
+[21:23:40] Bobba Ren set the model for TP REG commander Benji to models/player/swbtc/phase
+[21:23:50] Darth Ethan brought Bobba Ren
+[21:24:17] SHDT COL 0512 Shrimp: /advert *IC* behind keeping up with vader and the rebel scum, will prepare attack
+[21:24:22] Darth Ethan: /advert *IC* all to HB, prepere for an ambush
+[21:24:29] Darth Ethan teleported to TP REG commander Benji
+[21:24:39] Bobba Ren<STEAM_0:1:165468783> spawned sent laat
+[21:25:20] Bobba Ren<STEAM_0:1:165468783> spawned sent slave
+[21:25:39] SKT REG COMM Sloth: /advert *IC* we are ready
+[21:26:02] Client "TheRealBADGUY" connected.
+[21:26:06] Bobba Ren: !model ben models/lillwasa/sw/clonetrooper.mdl
+[21:26:06] Bobba Ren set the model for TP REG commander Benji to models/lillwasa/sw/clonetrooper.mdl
+[21:26:24] Bobba Ren: !model ben models/sgg/starwars/clone_commando.mdl
+[21:26:24] Bobba Ren set the model for TP REG commander Benji to models/sgg/starwars/clone_commando.mdl
+[21:26:35] Darth Ethan: /setmoney benji 1000000
+[21:26:40] SHDT COL 0512 Shrimp: /advert *IC* stuck onto the rebel's ship
+[21:26:44] TP REG commander Benji killed Fleet Ensign Kenny using player
+[21:26:46] Bobba Ren: !model ben models/sgg/starwars/rebels/r_soldier_forest/male_11.mdl
+[21:26:46] Bobba Ren set the model for TP REG commander Benji to models/sgg/starwars/rebels/r_soldier_forest/male_11.mdl
+[21:27:04] SKT REG COMM Sloth suicided!
+[21:27:06] Darth Ethan: /advert *ic* send a shit after that rebel at once!
+[21:27:07] SHDT COL 0512 Shrimp: /advert *IC* in rebel ship, preparing to damage
+[21:27:10] Darth Ethan: // xD
+[21:27:12] Darth Ethan: // shit
+[21:27:15] Darth Ethan: // ship****
+[21:27:16] Bobba Ren<STEAM_0:1:165468783> spawned sent slave
+[21:27:18] SKT REG COMM Sloth: // XD
+[21:27:20] Darth Ethan: // omg whops
+[21:27:23] SHDT COL 0512 Shrimp: /me shoots engine from within
+[21:27:35] TP REG commander Benji: /advert *entering hyperspace*
+[21:27:42] SHDT COL 0512 Shrimp: // im in the ship
+[21:27:51] Darth Ethan: /advert *IC* the rebel had escaped, but we know wehre he is at. prepere for hyperspace speed
+[21:28:03] Darth Ethan: /advert *IC* in 3
+[21:28:05] SKT REG COMM Sloth: // [SuperAdmin] [Advert] Darth Ethan: *ic* send a shit after that rebel at once! - Ethan 2016
+[21:28:14] Darth Ethan: // XDDDDDDDDDDDDDDDDDDDD
+[21:28:17] Darth Ethan: !tp kenn
+[21:28:17] SHDT COL 0512 Shrimp: /advert *ic* know location of rebel scum, will report after landing
+[21:28:38] Darth Ethan changed the map to rp_tatooine_dunesea_v1
+[21:28:38] Server is shutting down/changing levels.
+
+
+
+[21:32:54] New map: rp_stardestroyer_v1
+[21:32:58] Client "Ethan" connected.
+[21:33:06] Client "Ethan" connected.
+[21:33:10] Client "Sloth" spawned in server <STEAM_0:1:88690147> (took 16 seconds).
+[21:33:22] Client "Ethan" spawned in server <STEAM_0:1:72945201> (took 16 seconds).
+[21:33:38] Client "Benji" connected.
+[21:33:52] SKT REG COMM Sloth: // [SuperAdmin] [Advert] Darth Ethan: *ic* send a shit after that rebel at once!
+[21:34:10] Client "Benji" spawned in server <STEAM_0:1:81357128> (took 32 seconds).
+[21:34:27] Darth Ethan changed the map to mesric
+[21:34:27] Server is shutting down/changing levels.
+
+
+
+[21:34:34] New map: mesric
+[21:36:05] Client "Ethan" spawned in server <STEAM_0:1:72945201> (took 93 seconds).
+[21:36:07] Client "Sloth" spawned in server <STEAM_0:1:88690147> (took 95 seconds).
+[21:37:36] Client "Benji" spawned in server <STEAM_0:1:81357128> (took 184 seconds).
+[21:37:45] Client "The_Mantis_Shrimp" connected.
+[21:37:55] SKT REG COMM Sloth: !motd
+[21:38:05] Darth Ethan: /setspawn DV
+[21:38:08] Darth Ethan: /setspawn EP
+[21:38:27] Darth Ethan<STEAM_0:1:72945201> spawned/gave himself swep gmod_tool
+[21:38:41] Darth Ethan: /me strips weapons and comms
+[21:38:43] SKT REG COMM Sloth killed TP REG commander Benji using player
+[21:38:54] TP REG commander Benji: !HP benji 10000
+[21:38:54] TP REG commander Benji set the hp for Themself to 10000
+[21:39:09] TP REG commander Benji: [19:35:39] Zombie Sam: [SuperAdmin] [Advert] Darth Ethan: ic send a shit after that rebel at once! - Ethan 1016[19:35:44] Zom
+[21:39:22] Client "The_Mantis_Shrimp" spawned in server <STEAM_0:0:81720841> (took 97 seconds).
+[21:39:23] Darth Ethan<STEAM_0:1:72945201> used the tool textscreen on maps/mesric.bsp
+[21:39:26] Darth Ethan<STEAM_0:1:72945201> used the tool textscreen on maps/mesric.bsp
+[21:39:27] Darth Ethan<STEAM_0:1:72945201> used the tool textscreen on maps/mesric.bsp
+[21:39:28] Darth Ethan<STEAM_0:1:72945201> used the tool textscreen on maps/mesric.bsp
+[21:39:31] Darth Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_physgun
+[21:39:46] Darth Ethan<STEAM_0:1:72945201> used the tool permaprops on maps/mesric.bsp
+[21:39:46] Darth Ethan<STEAM_0:1:72945201> used the tool permaprops on maps/mesric.bsp
+[21:39:47] Darth Ethan<STEAM_0:1:72945201> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[21:40:14] Darth Ethan suicided!
+[21:40:40] Darth Ethan killed SKT REG COMM Sloth using weapon_lightsaber
+[21:40:45] Darth Ethan: !tp sloth
+[21:40:45] Darth Ethan teleported SKT REG COMM Sloth
+[21:41:10] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep weapon_752_e60r
+[21:41:18] SKT REG COMM Sloth: /name luke skywanker
+[21:41:18] SKT REG COMM Sloth<STEAM_0:1:88690147> changed their name to luke skywanker
+[21:41:20] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep weapon_752_de10
+[21:41:21] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep weapon_swrc_det
+[21:41:40] TP REG commander Benji<STEAM_0:1:81357128> spawned/gave himself swep weapon_752_ihr
+[21:41:50] TP REG commander Benji: !bring luke
+[21:41:50] TP REG commander Benji brought luke skywanker
+[21:42:09] Darth Ethan: !tp *
+[21:42:16] Darth Ethan: !bring *
+[21:42:20] Darth Ethan brought SHDT COL 0512 Shrimp
+[21:42:22] Darth Ethan brought luke skywanker
+[21:42:24] Darth Ethan brought TP REG commander Benji
+[21:42:24] TP REG commander Benji: !hp luke 12000
+[21:42:24] TP REG commander Benji set the hp for luke skywanker to 12000
+[21:42:33] luke skywanker suicided!
+[21:42:37] TP REG commander Benji: !hp benji 10000
+[21:42:37] TP REG commander Benji set the hp for Themself to 10000
+[21:42:38] Client "IDONTKNOW" connected.
+[21:42:39] Darth Ethan: !tp luke
+[21:42:39] Darth Ethan teleported luke skywanker
+[21:43:19] Client "IDONTKNOW" spawned in server <STEAM_0:1:165468783> (took 41 seconds).
+[21:43:33] Darth Ethan: !cleardecals 
+[21:43:33] Darth Ethan cleared decals
+[21:43:38] Darth Ethan: !hp luke 9000
+[21:43:38] Darth Ethan set the hp for luke skywanker to 9000
+[21:43:47] Darth Ethan: !hp ben 8000
+[21:43:47] Darth Ethan set the hp for TP REG commander Benji to 8000
+[21:44:04] TP REG commander Benji: /name rebel commander squid
+[21:44:05] TP REG commander Benji<STEAM_0:1:81357128> changed their name to rebel commander squid
+[21:44:13] Darth Ethan: !scale @ 1.5
+[21:44:23] Darth Ethan: !hp ^ 12000
+[21:44:23] Darth Ethan set the hp for Themself to 12000
+[21:44:28] Darth Ethan: !cleardecals
+[21:44:28] Darth Ethan cleared decals
+[21:44:32] Darth Ethan brought Bobba Ren
+[21:44:43] rebel commander squid: !bring luke
+[21:44:43] rebel commander squid brought luke skywanker
+[21:44:50] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_camo
+[21:44:54] rebel commander squid: !HP LUKE 12000
+[21:44:54] rebel commander squid set the hp for luke skywanker to 12000
+[21:44:59] Darth Ethan: !hp  ^ 13000
+[21:44:59] Darth Ethan set the hp for Themself to 13000
+[21:45:01] rebel commander squid: !hp benji 10000
+[21:45:11] rebel commander squid: !hp squid 10000
+[21:45:11] rebel commander squid set the hp for Themself to 10000
+[21:45:41] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_cuff_elastic
+[21:45:46] rebel commander squid: /advert *EC* rebels ready
+[21:45:49] Darth Ethan: // wait
+[21:45:55] Darth Ethan: // we need to wait for more players
+[21:46:24] Bobba Ren: !goto ethan
+[21:46:24] Bobba Ren teleported to Darth Ethan
+[21:46:49] rebel commander squid: !whip luke 100
+[21:46:49] rebel commander squid whipped luke skywanker 100 times with 0 damage
+[21:47:11] rebel commander squid: !whip luke 1
+[21:47:18] rebel commander squid: !whip luke 2
+[21:47:31] rebel commander squid: !whip 1
+[21:47:31] rebel commander squid whipped SHDT COL 0512 Shrimp 10 times with 0 damage
+[21:47:44] rebel commander squid: /ooc soz
+[21:47:52] Darth Ethan: !tp rebel
+[21:47:52] Darth Ethan teleported rebel commander squid
+[21:47:59] rebel commander squid: !hp luke 12000
+[21:47:59] rebel commander squid set the hp for luke skywanker to 12000
+[21:48:12] rebel commander squid: !hp benji 10000
+[21:48:21] rebel commander squid: !hp squid 10000
+[21:48:21] rebel commander squid set the hp for Themself to 10000
+[21:48:24] rebel commander squid: !return
+[21:48:24] rebel commander squid returned Themself to their original position
+[21:48:36] rebel commander squid: /advert *event started*
+[21:48:43] Darth Ethan: // K
+[21:48:51] Darth Ethan: // but there are only 4 active players
+[21:48:55] Darth Ethan: / /shrimp is afk
+[21:49:00] Darth Ethan: // shrimp is afk
+[21:49:06] Darth Ethan: !tp ren
+[21:49:06] Darth Ethan teleported Bobba Ren
+[21:49:12] Darth Ethan brought Bobba Ren
+[21:49:12] Darth Ethan brought Bobba Ren
+[21:49:29] Darth Ethan: /advert *IC* we are about to attack
+[21:50:27] Darth Ethan: !hp ^ 15000
+[21:50:27] Darth Ethan set the hp for Themself to 15000
+[21:51:08] (TEAM) luke skywanker: uw
+[21:51:29] Darth Ethan: !tp luke
+[21:51:29] Darth Ethan teleported luke skywanker
+[21:51:31] Darth Ethan: !tp ren
+[21:51:31] Darth Ethan teleported Bobba Ren
+[21:53:15] rebel commander squid<STEAM_0:1:81357128> spawned/gave himself swep weapon_752_ihr
+[21:53:20] rebel commander squid<STEAM_0:1:81357128> spawned/gave himself swep weapon_swrc_det
+[21:53:25] (TEAM) Bobba Ren: !hp ren 6000
+[21:53:25] Bobba Ren set the hp for Themself to 6000
+[21:54:00] Darth Ethan: // brb
+[21:55:17] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep gmod_tool
+[21:55:25] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[21:55:25] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[21:55:26] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[21:55:26] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[21:55:26] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[21:55:26] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[21:55:26] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[21:55:26] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[21:55:26] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[21:55:26] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[21:55:26] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[21:55:26] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[21:56:11] Client "skaylik.play" connected.
+[21:56:44] Darth Ethan killed luke skywanker using weapon_lightsaber
+[21:56:55] luke skywanker: // would you kill your son
+[21:57:00] Darth Ethan: // I would
+[21:57:02] Darth Ethan: // wait what
+[21:57:15] luke skywanker: // then i would snap your neck
+[21:57:52] luke skywanker suicided!
+[21:57:59] Client "skaylik.play" spawned in server <STEAM_0:1:160468062> (took 108 seconds).
+[21:58:14] Bobba Ren: /me search weapon and strip cons
+[21:58:18] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_cuff_elastic
+[21:58:24] Client "Marshall" connected.
+[21:58:42] Bobba Ren: /advert *IC* I have a Rebel.
+[21:58:51] Bobba Ren: !hp ren 10000
+[21:58:51] Bobba Ren set the hp for Themself to 10000
+[21:58:51] Client "Marshall" spawned in server <STEAM_0:1:112426618> (took 27 seconds).
+[21:59:05] Dropped "ST PVT 9034 Marshall" from server<STEAM_0:1:112426618>
+[21:59:08] rebel commander squid: !hp ren 2500
+[21:59:08] rebel commander squid set the hp for Bobba Ren to 2500
+[21:59:10] luke skywanker: // Ren do not change your health
+[21:59:40] Client "adambabich3" connected.
+[22:00:42] Client "Black Jesus" connected.
+[22:01:32] rebel commander squid: /ooc ethan rens using his jetpack way to much 
+[22:01:42] luke skywanker killed SHDT COL 0512 Shrimp using weapon_lightsaber
+[22:01:46] Darth Ethan: // ren dont do so
+[22:01:49] luke skywanker: // oops
+[22:01:50] rebel commander squid: /ooc wont it have ran out already
+[22:01:58] Bobba Ren: /me search weapon and strip cons
+[22:02:17] Client "Black Jesus" spawned in server <STEAM_0:1:87959502> (took 95 seconds).
+[22:02:31] luke skywanker: // black jesus XD
+[22:02:42] Client "[KyloRP] [CM] Kenny" connected.
+[22:03:00] Dropped "skaylik.play" from server<STEAM_0:1:160468062>
+[22:03:08] Darth Ethan teleported to Black Jesus
+[22:03:13] Bobba Ren: /me search weapon and strip cons
+[22:03:29] Bobba Ren: /ooc ethan to em
+[22:03:33] Darth Ethan: // wait
+[22:03:42] Darth Ethan: can you hear me
+[22:03:49] Black Jesus: y
+[22:03:51] Client "[KyloRP] [CM] Kenny" spawned in server <STEAM_0:1:89597975> (took 69 seconds).
+[22:04:16] Bobba Ren killed rebel commander squid using player
+[22:04:27] Black Jesus: error you
+[22:04:45] Dropped "Black Jesus" from server<STEAM_0:1:87959502>
+[22:04:47] rebel commander squid<STEAM_0:1:81357128> spawned/gave himself swep weapon_752_ihr
+[22:04:53] Darth Ethan teleported to Fleet Ensign Kenny
+[22:05:11] Fleet Ensign Kenny killed rebel commander squid using player
+[22:05:20] rebel commander squid<STEAM_0:1:81357128> spawned/gave himself swep weapon_lasermgun
+[22:05:21] Darth Ethan killed rebel commander squid using weapon_lightsaber
+[22:05:24] rebel commander squid<STEAM_0:1:81357128> spawned/gave himself swep weapon_lasermgun
+[22:05:27] rebel commander squid killed Fleet Ensign Kenny using player
+[22:05:35] Darth Ethan: !explode rebel
+[22:05:35] rebel commander squid suicided!
+[22:05:35] Darth Ethan exploded rebel commander squid
+[22:05:41] rebel commander squid<STEAM_0:1:81357128> spawned/gave himself swep weapon_lasermgun
+[22:05:49] Darth Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_physgun
+[22:05:53] Darth Ethan: !god
+[22:05:53] Darth Ethan granted god mode upon Themself
+[22:06:00] luke skywanker suicided!
+[22:06:02] rebel commander squid: !god benji
+[22:06:12] rebel commander squid: !god squid
+[22:06:12] rebel commander squid granted god mode upon Themself
+[22:06:14] Bobba Ren: !goto ethan
+[22:06:14] Bobba Ren teleported to Darth Ethan
+[22:06:18] luke skywanker killed Fleet Ensign Kenny using weapon_lightsaber
+[22:06:25] Dropped "SHDT COL 0512 Shrimp" from server<STEAM_0:0:81720841>
+[22:06:40] Bobba Ren: !hp ren 1250
+[22:06:40] Bobba Ren set the hp for Themself to 1250
+[22:06:57] rebel commander squid: /ooc [SuperAdmin] [Advert] Darth Ethan: ic send a shit after that rebel at once! - Ethan 2016
+[22:06:58] Bobba Ren: !hp ren 6000
+[22:06:58] Bobba Ren set the hp for Themself to 6000
+[22:07:12] luke skywanker killed Fleet Ensign Kenny using weapon_lightsaber
+[22:07:14] Client "PsychoticHyena" connected.
+[22:07:29] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[22:07:29] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[22:07:29] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[22:07:29] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[22:07:29] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[22:07:29] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[22:07:29] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[22:07:29] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[22:07:29] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[22:07:29] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[22:07:29] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[22:07:29] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[22:07:29] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[22:07:29] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[22:07:30] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[22:07:30] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[22:07:30] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[22:07:30] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[22:07:30] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[22:07:30] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[22:07:30] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[22:07:30] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[22:07:30] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[22:07:30] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[22:07:30] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[22:07:30] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[22:07:30] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[22:07:30] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[22:07:30] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[22:07:30] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[22:07:31] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[22:07:31] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[22:07:31] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[22:07:31] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[22:07:31] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[22:07:31] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[22:07:31] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[22:07:31] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[22:07:31] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[22:07:31] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[22:07:31] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[22:07:31] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[22:07:32] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[22:07:32] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[22:07:32] luke skywanker killed Fleet Ensign Kenny using weapon_lightsaber
+[22:07:32] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[22:07:32] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[22:07:32] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[22:07:32] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[22:07:32] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/mesric.bsp
+[22:07:32] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_752bf3_ee3
+[22:07:37] rebel commander squid: !ungod ethab
+[22:07:45] Darth Ethan: !explode squid
+[22:07:45] rebel commander squid suicided!
+[22:07:45] Darth Ethan exploded rebel commander squid
+[22:07:46] Bobba Ren: !goto lu
+[22:07:46] Bobba Ren teleported to luke skywanker
+[22:07:55] Darth Ethan: !ungod ^
+[22:07:55] Darth Ethan revoked god mode from Themself
+[22:07:56] rebel commander squid: !explode boba
+[22:08:00] luke skywanker killed Darth Ethan using weapon_lightsaber
+[22:08:05] Darth Ethan: // oh well
+[22:08:06] Client "skaylik.play" connected.
+[22:08:09] rebel commander squid: !explode bobba
+[22:08:09] Bobba Ren suicided!
+[22:08:09] rebel commander squid exploded Bobba Ren
+[22:08:12] Darth Ethan: // thatds the end of vader
+[22:08:18] Bobba Ren: |!goto ben
+[22:08:20] Darth Ethan teleported to rebel commander squid
+[22:08:23] luke skywanker: // XD
+[22:08:40] Fleet Ensign Kenny: /ooc i Can't see the funny in this event
+[22:08:46] luke skywanker suicided!
+[22:08:51] Client "skaylik.play" spawned in server <STEAM_0:1:160468062> (took 45 seconds).
+[22:09:07] rebel commander squid: !menu
+[22:09:13] rebel commander squid changed the map to rp_stardestroyer_v1
+[22:09:13] Server is shutting down/changing levels.
+
+
+
+[22:09:22] New map: rp_stardestroyer_v1
+[22:09:43] Client "IDONTKNOW" spawned in server <STEAM_0:1:165468783> (took 23 seconds).
+[22:09:45] Client "AngryChicken82" connected.
+[22:10:45] Client "Ethan" spawned in server <STEAM_0:1:72945201> (took 85 seconds).
+[22:10:50] Client "AngryChicken82" spawned in server <STEAM_0:1:92889617> (took 65 seconds).
+[22:11:08] Client "Sloth" spawned in server <STEAM_0:1:88690147> (took 108 seconds).
+[22:11:46] Client "Benji" spawned in server <STEAM_0:1:81357128> (took 146 seconds).
+[22:12:07] Client "[KyloRP] [CM] Kenny" spawned in server <STEAM_0:1:89597975> (took 167 seconds).
+[22:12:11] Darth Vaper: // What have i missed? xD
+[22:12:21] Darth Vaper: // Fleet ensign Kenny!/
+[22:12:22] Darth Ethan: // nothing much
+[22:12:26] (TEAM) Darth Vaper: // I missed taht xD
+[22:12:44] luke skywanker: /NAME SKT REG COMM Sloth
+[22:12:45] luke skywanker<STEAM_0:1:88690147> changed their name to SKT REG COMM Sloth
+[22:12:45] SKT REG COMM Sloth: /Me Salute
+[22:12:57] rebel commander squid teleported to Darth Vaper
+[22:13:08] Darth Vaper: Hey
+[22:13:08] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_camo
+[22:13:11] rebel commander squid<STEAM_0:1:81357128> spawned/gave himself swep weapon_lightsaber
+[22:13:14] rebel commander squid killed Darth Vaper using weapon_lightsaber
+[22:13:18] Darth Ethan: rise..
+[22:13:19] Darth Vaper: FUN!
+[22:13:29] Darth Ethan teleported to Darth Vaper
+[22:13:33] rebel commander squid: /ooc GTG cya
+[22:13:34] Darth Ethan: dudre
+[22:13:39] Darth Ethan: Ren is now Boba
+[22:13:40] Darth Vaper: // Cya
+[22:13:40] Bobba Ren killed rebel commander squid using player
+[22:13:44] Fleet Ensign Kenny: /ooc are we doing a debreif or what
+[22:13:46] Darth Ethan: so this job is again on the store
+[22:13:48] Dropped "rebel commander squid" from server<STEAM_0:1:81357128>
+[22:13:49] Darth Vaper: Yeah i saw on the forums
+[22:13:51] Darth Ethan: thats why im using it
+[22:13:56] Darth Vaper: Oh cool
+[22:14:02] Darth Vaper: At ease Trooper(s)
+[22:14:05] Darth Vaper: Oops
+[22:14:14] Darth Vaper: /name SHDT Reg Comm Ancient
+[22:14:15] Darth Vaper<STEAM_0:1:92889617> changed their name to SHDT Reg Comm Ancient
+[22:14:26] Bobba Ren: !goto sloth
+[22:14:28] Darth Ethan killed SKT REG COMM Sloth using weapon_lightsaber
+[22:14:32] Bobba Ren: !goto sl
+[22:14:32] Bobba Ren teleported to SKT REG COMM Sloth
+[22:14:33] Darth Ethan: !tp sloth
+[22:14:33] Darth Ethan teleported SKT REG COMM Sloth
+[22:14:35] SHDT Reg Comm Ancient: !model ^ models/player/b4p/b4p_jawa.mdl
+[22:14:35] SHDT Reg Comm Ancient set the model for Themself to models/player/b4p/b4p_jawa.mdl
+[22:14:39] Darth Ethan: nice
+[22:14:46] SKT REG COMM Sloth suicided!
+[22:14:50] SHDT Reg Comm Ancient<STEAM_0:1:92889617> spawned/gave himself swep sswep_jawa
+[22:14:54] Fleet Ensign Kenny: /advert *Workstation* Turning on Workstation!
+[22:14:55] SHDT Reg Comm Ancient: !scale 0.5
+[22:14:59] SHDT Reg Comm Ancient: !scale ^ models/player/b4p/b4p_jawa.mdl
+[22:15:05] SHDT Reg Comm Ancient: !scale ^ 0.5
+[22:15:05] SHDT Reg Comm Ancient set the scale for Themself to 0
+[22:15:05] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep gmod_tool
+[22:15:06] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[22:15:06] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[22:15:07] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[22:15:07] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[22:15:07] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[22:15:07] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[22:15:07] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[22:15:07] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[22:15:08] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[22:15:08] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[22:15:08] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[22:15:08] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[22:15:08] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[22:15:09] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[22:15:09] Fleet Ensign Kenny: /advert *Workstation Check the DataBase!
+[22:15:10] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[22:15:11] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[22:15:11] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[22:15:12] SHDT Reg Comm Ancient: !goto eth
+[22:15:12] SHDT Reg Comm Ancient teleported to Darth Ethan
+[22:15:16] Fleet Ensign Kenny: /ooc checking
+[22:15:35] Bobba Ren: !goto et
+[22:15:40] Darth Ethan: !scale ^ 0.4
+[22:15:40] Darth Ethan set the scale for Themself to 0
+[22:15:43] Bobba Ren: !goto ethan
+[22:15:43] Bobba Ren teleported to Darth Ethan
+[22:15:52] Darth Ethan: !resetmap
+[22:15:53] Darth Ethan reset the map to its original state
+[22:15:54] SHDT Reg Comm Ancient: Those voice sweps are TOO fun
+[22:15:56] (TEAM) Fleet Ensign Kenny: /ooc are we going to do a Debrief Ethan?
+[22:15:58] Bobba Ren: !return
+[22:15:58] Bobba Ren returned Themself to their original position
+[22:16:02] Fleet Ensign Kenny suicided!
+[22:16:05] Darth Ethan: !scale ^ 1
+[22:16:05] Darth Ethan set the scale for Themself to 1
+[22:16:14] SHDT Reg Comm Ancient: /y Can you hear those voices
+[22:16:16] Darth Ethan: // guys i gtg
+[22:16:19] SHDT Reg Comm Ancient: Wait
+[22:16:22] Darth Ethan: // I will be abck in one hour
+[22:16:23] SHDT Reg Comm Ancient: Cna you here this
+[22:16:24] Darth Ethan: rise..
+[22:16:29] Darth Ethan: yes
+[22:16:31] Darth Ethan: I can
+[22:16:32] SHDT Reg Comm Ancient: YAY
+[22:16:35] SHDT Reg Comm Ancient: So cute
+[22:16:44] Darth Ethan: yes?
+[22:16:44] Bobba Ren: !goto ethan
+[22:16:44] Bobba Ren teleported to Darth Ethan
+[22:16:48] Darth Ethan: its OOC btw
+[22:17:09] SHDT Reg Comm Ancient: brb downloading the collcetion so i could see ren
+[22:17:11] Bobba Ren: !return
+[22:17:11] Bobba Ren returned Themself to their original position
+[22:18:15] SHDT Reg Comm Ancient: // New items have been added to the collection im downloading them and ill be right back :D
+[22:18:20] Darth Ethan: // kk
+[22:18:26] Dropped "SHDT Reg Comm Ancient" from server<STEAM_0:1:92889617>
+[22:18:31] Darth Ethan: esstarwarsrp.enjin.com
+[22:18:44] Darth Ethan suicided!
+[22:18:50] Darth Ethan: // cya later gusy
+[22:18:55] Dropped "Darth Ethan" from server<STEAM_0:1:72945201>
+[22:19:04] Bobba Ren<STEAM_0:1:165468783> spawned model models/lt_c/sci_fi/box_crate.mdl
+[22:19:34] Bobba Ren<STEAM_0:1:165468783> spawned model models/props_phx/construct/metal_wire1x1x2.mdl
+[22:19:39] Bobba Ren<STEAM_0:1:165468783> spawned model models/props_phx/construct/metal_wire1x1x2b.mdl
+[22:19:42] Bobba Ren<STEAM_0:1:165468783> spawned model models/props_phx/construct/metal_tube.mdl
+[22:19:48] Bobba Ren<STEAM_0:1:165468783> spawned model models/hunter/blocks/cube025x025x025.mdl
+[22:19:52] Bobba Ren<STEAM_0:1:165468783> spawned model models/hunter/blocks/cube05x1x05.mdl
+[22:20:04] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:20:04] Bobba Ren<STEAM_0:1:165468783> spawned model models/hunter/blocks/cube05x1x05.mdl
+[22:20:05] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:20:05] Bobba Ren<STEAM_0:1:165468783> spawned model models/hunter/blocks/cube05x1x05.mdl
+[22:20:06] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:20:06] Bobba Ren<STEAM_0:1:165468783> spawned model models/hunter/blocks/cube05x1x05.mdl
+[22:20:07] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:20:07] Bobba Ren<STEAM_0:1:165468783> spawned model models/hunter/blocks/cube05x1x05.mdl
+[22:20:08] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:20:08] Bobba Ren<STEAM_0:1:165468783> spawned model models/hunter/blocks/cube05x1x05.mdl
+[22:20:09] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:20:09] Bobba Ren<STEAM_0:1:165468783> spawned model models/hunter/blocks/cube05x1x05.mdl
+[22:20:11] Bobba Ren<STEAM_0:1:165468783> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:20:11] Bobba Ren<STEAM_0:1:165468783> spawned model models/hunter/blocks/cube05x1x05.mdl
+[22:20:19] Bobba Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_physgun
+[22:22:38] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/hunter/blocks/cube05x1x05.mdl
+[22:22:38] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/hunter/blocks/cube05x1x05.mdl
+[22:22:39] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/hunter/blocks/cube05x1x05.mdl
+[22:22:39] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/hunter/blocks/cube05x1x05.mdl
+[22:22:40] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/hunter/blocks/cube05x1x05.mdl
+[22:22:41] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/hunter/blocks/cube05x1x05.mdl
+[22:22:41] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/hunter/blocks/cube05x1x05.mdl
+[22:23:03] Bobba Ren<STEAM_0:1:165468783> used the tool material on maps/rp_stardestroyer_v1.bsp
+[22:24:21] Bobba Ren<STEAM_0:1:165468783> spawned model models/lt_c/desk_officer.mdl
+[22:24:59] Bobba Ren<STEAM_0:1:165468783> spawned model models/lt_c/sci_fi/holo_tablet.mdl
+[22:25:05] Bobba Ren<STEAM_0:1:165468783> spawned model models/lt_c/sci_fi/lantern.mdl
+[22:25:34] Bobba Ren<STEAM_0:1:165468783> spawned model models/lt_c/sci_fi/coffee_mug.mdl
+[22:25:43] Bobba Ren<STEAM_0:1:165468783> spawned model models/lt_c/sci_fi/door_airlock_96x192x16_static.mdl
+[22:26:10] Bobba Ren<STEAM_0:1:165468783> spawned model models/lt_c/sci_fi/computers/crystal_hdd.mdl
+[22:26:24] Client "yarinking .i." connected.
+[22:26:37] Bobba Ren<STEAM_0:1:165468783> spawned model models/lt_c/sci_fi/desk_reception.mdl
+[22:26:41] Bobba Ren<STEAM_0:1:165468783> spawned model models/lt_c/sci_fi/door_airlock_96x192x16_frame.mdl
+[22:26:47] Bobba Ren<STEAM_0:1:165468783> spawned model models/lt_c/flagpole.mdl
+[22:26:55] Client "yarinking .i." spawned in server <STEAM_0:0:172979541> (took 31 seconds).
+[22:26:58] Bobba Ren<STEAM_0:1:165468783> spawned model models/lt_c/sci_fi/alarm_gib2.mdl
+[22:27:01] Dropped "SKT REG COMM Sloth" from server<STEAM_0:1:88690147>
+[22:27:09] Bobba Ren teleported to yarinking .i.
+[22:27:14] Bobba Ren: english
+[22:27:24] Bobba Ren: yo
+[22:27:30] yarinking .i.: y
+[22:27:39] yarinking .i.: yes
+[22:27:42] Bobba Ren: goos
+[22:28:11] Bobba Ren: !return
+[22:28:11] Bobba Ren returned Themself to their original position
+[22:28:16] yarinking .i.: /me
+[22:28:17] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/lt_c/desk_officer.mdl
+[22:28:18] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/lt_c/sci_fi/holo_tablet.mdl
+[22:28:18] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/lt_c/sci_fi/computers/crystal_hdd.mdl
+[22:28:19] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/lt_c/sci_fi/alarm_gib2.mdl
+[22:28:20] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/lt_c/sci_fi/coffee_mug.mdl
+[22:28:21] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/lt_c/sci_fi/lantern.mdl
+[22:28:21] yarinking .i.: what do me
+[22:28:22] yarinking .i.: ?
+[22:28:23] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/lt_c/flagpole.mdl
+[22:28:35] yarinking .i.: y
+[22:28:39] Bobba Ren<STEAM_0:1:165468783> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[22:28:55] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[22:28:56] yarinking .i.: u here?
+[22:29:03] yarinking .i.: me
+[22:29:06] yarinking .i.: what to do
+[22:29:08] Bobba Ren teleported to yarinking .i.
+[22:29:18] yarinking .i.: where to go
+[22:29:54] Bobba Ren: ./name
+[22:29:59] yarinking .i.: /name st pvt 1234 bob
+[22:29:59] yarinking .i.<STEAM_0:0:172979541> changed their name to st pvt 1234 bob
+[22:30:02] st pvt 1234 bob: i do it
+[22:30:17] st pvt 1234 bob: /name st pvt 1234 me me me 
+[22:30:17] st pvt 1234 bob<STEAM_0:0:172979541> changed their name to st pvt 1234 me me me
+[22:30:29] st pvt 1234 me me me: y
+[22:30:45] st pvt 1234 me me me: i need space?
+[22:30:51] Bobba Ren: ST PVT 1234 MEMEME
+[22:31:08] Dropped "st pvt 1234 me me me" from server<STEAM_0:0:172979541>
+[22:31:21] Bobba Ren teleported to Fleet Ensign Kenny
+[22:31:40] Dropped "Fleet Ensign Kenny" from server<STEAM_0:1:89597975>
+[22:32:10] Bobba Ren<STEAM_0:1:165468783> used the tool permaprops on models/lt_c/sci_fi/door_airlock_96x192x16_static.mdl
+[22:32:43] Dropped "Bobba Ren" from server<STEAM_0:1:165468783>
+[22:47:20] Client "AngryChicken82" connected.
+[22:47:39] Client "AngryChicken82" spawned in server <STEAM_0:1:92889617> (took 19 seconds).
+[22:48:49] SHDT Reg Comm Ancient<STEAM_0:1:92889617> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[22:51:48] SHDT Reg Comm Ancient<STEAM_0:1:92889617> spawned model models/cire992/props4/glass04.mdl
+[22:51:52] SHDT Reg Comm Ancient<STEAM_0:1:92889617> spawned model models/cire992/props4/glass03.mdl
+[22:52:00] SHDT Reg Comm Ancient<STEAM_0:1:92889617> spawned model models/cire992/props4/glass03.mdl
+[22:52:06] SHDT Reg Comm Ancient<STEAM_0:1:92889617> spawned model models/cire992/props4/glass03.mdl
+[22:52:53] SHDT Reg Comm Ancient<STEAM_0:1:92889617> spawned model models/cire992/props/bowl02.mdl
+[22:53:07] SHDT Reg Comm Ancient<STEAM_0:1:92889617> spawned model models/cire992/props/bowl02.mdl
+[22:53:22] SHDT Reg Comm Ancient<STEAM_0:1:92889617> spawned model models/cire992/props4/glass03.mdl
+[22:53:51] Dropped "SHDT Reg Comm Ancient" from server<STEAM_0:1:92889617>
+<Logging continued in "data/ulx_logs/07-05-16.txt">

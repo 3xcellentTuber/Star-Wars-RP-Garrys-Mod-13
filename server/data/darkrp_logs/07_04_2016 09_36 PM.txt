@@ -1,0 +1,164 @@
+Mon Jul  4 21:36:05 2016	Ethan (STEAM_0:1:72945201) has joined the game
+Mon Jul  4 21:36:05 2016	Darth Ethan (STEAM_0:1:72945201) spawned
+Mon Jul  4 21:36:07 2016	Sloth (STEAM_0:1:88690147) has joined the game
+Mon Jul  4 21:36:07 2016	SKT REG COMM Sloth (STEAM_0:1:88690147) spawned
+Mon Jul  4 21:36:26 2016	Darth Ethan (STEAM_0:1:72945201) spawned
+Mon Jul  4 21:37:00 2016	SKT REG COMM Sloth (STEAM_0:1:88690147) spawned
+Mon Jul  4 21:37:37 2016	Benji (STEAM_0:1:81357128) has joined the game
+Mon Jul  4 21:37:37 2016	TP REG commander Benji (STEAM_0:1:81357128) spawned
+Mon Jul  4 21:37:55 2016	SKT REG COMM Sloth (STEAM_0:1:88690147): !motd
+Mon Jul  4 21:38:05 2016	Darth Ethan (STEAM_0:1:72945201): /setspawn DV
+Mon Jul  4 21:38:08 2016	Darth Ethan (STEAM_0:1:72945201): /setspawn EP
+Mon Jul  4 21:38:41 2016	Darth Ethan (STEAM_0:1:72945201): /me strips weapons and comms
+Mon Jul  4 21:38:43 2016	TP REG commander Benji was killed by SKT REG COMM Sloth with a weapon_752_westar34
+Mon Jul  4 21:38:45 2016	TP REG commander Benji (STEAM_0:1:81357128) spawned
+Mon Jul  4 21:38:54 2016	TP REG commander Benji (STEAM_0:1:81357128): !HP benji 10000
+Mon Jul  4 21:39:09 2016	TP REG commander Benji (STEAM_0:1:81357128): [19:35:39] Zombie Sam: [SuperAdmin] [Advert] Darth Ethan: ic send a shit after that rebel at once! - Ethan 1016[19:35:44] Zom
+Mon Jul  4 21:39:22 2016	The_Mantis_Shrimp (STEAM_0:0:81720841) has joined the game
+Mon Jul  4 21:39:22 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841) spawned
+Mon Jul  4 21:40:05 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841) spawned
+Mon Jul  4 21:40:14 2016	Darth Ethan was killed by Himself with a suicide trick
+Mon Jul  4 21:40:15 2016	Darth Ethan (STEAM_0:1:72945201) spawned
+Mon Jul  4 21:40:40 2016	SKT REG COMM Sloth was killed by Darth Ethan with a weapon_lightsaber
+Mon Jul  4 21:40:44 2016	SKT REG COMM Sloth (STEAM_0:1:88690147) spawned
+Mon Jul  4 21:40:45 2016	Darth Ethan (STEAM_0:1:72945201): !tp sloth
+Mon Jul  4 21:41:18 2016	SKT REG COMM Sloth (STEAM_0:1:88690147): /name luke skywanker
+Mon Jul  4 21:41:18 2016	luke skywanker (STEAM_0:1:88690147) spawned
+Mon Jul  4 21:41:50 2016	TP REG commander Benji (STEAM_0:1:81357128): !bring luke
+Mon Jul  4 21:42:09 2016	Darth Ethan (STEAM_0:1:72945201): !tp *
+Mon Jul  4 21:42:16 2016	Darth Ethan (STEAM_0:1:72945201): !bring *
+Mon Jul  4 21:42:24 2016	TP REG commander Benji (STEAM_0:1:81357128): !hp luke 12000
+Mon Jul  4 21:42:33 2016	luke skywanker was killed by Himself with a suicide trick
+Mon Jul  4 21:42:35 2016	luke skywanker (STEAM_0:1:88690147) spawned
+Mon Jul  4 21:42:37 2016	TP REG commander Benji (STEAM_0:1:81357128): !hp benji 10000
+Mon Jul  4 21:42:39 2016	Darth Ethan (STEAM_0:1:72945201): !tp luke
+Mon Jul  4 21:43:19 2016	IDONTKNOW (STEAM_0:1:165468783) has joined the game
+Mon Jul  4 21:43:19 2016	Bobba Ren (STEAM_0:1:165468783) spawned
+Mon Jul  4 21:43:33 2016	Darth Ethan (STEAM_0:1:72945201): !cleardecals 
+Mon Jul  4 21:43:38 2016	Darth Ethan (STEAM_0:1:72945201): !hp luke 9000
+Mon Jul  4 21:43:47 2016	Darth Ethan (STEAM_0:1:72945201): !hp ben 8000
+Mon Jul  4 21:43:48 2016	Bobba Ren (STEAM_0:1:165468783) spawned
+Mon Jul  4 21:44:04 2016	TP REG commander Benji (STEAM_0:1:81357128): /name rebel commander squid
+Mon Jul  4 21:44:13 2016	Darth Ethan (STEAM_0:1:72945201): !scale @ 1.5
+Mon Jul  4 21:44:23 2016	Darth Ethan (STEAM_0:1:72945201): !hp ^ 12000
+Mon Jul  4 21:44:28 2016	Darth Ethan (STEAM_0:1:72945201): !cleardecals
+Mon Jul  4 21:44:43 2016	rebel commander squid (STEAM_0:1:81357128): !bring luke
+Mon Jul  4 21:44:54 2016	rebel commander squid (STEAM_0:1:81357128): !HP LUKE 12000
+Mon Jul  4 21:44:59 2016	Darth Ethan (STEAM_0:1:72945201): !hp  ^ 13000
+Mon Jul  4 21:45:01 2016	rebel commander squid (STEAM_0:1:81357128): !hp benji 10000
+Mon Jul  4 21:45:11 2016	rebel commander squid (STEAM_0:1:81357128): !hp squid 10000
+Mon Jul  4 21:45:46 2016	rebel commander squid (STEAM_0:1:81357128): /advert *EC* rebels ready
+Mon Jul  4 21:45:49 2016	Darth Ethan (STEAM_0:1:72945201): // wait
+Mon Jul  4 21:45:55 2016	Darth Ethan (STEAM_0:1:72945201): // we need to wait for more players
+Mon Jul  4 21:46:24 2016	Bobba Ren (STEAM_0:1:165468783): !goto ethan
+Mon Jul  4 21:46:49 2016	rebel commander squid (STEAM_0:1:81357128): !whip luke 100
+Mon Jul  4 21:47:11 2016	rebel commander squid (STEAM_0:1:81357128): !whip luke 1
+Mon Jul  4 21:47:18 2016	rebel commander squid (STEAM_0:1:81357128): !whip luke 2
+Mon Jul  4 21:47:31 2016	rebel commander squid (STEAM_0:1:81357128): !whip 1
+Mon Jul  4 21:47:44 2016	rebel commander squid (STEAM_0:1:81357128): /ooc soz
+Mon Jul  4 21:47:52 2016	Darth Ethan (STEAM_0:1:72945201): !tp rebel
+Mon Jul  4 21:47:59 2016	rebel commander squid (STEAM_0:1:81357128): !hp luke 12000
+Mon Jul  4 21:48:12 2016	rebel commander squid (STEAM_0:1:81357128): !hp benji 10000
+Mon Jul  4 21:48:21 2016	rebel commander squid (STEAM_0:1:81357128): !hp squid 10000
+Mon Jul  4 21:48:24 2016	rebel commander squid (STEAM_0:1:81357128): !return
+Mon Jul  4 21:48:36 2016	rebel commander squid (STEAM_0:1:81357128): /advert *event started*
+Mon Jul  4 21:48:43 2016	Darth Ethan (STEAM_0:1:72945201): // K
+Mon Jul  4 21:48:51 2016	Darth Ethan (STEAM_0:1:72945201): // but there are only 4 active players
+Mon Jul  4 21:48:55 2016	Darth Ethan (STEAM_0:1:72945201): / /shrimp is afk
+Mon Jul  4 21:49:00 2016	Darth Ethan (STEAM_0:1:72945201): // shrimp is afk
+Mon Jul  4 21:49:06 2016	Darth Ethan (STEAM_0:1:72945201): !tp ren
+Mon Jul  4 21:49:29 2016	Darth Ethan (STEAM_0:1:72945201): /advert *IC* we are about to attack
+Mon Jul  4 21:50:27 2016	Darth Ethan (STEAM_0:1:72945201): !hp ^ 15000
+Mon Jul  4 21:51:08 2016	luke skywanker (STEAM_0:1:88690147): uw
+Mon Jul  4 21:51:29 2016	Darth Ethan (STEAM_0:1:72945201): !tp luke
+Mon Jul  4 21:51:31 2016	Darth Ethan (STEAM_0:1:72945201): !tp ren
+Mon Jul  4 21:53:25 2016	Bobba Ren (STEAM_0:1:165468783): !hp ren 6000
+Mon Jul  4 21:54:00 2016	Darth Ethan (STEAM_0:1:72945201): // brb
+Mon Jul  4 21:56:44 2016	luke skywanker was killed by Darth Ethan with a weapon_lightsaber
+Mon Jul  4 21:56:55 2016	luke skywanker (STEAM_0:1:88690147): // would you kill your son
+Mon Jul  4 21:56:56 2016	luke skywanker (STEAM_0:1:88690147) spawned
+Mon Jul  4 21:57:00 2016	Darth Ethan (STEAM_0:1:72945201): // I would
+Mon Jul  4 21:57:02 2016	Darth Ethan (STEAM_0:1:72945201): // wait what
+Mon Jul  4 21:57:15 2016	luke skywanker (STEAM_0:1:88690147): // then i would snap your neck
+Mon Jul  4 21:57:52 2016	luke skywanker was killed by Himself with a suicide trick
+Mon Jul  4 21:57:53 2016	luke skywanker (STEAM_0:1:88690147) spawned
+Mon Jul  4 21:57:59 2016	skaylik.play (STEAM_0:1:160468062) has joined the game
+Mon Jul  4 21:57:59 2016	skaylik.play (STEAM_0:1:160468062) spawned
+Mon Jul  4 21:58:14 2016	Bobba Ren (STEAM_0:1:165468783): /me search weapon and strip cons
+Mon Jul  4 21:58:42 2016	Bobba Ren (STEAM_0:1:165468783): /advert *IC* I have a Rebel.
+Mon Jul  4 21:58:51 2016	Bobba Ren (STEAM_0:1:165468783): !hp ren 10000
+Mon Jul  4 21:58:51 2016	Marshall (STEAM_0:1:112426618) has joined the game
+Mon Jul  4 21:58:51 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) spawned
+Mon Jul  4 21:59:05 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) disconnected
+Mon Jul  4 21:59:08 2016	rebel commander squid (STEAM_0:1:81357128): !hp ren 2500
+Mon Jul  4 21:59:10 2016	luke skywanker (STEAM_0:1:88690147): // Ren do not change your health
+Mon Jul  4 22:01:32 2016	rebel commander squid (STEAM_0:1:81357128): /ooc ethan rens using his jetpack way to much 
+Mon Jul  4 22:01:42 2016	SHDT COL 0512 Shrimp was killed by luke skywanker with a weapon_lightsaber
+Mon Jul  4 22:01:46 2016	Darth Ethan (STEAM_0:1:72945201): // ren dont do so
+Mon Jul  4 22:01:49 2016	luke skywanker (STEAM_0:1:88690147): // oops
+Mon Jul  4 22:01:50 2016	rebel commander squid (STEAM_0:1:81357128): /ooc wont it have ran out already
+Mon Jul  4 22:01:58 2016	Bobba Ren (STEAM_0:1:165468783): /me search weapon and strip cons
+Mon Jul  4 22:02:17 2016	Black Jesus (STEAM_0:1:87959502) has joined the game
+Mon Jul  4 22:02:17 2016	Black Jesus (STEAM_0:1:87959502) spawned
+Mon Jul  4 22:02:31 2016	luke skywanker (STEAM_0:1:88690147): // black jesus XD
+Mon Jul  4 22:03:00 2016	skaylik.play (STEAM_0:1:160468062) disconnected
+Mon Jul  4 22:03:13 2016	Bobba Ren (STEAM_0:1:165468783): /me search weapon and strip cons
+Mon Jul  4 22:03:29 2016	Bobba Ren (STEAM_0:1:165468783): /ooc ethan to em
+Mon Jul  4 22:03:33 2016	Darth Ethan (STEAM_0:1:72945201): // wait
+Mon Jul  4 22:03:42 2016	Darth Ethan (STEAM_0:1:72945201): can you hear me
+Mon Jul  4 22:03:49 2016	Black Jesus (STEAM_0:1:87959502): y
+Mon Jul  4 22:03:51 2016	[KyloRP] [CM] Kenny (STEAM_0:1:89597975) has joined the game
+Mon Jul  4 22:03:51 2016	Fleet Ensign Kenny (STEAM_0:1:89597975) spawned
+Mon Jul  4 22:04:03 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841) spawned
+Mon Jul  4 22:04:16 2016	rebel commander squid was killed by Bobba Ren with a weapon_752bf3_ee3
+Mon Jul  4 22:04:20 2016	rebel commander squid (STEAM_0:1:81357128) spawned
+Mon Jul  4 22:04:27 2016	Fleet Ensign Kenny (STEAM_0:1:89597975) spawned
+Mon Jul  4 22:04:27 2016	Black Jesus (STEAM_0:1:87959502): error you
+Mon Jul  4 22:04:45 2016	Black Jesus (STEAM_0:1:87959502) disconnected
+Mon Jul  4 22:05:11 2016	rebel commander squid was killed by Fleet Ensign Kenny with a weapon_752bf3_se14c
+Mon Jul  4 22:05:13 2016	rebel commander squid (STEAM_0:1:81357128) spawned
+Mon Jul  4 22:05:21 2016	rebel commander squid was killed by Darth Ethan with a weapon_lightsaber
+Mon Jul  4 22:05:23 2016	rebel commander squid (STEAM_0:1:81357128) spawned
+Mon Jul  4 22:05:27 2016	Fleet Ensign Kenny was killed by rebel commander squid with a weapon_lasermgun
+Mon Jul  4 22:05:29 2016	Fleet Ensign Kenny (STEAM_0:1:89597975) spawned
+Mon Jul  4 22:05:35 2016	rebel commander squid was killed by Himself with a suicide trick
+Mon Jul  4 22:05:35 2016	Darth Ethan (STEAM_0:1:72945201): !explode rebel
+Mon Jul  4 22:05:40 2016	rebel commander squid (STEAM_0:1:81357128) spawned
+Mon Jul  4 22:05:53 2016	Darth Ethan (STEAM_0:1:72945201): !god
+Mon Jul  4 22:06:00 2016	luke skywanker was killed by Himself with a suicide trick
+Mon Jul  4 22:06:01 2016	luke skywanker (STEAM_0:1:88690147) spawned
+Mon Jul  4 22:06:02 2016	rebel commander squid (STEAM_0:1:81357128): !god benji
+Mon Jul  4 22:06:12 2016	rebel commander squid (STEAM_0:1:81357128): !god squid
+Mon Jul  4 22:06:14 2016	Bobba Ren (STEAM_0:1:165468783): !goto ethan
+Mon Jul  4 22:06:18 2016	Fleet Ensign Kenny was killed by luke skywanker with a weapon_lightsaber
+Mon Jul  4 22:06:22 2016	Fleet Ensign Kenny (STEAM_0:1:89597975) spawned
+Mon Jul  4 22:06:25 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841) disconnected
+Mon Jul  4 22:06:40 2016	Bobba Ren (STEAM_0:1:165468783): !hp ren 1250
+Mon Jul  4 22:06:57 2016	rebel commander squid (STEAM_0:1:81357128): /ooc [SuperAdmin] [Advert] Darth Ethan: ic send a shit after that rebel at once! - Ethan 2016
+Mon Jul  4 22:06:58 2016	Bobba Ren (STEAM_0:1:165468783): !hp ren 6000
+Mon Jul  4 22:07:12 2016	Fleet Ensign Kenny was killed by luke skywanker with a weapon_lightsaber
+Mon Jul  4 22:07:17 2016	Fleet Ensign Kenny (STEAM_0:1:89597975) spawned
+Mon Jul  4 22:07:32 2016	Fleet Ensign Kenny was killed by luke skywanker with a weapon_lightsaber
+Mon Jul  4 22:07:34 2016	Fleet Ensign Kenny (STEAM_0:1:89597975) spawned
+Mon Jul  4 22:07:37 2016	rebel commander squid (STEAM_0:1:81357128): !ungod ethab
+Mon Jul  4 22:07:45 2016	rebel commander squid was killed by Himself with a suicide trick
+Mon Jul  4 22:07:45 2016	Darth Ethan (STEAM_0:1:72945201): !explode squid
+Mon Jul  4 22:07:46 2016	Bobba Ren (STEAM_0:1:165468783): !goto lu
+Mon Jul  4 22:07:55 2016	Darth Ethan (STEAM_0:1:72945201): !ungod ^
+Mon Jul  4 22:07:56 2016	rebel commander squid (STEAM_0:1:81357128): !explode boba
+Mon Jul  4 22:08:00 2016	Darth Ethan was killed by luke skywanker with a weapon_lightsaber
+Mon Jul  4 22:08:05 2016	Darth Ethan (STEAM_0:1:72945201): // oh well
+Mon Jul  4 22:08:09 2016	Bobba Ren was killed by Himself with a suicide trick
+Mon Jul  4 22:08:09 2016	rebel commander squid (STEAM_0:1:81357128): !explode bobba
+Mon Jul  4 22:08:12 2016	Darth Ethan (STEAM_0:1:72945201): // thatds the end of vader
+Mon Jul  4 22:08:12 2016	Darth Ethan (STEAM_0:1:72945201) spawned
+Mon Jul  4 22:08:14 2016	Bobba Ren (STEAM_0:1:165468783) spawned
+Mon Jul  4 22:08:16 2016	rebel commander squid (STEAM_0:1:81357128) spawned
+Mon Jul  4 22:08:18 2016	Bobba Ren (STEAM_0:1:165468783): |!goto ben
+Mon Jul  4 22:08:23 2016	luke skywanker (STEAM_0:1:88690147): // XD
+Mon Jul  4 22:08:40 2016	Fleet Ensign Kenny (STEAM_0:1:89597975): /ooc i Can't see the funny in this event
+Mon Jul  4 22:08:46 2016	luke skywanker was killed by Himself with a suicide trick
+Mon Jul  4 22:08:48 2016	luke skywanker (STEAM_0:1:88690147) spawned
+Mon Jul  4 22:08:51 2016	skaylik.play (STEAM_0:1:160468062) has joined the game
+Mon Jul  4 22:08:51 2016	skaylik.play (STEAM_0:1:160468062) spawned
+Mon Jul  4 22:09:07 2016	rebel commander squid (STEAM_0:1:81357128): !menu

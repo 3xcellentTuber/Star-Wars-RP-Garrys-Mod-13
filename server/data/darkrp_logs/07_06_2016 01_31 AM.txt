@@ -1,0 +1,973 @@
+Wed Jul  6 01:31:04 2016	Ethan (STEAM_0:1:72945201) has joined the game
+Wed Jul  6 01:31:04 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 01:34:21 2016	Dragonboy_Ryan (STEAM_0:0:102872178) has joined the game
+Wed Jul  6 01:34:21 2016	Dino (STEAM_0:0:102872178) spawned
+Wed Jul  6 01:35:19 2016	Dino (STEAM_0:0:102872178): its near the naboo area
+Wed Jul  6 01:35:31 2016	Dino (STEAM_0:0:102872178): /ooc ill see if i can find it
+Wed Jul  6 01:35:34 2016	Ethan (STEAM_0:1:72945201): // k
+Wed Jul  6 01:36:03 2016	Ethan (STEAM_0:1:72945201): // I think I found it
+Wed Jul  6 01:36:06 2016	Ethan (STEAM_0:1:72945201): !tp dino
+Wed Jul  6 01:36:19 2016	Dino (STEAM_0:0:102872178): i think this is the clone ship
+Wed Jul  6 01:36:42 2016	Dino (STEAM_0:0:102872178): /ooc yeah its the clone ship you can tell from the double bridge
+Wed Jul  6 01:37:00 2016	Dino (STEAM_0:0:102872178): yeah i found it bit you tped me
+Wed Jul  6 01:37:09 2016	Ethan (STEAM_0:1:72945201): !return dino
+Wed Jul  6 01:37:12 2016	Ethan (STEAM_0:1:72945201): !goto dino
+Wed Jul  6 01:38:14 2016	Dino (STEAM_0:0:102872178): this could be the empire training room
+Wed Jul  6 01:38:29 2016	Ethan (STEAM_0:1:72945201): /setspawn rec
+Wed Jul  6 01:38:32 2016	Ethan was killed by Himself with a suicide trick
+Wed Jul  6 01:38:33 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 01:38:43 2016	Ethan (STEAM_0:1:72945201): /setspawn aod
+Wed Jul  6 01:38:57 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 01:39:40 2016	Dino (STEAM_0:0:102872178): !menu
+Wed Jul  6 01:39:58 2016	Ethan (STEAM_0:1:72945201): // wait
+Wed Jul  6 01:40:26 2016	Dino (STEAM_0:0:102872178): below or above this
+Wed Jul  6 01:41:07 2016	Dino (STEAM_0:0:102872178): /ooc It to the right of the SD
+Wed Jul  6 01:41:13 2016	Ethan (STEAM_0:1:72945201): // ya
+Wed Jul  6 01:41:37 2016	Ethan (STEAM_0:1:72945201): // ok I will start workin on the tps
+Wed Jul  6 01:41:41 2016	Ethan was killed by Himself with a suicide trick
+Wed Jul  6 01:41:42 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 01:42:02 2016	Dino (STEAM_0:0:102872178): /ooc im thinking give the empire the SD and Tatooine and kashyyk and we give the rebels the rest
+Wed Jul  6 01:42:07 2016	Ethan (STEAM_0:1:72945201): /setwarp EmpireShip
+Wed Jul  6 01:42:14 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 01:42:42 2016	Dino (STEAM_0:0:102872178): warp
+Wed Jul  6 01:42:45 2016	Dino (STEAM_0:0:102872178): /warp
+Wed Jul  6 01:42:47 2016	Ethan (STEAM_0:1:72945201): // I like how it teleports u
+Wed Jul  6 01:43:38 2016	Ethan (STEAM_0:1:72945201): /setwarp NearEmpireShip
+Wed Jul  6 01:43:41 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 01:44:05 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 01:46:04 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 01:46:16 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 01:46:37 2016	Ethan (STEAM_0:1:72945201): /deletewarp NearEmpireShip
+Wed Jul  6 01:46:41 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 01:46:59 2016	Ethan (STEAM_0:1:72945201): /setwarp NearEmpireShip
+Wed Jul  6 01:47:02 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 01:47:53 2016	Ethan (STEAM_0:1:72945201): /setwarp NearRebelShip
+Wed Jul  6 01:47:55 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 01:48:36 2016	Dino (STEAM_0:0:102872178): !menu
+Wed Jul  6 01:49:47 2016	Ethan (STEAM_0:1:72945201): /setwarp RebelShip
+Wed Jul  6 01:49:50 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 01:51:17 2016	Ethan (STEAM_0:1:72945201): /setwarp NabooAreaOfTheEmpire
+Wed Jul  6 01:51:19 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 01:51:25 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 01:52:08 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 01:52:35 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 01:52:52 2016	Ethan (STEAM_0:1:72945201): /setwarp NabooAreaOfTheRebels
+Wed Jul  6 01:52:54 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 01:53:35 2016	Ethan (STEAM_0:1:72945201): /setwarp TatooineAreaOfTheEmpire
+Wed Jul  6 01:53:37 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 01:54:32 2016	Ethan (STEAM_0:1:72945201): /setwarp HuttBuilding
+Wed Jul  6 01:55:35 2016	Ethan (STEAM_0:1:72945201): /setwarp UnControlledArea
+Wed Jul  6 01:55:37 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 01:55:45 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 01:56:01 2016	Ethan (STEAM_0:1:72945201): nice!
+Wed Jul  6 01:56:06 2016	Ethan (STEAM_0:1:72945201): everything is set btw
+Wed Jul  6 01:56:15 2016	Dino (STEAM_0:0:102872178): cool
+Wed Jul  6 01:56:27 2016	Ethan (STEAM_0:1:72945201): thanks Dino
+Wed Jul  6 01:59:43 2016	Ethan (STEAM_0:1:72945201): /y I will put chain of command outside, cause there is no space in here
+Wed Jul  6 02:04:15 2016	Ethan (STEAM_0:1:72945201): yo dude
+Wed Jul  6 02:04:29 2016	Ethan (STEAM_0:1:72945201): is it alright? "Fleet commodore"
+Wed Jul  6 02:04:45 2016	Dino (STEAM_0:0:102872178): commondore
+Wed Jul  6 02:04:50 2016	Ethan (STEAM_0:1:72945201): ok
+Wed Jul  6 02:04:57 2016	Ethan (STEAM_0:1:72945201): thx
+Wed Jul  6 02:08:22 2016	Dino (STEAM_0:0:102872178): Just saying its grand Moff not Muff
+Wed Jul  6 02:08:28 2016	Ethan (STEAM_0:1:72945201): // Xd
+Wed Jul  6 02:11:16 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969) has joined the game
+Wed Jul  6 02:11:16 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969) spawned
+Wed Jul  6 02:12:03 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): hi
+Wed Jul  6 02:12:03 2016	Ethan (STEAM_0:1:72945201): HELLO
+Wed Jul  6 02:12:06 2016	Ethan (STEAM_0:1:72945201): WELCOME
+Wed Jul  6 02:12:14 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): how are you ethan?
+Wed Jul  6 02:12:15 2016	Ethan (STEAM_0:1:72945201): WE ARRE ACTUALLY RE MAKING the server
+Wed Jul  6 02:12:19 2016	Ethan (STEAM_0:1:72945201): im good
+Wed Jul  6 02:12:21 2016	Ethan (STEAM_0:1:72945201): how are you
+Wed Jul  6 02:12:23 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): how did i join? xd
+Wed Jul  6 02:12:26 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): im great xd
+Wed Jul  6 02:12:55 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): its actually a new idea to star wars server :P
+Wed Jul  6 02:12:58 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): tutorial?
+Wed Jul  6 02:13:17 2016	Ethan (STEAM_0:1:72945201): dude
+Wed Jul  6 02:13:19 2016	Ethan (STEAM_0:1:72945201): just
+Wed Jul  6 02:13:26 2016	Ethan (STEAM_0:1:72945201): change ur name
+Wed Jul  6 02:13:30 2016	Ethan (STEAM_0:1:72945201): and I will force job u
+Wed Jul  6 02:13:42 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): change to?
+Wed Jul  6 02:13:48 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): sth quick? XD
+Wed Jul  6 02:13:59 2016	Ethan (STEAM_0:1:72945201): just, change it and i will force job u
+Wed Jul  6 02:14:22 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): omg how to?
+Wed Jul  6 02:14:28 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): there is no setname here
+Wed Jul  6 02:14:40 2016	Dino (STEAM_0:0:102872178) spawned
+Wed Jul  6 02:14:44 2016	Dino (STEAM_0:0:102872178): !goto Ethan
+Wed Jul  6 02:14:48 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): excuse me i am a new to garry's mod tbh
+Wed Jul  6 02:14:51 2016	Ethan (STEAM_0:1:72945201): /me bows
+Wed Jul  6 02:14:52 2016	Ethan (STEAM_0:1:72945201): XD
+Wed Jul  6 02:14:55 2016	Dino (STEAM_0:0:102872178): good boy
+Wed Jul  6 02:15:09 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): altho thank u xd
+Wed Jul  6 02:15:12 2016	Dino (STEAM_0:0:102872178): /y anyway i have done the recruit room
+Wed Jul  6 02:15:16 2016	Ethan (STEAM_0:1:72945201): NICE
+Wed Jul  6 02:15:17 2016	Ethan (STEAM_0:1:72945201): THX
+Wed Jul  6 02:15:20 2016	Dino (STEAM_0:0:102872178): np
+Wed Jul  6 02:15:20 2016	Ethan (STEAM_0:1:72945201): caps
+Wed Jul  6 02:15:32 2016	Dino (STEAM_0:0:102872178): Do you want me to make the bunks around the ship?
+Wed Jul  6 02:15:37 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): hi
+Wed Jul  6 02:15:39 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): :V
+Wed Jul  6 02:15:42 2016	Ethan (STEAM_0:1:72945201): if you can
+Wed Jul  6 02:15:44 2016	Dino (STEAM_0:0:102872178): !scale ^ 1.1
+Wed Jul  6 02:15:45 2016	Ethan (STEAM_0:1:72945201): it will be great
+Wed Jul  6 02:15:57 2016	Dino (STEAM_0:0:102872178): you bow to me
+Wed Jul  6 02:15:57 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): wot? xd
+Wed Jul  6 02:16:01 2016	Dino (STEAM_0:0:102872178): press R
+Wed Jul  6 02:16:05 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): how are you :P
+Wed Jul  6 02:16:16 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): yea "r"?
+Wed Jul  6 02:16:27 2016	Dino (STEAM_0:0:102872178): press R then lick bow
+Wed Jul  6 02:16:39 2016	Dino (STEAM_0:0:102872178): yeah like that
+Wed Jul  6 02:16:42 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): done already
+Wed Jul  6 02:16:50 2016	Dino (STEAM_0:0:102872178): thats not training :P
+Wed Jul  6 02:16:52 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): now?
+Wed Jul  6 02:17:06 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): u look like an error lol
+Wed Jul  6 02:17:23 2016	Dino (STEAM_0:0:102872178): /name Darth Vader
+Wed Jul  6 02:17:38 2016	Darth Vader (STEAM_0:0:102872178): have you ever done star wars RP before
+Wed Jul  6 02:17:39 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): wot is dat?
+Wed Jul  6 02:17:44 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): no :(
+Wed Jul  6 02:17:47 2016	Darth Vader (STEAM_0:0:102872178): ok
+Wed Jul  6 02:17:50 2016	Darth Vader (STEAM_0:0:102872178): thats fine
+Wed Jul  6 02:17:54 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): :D
+Wed Jul  6 02:17:55 2016	Darth Vader (STEAM_0:0:102872178): well come here
+Wed Jul  6 02:18:03 2016	Darth Vader (STEAM_0:0:102872178): These are the faces
+Wed Jul  6 02:18:05 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): yes?
+Wed Jul  6 02:18:21 2016	Darth Vader (STEAM_0:0:102872178): you will need to know them for tryouts and shit
+Wed Jul  6 02:18:25 2016	Darth Vader (STEAM_0:0:102872178): anyway
+Wed Jul  6 02:18:29 2016	Darth Vader (STEAM_0:0:102872178): its simple
+Wed Jul  6 02:18:33 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): wait how to i use them?
+Wed Jul  6 02:18:39 2016	Darth Vader (STEAM_0:0:102872178): you move your mouse
+Wed Jul  6 02:18:46 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): huh?
+Wed Jul  6 02:18:46 2016	Darth Vader (STEAM_0:0:102872178): to the direction of the face
+Wed Jul  6 02:18:50 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): and?
+Wed Jul  6 02:18:56 2016	Darth Vader (STEAM_0:0:102872178): for example left face
+Wed Jul  6 02:19:06 2016	Ethan (STEAM_0:1:72945201): nice
+Wed Jul  6 02:19:08 2016	Darth Vader (STEAM_0:0:102872178): a 90 degree turn to the left
+Wed Jul  6 02:19:10 2016	Ethan (STEAM_0:1:72945201): anways
+Wed Jul  6 02:19:15 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): ok? :D
+Wed Jul  6 02:19:16 2016	Ethan (STEAM_0:1:72945201): ima go to sleep in like 5 mins
+Wed Jul  6 02:19:19 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): ok
+Wed Jul  6 02:19:24 2016	Darth Vader (STEAM_0:0:102872178): a right face
+Wed Jul  6 02:19:25 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): have a good sleep :3
+Wed Jul  6 02:19:33 2016	Darth Vader (STEAM_0:0:102872178): oh ok
+Wed Jul  6 02:19:46 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): a right face i can do it by pressing which key?
+Wed Jul  6 02:20:05 2016	Darth Vader (STEAM_0:0:102872178): you dont its a 90 degree turn to the right
+Wed Jul  6 02:20:07 2016	Darth Vader (STEAM_0:0:102872178): like so
+Wed Jul  6 02:20:09 2016	Ethan (STEAM_0:1:72945201): !resetmap
+Wed Jul  6 02:20:16 2016	Darth Vader (STEAM_0:0:102872178): yeah
+Wed Jul  6 02:20:21 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): rlyy  only this?
+Wed Jul  6 02:20:22 2016	Darth Vader (STEAM_0:0:102872178): its simple
+Wed Jul  6 02:20:22 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): LOL
+Wed Jul  6 02:20:35 2016	Darth Vader (STEAM_0:0:102872178): about face is just turn the opposite way
+Wed Jul  6 02:20:39 2016	Darth Vader (STEAM_0:0:102872178): so like this
+Wed Jul  6 02:20:50 2016	Darth Vader (STEAM_0:0:102872178): thats an about face
+Wed Jul  6 02:20:55 2016	Darth Vader (STEAM_0:0:102872178): yeah
+Wed Jul  6 02:20:55 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): dude
+Wed Jul  6 02:21:00 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): i played css before
+Wed Jul  6 02:21:12 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): for 1 year so i  guess i know something :P
+Wed Jul  6 02:21:47 2016	Darth Vader (STEAM_0:0:102872178): and lastly front face is just face your commander or the person giving you orders
+Wed Jul  6 02:22:22 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969) disconnected
+Wed Jul  6 02:23:31 2016	Ethan (STEAM_0:1:72945201): ok dude
+Wed Jul  6 02:23:33 2016	Ethan (STEAM_0:1:72945201): ima go off
+Wed Jul  6 02:23:39 2016	Ethan (STEAM_0:1:72945201): cause its like 2.23 am
+Wed Jul  6 02:23:41 2016	Ethan (STEAM_0:1:72945201): XD
+Wed Jul  6 02:23:49 2016	Darth Vader (STEAM_0:0:102872178): ok ill have the bunks done for you :P
+Wed Jul  6 02:23:52 2016	Ethan (STEAM_0:1:72945201): so really, thank you so much and cya later
+Wed Jul  6 02:23:55 2016	Ethan (STEAM_0:1:72945201): thx
+Wed Jul  6 02:23:55 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969) has joined the game
+Wed Jul  6 02:23:55 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969) spawned
+Wed Jul  6 02:24:09 2016	Ethan (STEAM_0:1:72945201) disconnected
+Wed Jul  6 02:24:39 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): sorry
+Wed Jul  6 02:24:45 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): vader im back i crashed
+Wed Jul  6 02:25:18 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): vadeeer
+Wed Jul  6 02:25:50 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): VADER
+Wed Jul  6 02:28:17 2016	ℭяøʊ¢нεґ (STEAM_0:1:124324969): /name ST PVT 2002Croucher
+Wed Jul  6 02:29:22 2016	ST PVT 2002Croucher (STEAM_0:1:124324969): darth
+Wed Jul  6 02:30:23 2016	ST PVT 2002Croucher (STEAM_0:1:124324969) disconnected
+Wed Jul  6 02:31:28 2016	Darth Vader (STEAM_0:0:102872178): LEFT FACE
+Wed Jul  6 02:51:26 2016	Darth Vader (STEAM_0:0:102872178): Sammo is so stupid that when he got locked in a food store he staarved to death
+Wed Jul  6 02:51:29 2016	Darth Vader (STEAM_0:0:102872178): /warp
+Wed Jul  6 02:52:01 2016	Darth Vader (STEAM_0:0:102872178) disconnected
+Wed Jul  6 11:11:34 2016	Ethan (STEAM_0:1:72945201) has joined the game
+Wed Jul  6 11:11:34 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 11:13:30 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 11:13:53 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 11:14:44 2016	Daniel (STEAM_0:0:27711570) has joined the game
+Wed Jul  6 11:14:44 2016	Fleet Admiral Daniel (STEAM_0:0:27711570) spawned
+Wed Jul  6 11:15:03 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): aalan
+Wed Jul  6 11:15:23 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): hm
+Wed Jul  6 11:15:58 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): /logs
+Wed Jul  6 11:16:07 2016	Ethan (STEAM_0:1:72945201): !tp dan
+Wed Jul  6 11:16:19 2016	Ethan (STEAM_0:1:72945201): /setspawn stpvt
+Wed Jul  6 11:16:20 2016	Ethan (STEAM_0:1:72945201): /setspawn stpfc
+Wed Jul  6 11:16:22 2016	Ethan (STEAM_0:1:72945201): /setspawn stcpl
+Wed Jul  6 11:16:30 2016	Ethan (STEAM_0:1:72945201): /setspawn stcpl
+Wed Jul  6 11:16:32 2016	Ethan (STEAM_0:1:72945201): /setspawn stsgt
+Wed Jul  6 11:16:34 2016	Ethan (STEAM_0:1:72945201): /setspawn stssgt
+Wed Jul  6 11:16:37 2016	Ethan (STEAM_0:1:72945201): /setspawn stlt
+Wed Jul  6 11:16:38 2016	Ethan (STEAM_0:1:72945201): /setspawn stcpt
+Wed Jul  6 11:16:41 2016	Ethan (STEAM_0:1:72945201): /setspawn stcpt
+Wed Jul  6 11:16:43 2016	Ethan (STEAM_0:1:72945201): /setspawn stmjr
+Wed Jul  6 11:17:04 2016	Ethan (STEAM_0:1:72945201): /setspawn stmjr
+Wed Jul  6 11:17:09 2016	Ethan (STEAM_0:1:72945201): /setspawn stcol
+Wed Jul  6 11:17:15 2016	Ethan (STEAM_0:1:72945201): /setspawn stbattcom
+Wed Jul  6 11:17:18 2016	Ethan (STEAM_0:1:72945201): /setspawn stregcom
+Wed Jul  6 11:17:33 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): !motd
+Wed Jul  6 11:18:22 2016	Fleet Admiral Daniel (STEAM_0:0:27711570) disconnected
+Wed Jul  6 11:18:24 2016	Ethan (STEAM_0:1:72945201): /setspawn skpvt
+Wed Jul  6 11:18:25 2016	Ethan (STEAM_0:1:72945201): /setspawn skpfc
+Wed Jul  6 11:18:27 2016	Ethan (STEAM_0:1:72945201): /setspawn skcpl
+Wed Jul  6 11:18:29 2016	Ethan (STEAM_0:1:72945201): /setspawn sksgt
+Wed Jul  6 11:18:32 2016	Ethan (STEAM_0:1:72945201): /setspawn skssgt
+Wed Jul  6 11:18:33 2016	Ethan (STEAM_0:1:72945201): /setspawn sklt
+Wed Jul  6 11:18:35 2016	Ethan (STEAM_0:1:72945201): /setspawn skcpt
+Wed Jul  6 11:18:38 2016	Ethan (STEAM_0:1:72945201): /setspawn skmjr
+Wed Jul  6 11:18:41 2016	Ethan (STEAM_0:1:72945201): /setspawn skbattcom
+Wed Jul  6 11:18:44 2016	Ethan (STEAM_0:1:72945201): /setspawn skregcom
+Wed Jul  6 11:19:00 2016	Ethan (STEAM_0:1:72945201): /setspawn sdpvt
+Wed Jul  6 11:19:02 2016	Ethan (STEAM_0:1:72945201): /setspawn sdpfc
+Wed Jul  6 11:19:04 2016	Ethan (STEAM_0:1:72945201): /setspawn sdcpl
+Wed Jul  6 11:19:08 2016	Ethan (STEAM_0:1:72945201): /setspawn sdsgt
+Wed Jul  6 11:19:11 2016	Ethan (STEAM_0:1:72945201): /setspawn sdssgt
+Wed Jul  6 11:19:14 2016	Ethan (STEAM_0:1:72945201): /setspawn sdlt
+Wed Jul  6 11:19:15 2016	Ethan (STEAM_0:1:72945201): /setspawn sdcpt
+Wed Jul  6 11:19:18 2016	Ethan (STEAM_0:1:72945201): /setspawn sdmjr
+Wed Jul  6 11:19:20 2016	Ethan (STEAM_0:1:72945201): /setspawn sdcol
+Wed Jul  6 11:19:22 2016	Ethan (STEAM_0:1:72945201): /setspawn sdbattcom
+Wed Jul  6 11:19:25 2016	Ethan (STEAM_0:1:72945201): /setspawn sdregcom
+Wed Jul  6 11:19:39 2016	Ethan (STEAM_0:1:72945201): /setspawn sdtpvt
+Wed Jul  6 11:19:41 2016	Ethan (STEAM_0:1:72945201): /setspawn sdtpfc
+Wed Jul  6 11:19:42 2016	Ethan (STEAM_0:1:72945201): /setspawn sdtcpl
+Wed Jul  6 11:19:44 2016	Ethan (STEAM_0:1:72945201): /setspawn sdtsgt
+Wed Jul  6 11:19:47 2016	Ethan (STEAM_0:1:72945201): /setspawn sdtssgt
+Wed Jul  6 11:19:49 2016	Ethan (STEAM_0:1:72945201): /setspawn sdtlt
+Wed Jul  6 11:19:51 2016	Ethan (STEAM_0:1:72945201): /setspawn sdtcpt
+Wed Jul  6 11:19:55 2016	Ethan (STEAM_0:1:72945201): /setspawn sdtmjr
+Wed Jul  6 11:19:56 2016	Ethan (STEAM_0:1:72945201): /setspawn sdtcol
+Wed Jul  6 11:19:59 2016	Ethan (STEAM_0:1:72945201): /setspawn sdtcol
+Wed Jul  6 11:20:02 2016	Ethan (STEAM_0:1:72945201): /setspawn sdtbattcom
+Wed Jul  6 11:20:05 2016	Ethan (STEAM_0:1:72945201): /setspawn sdtregcom
+Wed Jul  6 11:24:16 2016	Ethan (STEAM_0:1:72945201) spawned SENT tie_fighter
+Wed Jul  6 11:24:32 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 11:24:37 2016	Ethan (STEAM_0:1:72945201) spawned SENT tie_fighter
+Wed Jul  6 11:24:43 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 11:24:59 2016	Ethan (STEAM_0:1:72945201) spawned SENT tie_interceptor
+Wed Jul  6 11:25:08 2016	Ethan (STEAM_0:1:72945201) spawned SENT tie_fighter
+Wed Jul  6 11:26:00 2016	Ethan (STEAM_0:1:72945201) spawned SENT tie_fighter
+Wed Jul  6 11:26:28 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 11:26:34 2016	Ethan (STEAM_0:1:72945201): !resetmap
+Wed Jul  6 11:26:38 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 11:27:35 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 11:38:18 2016	Ethan (STEAM_0:1:72945201): !resetmap
+Wed Jul  6 11:40:53 2016	Ethan (STEAM_0:1:72945201) spawned SENT tie_fighter
+Wed Jul  6 11:41:14 2016	Ethan (STEAM_0:1:72945201) spawned SENT tie_fighter
+Wed Jul  6 11:41:30 2016	Ethan (STEAM_0:1:72945201) spawned SENT tie_fighter
+Wed Jul  6 11:41:37 2016	Ethan (STEAM_0:1:72945201) spawned SENT tie_fighter
+Wed Jul  6 11:41:56 2016	Ethan (STEAM_0:1:72945201) spawned SENT tie_fighter
+Wed Jul  6 11:42:01 2016	Ethan (STEAM_0:1:72945201) spawned SENT tie_fighter
+Wed Jul  6 11:42:20 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 11:42:23 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 11:43:05 2016	Ethan (STEAM_0:1:72945201): /setwarp ImpiralShipTieFighterLaunchArea
+Wed Jul  6 11:43:08 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 11:43:25 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 11:43:43 2016	Ethan (STEAM_0:1:72945201): /setwarp ImpiralShipTieFightersArea
+Wed Jul  6 11:43:45 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 11:44:00 2016	Ethan (STEAM_0:1:72945201) spawned SENT tie_bomber
+Wed Jul  6 11:44:02 2016	Ethan (STEAM_0:1:72945201) spawned SENT tie_interceptor
+Wed Jul  6 11:44:06 2016	Ethan (STEAM_0:1:72945201) spawned SENT tie_interceptor
+Wed Jul  6 11:44:13 2016	Ethan (STEAM_0:1:72945201) spawned SENT tie_interceptor
+Wed Jul  6 11:44:17 2016	Ethan (STEAM_0:1:72945201) spawned SENT tie_interceptor
+Wed Jul  6 11:44:31 2016	Ethan (STEAM_0:1:72945201) spawned SENT tie_interceptor
+Wed Jul  6 11:44:41 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 11:45:06 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 11:46:20 2016	Ethan (STEAM_0:1:72945201): !resetmap
+Wed Jul  6 11:47:04 2016	Ethan (STEAM_0:1:72945201) spawned SENT x-wing
+Wed Jul  6 11:47:42 2016	Ethan (STEAM_0:1:72945201) spawned SENT x-wing
+Wed Jul  6 11:47:51 2016	Ethan (STEAM_0:1:72945201) spawned SENT ywing_btlb
+Wed Jul  6 11:47:59 2016	Ethan (STEAM_0:1:72945201) spawned SENT x-wing
+Wed Jul  6 11:48:10 2016	AngryChicken82 (STEAM_0:1:92889617) has joined the game
+Wed Jul  6 11:48:10 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) spawned
+Wed Jul  6 11:48:40 2016	Ethan (STEAM_0:1:72945201) spawned SENT x-wing
+Wed Jul  6 11:48:43 2016	Ethan (STEAM_0:1:72945201) spawned SENT x-wing
+Wed Jul  6 11:48:49 2016	Ethan (STEAM_0:1:72945201) spawned SENT x-wing
+Wed Jul  6 11:49:05 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 11:49:12 2016	Ethan (STEAM_0:1:72945201): !resetmap
+Wed Jul  6 11:49:15 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 11:49:28 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 11:49:42 2016	Ethan (STEAM_0:1:72945201): // try typing in chat /warp
+Wed Jul  6 11:50:02 2016	Ethan (STEAM_0:1:72945201): // try now
+Wed Jul  6 11:50:07 2016	Ethan (STEAM_0:1:72945201): / /and try going to naboo
+Wed Jul  6 11:50:13 2016	Ethan (STEAM_0:1:72945201): // and try going to naboo
+Wed Jul  6 11:50:48 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 11:50:50 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // Hey!
+Wed Jul  6 11:50:56 2016	Ethan (STEAM_0:1:72945201): !goto anc
+Wed Jul  6 11:51:08 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 11:51:12 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): /warp
+Wed Jul  6 11:51:19 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): Yes
+Wed Jul  6 11:51:32 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): At ease Trooper(s)
+Wed Jul  6 11:51:35 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): OOps
+Wed Jul  6 11:52:13 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 11:52:22 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): !goto ethan
+Wed Jul  6 11:52:31 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): THE ANIMATION LOOKS DOPE
+Wed Jul  6 11:52:45 2016	Ethan (STEAM_0:1:72945201): !resetmap
+Wed Jul  6 11:52:48 2016	SHDT Reg Comm Ancient was killed by Entity [0][worldspawn] with a unknown
+Wed Jul  6 11:52:55 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // tf xD
+Wed Jul  6 11:52:56 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) spawned
+Wed Jul  6 11:52:56 2016	Ethan (STEAM_0:1:72945201): !tp anc
+Wed Jul  6 11:53:18 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): Hmm...
+Wed Jul  6 11:53:31 2016	Ethan (STEAM_0:1:72945201): !goto anc
+Wed Jul  6 11:53:36 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // brb looking in addons  for things to fit here
+Wed Jul  6 11:53:41 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): Yeah sounds cool
+Wed Jul  6 11:55:16 2016	Ethan (STEAM_0:1:72945201) spawned SENT n-1
+Wed Jul  6 11:55:27 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 11:56:50 2016	Ethan (STEAM_0:1:72945201) spawned SENT yoda_council_chair
+Wed Jul  6 11:56:57 2016	Ethan (STEAM_0:1:72945201) spawned SENT yoda_council_chair
+Wed Jul  6 11:57:22 2016	Ethan (STEAM_0:1:72945201) spawned SENT plo_koon_council_chair
+Wed Jul  6 11:57:26 2016	Ethan (STEAM_0:1:72945201) spawned SENT plo_koon_council_chair
+Wed Jul  6 11:57:42 2016	Ethan (STEAM_0:1:72945201) spawned SENT mace_windu_council_chair
+Wed Jul  6 11:58:47 2016	Ethan (STEAM_0:1:72945201) spawned SENT plo_koon_council_chair
+Wed Jul  6 11:58:50 2016	Ethan (STEAM_0:1:72945201) spawned SENT plo_koon_council_chair
+Wed Jul  6 11:59:22 2016	Ethan (STEAM_0:1:72945201) spawned SENT plo_koon_council_chair
+Wed Jul  6 12:00:04 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // So ive been looking for stuff to fill the space in the workshop and i found some fantasy rp content (with props to decorate
+Wed Jul  6 12:00:12 2016	Ethan (STEAM_0:1:72945201): // ok
+Wed Jul  6 12:00:15 2016	Ethan (STEAM_0:1:72945201): // pm me on steam
+Wed Jul  6 12:00:20 2016	Ethan (STEAM_0:1:72945201): // brb
+Wed Jul  6 12:00:20 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // you want me to give you the link so you could check it ouy?
+Wed Jul  6 12:00:24 2016	Ethan (STEAM_0:1:72945201): // damn shadow is back
+Wed Jul  6 12:06:09 2016	[RG] NievAchieve (STEAM_0:1:79001790) has joined the game
+Wed Jul  6 12:06:09 2016	Darth Sol (STEAM_0:1:79001790) spawned
+Wed Jul  6 12:06:18 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // Hey!
+Wed Jul  6 12:06:22 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): !goto sol
+Wed Jul  6 12:07:24 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): This sure is a wanker party
+Wed Jul  6 12:07:26 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): yay
+Wed Jul  6 12:07:45 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): Hey!
+Wed Jul  6 12:07:54 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): How you doin?
+Wed Jul  6 12:08:05 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): Damn
+Wed Jul  6 12:08:10 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): /me Huhs
+Wed Jul  6 12:08:16 2016	Darth Sol (STEAM_0:1:79001790): Damn "Ethan"
+Wed Jul  6 12:08:39 2016	Darth Sol (STEAM_0:1:79001790): 
+Wed Jul  6 12:08:40 2016	Darth Sol (STEAM_0:1:79001790): 
+Wed Jul  6 12:09:21 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): Because when Ethan ported the server to linux the player files were lost
+Wed Jul  6 12:09:27 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): were you an admin?
+Wed Jul  6 12:09:37 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): I know
+Wed Jul  6 12:09:45 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): I justy dont remember your rank
+Wed Jul  6 12:10:06 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): I know who you are shadow xD i just dont remember your admin
+Wed Jul  6 12:10:27 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): MAUAHAHHAAH im eviiiiiil
+Wed Jul  6 12:10:50 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): No i remember now
+Wed Jul  6 12:10:56 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): yay
+Wed Jul  6 12:11:02 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): im confusing
+Wed Jul  6 12:11:18 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // poor wanker
+Wed Jul  6 12:11:22 2016	Darth Sol (STEAM_0:1:79001790): /OOC xD
+Wed Jul  6 12:11:32 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // /me kisses goodbye
+Wed Jul  6 12:11:43 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // been nice knowing ya mate
+Wed Jul  6 12:11:51 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // those damn crashes
+Wed Jul  6 12:12:10 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): /warp
+Wed Jul  6 12:12:17 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): /warp
+Wed Jul  6 12:12:29 2016	Darth Sol (STEAM_0:1:79001790): /OOC hey Ethan I played its I while gone but I played on a server where you could choose if you want to play on the side of 
+Wed Jul  6 12:12:29 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): /warp
+Wed Jul  6 12:12:43 2016	Darth Sol (STEAM_0:1:79001790): /OOC Empire or the Republic
+Wed Jul  6 12:12:47 2016	Darth Sol (STEAM_0:1:79001790): /OOC wtf
+Wed Jul  6 12:12:49 2016	Ethan (STEAM_0:1:72945201): / /ya thats the paln
+Wed Jul  6 12:15:20 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): !goto sol
+Wed Jul  6 12:15:28 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): !goto sol
+Wed Jul  6 12:15:35 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): xD
+Wed Jul  6 12:15:35 2016	Darth Sol (STEAM_0:1:79001790): 
+Wed Jul  6 12:15:41 2016	Darth Sol (STEAM_0:1:79001790) spawned
+Wed Jul  6 12:15:53 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): /y leave the tie i wanna show you sumthin
+Wed Jul  6 12:15:59 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): !return
+Wed Jul  6 12:16:09 2016	Darth Sol (STEAM_0:1:79001790): /OOC stuck xD
+Wed Jul  6 12:16:12 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): !tp sol
+Wed Jul  6 12:16:39 2016	Darth Sol (STEAM_0:1:79001790): /OOC you got that map already Ethan you can move between planets
+Wed Jul  6 12:16:47 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): I wanna show you omething magnificant enter 
+Wed Jul  6 12:17:23 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): Im better
+Wed Jul  6 12:17:51 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): Lets teabag his chair for that
+Wed Jul  6 12:18:05 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): WE ARE BADASS
+Wed Jul  6 12:18:13 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): yup
+Wed Jul  6 12:18:51 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): /drop
+Wed Jul  6 12:19:30 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) spawned SENT shuttle_752_awing
+Wed Jul  6 12:19:37 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) spawned
+Wed Jul  6 12:19:50 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) spawned SENT shuttle_752_tie
+Wed Jul  6 12:19:59 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) spawned
+Wed Jul  6 12:19:59 2016	SHDT Reg Comm Ancient was killed by Himself with a suicide trick
+Wed Jul  6 12:20:03 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // xD
+Wed Jul  6 12:20:05 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) spawned
+Wed Jul  6 12:20:13 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // (GONE WRONG)
+Wed Jul  6 12:20:24 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): /warp
+Wed Jul  6 12:20:26 2016	Darth Sol (STEAM_0:1:79001790): /OOC where to get out?
+Wed Jul  6 12:20:35 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): do /warp
+Wed Jul  6 12:21:04 2016	Darth Sol (STEAM_0:1:79001790) spawned
+Wed Jul  6 12:21:29 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): /warp
+Wed Jul  6 12:22:09 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): /warp
+Wed Jul  6 12:22:45 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): /warp
+Wed Jul  6 12:22:47 2016	Darth Sol was killed by Entity [0][worldspawn] with a unknown
+Wed Jul  6 12:22:48 2016	Darth Sol (STEAM_0:1:79001790) spawned
+Wed Jul  6 12:23:05 2016	Ethan (STEAM_0:1:72945201): // ffs too much groups
+Wed Jul  6 12:23:16 2016	Darth Sol (STEAM_0:1:79001790) spawned
+Wed Jul  6 12:23:42 2016	Darth Sol (STEAM_0:1:79001790) spawned
+Wed Jul  6 12:23:45 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // There arre so many signs of HAMMERFALL NETWORKS in here xD
+Wed Jul  6 12:23:51 2016	Ethan (STEAM_0:1:72945201): // checking
+Wed Jul  6 12:23:52 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 12:23:53 2016	Darth Sol (STEAM_0:1:79001790): /OOC ye
+Wed Jul  6 12:23:55 2016	Darth Sol (STEAM_0:1:79001790): 
+Wed Jul  6 12:23:55 2016	Darth Sol (STEAM_0:1:79001790): 
+Wed Jul  6 12:23:56 2016	SHDT Reg Comm Ancient was killed by Entity [0][worldspawn] with a unknown
+Wed Jul  6 12:23:56 2016	Darth Sol (STEAM_0:1:79001790): 
+Wed Jul  6 12:24:01 2016	Ethan (STEAM_0:1:72945201): // for fucks sake
+Wed Jul  6 12:24:02 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) spawned
+Wed Jul  6 12:24:09 2016	Darth Sol (STEAM_0:1:79001790): /OOC can I get my admin ranks back?
+Wed Jul  6 12:24:09 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // What?
+Wed Jul  6 12:24:18 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // yeah ill give you
+Wed Jul  6 12:24:23 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // or nah :(
+Wed Jul  6 12:24:25 2016	Darth Sol (STEAM_0:1:79001790): /OOC wow
+Wed Jul  6 12:24:27 2016	Darth Sol (STEAM_0:1:79001790): 
+Wed Jul  6 12:24:28 2016	Darth Sol (STEAM_0:1:79001790): 
+Wed Jul  6 12:24:29 2016	Darth Sol (STEAM_0:1:79001790): 
+Wed Jul  6 12:24:39 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): shit
+Wed Jul  6 12:25:00 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) spawned SENT wt_rocketboots_15sec
+Wed Jul  6 12:25:09 2016	Darth Sol (STEAM_0:1:79001790): /OOC I am playing a bit Tribes ascend for the while
+Wed Jul  6 12:25:23 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) spawned SENT wt_rocketboots_15sec
+Wed Jul  6 12:25:44 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) spawned SENT wt_rocketboots
+Wed Jul  6 12:25:55 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) spawned SENT wt_rocketboots_remover
+Wed Jul  6 12:25:55 2016	SHDT Reg Comm Ancient was killed by Entity [0][worldspawn] with a unknown
+Wed Jul  6 12:26:02 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // im smart :)
+Wed Jul  6 12:26:03 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) spawned
+Wed Jul  6 12:26:17 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) spawned SENT wt_rocketboots_remover
+Wed Jul  6 12:29:44 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): !model sol models/katharsmodels/animals/horse/horsebrown-1.mdl
+Wed Jul  6 12:30:20 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): /forcerp name sol Darth Horsie
+Wed Jul  6 12:30:30 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): /forcerpname Darth Horsie
+Wed Jul  6 12:30:30 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) set [RG] NievAchieve's name to Horsie
+Wed Jul  6 12:34:11 2016	SHDT Reg Comm Ancient was killed by Entity [0][worldspawn] with a unknown
+Wed Jul  6 12:34:15 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) spawned
+Wed Jul  6 12:34:33 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) spawned
+Wed Jul  6 12:34:45 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): /name Master JewDa
+Wed Jul  6 12:35:07 2016	Horsie (STEAM_0:1:79001790): /OOC wtf
+Wed Jul  6 12:35:12 2016	Horsie (STEAM_0:1:79001790): /OOC WTF
+Wed Jul  6 12:35:20 2016	Master JewDa (STEAM_0:1:92889617): // check out you model :D
+Wed Jul  6 12:35:25 2016	Master JewDa (STEAM_0:1:92889617): !goto hors
+Wed Jul  6 12:35:46 2016	Master JewDa (STEAM_0:1:92889617): He was afk and i made him a horse
+Wed Jul  6 12:35:52 2016	Master JewDa (STEAM_0:1:92889617): so
+Wed Jul  6 12:35:57 2016	Master JewDa (STEAM_0:1:92889617): what do you say 
+Wed Jul  6 12:36:00 2016	Ethan (STEAM_0:1:72945201): !SCALE @ 0.5
+Wed Jul  6 12:36:18 2016	Master JewDa (STEAM_0:1:92889617): // we dont need rebels so lets switch the with horses
+Wed Jul  6 12:36:25 2016	Ethan (STEAM_0:1:72945201): // XD
+Wed Jul  6 12:36:48 2016	Master JewDa (STEAM_0:1:92889617): // HORSE RP
+Wed Jul  6 12:37:02 2016	Master JewDa (STEAM_0:1:92889617): yeh
+Wed Jul  6 12:37:05 2016	Master JewDa (STEAM_0:1:92889617): hell yeah
+Wed Jul  6 12:37:10 2016	Master JewDa (STEAM_0:1:92889617): xD
+Wed Jul  6 12:37:27 2016	Master JewDa (STEAM_0:1:92889617): /me does horse noises
+Wed Jul  6 12:38:11 2016	Horsie (STEAM_0:1:79001790): https://www.youtube.com/watch?v=lwwuuNGwcgo
+Wed Jul  6 12:38:22 2016	Master JewDa (STEAM_0:1:92889617): brb watching it
+Wed Jul  6 12:38:29 2016	Ethan (STEAM_0:1:72945201): !CLOAK
+Wed Jul  6 12:39:40 2016	poli.tomy21 (STEAM_0:0:85963007) has joined the game
+Wed Jul  6 12:39:40 2016	Sith APP Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 12:40:10 2016	z.fhntv (STEAM_0:0:79508056) has joined the game
+Wed Jul  6 12:40:10 2016	z.fhntv (STEAM_0:0:79508056) spawned
+Wed Jul  6 12:40:39 2016	Master JewDa (STEAM_0:1:92889617): I saw the video and im scared forever
+Wed Jul  6 12:41:13 2016	Ethan (STEAM_0:1:72945201): /setspawn sithapp
+Wed Jul  6 12:41:37 2016	Sith APP Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 12:41:48 2016	Master JewDa (STEAM_0:1:92889617): WHERES THE CHOPPER
+Wed Jul  6 12:41:55 2016	Ethan (STEAM_0:1:72945201): !uncloak
+Wed Jul  6 12:42:00 2016	Sith APP Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 12:42:23 2016	Sith APP Tomy was killed by Himself with a suicide trick
+Wed Jul  6 12:42:23 2016	Ethan (STEAM_0:1:72945201): !explode tomy
+Wed Jul  6 12:42:41 2016	z.fhntv (STEAM_0:0:79508056) disconnected
+Wed Jul  6 12:42:43 2016	Sith APP Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 12:42:43 2016	Ethan (STEAM_0:1:72945201): !forcerespwan tomy
+Wed Jul  6 12:43:00 2016	Ethan (STEAM_0:1:72945201): !tp tomy
+Wed Jul  6 12:43:06 2016	Ethan (STEAM_0:1:72945201): !unfreeze tomy
+Wed Jul  6 12:43:09 2016	Ethan (STEAM_0:1:72945201): !tp tomy
+Wed Jul  6 12:43:17 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 12:43:18 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 12:43:32 2016	Sith APP Tomy was killed by Ethan with a weapon_lasermgun
+Wed Jul  6 12:43:38 2016	Sith APP Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 12:43:43 2016	Ethan (STEAM_0:1:72945201): !tp tomy
+Wed Jul  6 12:43:49 2016	Master JewDa (STEAM_0:1:92889617): /drop
+Wed Jul  6 12:43:56 2016	Horsie (STEAM_0:1:79001790) spawned
+Wed Jul  6 12:43:58 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 12:43:58 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 12:44:00 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 12:44:23 2016	Horsie (STEAM_0:1:79001790): /OOC where to Jesus am I?1
+Wed Jul  6 12:44:25 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 12:44:33 2016	Sith APP Tomy was killed by Entity [0][worldspawn] with a player
+Wed Jul  6 12:44:35 2016	Sith APP Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 12:44:39 2016	Ethan (STEAM_0:1:72945201): !tp tomy
+Wed Jul  6 12:45:25 2016	Master JewDa was killed by Himself with a suicide trick
+Wed Jul  6 12:45:27 2016	Master JewDa (STEAM_0:1:92889617) spawned
+Wed Jul  6 12:45:35 2016	Master JewDa was killed by Himself with a suicide trick
+Wed Jul  6 12:45:36 2016	Master JewDa (STEAM_0:1:92889617) spawned
+Wed Jul  6 12:45:41 2016	Master JewDa (STEAM_0:1:92889617): !goto sol
+Wed Jul  6 12:45:46 2016	Ethan was killed by Himself with a suicide trick
+Wed Jul  6 12:45:47 2016	Master JewDa was killed by Himself with a suicide trick
+Wed Jul  6 12:45:47 2016	Master JewDa (STEAM_0:1:92889617): !goto hors
+Wed Jul  6 12:45:48 2016	Master JewDa (STEAM_0:1:92889617) spawned
+Wed Jul  6 12:45:49 2016	Master JewDa was killed by Himself with a suicide trick
+Wed Jul  6 12:45:49 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 12:45:51 2016	Master JewDa (STEAM_0:1:92889617) spawned
+Wed Jul  6 12:45:55 2016	Master JewDa (STEAM_0:1:92889617): !goto hors
+Wed Jul  6 12:46:16 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 12:46:33 2016	Sith APP Tomy was killed by Entity [0][worldspawn] with a player
+Wed Jul  6 12:46:34 2016	Master JewDa was killed by Entity [0][worldspawn] with a player
+Wed Jul  6 12:46:40 2016	Master JewDa (STEAM_0:1:92889617) spawned
+Wed Jul  6 12:46:42 2016	Ethan (STEAM_0:1:72945201): !resetmap
+Wed Jul  6 12:46:42 2016	Master JewDa was killed by Himself with a suicide trick
+Wed Jul  6 12:46:42 2016	Sith APP Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 12:46:43 2016	Sith APP Tomy was killed by Himself with a suicide trick
+Wed Jul  6 12:46:43 2016	Sith APP Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 12:46:49 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 12:46:50 2016	Master JewDa (STEAM_0:1:92889617): // why do i randomly die xD
+Wed Jul  6 12:46:51 2016	Master JewDa (STEAM_0:1:92889617) spawned
+Wed Jul  6 12:47:08 2016	Ethan (STEAM_0:1:72945201): // /warp
+Wed Jul  6 12:47:09 2016	Master JewDa (STEAM_0:1:92889617): /drop
+Wed Jul  6 12:47:15 2016	Horsie (STEAM_0:1:79001790): /warp Naboo
+Wed Jul  6 12:47:30 2016	Master JewDa (STEAM_0:1:92889617): /drop
+Wed Jul  6 12:47:35 2016	Horsie (STEAM_0:1:79001790): /warp
+Wed Jul  6 12:47:40 2016	Sith APP Tomy (STEAM_0:0:85963007): UNFREZ ME
+Wed Jul  6 12:48:02 2016	Master JewDa (STEAM_0:1:92889617): !goto etha
+Wed Jul  6 12:48:04 2016	Master JewDa (STEAM_0:1:92889617): /me Salutes
+Wed Jul  6 12:48:05 2016	Master JewDa (STEAM_0:1:92889617): /me Salutes
+Wed Jul  6 12:48:11 2016	Master JewDa (STEAM_0:1:92889617): !goto etha
+Wed Jul  6 12:48:12 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 12:48:17 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 12:48:28 2016	Sith APP Tomy was killed by Master JewDa with a weapon_lightsaber
+Wed Jul  6 12:48:37 2016	Ethan (STEAM_0:1:72945201): /name FAM
+Wed Jul  6 12:48:37 2016	Master JewDa was killed by Himself with a suicide trick
+Wed Jul  6 12:48:39 2016	Sith APP Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 12:48:42 2016	Master JewDa (STEAM_0:1:92889617) spawned
+Wed Jul  6 12:48:47 2016	Master JewDa was killed by Himself with a suicide trick
+Wed Jul  6 12:48:47 2016	Sith APP Tomy was killed by Himself with a suicide trick
+Wed Jul  6 12:48:52 2016	FAM was killed by Himself with a suicide trick
+Wed Jul  6 12:48:54 2016	FAM (STEAM_0:1:72945201) spawned
+Wed Jul  6 12:48:57 2016	Sith APP Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 12:49:02 2016	FAM was killed by Himself with a suicide trick
+Wed Jul  6 12:49:02 2016	Sith APP Tomy was killed by Himself with a suicide trick
+Wed Jul  6 12:49:03 2016	Master JewDa (STEAM_0:1:92889617) spawned
+Wed Jul  6 12:49:03 2016	Master JewDa was killed by Himself with a suicide trick
+Wed Jul  6 12:49:03 2016	FAM (STEAM_0:1:72945201) spawned
+Wed Jul  6 12:49:03 2016	Sith APP Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 12:49:05 2016	Master JewDa (STEAM_0:1:92889617) spawned
+Wed Jul  6 12:49:08 2016	FAM was killed by Himself with a suicide trick
+Wed Jul  6 12:49:08 2016	Master JewDa was killed by Himself with a suicide trick
+Wed Jul  6 12:49:08 2016	Sith APP Tomy was killed by Himself with a suicide trick
+Wed Jul  6 12:49:10 2016	FAM (STEAM_0:1:72945201) spawned
+Wed Jul  6 12:49:10 2016	Sith APP Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 12:49:11 2016	Master JewDa (STEAM_0:1:92889617) spawned
+Wed Jul  6 12:49:15 2016	FAM was killed by Himself with a suicide trick
+Wed Jul  6 12:49:18 2016	FAM (STEAM_0:1:72945201): // XD
+Wed Jul  6 12:49:18 2016	Master JewDa was killed by Himself with a suicide trick
+Wed Jul  6 12:49:18 2016	FAM (STEAM_0:1:72945201) spawned
+Wed Jul  6 12:49:21 2016	Master JewDa (STEAM_0:1:92889617) spawned
+Wed Jul  6 12:49:21 2016	FAM (STEAM_0:1:72945201): !GOD
+Wed Jul  6 12:49:27 2016	FAM was killed by Himself with a suicide trick
+Wed Jul  6 12:49:27 2016	Master JewDa was killed by Himself with a suicide trick
+Wed Jul  6 12:49:27 2016	Horsie was killed by Himself with a suicide trick
+Wed Jul  6 12:49:27 2016	Sith APP Tomy was killed by Himself with a suicide trick
+Wed Jul  6 12:49:29 2016	FAM (STEAM_0:1:72945201) spawned
+Wed Jul  6 12:49:31 2016	Horsie (STEAM_0:1:79001790) spawned
+Wed Jul  6 12:49:33 2016	Master JewDa (STEAM_0:1:92889617) spawned
+Wed Jul  6 12:49:34 2016	FAM was killed by Himself with a suicide trick
+Wed Jul  6 12:49:35 2016	Master JewDa was killed by Himself with a suicide trick
+Wed Jul  6 12:49:35 2016	Sith APP Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 12:49:36 2016	FAM (STEAM_0:1:72945201) spawned
+Wed Jul  6 12:49:39 2016	Horsie was killed by Himself with a suicide trick
+Wed Jul  6 12:49:40 2016	Master JewDa (STEAM_0:1:92889617) spawned
+Wed Jul  6 12:49:40 2016	Master JewDa was killed by Himself with a suicide trick
+Wed Jul  6 12:49:40 2016	Horsie (STEAM_0:1:79001790) spawned
+Wed Jul  6 12:49:41 2016	FAM was killed by Himself with a suicide trick
+Wed Jul  6 12:49:41 2016	Sith APP Tomy was killed by Himself with a suicide trick
+Wed Jul  6 12:49:41 2016	Master JewDa (STEAM_0:1:92889617) spawned
+Wed Jul  6 12:49:42 2016	Master JewDa was killed by Himself with a suicide trick
+Wed Jul  6 12:49:42 2016	FAM (STEAM_0:1:72945201) spawned
+Wed Jul  6 12:49:43 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 12:49:45 2016	Sith APP Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 12:49:46 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 12:49:47 2016	Master JewDa (STEAM_0:1:92889617) spawned
+Wed Jul  6 12:49:50 2016	FAM was killed by Himself with a suicide trick
+Wed Jul  6 12:49:50 2016	Horsie was killed by Himself with a suicide trick
+Wed Jul  6 12:49:50 2016	Sith APP Tomy was killed by Himself with a suicide trick
+Wed Jul  6 12:49:51 2016	Sith APP Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 12:49:51 2016	FAM (STEAM_0:1:72945201) spawned
+Wed Jul  6 12:49:58 2016	Master JewDa (STEAM_0:1:92889617): !god
+Wed Jul  6 12:50:00 2016	FAM (STEAM_0:1:72945201): // THIS THING DESTOYS EVERYTHING
+Wed Jul  6 12:50:02 2016	FAM was killed by Himself with a suicide trick
+Wed Jul  6 12:50:02 2016	Sith APP Tomy was killed by Himself with a suicide trick
+Wed Jul  6 12:50:03 2016	FAM (STEAM_0:1:72945201) spawned
+Wed Jul  6 12:50:03 2016	Sith APP Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 12:50:06 2016	Horsie (STEAM_0:1:79001790) spawned
+Wed Jul  6 12:50:08 2016	FAM was killed by Himself with a suicide trick
+Wed Jul  6 12:50:08 2016	Sith APP Tomy was killed by Himself with a suicide trick
+Wed Jul  6 12:50:08 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 12:50:10 2016	Horsie was killed by Himself with a suicide trick
+Wed Jul  6 12:50:10 2016	FAM (STEAM_0:1:72945201) spawned
+Wed Jul  6 12:50:10 2016	Sith APP Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 12:50:10 2016	Master JewDa (STEAM_0:1:92889617): !return
+Wed Jul  6 12:50:13 2016	Horsie (STEAM_0:1:79001790) spawned
+Wed Jul  6 12:50:15 2016	FAM was killed by Himself with a suicide trick
+Wed Jul  6 12:50:15 2016	Sith APP Tomy was killed by Himself with a suicide trick
+Wed Jul  6 12:50:15 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 12:50:16 2016	Horsie was killed by Himself with a suicide trick
+Wed Jul  6 12:50:16 2016	FAM (STEAM_0:1:72945201) spawned
+Wed Jul  6 12:50:17 2016	Sith APP Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 12:50:17 2016	Master JewDa (STEAM_0:1:92889617): !goto fam
+Wed Jul  6 12:50:18 2016	Horsie (STEAM_0:1:79001790) spawned
+Wed Jul  6 12:50:20 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 12:50:25 2016	FAM was killed by Himself with a suicide trick
+Wed Jul  6 12:50:25 2016	Horsie was killed by Himself with a suicide trick
+Wed Jul  6 12:50:25 2016	Sith APP Tomy was killed by Himself with a suicide trick
+Wed Jul  6 12:50:26 2016	Sith APP Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 12:50:26 2016	FAM (STEAM_0:1:72945201) spawned
+Wed Jul  6 12:50:28 2016	Horsie (STEAM_0:1:79001790) spawned
+Wed Jul  6 12:50:33 2016	FAM was killed by Himself with a suicide trick
+Wed Jul  6 12:50:33 2016	Sith APP Tomy was killed by Himself with a suicide trick
+Wed Jul  6 12:50:34 2016	Horsie was killed by Himself with a suicide trick
+Wed Jul  6 12:50:34 2016	Sith APP Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 12:50:35 2016	FAM (STEAM_0:1:72945201) spawned
+Wed Jul  6 12:50:38 2016	Horsie (STEAM_0:1:79001790) spawned
+Wed Jul  6 12:50:40 2016	Sith APP Tomy was killed by Himself with a suicide trick
+Wed Jul  6 12:50:41 2016	Horsie was killed by Himself with a suicide trick
+Wed Jul  6 12:50:41 2016	Sith APP Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 12:50:42 2016	Horsie (STEAM_0:1:79001790) spawned
+Wed Jul  6 12:50:43 2016	FAM was killed by Himself with a suicide trick
+Wed Jul  6 12:50:43 2016	Horsie was killed by Himself with a suicide trick
+Wed Jul  6 12:50:44 2016	FAM (STEAM_0:1:72945201) spawned
+Wed Jul  6 12:50:48 2016	FAM (STEAM_0:1:72945201): !RESETMAP
+Wed Jul  6 12:50:52 2016	Horsie (STEAM_0:1:79001790) spawned
+Wed Jul  6 12:50:53 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 12:50:55 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 12:51:05 2016	FAM (STEAM_0:1:72945201): /warp
+Wed Jul  6 12:51:25 2016	FAM was killed by Himself with a suicide trick
+Wed Jul  6 12:51:26 2016	FAM (STEAM_0:1:72945201) spawned
+Wed Jul  6 12:51:27 2016	Sith APP Tomy (STEAM_0:0:85963007): where u all?
+Wed Jul  6 12:51:31 2016	FAM (STEAM_0:1:72945201) spawned
+Wed Jul  6 12:51:49 2016	Horsie was killed by Himself with a suicide trick
+Wed Jul  6 12:51:49 2016	FAM (STEAM_0:1:72945201): !explode hor
+Wed Jul  6 12:51:51 2016	FAM was killed by Himself with a suicide trick
+Wed Jul  6 12:51:53 2016	FAM (STEAM_0:1:72945201) spawned
+Wed Jul  6 12:51:54 2016	Horsie (STEAM_0:1:79001790) spawned
+Wed Jul  6 12:51:56 2016	FAM (STEAM_0:1:72945201): /warp
+Wed Jul  6 12:51:58 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 12:52:03 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 12:52:12 2016	Sith APP Tomy was killed by Entity [0][worldspawn] with a player
+Wed Jul  6 12:52:13 2016	Sith APP Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 12:52:25 2016	Master JewDa (STEAM_0:1:92889617): // gtg brb in couple of minutyes
+Wed Jul  6 12:52:27 2016	Master JewDa (STEAM_0:1:92889617) disconnected
+Wed Jul  6 12:52:33 2016	FAM (STEAM_0:1:72945201): !tp tomy
+Wed Jul  6 12:53:25 2016	Horsie (STEAM_0:1:79001790): /OOC Tirolian music xD!!!!!
+Wed Jul  6 12:53:39 2016	FAM (STEAM_0:1:72945201): brtb
+Wed Jul  6 12:53:42 2016	Horsie (STEAM_0:1:79001790): /OOC I will put it out I swear!!
+Wed Jul  6 12:53:44 2016	FAM (STEAM_0:1:72945201): brb*
+Wed Jul  6 12:53:50 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 12:54:06 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 12:54:12 2016	Sith APP Tomy (STEAM_0:0:85963007): TP ME:D
+Wed Jul  6 12:54:18 2016	Horsie (STEAM_0:1:79001790): /OOC xD haha
+Wed Jul  6 12:54:27 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 12:54:28 2016	Sith APP Tomy (STEAM_0:0:85963007): i am philipin music bot
+Wed Jul  6 12:55:00 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 12:55:06 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 12:55:11 2016	FAM (STEAM_0:1:72945201): // im on my phone
+Wed Jul  6 12:55:22 2016	Sith APP Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 12:55:30 2016	Sith APP Tomy (STEAM_0:0:85963007): I AM PHILIPIN MUSIC BOX 
+Wed Jul  6 12:55:32 2016	Sith APP Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 12:55:35 2016	Sith APP Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 12:55:38 2016	Sith APP Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 12:55:40 2016	Sith APP Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 12:55:41 2016	Sith APP Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 12:55:43 2016	Sith APP Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 12:55:45 2016	Sith APP Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 12:55:47 2016	Sith APP Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 12:55:48 2016	Sith APP Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 12:55:49 2016	FAM (STEAM_0:1:72945201): // BACK
+Wed Jul  6 12:55:50 2016	Sith APP Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 12:55:52 2016	Sith APP Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 12:55:55 2016	Sith APP Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 12:55:57 2016	Sith APP Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 12:56:00 2016	Sith APP Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 12:56:02 2016	Sith APP Tomy (STEAM_0:0:85963007): TP M
+Wed Jul  6 12:56:05 2016	Horsie (STEAM_0:1:79001790) spawned
+Wed Jul  6 12:56:08 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 12:56:16 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 12:56:30 2016	Horsie (STEAM_0:1:79001790): /OOC off playing tribes xD
+Wed Jul  6 12:56:45 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 12:57:23 2016	FAM (STEAM_0:1:72945201): // on  my phone again
+Wed Jul  6 12:57:34 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 12:57:56 2016	FAM (STEAM_0:1:72945201) spawned
+Wed Jul  6 12:58:01 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 12:58:08 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 12:59:15 2016	FAM was killed by Himself with a suicide trick
+Wed Jul  6 12:59:15 2016	Horsie was killed by Himself with a suicide trick
+Wed Jul  6 12:59:15 2016	Sith APP Tomy was killed by Himself with a suicide trick
+Wed Jul  6 12:59:18 2016	Sith APP Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 12:59:18 2016	FAM (STEAM_0:1:72945201) spawned
+Wed Jul  6 12:59:20 2016	Horsie (STEAM_0:1:79001790) spawned
+Wed Jul  6 12:59:26 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 12:59:31 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 12:59:34 2016	FAM (STEAM_0:1:72945201): /setspawn sithm
+Wed Jul  6 12:59:39 2016	FAM (STEAM_0:1:72945201): /setspawn darth
+Wed Jul  6 12:59:41 2016	Horsie (STEAM_0:1:79001790): /
+Wed Jul  6 12:59:44 2016	Horsie (STEAM_0:1:79001790) disconnected
+Wed Jul  6 13:00:45 2016	FAM was killed by Himself with a suicide trick
+Wed Jul  6 13:00:45 2016	Sith APP Tomy was killed by Himself with a suicide trick
+Wed Jul  6 13:00:46 2016	FAM (STEAM_0:1:72945201) spawned
+Wed Jul  6 13:00:50 2016	Sith APP Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 13:00:52 2016	Sith APP Tomy was killed by Himself with a suicide trick
+Wed Jul  6 13:00:52 2016	Sith APP Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 13:00:52 2016	FAM (STEAM_0:1:72945201): !FORCERESPAWN TOMY
+Wed Jul  6 13:02:35 2016	FAM (STEAM_0:1:72945201): http://store.steampowered.com/app/17080
+Wed Jul  6 13:04:42 2016	Sith APP Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 13:04:48 2016	Sith APP Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 13:05:44 2016	FAM (STEAM_0:1:72945201): !resetmap
+Wed Jul  6 13:05:46 2016	FAM (STEAM_0:1:72945201): xD
+Wed Jul  6 13:06:05 2016	FAM (STEAM_0:1:72945201): !cleardecals
+Wed Jul  6 13:06:17 2016	FAM (STEAM_0:1:72945201): /name Ethan
+Wed Jul  6 13:06:27 2016	Ethan was killed by Himself with a suicide trick
+Wed Jul  6 13:06:27 2016	Sith APP Tomy was killed by Himself with a suicide trick
+Wed Jul  6 13:06:28 2016	Sith APP Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 13:06:28 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 13:06:46 2016	Ethan was killed by Himself with a suicide trick
+Wed Jul  6 13:06:47 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 13:06:49 2016	[KR] Bad RacOOn (STEAM_0:1:89688387) has joined the game
+Wed Jul  6 13:06:49 2016	TP MJR 1212 Buff (STEAM_0:1:89688387) spawned
+Wed Jul  6 13:07:12 2016	Ethan (STEAM_0:1:72945201): !cloak
+Wed Jul  6 13:08:05 2016	Ethan (STEAM_0:1:72945201): !cleardecals
+Wed Jul  6 13:08:11 2016	TP MJR 1212 Buff was killed by Sith APP Tomy with a weapon_lightsaber
+Wed Jul  6 13:08:12 2016	TP MJR 1212 Buff (STEAM_0:1:89688387) spawned
+Wed Jul  6 13:08:14 2016	Sith APP Tomy (STEAM_0:0:85963007): OMG SRY
+Wed Jul  6 13:08:34 2016	TP MJR 1212 Buff (STEAM_0:1:89688387) spawned
+Wed Jul  6 13:08:41 2016	Ethan (STEAM_0:1:72945201): /setspawn tppvt
+Wed Jul  6 13:08:54 2016	Ethan (STEAM_0:1:72945201): /setspawn tppfc
+Wed Jul  6 13:08:58 2016	Ethan (STEAM_0:1:72945201): /setspawn tpsgt
+Wed Jul  6 13:09:00 2016	Sith APP Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 13:09:01 2016	Ethan (STEAM_0:1:72945201): /setspawn tpmjr
+Wed Jul  6 13:09:06 2016	Ethan (STEAM_0:1:72945201): /setspawn tpbattcom
+Wed Jul  6 13:09:10 2016	Ethan (STEAM_0:1:72945201): /setspawn tpregcom
+Wed Jul  6 13:09:16 2016	Ethan (STEAM_0:1:72945201): !!resetma[
+Wed Jul  6 13:09:17 2016	Sith APP Tomy (STEAM_0:0:85963007): HELP
+Wed Jul  6 13:09:19 2016	Ethan (STEAM_0:1:72945201): !resetmap
+Wed Jul  6 13:09:25 2016	Sith APP Tomy (STEAM_0:0:85963007): lol
+Wed Jul  6 13:09:37 2016	TP MJR 1212 Buff (STEAM_0:1:89688387): /warp
+Wed Jul  6 13:09:45 2016	Ethan (STEAM_0:1:72945201): !return ^
+Wed Jul  6 13:09:48 2016	Ethan (STEAM_0:1:72945201): !tp buff
+Wed Jul  6 13:10:07 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 13:10:14 2016	TP MJR 1212 Buff (STEAM_0:1:89688387): /warp
+Wed Jul  6 13:10:16 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 13:10:25 2016	Sith APP Tomy (STEAM_0:0:85963007): /wrap
+Wed Jul  6 13:10:25 2016	TP MJR 1212 Buff (STEAM_0:1:89688387): /warp
+Wed Jul  6 13:10:36 2016	Sith APP Tomy (STEAM_0:0:85963007): /wrap
+Wed Jul  6 13:10:39 2016	Sith APP Tomy (STEAM_0:0:85963007): /wrap
+Wed Jul  6 13:10:43 2016	Sith APP Tomy (STEAM_0:0:85963007): /wrap
+Wed Jul  6 13:10:50 2016	TP MJR 1212 Buff (STEAM_0:1:89688387): /warp
+Wed Jul  6 13:10:57 2016	TP MJR 1212 Buff (STEAM_0:1:89688387): /warp
+Wed Jul  6 13:10:58 2016	Sith APP Tomy (STEAM_0:0:85963007): /wrap
+Wed Jul  6 13:11:00 2016	Sith APP Tomy (STEAM_0:0:85963007): /wrap
+Wed Jul  6 13:11:01 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 13:11:10 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 13:11:15 2016	Sith APP Tomy (STEAM_0:0:85963007): /warp
+Wed Jul  6 13:11:29 2016	TP MJR 1212 Buff (STEAM_0:1:89688387): /warp
+Wed Jul  6 13:11:39 2016	TP MJR 1212 Buff (STEAM_0:1:89688387) spawned
+Wed Jul  6 13:11:47 2016	Ethan (STEAM_0:1:72945201): !uncloak
+Wed Jul  6 13:12:12 2016	Ethan (STEAM_0:1:72945201) spawned SENT wt_rocketboots
+Wed Jul  6 13:13:58 2016	Ethan (STEAM_0:1:72945201): /setwarp TatooineGuardTower
+Wed Jul  6 13:14:00 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 13:14:26 2016	Sith APP Tomy (STEAM_0:0:85963007): WHERE ARE U?????
+Wed Jul  6 13:14:35 2016	Ethan (STEAM_0:1:72945201) spawned SENT sw_vehicle_752_74z
+Wed Jul  6 13:14:39 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 13:14:48 2016	Ethan (STEAM_0:1:72945201) spawned SENT speeder_bike
+Wed Jul  6 13:15:02 2016	Ethan (STEAM_0:1:72945201) spawned SENT speeder_bike
+Wed Jul  6 13:15:05 2016	Ethan (STEAM_0:1:72945201) spawned SENT speeder_bike
+Wed Jul  6 13:15:18 2016	Sith APP Tomy (STEAM_0:0:85963007): i cant get up 
+Wed Jul  6 13:15:45 2016	Ethan (STEAM_0:1:72945201) spawned SENT laat
+Wed Jul  6 13:15:47 2016	Sith APP Tomy (STEAM_0:0:85963007): I SEE PURPLE BLACK
+Wed Jul  6 13:15:57 2016	Sith APP Tomy (STEAM_0:0:85963007): i afk some min
+Wed Jul  6 13:16:07 2016	Ethan (STEAM_0:1:72945201) spawned SENT tie_bomber
+Wed Jul  6 13:16:17 2016	Ethan (STEAM_0:1:72945201) spawned SENT tie_fighter
+Wed Jul  6 13:16:23 2016	Ethan (STEAM_0:1:72945201) spawned SENT tie_interceptor
+Wed Jul  6 13:16:25 2016	Ethan (STEAM_0:1:72945201) spawned SENT tie_interceptor
+Wed Jul  6 13:16:34 2016	Ethan (STEAM_0:1:72945201) spawned SENT tie_interceptor
+Wed Jul  6 13:16:51 2016	Ethan (STEAM_0:1:72945201) spawned SENT tie_interceptor
+Wed Jul  6 13:16:59 2016	Ethan (STEAM_0:1:72945201) spawned SENT tie_interceptor
+Wed Jul  6 13:17:11 2016	Ethan (STEAM_0:1:72945201) spawned SENT tie_bomber
+Wed Jul  6 13:19:13 2016	Ethan was killed by Entity [0][worldspawn] with a unknown
+Wed Jul  6 13:19:17 2016	Ethan (STEAM_0:1:72945201): // xD wtf
+Wed Jul  6 13:19:20 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 13:19:23 2016	Ethan (STEAM_0:1:72945201): !goto buff
+Wed Jul  6 13:20:16 2016	Ethan (STEAM_0:1:72945201): !resetmap
+Wed Jul  6 13:20:20 2016	Ethan was killed by Entity [0][worldspawn] with a unknown
+Wed Jul  6 13:20:25 2016	Ethan (STEAM_0:1:72945201): // WHAT THE ACTUAL FUCK
+Wed Jul  6 13:20:26 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 13:20:30 2016	Ethan (STEAM_0:1:72945201): !goto buff
+Wed Jul  6 13:20:49 2016	TP MJR 1212 Buff (STEAM_0:1:89688387) disconnected
+Wed Jul  6 13:20:55 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 13:20:59 2016	Ethan (STEAM_0:1:72945201) spawned SENT tie_fighter
+Wed Jul  6 13:21:09 2016	Ethan (STEAM_0:1:72945201): 
+Wed Jul  6 13:21:32 2016	[KR] Bad RacOOn (STEAM_0:1:89688387) has joined the game
+Wed Jul  6 13:21:32 2016	TP MJR 1212 Buff (STEAM_0:1:89688387) spawned
+Wed Jul  6 13:21:41 2016	Ethan (STEAM_0:1:72945201) spawned SENT tie_fighter
+Wed Jul  6 13:22:01 2016	TP MJR 1212 Buff (STEAM_0:1:89688387) spawned
+Wed Jul  6 13:22:08 2016	Ethan (STEAM_0:1:72945201) spawned SENT tie_fighter
+Wed Jul  6 13:22:10 2016	TP MJR 1212 Buff (STEAM_0:1:89688387): /warp
+Wed Jul  6 13:22:58 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 13:23:20 2016	Ethan (STEAM_0:1:72945201): !resetmap
+Wed Jul  6 13:23:24 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 13:24:03 2016	TP MJR 1212 Buff (STEAM_0:1:89688387) disconnected
+Wed Jul  6 13:25:55 2016	Ethan (STEAM_0:1:72945201) spawned SENT tie_fighter
+Wed Jul  6 13:26:13 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 13:27:16 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 13:27:22 2016	Ethan (STEAM_0:1:72945201): !god
+Wed Jul  6 13:27:33 2016	Ethan (STEAM_0:1:72945201): !ungod
+Wed Jul  6 13:27:36 2016	Ethan (STEAM_0:1:72945201): !god
+Wed Jul  6 13:28:55 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 13:29:13 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 13:29:25 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 13:30:27 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 13:30:39 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 13:31:27 2016	Ethan (STEAM_0:1:72945201): !resetmap
+Wed Jul  6 13:32:43 2016	Ethan (STEAM_0:1:72945201): /setspawn yoda
+Wed Jul  6 13:32:47 2016	Ethan (STEAM_0:1:72945201): /setspawn luke
+Wed Jul  6 13:32:53 2016	Ethan (STEAM_0:1:72945201): /setspawn jedi
+Wed Jul  6 13:33:01 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 13:37:08 2016	Ethan (STEAM_0:1:72945201) spawned SENT yoda_council_chair
+Wed Jul  6 13:37:44 2016	Dragonboy_Ryan (STEAM_0:0:102872178) has joined the game
+Wed Jul  6 13:37:44 2016	Darth Vader (STEAM_0:0:102872178) spawned
+Wed Jul  6 13:37:45 2016	Ethan (STEAM_0:1:72945201) spawned SENT nihilus_theme
+Wed Jul  6 13:37:52 2016	Ethan (STEAM_0:1:72945201): !tp vader
+Wed Jul  6 13:37:59 2016	Ethan (STEAM_0:1:72945201) spawned SENT temple_march
+Wed Jul  6 13:38:46 2016	Darth Vader (STEAM_0:0:102872178): cool
+Wed Jul  6 13:38:55 2016	Ethan (STEAM_0:1:72945201) spawned SENT chosen_one_theme
+Wed Jul  6 13:39:06 2016	Darth Vader (STEAM_0:0:102872178): /y Not finished yet i need to add a few more regs bunks
+Wed Jul  6 13:39:09 2016	Ethan (STEAM_0:1:72945201) spawned SENT the_force_theme
+Wed Jul  6 13:39:20 2016	Ethan (STEAM_0:1:72945201) spawned SENT cantina_band
+Wed Jul  6 13:39:23 2016	Darth Vader (STEAM_0:0:102872178): have you seen the debrief room?
+Wed Jul  6 13:39:23 2016	Ethan (STEAM_0:1:72945201) spawned SENT anakin_padme_theme
+Wed Jul  6 13:40:00 2016	Ethan was killed by Himself with a suicide trick
+Wed Jul  6 13:40:09 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 13:40:42 2016	Darth Vader (STEAM_0:0:102872178) spawned
+Wed Jul  6 13:40:44 2016	Ethan (STEAM_0:1:72945201): !tp vader
+Wed Jul  6 13:41:06 2016	Ethan (STEAM_0:1:72945201): !hp ^ 11000
+Wed Jul  6 13:41:15 2016	Darth Vader (STEAM_0:0:102872178): !scale ^ 1.1
+Wed Jul  6 13:42:01 2016	Ethan (STEAM_0:1:72945201): !ungod
+Wed Jul  6 13:42:21 2016	Darth Vader (STEAM_0:0:102872178): /warp
+Wed Jul  6 13:42:39 2016	Ethan (STEAM_0:1:72945201): !tp vader
+Wed Jul  6 13:43:08 2016	Darth Vader (STEAM_0:0:102872178): does this please you
+Wed Jul  6 13:44:32 2016	Ethan (STEAM_0:1:72945201): // Yoda is so funny when he is swimming
+Wed Jul  6 13:44:36 2016	Ethan (STEAM_0:1:72945201): !hp ^ 10000
+Wed Jul  6 13:46:10 2016	Ethan (STEAM_0:1:72945201): !tp tom
+Wed Jul  6 13:46:18 2016	Darth Vader (STEAM_0:0:102872178): /ooc can you make Admiral Ackbar a job?
+Wed Jul  6 13:46:32 2016	Darth Vader (STEAM_0:0:102872178): well its empire vs rebels
+Wed Jul  6 13:46:45 2016	Darth Vader (STEAM_0:0:102872178): cool
+Wed Jul  6 13:46:57 2016	Darth Vader (STEAM_0:0:102872178): /warp
+Wed Jul  6 13:47:09 2016	Ethan (STEAM_0:1:72945201): !cleARdecals
+Wed Jul  6 13:47:21 2016	Ethan (STEAM_0:1:72945201): // how do u tp all the time xD?
+Wed Jul  6 13:47:32 2016	Darth Vader (STEAM_0:0:102872178): /ooc Using /warp :P
+Wed Jul  6 13:47:40 2016	Ethan (STEAM_0:1:72945201): /advert im going for a swim
+Wed Jul  6 13:48:30 2016	Darth Vader (STEAM_0:0:102872178): /ooc why cant i spawn textscreens
+Wed Jul  6 13:48:36 2016	Ethan (STEAM_0:1:72945201): // IDk
+Wed Jul  6 13:48:38 2016	Ethan (STEAM_0:1:72945201): // lemme check
+Wed Jul  6 13:48:45 2016	Ethan (STEAM_0:1:72945201): !goto vader
+Wed Jul  6 13:48:59 2016	Darth Vader (STEAM_0:0:102872178): now i can it has to be really high thou
+Wed Jul  6 13:50:11 2016	Ethan (STEAM_0:1:72945201): !goto tomy
+Wed Jul  6 13:50:36 2016	Ethan (STEAM_0:1:72945201): /forcerpname Tomy Jedi Tomy
+Wed Jul  6 13:50:36 2016	Ethan (STEAM_0:1:72945201) set poli.tomy21's name to Jedi Tomy
+Wed Jul  6 13:50:40 2016	Jedi Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 13:53:02 2016	Darth Vader (STEAM_0:0:102872178): /ooc Why have all the textscreens gone?
+Wed Jul  6 13:53:08 2016	Ethan (STEAM_0:1:72945201): // WHAT
+Wed Jul  6 13:53:11 2016	Ethan (STEAM_0:1:72945201): !goto vader
+Wed Jul  6 13:53:19 2016	Darth Vader (STEAM_0:0:102872178): i dont
+Wed Jul  6 13:53:29 2016	Ethan (STEAM_0:1:72945201): !resetmap
+Wed Jul  6 13:53:33 2016	Darth Vader (STEAM_0:0:102872178): yep
+Wed Jul  6 13:53:37 2016	Ethan (STEAM_0:1:72945201): !goto tomy
+Wed Jul  6 13:54:07 2016	Ethan (STEAM_0:1:72945201): // I FOUND KEEM STAR
+Wed Jul  6 13:54:51 2016	Darth Vader (STEAM_0:0:102872178): /ooc i cant fly out of the HB
+Wed Jul  6 13:54:55 2016	Ethan (STEAM_0:1:72945201): // IK
+Wed Jul  6 13:55:00 2016	Ethan (STEAM_0:1:72945201): // that sucks
+Wed Jul  6 13:55:12 2016	Darth Vader (STEAM_0:0:102872178) spawned
+Wed Jul  6 13:56:14 2016	Jedi Tomy (STEAM_0:0:85963007): h
+Wed Jul  6 13:56:44 2016	Darth Vader (STEAM_0:0:102872178) spawned
+Wed Jul  6 13:56:47 2016	Ethan (STEAM_0:1:72945201): !cleardecals
+Wed Jul  6 13:57:10 2016	Ethan was killed by Himself with a suicide trick
+Wed Jul  6 13:57:13 2016	Darth Vader (STEAM_0:0:102872178): /warp
+Wed Jul  6 13:57:19 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 13:57:33 2016	Ethan (STEAM_0:1:72945201): // dude
+Wed Jul  6 13:57:37 2016	Ethan (STEAM_0:1:72945201): // we found keem star
+Wed Jul  6 13:57:42 2016	Ethan (STEAM_0:1:72945201): // for real
+Wed Jul  6 13:57:43 2016	Darth Vader (STEAM_0:0:102872178): !goto Ethan
+Wed Jul  6 13:57:44 2016	Ethan (STEAM_0:1:72945201): // come jere
+Wed Jul  6 13:58:39 2016	Jedi Tomy was killed by Darth Vader with a weapon_lightsaber
+Wed Jul  6 13:58:40 2016	Jedi Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 13:58:48 2016	Ethan (STEAM_0:1:72945201): !god *
+Wed Jul  6 13:59:02 2016	Darth Vader was killed by Himself with a suicide trick
+Wed Jul  6 13:59:02 2016	Jedi Tomy was killed by Himself with a suicide trick
+Wed Jul  6 13:59:02 2016	Darth Vader (STEAM_0:0:102872178): !slay *
+Wed Jul  6 13:59:03 2016	Jedi Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 13:59:05 2016	Darth Vader (STEAM_0:0:102872178) spawned
+Wed Jul  6 14:00:07 2016	Ethan (STEAM_0:1:72945201): /setwarp RebelTraining
+Wed Jul  6 14:00:09 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 14:00:39 2016	Ethan (STEAM_0:1:72945201): !god *
+Wed Jul  6 14:00:46 2016	Ethan (STEAM_0:1:72945201) spawned NPC npc_combine_s
+Wed Jul  6 14:00:54 2016	Ethan (STEAM_0:1:72945201) spawned NPC npc_combine_s
+Wed Jul  6 14:01:02 2016	Ethan (STEAM_0:1:72945201) spawned NPC npc_combine_s
+Wed Jul  6 14:01:13 2016	Ethan (STEAM_0:1:72945201) spawned NPC npc_combine_s
+Wed Jul  6 14:01:17 2016	Ethan (STEAM_0:1:72945201) spawned NPC npc_combine_s
+Wed Jul  6 14:01:20 2016	Ethan (STEAM_0:1:72945201) spawned NPC npc_combine_s
+Wed Jul  6 14:01:26 2016	Ethan (STEAM_0:1:72945201) spawned NPC npc_combine_s
+Wed Jul  6 14:01:39 2016	Ethan (STEAM_0:1:72945201): !cleardecals
+Wed Jul  6 14:01:47 2016	Ethan (STEAM_0:1:72945201): // can i clear the map?
+Wed Jul  6 14:02:17 2016	Ethan (STEAM_0:1:72945201) spawned NPC npc_combine_s
+Wed Jul  6 14:02:45 2016	Ethan (STEAM_0:1:72945201) spawned NPC npc_combine_s
+Wed Jul  6 14:03:03 2016	Ethan (STEAM_0:1:72945201) spawned NPC npc_combine_s
+Wed Jul  6 14:03:09 2016	Ethan (STEAM_0:1:72945201) spawned NPC npc_combine_s
+Wed Jul  6 14:03:15 2016	Ethan (STEAM_0:1:72945201) spawned NPC npc_combine_s
+Wed Jul  6 14:03:17 2016	Ethan (STEAM_0:1:72945201) spawned NPC npc_combine_s
+Wed Jul  6 14:03:28 2016	Ethan (STEAM_0:1:72945201) spawned NPC npc_combine_s
+Wed Jul  6 14:03:34 2016	Ethan (STEAM_0:1:72945201) spawned NPC npc_combine_s
+Wed Jul  6 14:03:38 2016	Ethan (STEAM_0:1:72945201) spawned NPC npc_citizen
+Wed Jul  6 14:03:48 2016	Ethan (STEAM_0:1:72945201) spawned NPC npc_combine_s
+Wed Jul  6 14:04:31 2016	Ethan (STEAM_0:1:72945201): !goto tomy
+Wed Jul  6 14:05:15 2016	Ethan (STEAM_0:1:72945201): /srop
+Wed Jul  6 14:05:17 2016	Ethan (STEAM_0:1:72945201): /drop
+Wed Jul  6 14:05:30 2016	Ethan (STEAM_0:1:72945201): /drop
+Wed Jul  6 14:08:03 2016	Darth Vader (STEAM_0:0:102872178): /ooc there are so many errors in the map
+Wed Jul  6 14:08:06 2016	Ethan (STEAM_0:1:72945201): // IK
+Wed Jul  6 14:08:34 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 14:10:18 2016	Darth Vader (STEAM_0:0:102872178): we could make this the staff room
+Wed Jul  6 14:11:54 2016	Ethan (STEAM_0:1:72945201): // brb
+Wed Jul  6 14:12:21 2016	Jedi Tomy (STEAM_0:0:85963007): WHERA RE UALL?
+Wed Jul  6 14:13:36 2016	Jedi Tomy (STEAM_0:0:85963007) spawned
+Wed Jul  6 14:14:24 2016	Jedi Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 14:15:40 2016	Jedi Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 14:15:52 2016	Jedi Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 14:15:57 2016	Jedi Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 14:15:58 2016	Jedi Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 14:15:59 2016	Jedi Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 14:16:00 2016	Jedi Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 14:16:01 2016	Jedi Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 14:16:02 2016	Jedi Tomy (STEAM_0:0:85963007): uTP ME
+Wed Jul  6 14:16:03 2016	Jedi Tomy (STEAM_0:0:85963007): 7TP ME
+Wed Jul  6 14:16:05 2016	Jedi Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 14:16:06 2016	Jedi Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 14:16:07 2016	Jedi Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 14:16:08 2016	Jedi Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 14:16:10 2016	Jedi Tomy (STEAM_0:0:85963007): TP ME\
+Wed Jul  6 14:16:12 2016	Jedi Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 14:16:13 2016	Jedi Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 14:16:14 2016	Jedi Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 14:16:16 2016	Jedi Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 14:16:18 2016	Jedi Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 14:16:19 2016	Jedi Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 14:16:20 2016	Jedi Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 14:16:20 2016	Jedi Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 14:16:21 2016	Jedi Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 14:16:22 2016	Jedi Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 14:16:24 2016	Jedi Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 14:16:25 2016	Jedi Tomy (STEAM_0:0:85963007): TP MEy
+Wed Jul  6 14:16:27 2016	Jedi Tomy (STEAM_0:0:85963007): TP MEy
+Wed Jul  6 14:16:30 2016	Jedi Tomy (STEAM_0:0:85963007): yTP MEy
+Wed Jul  6 14:16:32 2016	Jedi Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 14:16:32 2016	Jedi Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 14:16:34 2016	Jedi Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 14:16:36 2016	Jedi Tomy (STEAM_0:0:85963007): TP ME
+Wed Jul  6 14:16:55 2016	Ethan (STEAM_0:1:72945201): // im off to YT
+Wed Jul  6 14:16:58 2016	Ethan (STEAM_0:1:72945201): // cya later
+Wed Jul  6 14:17:03 2016	Darth Vader (STEAM_0:0:102872178): /ooc cya
+Wed Jul  6 14:17:10 2016	Jedi Tomy (STEAM_0:0:85963007): u mea the game that i download?
+Wed Jul  6 14:17:37 2016	Darth Vader (STEAM_0:0:102872178) disconnected
+Wed Jul  6 14:18:23 2016	Ethan (STEAM_0:1:72945201) disconnected
+Wed Jul  6 14:23:02 2016	Jedi Tomy (STEAM_0:0:85963007) disconnected

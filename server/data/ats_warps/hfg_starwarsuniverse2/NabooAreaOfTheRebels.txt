@@ -1,0 +1,1 @@
+steamid=STEAM_0:1:72945201;name=NabooAreaOfTheRebels;vec=-5052.312012 -2211.400879 8277.887695;ang=0.000 -77.639 0.000

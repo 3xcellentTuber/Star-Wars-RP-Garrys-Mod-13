@@ -1,0 +1,1 @@
+steamid=STEAM_0:1:72945201;name=TatooineAreaOfTheEmpire;vec=-13583.880859 12506.771484 1082.758911;ang=0.000 -4.079 0.000

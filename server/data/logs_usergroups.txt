@@ -1,0 +1,3 @@
+#Here are the DarkRP Log usergroups! If you are a SuperAdmin, you can view help on this topic on the SuperAdmin tab.
+#Usergroups will be added here. Users with the group will be able to access the logs.
+#Please edit these in the SuperAdmin tab, and not the file.

@@ -1,0 +1,3 @@
+Wed Jul  6 01:28:28 2016	Ethan (STEAM_0:1:72945201) has joined the game
+Wed Jul  6 01:28:28 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 01:29:54 2016	Ethan (STEAM_0:1:72945201): /warp

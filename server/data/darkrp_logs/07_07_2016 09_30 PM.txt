@@ -1,0 +1,760 @@
+Thu Jul  7 21:30:13 2016	Marshall (STEAM_0:1:112426618) has joined the game
+Thu Jul  7 21:30:13 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) spawned
+Thu Jul  7 21:30:25 2016	Ethan (STEAM_0:1:72945201) has joined the game
+Thu Jul  7 21:30:25 2016	MED REG COMM Ethan (STEAM_0:1:72945201) spawned
+Thu Jul  7 21:30:41 2016	IDONTKNOW (STEAM_0:1:165468783) has joined the game
+Thu Jul  7 21:30:41 2016	Bobba Fett (STEAM_0:1:165468783) spawned
+Thu Jul  7 21:30:43 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /SETSPAWN REC
+Thu Jul  7 21:30:44 2016	hook12aaa (STEAM_0:1:90211140) has joined the game
+Thu Jul  7 21:30:44 2016	Stealth Bot (STEAM_0:1:90211140) spawned
+Thu Jul  7 21:30:48 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /setpsazwn rec
+Thu Jul  7 21:30:52 2016	Roy (STEAM_0:1:87936506) has joined the game
+Thu Jul  7 21:30:52 2016	ST PVT 2410 Roy (STEAM_0:1:87936506) spawned
+Thu Jul  7 21:30:54 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /setp[awn rec
+Thu Jul  7 21:30:58 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /setspawn rec
+Thu Jul  7 21:31:01 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !cloak
+Thu Jul  7 21:31:23 2016	ST PVT 2410 Roy (STEAM_0:1:87936506) spawned
+Thu Jul  7 21:31:25 2016	The_Mantis_Shrimp (STEAM_0:0:81720841) has joined the game
+Thu Jul  7 21:31:25 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841) spawned
+Thu Jul  7 21:31:27 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618): /pm Ethan call me on skype :P
+Thu Jul  7 21:31:28 2016	AJFERR (STEAM_0:0:53304050) has joined the game
+Thu Jul  7 21:31:28 2016	TP PVT 7598 Duck (STEAM_0:0:53304050) spawned
+Thu Jul  7 21:31:40 2016	ST PVT 2410 Roy (STEAM_0:1:87936506): /ooc can you tp me back?
+Thu Jul  7 21:31:45 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp roy
+Thu Jul  7 21:31:56 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841) spawned
+Thu Jul  7 21:31:57 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // everyone switch jobs
+Thu Jul  7 21:32:05 2016	Stealth Bot (STEAM_0:1:90211140) spawned
+Thu Jul  7 21:32:06 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) spawned
+Thu Jul  7 21:32:08 2016	Bobba Fett (STEAM_0:1:165468783) spawned
+Thu Jul  7 21:32:16 2016	TP PVT 7598 Duck (STEAM_0:0:53304050): /name ST PVT 7598 Duck
+Thu Jul  7 21:32:16 2016	Sloth (STEAM_0:1:88690147) has joined the game
+Thu Jul  7 21:32:16 2016	Bobba Fetts Older brother (STEAM_0:1:88690147) spawned
+Thu Jul  7 21:32:25 2016	Bobba Fett (STEAM_0:1:165468783): !tp older
+Thu Jul  7 21:32:32 2016	ST PVT 7598 Duck (STEAM_0:0:53304050): /name TP PVT 7598 Duck
+Thu Jul  7 21:32:39 2016	Bobba Fett (STEAM_0:1:165468783): !tp older
+Thu Jul  7 21:32:41 2016	TP PVT 7598 Duck (STEAM_0:0:53304050) spawned
+Thu Jul  7 21:32:47 2016	Bobba Fett (STEAM_0:1:165468783): !model older models/porky-da-corgi/starwars/mandalorians/bountyhunter.mdl
+Thu Jul  7 21:32:47 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // who ever needs me to TP them back to spawn pm me
+Thu Jul  7 21:32:54 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): // me pls
+Thu Jul  7 21:32:56 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618): /pm Ethan Spawn plz
+Thu Jul  7 21:32:58 2016	TP PVT 7598 Duck (STEAM_0:0:53304050): me ethan
+Thu Jul  7 21:32:59 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp shrim
+Thu Jul  7 21:33:08 2016	Stealth Bot (STEAM_0:1:90211140): !menu
+Thu Jul  7 21:33:21 2016	Bobba Fett (STEAM_0:1:165468783): 
+Thu Jul  7 21:33:28 2016	TP PVT 7598 Duck (STEAM_0:0:53304050): Ethan can u tp me
+Thu Jul  7 21:33:38 2016	Stealth Bot (STEAM_0:1:90211140) spawned SENT wt_rocketboots
+Thu Jul  7 21:33:46 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618): /ooc tp me to spawn :P
+Thu Jul  7 21:33:53 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !hp @ 100
+Thu Jul  7 21:33:54 2016	Bobba Fetts Older brother (STEAM_0:1:88690147): [RG] NievAchieve
+Thu Jul  7 21:34:02 2016	TP PVT 7598 Duck (STEAM_0:0:53304050): tp me to spawn
+Thu Jul  7 21:34:12 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !hp @ 100
+Thu Jul  7 21:34:30 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp mar
+Thu Jul  7 21:34:56 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp dog
+Thu Jul  7 21:35:02 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): // tp duck
+Thu Jul  7 21:35:04 2016	TP PVT 7598 Duck (STEAM_0:0:53304050): cheers
+Thu Jul  7 21:35:24 2016	ST PVT 2410 Roy (STEAM_0:1:87936506): /me salute
+Thu Jul  7 21:35:26 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): at ease trooper(s)
+Thu Jul  7 21:35:28 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // BRB
+Thu Jul  7 21:35:29 2016	TP PVT 7598 Duck (STEAM_0:0:53304050): /me salutes
+Thu Jul  7 21:35:31 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): at ease trooper(s)
+Thu Jul  7 21:35:36 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618): /me sucks dick
+Thu Jul  7 21:35:40 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618): /me laughs
+Thu Jul  7 21:35:42 2016	ST PVT 9034 Marshall was killed by SHDT COL 0512 Shrimp with a weapon_752bf3_t21
+Thu Jul  7 21:35:46 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) spawned
+Thu Jul  7 21:36:32 2016	Bobba Fett (STEAM_0:1:165468783): /ooc Everyone ready?
+Thu Jul  7 21:36:45 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): // nope Ethan is afk
+Thu Jul  7 21:36:52 2016	Finnerd (STEAM_0:1:56053138) has joined the game
+Thu Jul  7 21:36:52 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138) spawned
+Thu Jul  7 21:36:58 2016	Bobba Fett (STEAM_0:1:165468783): !goto shr
+Thu Jul  7 21:37:00 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // back
+Thu Jul  7 21:37:14 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !cleardecals
+Thu Jul  7 21:37:26 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !hp $ 100
+Thu Jul  7 21:37:30 2016	Bobba Fett (STEAM_0:1:165468783): !hp roy 100
+Thu Jul  7 21:37:57 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !hp @ 100
+Thu Jul  7 21:37:57 2016	Bobba Fett (STEAM_0:1:165468783): can u sort out everyone
+Thu Jul  7 21:38:06 2016	Aladeen (STEAM_0:1:27652610) has joined the game
+Thu Jul  7 21:38:06 2016	Aladeen (STEAM_0:1:27652610) spawned
+Thu Jul  7 21:38:06 2016	Bobba Fett (STEAM_0:1:165468783): get them ready
+Thu Jul  7 21:38:14 2016	Bobba Fett (STEAM_0:1:165468783): kk
+Thu Jul  7 21:38:24 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !hp @ 550
+Thu Jul  7 21:38:24 2016	Bobba Fett (STEAM_0:1:165468783): i am ready when u are
+Thu Jul  7 21:38:54 2016	A Person (STEAM_0:0:63975104) has joined the game
+Thu Jul  7 21:38:54 2016	A Person (STEAM_0:0:63975104) spawned
+Thu Jul  7 21:39:01 2016	Bobba Fett (STEAM_0:1:165468783): !tp older
+Thu Jul  7 21:39:06 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !hp @ 100
+Thu Jul  7 21:39:11 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !send mars duck
+Thu Jul  7 21:39:20 2016	Bobba Fett (STEAM_0:1:165468783): !tp older
+Thu Jul  7 21:39:31 2016	Bobba Fett (STEAM_0:1:165468783): !hp older 6500
+Thu Jul  7 21:40:01 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138) spawned
+Thu Jul  7 21:40:12 2016	ST PVT 9034 Marshall was killed by Bobba Fett with a weapon_lightsaber
+Thu Jul  7 21:40:24 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /forcerpname ala ST PVT 1456 Aladeen
+Thu Jul  7 21:40:24 2016	MED REG COMM Ethan (STEAM_0:1:72945201) set Aladeen's name to ST PVT 1456 Aladeen
+Thu Jul  7 21:40:26 2016	Bobba Fett (STEAM_0:1:165468783): !forcespawn mar
+Thu Jul  7 21:40:28 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610) disconnected
+Thu Jul  7 21:40:32 2016	Bobba Fett (STEAM_0:1:165468783): !menu
+Thu Jul  7 21:40:35 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /forcerpname guy ST PVT 1456 Guy
+Thu Jul  7 21:40:36 2016	A Person (STEAM_0:0:63975104) disconnected
+Thu Jul  7 21:40:38 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): /me salute
+Thu Jul  7 21:40:40 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): at ease trooper(s)
+Thu Jul  7 21:40:40 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): /me salute
+Thu Jul  7 21:40:41 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): /me salute
+Thu Jul  7 21:40:42 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): /me salute
+Thu Jul  7 21:40:43 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): at ease trooper(s)
+Thu Jul  7 21:40:43 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): /me salute
+Thu Jul  7 21:40:44 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): /me salute
+Thu Jul  7 21:40:45 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): /me salute
+Thu Jul  7 21:40:48 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) spawned
+Thu Jul  7 21:40:52 2016	Bobba Fett (STEAM_0:1:165468783): !tp mar
+Thu Jul  7 21:41:00 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // who wants to eb rebel(1 spot only)
+Thu Jul  7 21:41:03 2016	Bobba Fett (STEAM_0:1:165468783): !return mar
+Thu Jul  7 21:41:03 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // be*
+Thu Jul  7 21:41:09 2016	Bobba Fett (STEAM_0:1:165468783): !goto older
+Thu Jul  7 21:41:10 2016	Stealth Bot (STEAM_0:1:90211140): /ooc I Am
+Thu Jul  7 21:41:10 2016	TP PVT 7598 Duck (STEAM_0:0:53304050): sure
+Thu Jul  7 21:41:18 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): //
+Thu Jul  7 21:41:20 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // ok
+Thu Jul  7 21:41:22 2016	TP PVT 7598 Duck (STEAM_0:0:53304050): // sure
+Thu Jul  7 21:41:31 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): can i be a rebal?
+Thu Jul  7 21:41:33 2016	Bobba Fett (STEAM_0:1:165468783): /ooc Everyone ready
+Thu Jul  7 21:41:42 2016	MED REG COMM Ethan (STEAM_0:1:72945201): / /wait
+Thu Jul  7 21:41:43 2016	MED REG COMM Ethan (STEAM_0:1:72945201): / /wait
+Thu Jul  7 21:41:46 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // wait
+Thu Jul  7 21:42:04 2016	MED REG COMM Ethan (STEAM_0:1:72945201): / /ok so who wants to be a rebel
+Thu Jul  7 21:42:10 2016	ST PVT 2410 Roy (STEAM_0:1:87936506): hi
+Thu Jul  7 21:42:14 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // ok so who wants to be a rebel
+Thu Jul  7 21:42:14 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): hi
+Thu Jul  7 21:42:18 2016	TP PVT 7598 Duck (STEAM_0:0:53304050): // me
+Thu Jul  7 21:42:22 2016	ST PVT 2410 Roy (STEAM_0:1:87936506): me
+Thu Jul  7 21:42:24 2016	ST PVT 2410 Roy (STEAM_0:1:87936506): i
+Thu Jul  7 21:42:31 2016	Bobba Fett (STEAM_0:1:165468783): !tp duck
+Thu Jul  7 21:42:33 2016	TP PVT 7598 Duck (STEAM_0:0:53304050) spawned
+Thu Jul  7 21:42:34 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // cahnge ur name
+Thu Jul  7 21:42:38 2016	MED REG COMM Ethan (STEAM_0:1:72945201): / /change*
+Thu Jul  7 21:42:40 2016	TP PVT 7598 Duck (STEAM_0:0:53304050): to?
+Thu Jul  7 21:42:44 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // change*
+Thu Jul  7 21:43:02 2016	TP PVT 7598 Duck (STEAM_0:0:53304050): /name Rebel Duck
+Thu Jul  7 21:44:15 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !t pshr
+Thu Jul  7 21:44:18 2016	ST PVT 2410 Roy (STEAM_0:1:87936506): pts
+Thu Jul  7 21:44:18 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp sh
+Thu Jul  7 21:44:19 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): // bai i gouess
+Thu Jul  7 21:44:21 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp shr
+Thu Jul  7 21:44:25 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !hp @ 550
+Thu Jul  7 21:44:26 2016	ST PVT 2410 Roy (STEAM_0:1:87936506): pys
+Thu Jul  7 21:44:29 2016	ST PVT 2410 Roy (STEAM_0:1:87936506): pts
+Thu Jul  7 21:44:36 2016	Rebel Duck was killed by Himself with a suicide trick
+Thu Jul  7 21:44:38 2016	Rebel Duck (STEAM_0:0:53304050) spawned
+Thu Jul  7 21:44:54 2016	AngryChicken82 (STEAM_0:1:92889617) has joined the game
+Thu Jul  7 21:44:54 2016	Master JewDa (STEAM_0:1:92889617) spawned
+Thu Jul  7 21:45:16 2016	Bobba Fett (STEAM_0:1:165468783): !tp duck
+Thu Jul  7 21:45:21 2016	MED REG COMM Ethan (STEAM_0:1:72945201): 
+Thu Jul  7 21:45:25 2016	MED REG COMM Ethan (STEAM_0:1:72945201): 
+Thu Jul  7 21:45:28 2016	MED REG COMM Ethan (STEAM_0:1:72945201): 
+Thu Jul  7 21:45:29 2016	Master JewDa (STEAM_0:1:92889617) spawned
+Thu Jul  7 21:45:40 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): /me salutes
+Thu Jul  7 21:45:42 2016	Master JewDa (STEAM_0:1:92889617): At ease Trooper(s)
+Thu Jul  7 21:45:45 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): /me salute
+Thu Jul  7 21:45:50 2016	Bobba Fett (STEAM_0:1:165468783): !tp du
+Thu Jul  7 21:45:52 2016	Stealth Bot (STEAM_0:1:90211140) spawned SENT sw_vehicle_752_stap
+Thu Jul  7 21:45:53 2016	Master JewDa (STEAM_0:1:92889617): /name SHDT Reg Comm Ancient
+Thu Jul  7 21:45:56 2016	Bobba Fetts Older brother (STEAM_0:1:88690147): /PM ETHAN 10 PEOPLE ON THE SERVER :)
+Thu Jul  7 21:45:59 2016	Stealth Bot (STEAM_0:1:90211140) spawned
+Thu Jul  7 21:46:03 2016	Bobba Fett (STEAM_0:1:165468783) spawned SENT stap
+Thu Jul  7 21:46:09 2016	Bobba Fett (STEAM_0:1:165468783) spawned SENT republic_speeder
+Thu Jul  7 21:46:21 2016	Bobba Fett (STEAM_0:1:165468783) spawned SENT speeder_bike
+Thu Jul  7 21:46:24 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): I can barely hear you it buffers
+Thu Jul  7 21:46:26 2016	Bobba Fett (STEAM_0:1:165468783) spawned SENT stap
+Thu Jul  7 21:46:33 2016	Stealth Bot (STEAM_0:1:90211140): !hp ^ 10000
+Thu Jul  7 21:47:20 2016	MED REG COMM Ethan (STEAM_0:1:72945201): / /who fell down?
+Thu Jul  7 21:47:24 2016	Bobba Fett (STEAM_0:1:165468783): !goto older
+Thu Jul  7 21:47:24 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // who fell down?
+Thu Jul  7 21:47:32 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): Shrimp
+Thu Jul  7 21:47:43 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): /pm eth Sorry Ethan i cant hear you maybe im having problems in my internet i can restart my router
+Thu Jul  7 21:47:44 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp shr
+Thu Jul  7 21:48:07 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): I cant hear anything im restarting my router brb
+Thu Jul  7 21:48:11 2016	Stealth Bot (STEAM_0:1:90211140): /advert Start?
+Thu Jul  7 21:48:20 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /advert wait
+Thu Jul  7 21:48:20 2016	MED REG COMM Ethan (STEAM_0:1:72945201) spawned
+Thu Jul  7 21:48:23 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !gotro shr
+Thu Jul  7 21:48:25 2016	Bobba Fett (STEAM_0:1:165468783): !hp b 6500
+Thu Jul  7 21:48:26 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !goto shr
+Thu Jul  7 21:48:39 2016	Bobba Fett (STEAM_0:1:165468783): /ooc Ready?
+Thu Jul  7 21:48:42 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // NO
+Thu Jul  7 21:48:48 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // brb im having internet probs i need to restart my router you can start without me
+Thu Jul  7 21:49:01 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) disconnected
+Thu Jul  7 21:49:07 2016	Bobba Fetts Older brother (STEAM_0:1:88690147): // afk for a sec
+Thu Jul  7 21:49:27 2016	Aladeen (STEAM_0:1:27652610) has joined the game
+Thu Jul  7 21:49:27 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610) spawned
+Thu Jul  7 21:49:49 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp mar
+Thu Jul  7 21:49:56 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !cleardecals
+Thu Jul  7 21:50:02 2016	Bobba Fett (STEAM_0:1:165468783): 
+Thu Jul  7 21:50:09 2016	A Person (STEAM_0:0:63975104) has joined the game
+Thu Jul  7 21:50:09 2016	A Person (STEAM_0:0:63975104) spawned
+Thu Jul  7 21:50:14 2016	Stealth Bot (STEAM_0:1:90211140): !menu
+Thu Jul  7 21:50:23 2016	Bobba Fett (STEAM_0:1:165468783) spawned SENT xj6
+Thu Jul  7 21:50:32 2016	Bobba Fett (STEAM_0:1:165468783) spawned
+Thu Jul  7 21:50:36 2016	Bobba Fett (STEAM_0:1:165468783) spawned SENT wt_rocketboots_remover
+Thu Jul  7 21:50:52 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610) spawned
+Thu Jul  7 21:50:56 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp pe
+Thu Jul  7 21:50:58 2016	A Person (STEAM_0:0:63975104) spawned
+Thu Jul  7 21:50:59 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp ala
+Thu Jul  7 21:51:01 2016	Bobba Fett (STEAM_0:1:165468783) spawned
+Thu Jul  7 21:51:08 2016	Bobba Fett (STEAM_0:1:165468783): hi
+Thu Jul  7 21:51:14 2016	A Person (STEAM_0:0:63975104): // How do i paly this its my first time playing1
+Thu Jul  7 21:51:29 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !t pper
+Thu Jul  7 21:51:32 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp per
+Thu Jul  7 21:51:55 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /advert start
+Thu Jul  7 21:51:57 2016	Bobba Fett (STEAM_0:1:165468783) spawned
+Thu Jul  7 21:52:00 2016	Bobba Fett (STEAM_0:1:165468783) spawned SENT wt_rocketboots_remover
+Thu Jul  7 21:52:05 2016	Bobba Fett (STEAM_0:1:165468783) spawned SENT xj6
+Thu Jul  7 21:52:14 2016	Rebel Duck was killed by Himself with a suicide trick
+Thu Jul  7 21:52:16 2016	MED REG COMM Ethan (STEAM_0:1:72945201): 
+Thu Jul  7 21:52:17 2016	Rebel Duck (STEAM_0:0:53304050) spawned
+Thu Jul  7 21:52:21 2016	MED REG COMM Ethan (STEAM_0:1:72945201): 
+Thu Jul  7 21:52:23 2016	Bobba Fett (STEAM_0:1:165468783) spawned
+Thu Jul  7 21:52:24 2016	Bobba Fett (STEAM_0:1:165468783) spawned
+Thu Jul  7 21:52:29 2016	Bobba Fetts Older brother (STEAM_0:1:88690147) spawned
+Thu Jul  7 21:52:31 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp slo
+Thu Jul  7 21:52:34 2016	Bobba Fett (STEAM_0:1:165468783): !tp older
+Thu Jul  7 21:52:35 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp bro
+Thu Jul  7 21:52:40 2016	Stealth Bot (STEAM_0:1:90211140): 
+Thu Jul  7 21:52:43 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !uncloak
+Thu Jul  7 21:52:50 2016	Stealth Bot (STEAM_0:1:90211140): 
+Thu Jul  7 21:52:51 2016	MED REG COMM Ethan (STEAM_0:1:72945201): 
+Thu Jul  7 21:52:57 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp bro
+Thu Jul  7 21:53:04 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp bob
+Thu Jul  7 21:53:14 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp fet
+Thu Jul  7 21:53:15 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): /me salute
+Thu Jul  7 21:53:16 2016	Bobba Fett (STEAM_0:1:165468783): !model older models/porky-da-corgi/starwars/mandalorians/bountyhunter.mdl
+Thu Jul  7 21:53:17 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): /me salute
+Thu Jul  7 21:53:19 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): '/name ST PVT (NUMBERS) (NAME)'
+Thu Jul  7 21:53:36 2016	Bobba Fetts Older brother (STEAM_0:1:88690147): /NAME Manderloreun Sloth
+Thu Jul  7 21:53:39 2016	A Person (STEAM_0:0:63975104): /name ST PVT 1763 Person
+Thu Jul  7 21:53:42 2016	Stealth Bot (STEAM_0:1:90211140): Start!!!
+Thu Jul  7 21:53:45 2016	Bobba Fett (STEAM_0:1:165468783) spawned SENT wt_rocketboots
+Thu Jul  7 21:53:45 2016	Bobba Fett (STEAM_0:1:165468783) spawned SENT wt_rocketboots
+Thu Jul  7 21:53:52 2016	Stealth Bot (STEAM_0:1:90211140): /ooc START!
+Thu Jul  7 21:54:02 2016	Stealth Bot (STEAM_0:1:90211140): /advert START
+Thu Jul  7 21:54:09 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618): /y PRESS Z!
+Thu Jul  7 21:54:20 2016	MED PFC 2109 Finnerd was killed by Stealth Bot with a rpg_missile
+Thu Jul  7 21:54:31 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138) spawned
+Thu Jul  7 21:54:47 2016	ST PVT 2410 Roy was killed by Stealth Bot with a weapon_laserpistol
+Thu Jul  7 21:54:48 2016	ST PVT 2410 Roy (STEAM_0:1:87936506) spawned
+Thu Jul  7 21:54:55 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618): /ooc WHERE ARE U! xD
+Thu Jul  7 21:55:07 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): /advert To me!
+Thu Jul  7 21:55:11 2016	ST PVT 1456 Aladeen was killed by Stealth Bot with a weapon_laserpistol
+Thu Jul  7 21:55:11 2016	ST PVT 1763 Person was killed by Stealth Bot with a weapon_laserpistol
+Thu Jul  7 21:55:13 2016	SHDT COL 0512 Shrimp was killed by Stealth Bot with a weapon_laserpistol
+Thu Jul  7 21:55:17 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610) spawned
+Thu Jul  7 21:55:18 2016	ST PVT 1763 Person (STEAM_0:0:63975104) spawned
+Thu Jul  7 21:55:18 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // ok im in jailes by the rebels
+Thu Jul  7 21:55:18 2016	ST PVT 2410 Roy was killed by Manderloreun Sloth with a weapon_752bf3_ee3
+Thu Jul  7 21:55:19 2016	ST PVT 2410 Roy (STEAM_0:1:87936506) spawned
+Thu Jul  7 21:55:20 2016	MED PFC 2109 Finnerd was killed by Manderloreun Sloth with a weapon_752bf3_se14c
+Thu Jul  7 21:55:21 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138) spawned
+Thu Jul  7 21:55:23 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // jail*
+Thu Jul  7 21:55:25 2016	ST PVT 2410 Roy was killed by Manderloreun Sloth with a weapon_752bf3_ee3
+Thu Jul  7 21:55:26 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841) spawned
+Thu Jul  7 21:55:26 2016	ST PVT 2410 Roy (STEAM_0:1:87936506) spawned
+Thu Jul  7 21:55:26 2016	ST PVT 1456 Aladeen was killed by Manderloreun Sloth with a weapon_752bf3_ee3
+Thu Jul  7 21:55:27 2016	ST PVT 1763 Person was killed by Manderloreun Sloth with a weapon_752bf3_ee3
+Thu Jul  7 21:55:28 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610) spawned
+Thu Jul  7 21:55:30 2016	MED REG COMM Ethan (STEAM_0:1:72945201): / /DAMN
+Thu Jul  7 21:55:31 2016	ST PVT 1763 Person (STEAM_0:0:63975104) spawned
+Thu Jul  7 21:55:31 2016	ST PVT 2410 Roy was killed by Manderloreun Sloth with a weapon_752bf3_ee3
+Thu Jul  7 21:55:32 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // damn
+Thu Jul  7 21:55:32 2016	ST PVT 2410 Roy (STEAM_0:1:87936506) spawned
+Thu Jul  7 21:55:34 2016	ST PVT 1456 Aladeen was killed by Manderloreun Sloth with a weapon_752bf3_ee3
+Thu Jul  7 21:55:35 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610) spawned
+Thu Jul  7 21:55:38 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // kill streak
+Thu Jul  7 21:55:38 2016	ST PVT 9034 Marshall was killed by Bobba Fett with a weapon_752bf3_se14c
+Thu Jul  7 21:55:38 2016	ST PVT 2410 Roy was killed by Manderloreun Sloth with a weapon_752bf3_se14c
+Thu Jul  7 21:55:39 2016	ST PVT 1763 Person was killed by Manderloreun Sloth with a weapon_752bf3_se14c
+Thu Jul  7 21:55:39 2016	ST PVT 2410 Roy (STEAM_0:1:87936506) spawned
+Thu Jul  7 21:55:40 2016	ST PVT 1763 Person (STEAM_0:0:63975104) spawned
+Thu Jul  7 21:55:41 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) spawned
+Thu Jul  7 21:55:45 2016	MED PFC 2109 Finnerd was killed by ST PVT 9034 Marshall with a weapon_752bf3_e11
+Thu Jul  7 21:55:46 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138) spawned
+Thu Jul  7 21:55:46 2016	ST PVT 2410 Roy was killed by Manderloreun Sloth with a weapon_752bf3_se14c
+Thu Jul  7 21:55:47 2016	ST PVT 2410 Roy (STEAM_0:1:87936506) spawned
+Thu Jul  7 21:55:48 2016	ST PVT 1763 Person was killed by Manderloreun Sloth with a weapon_752bf3_se14c
+Thu Jul  7 21:55:50 2016	ST PVT 1763 Person (STEAM_0:0:63975104) spawned
+Thu Jul  7 21:55:52 2016	ST PVT 9034 Marshall was killed by Manderloreun Sloth with a weapon_752bf3_se14c
+Thu Jul  7 21:55:53 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) spawned
+Thu Jul  7 21:55:57 2016	ST PVT 1456 Aladeen was killed by Bobba Fett with a weapon_752bf3_ee3
+Thu Jul  7 21:55:58 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610) spawned
+Thu Jul  7 21:56:01 2016	MED PFC 2109 Finnerd was killed by Rebel Duck with a weapon_752bf3_a280
+Thu Jul  7 21:56:02 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138) spawned
+Thu Jul  7 21:56:02 2016	ST PVT 2410 Roy was killed by Stealth Bot with a weapon_laserpistol
+Thu Jul  7 21:56:03 2016	ST PVT 9034 Marshall was killed by Manderloreun Sloth with a weapon_752bf3_se14c
+Thu Jul  7 21:56:03 2016	ST PVT 2410 Roy (STEAM_0:1:87936506) spawned
+Thu Jul  7 21:56:04 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) spawned
+Thu Jul  7 21:56:06 2016	ST PVT 1763 Person was killed by Bobba Fett with a weapon_752bf3_se14c
+Thu Jul  7 21:56:08 2016	ST PVT 1763 Person (STEAM_0:0:63975104) spawned
+Thu Jul  7 21:56:10 2016	ST PVT 1456 Aladeen was killed by Bobba Fett with a weapon_752bf3_se14c
+Thu Jul  7 21:56:11 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610) spawned
+Thu Jul  7 21:56:13 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !cloak
+Thu Jul  7 21:56:19 2016	ST PVT 1456 Aladeen was killed by Bobba Fett with a weapon_752bf3_ee3
+Thu Jul  7 21:56:21 2016	ST PVT 1763 Person was killed by Bobba Fett with a weapon_752bf3_ee3
+Thu Jul  7 21:56:22 2016	ST PVT 2410 Roy was killed by Stealth Bot with a weapon_laserpistol
+Thu Jul  7 21:56:23 2016	ST PVT 2410 Roy (STEAM_0:1:87936506) spawned
+Thu Jul  7 21:56:24 2016	ST PVT 1763 Person (STEAM_0:0:63975104) spawned
+Thu Jul  7 21:56:24 2016	SHDT COL 0512 Shrimp was killed by Manderloreun Sloth with a weapon_752bf3_se14c
+Thu Jul  7 21:56:26 2016	ST PVT 9034 Marshall was killed by Stealth Bot with a weapon_laserpistol
+Thu Jul  7 21:56:26 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841) spawned
+Thu Jul  7 21:56:28 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) spawned
+Thu Jul  7 21:56:32 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610): lol 6000 xp
+Thu Jul  7 21:56:33 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // HELP SHRIMP
+Thu Jul  7 21:56:34 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610) spawned
+Thu Jul  7 21:56:38 2016	ST PVT 2410 Roy was killed by Stealth Bot with a weapon_laserpistol
+Thu Jul  7 21:56:40 2016	ST PVT 2410 Roy (STEAM_0:1:87936506) spawned
+Thu Jul  7 21:56:41 2016	ST PVT 1763 Person was killed by Manderloreun Sloth with a weapon_752bf3_ee3
+Thu Jul  7 21:56:42 2016	ST PVT 1456 Aladeen was killed by Manderloreun Sloth with a weapon_752bf3_ee3
+Thu Jul  7 21:56:43 2016	ST PVT 1763 Person (STEAM_0:0:63975104) spawned
+Thu Jul  7 21:56:43 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610) spawned
+Thu Jul  7 21:56:43 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): // i dont know where i am!
+Thu Jul  7 21:56:43 2016	ST PVT 9034 Marshall was killed by Stealth Bot with a weapon_laserpistol
+Thu Jul  7 21:56:44 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !uncloak
+Thu Jul  7 21:56:46 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) spawned
+Thu Jul  7 21:56:49 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !cloak
+Thu Jul  7 21:56:52 2016	ST PVT 1763 Person was killed by ST PVT 2410 Roy with a weapon_752bf3_e11
+Thu Jul  7 21:56:54 2016	ST PVT 1763 Person (STEAM_0:0:63975104) spawned
+Thu Jul  7 21:56:54 2016	ST PVT 2410 Roy was killed by Manderloreun Sloth with a weapon_752bf3_ee3
+Thu Jul  7 21:56:55 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): // tp pls
+Thu Jul  7 21:56:56 2016	ST PVT 2410 Roy (STEAM_0:1:87936506) spawned
+Thu Jul  7 21:56:56 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp shr
+Thu Jul  7 21:56:57 2016	ST PVT 1456 Aladeen was killed by ST PVT 9034 Marshall with a weapon_752bf3_e11
+Thu Jul  7 21:56:58 2016	ST PVT 9034 Marshall was killed by Stealth Bot with a weapon_laserpistol
+Thu Jul  7 21:56:58 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): /ooc me either!
+Thu Jul  7 21:56:58 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610) spawned
+Thu Jul  7 21:56:59 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) spawned
+Thu Jul  7 21:57:02 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp med
+Thu Jul  7 21:57:06 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp finn
+Thu Jul  7 21:57:09 2016	ST PVT 2410 Roy was killed by Rebel Duck with a weapon_752bf3_se14c
+Thu Jul  7 21:57:11 2016	ST PVT 2410 Roy (STEAM_0:1:87936506) spawned
+Thu Jul  7 21:57:15 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618): 
+Thu Jul  7 21:57:16 2016	MED PFC 2109 Finnerd was killed by Bobba Fett with a weapon_752bf3_se14c
+Thu Jul  7 21:57:18 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138) spawned
+Thu Jul  7 21:57:19 2016	ST PVT 1456 Aladeen was killed by Bobba Fett with a weapon_752bf3_se14c
+Thu Jul  7 21:57:21 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610) spawned
+Thu Jul  7 21:57:21 2016	ST PVT 9034 Marshall was killed by Himself with a suicide trick
+Thu Jul  7 21:57:25 2016	ST PVT 2410 Roy was killed by Rebel Duck with a weapon_752bf3_se14c
+Thu Jul  7 21:57:26 2016	ST PVT 2410 Roy (STEAM_0:1:87936506) spawned
+Thu Jul  7 21:57:29 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) spawned
+Thu Jul  7 21:57:32 2016	ST PVT 1456 Aladeen was killed by Rebel Duck with a weapon_752bf3_se14c
+Thu Jul  7 21:57:32 2016	ST PVT 2410 Roy was killed by Manderloreun Sloth with a weapon_752bf3_se14c
+Thu Jul  7 21:57:33 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610) spawned
+Thu Jul  7 21:57:34 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /setspawn medpfc
+Thu Jul  7 21:57:36 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610): wtf is this
+Thu Jul  7 21:57:38 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /setspawn STPVT
+Thu Jul  7 21:57:38 2016	ST PVT 2410 Roy (STEAM_0:1:87936506): /ooc i need tp
+Thu Jul  7 21:57:38 2016	ST PVT 9034 Marshall was killed by Rebel Duck with a weapon_752bf3_se14c
+Thu Jul  7 21:57:39 2016	ST PVT 2410 Roy (STEAM_0:1:87936506) spawned
+Thu Jul  7 21:57:40 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) spawned
+Thu Jul  7 21:57:43 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /setspawn stpfc
+Thu Jul  7 21:57:46 2016	ST PVT 2410 Roy was killed by Manderloreun Sloth with a weapon_752bf3_se14c
+Thu Jul  7 21:57:48 2016	ST PVT 2410 Roy (STEAM_0:1:87936506) spawned
+Thu Jul  7 21:57:48 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /setsapwn stpvt
+Thu Jul  7 21:57:52 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /setspawn stpvt
+Thu Jul  7 21:57:52 2016	ST PVT 9034 Marshall was killed by Manderloreun Sloth with a weapon_752bf3_se14c
+Thu Jul  7 21:57:53 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) spawned
+Thu Jul  7 21:57:56 2016	ST PVT 2410 Roy was killed by Manderloreun Sloth with a weapon_752bf3_ee3
+Thu Jul  7 21:57:57 2016	ST PVT 2410 Roy (STEAM_0:1:87936506) spawned
+Thu Jul  7 21:58:02 2016	ST PVT 9034 Marshall was killed by Manderloreun Sloth with a weapon_752bf3_se14c
+Thu Jul  7 21:58:03 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) spawned
+Thu Jul  7 21:58:03 2016	ST PVT 2410 Roy was killed by Manderloreun Sloth with a weapon_752bf3_se14c
+Thu Jul  7 21:58:05 2016	ST PVT 2410 Roy (STEAM_0:1:87936506) spawned
+Thu Jul  7 21:58:06 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): /advert *IC* Ethan where are you?
+Thu Jul  7 21:58:08 2016	ST PVT 1763 Person was killed by Stealth Bot with a weapon_laserpistol
+Thu Jul  7 21:58:10 2016	ST PVT 2410 Roy was killed by Manderloreun Sloth with a weapon_752bf3_se14c
+Thu Jul  7 21:58:11 2016	ST PVT 2410 Roy (STEAM_0:1:87936506) spawned
+Thu Jul  7 21:58:13 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /setspawn sdtcol
+Thu Jul  7 21:58:14 2016	ST PVT 9034 Marshall was killed by Manderloreun Sloth with a weapon_752bf3_se14c
+Thu Jul  7 21:58:15 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): /ooc so do i
+Thu Jul  7 21:58:15 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) spawned
+Thu Jul  7 21:58:19 2016	ST PVT 1763 Person (STEAM_0:0:63975104): // WHAT AM I SUPPOSED TO DO!?
+Thu Jul  7 21:58:19 2016	ST PVT 1763 Person (STEAM_0:0:63975104) spawned
+Thu Jul  7 21:58:22 2016	ST PVT 2410 Roy was killed by Manderloreun Sloth with a weapon_752bf3_se14c
+Thu Jul  7 21:58:23 2016	ST PVT 2410 Roy (STEAM_0:1:87936506) spawned
+Thu Jul  7 21:58:25 2016	ST PVT 1456 Aladeen was killed by Stealth Bot with a weapon_laserpistol
+Thu Jul  7 21:58:26 2016	ST PVT 9034 Marshall was killed by Manderloreun Sloth with a weapon_752bf3_se14c
+Thu Jul  7 21:58:26 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): // shoot!
+Thu Jul  7 21:58:28 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) spawned
+Thu Jul  7 21:58:32 2016	ST PVT 1763 Person was killed by Manderloreun Sloth with a e60r_rocket
+Thu Jul  7 21:58:32 2016	ST PVT 2410 Roy was killed by Manderloreun Sloth with a e60r_rocket
+Thu Jul  7 21:58:33 2016	ST PVT 2410 Roy (STEAM_0:1:87936506) spawned
+Thu Jul  7 21:58:34 2016	Bobba Fett (STEAM_0:1:165468783): !hp duck 2500
+Thu Jul  7 21:58:34 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): // find ethan!
+Thu Jul  7 21:58:35 2016	ST PVT 1763 Person (STEAM_0:0:63975104) spawned
+Thu Jul  7 21:58:39 2016	ST PVT 9034 Marshall was killed by Manderloreun Sloth with a weapon_752bf3_ee3
+Thu Jul  7 21:58:39 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618): 
+Thu Jul  7 21:58:40 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610): /ooc ok this is bullshit guys got like 600hp
+Thu Jul  7 21:58:40 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) spawned
+Thu Jul  7 21:58:51 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610): /ooc 
+Thu Jul  7 21:58:55 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618): /ooc THIS IS TOO FUCKING OP!!!!!
+Thu Jul  7 21:58:58 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610): /ooc hardly fair lol
+Thu Jul  7 21:59:02 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610) spawned
+Thu Jul  7 21:59:02 2016	Bobba Fett (STEAM_0:1:165468783): !hp everyone 1500
+Thu Jul  7 21:59:12 2016	ST PVT 2410 Roy was killed by Manderloreun Sloth with a weapon_752bf3_se14c
+Thu Jul  7 21:59:13 2016	Bobba Fett (STEAM_0:1:165468783): !menu
+Thu Jul  7 21:59:13 2016	ST PVT 2410 Roy (STEAM_0:1:87936506) spawned
+Thu Jul  7 21:59:17 2016	Bobba Fett (STEAM_0:1:165468783): !menu
+Thu Jul  7 21:59:19 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /setspawn sdtregcom
+Thu Jul  7 21:59:23 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /setspawnregcom
+Thu Jul  7 21:59:28 2016	ST PVT 1763 Person was killed by Manderloreun Sloth with a weapon_752bf3_ee3
+Thu Jul  7 21:59:39 2016	ST PVT 1763 Person (STEAM_0:0:63975104) spawned
+Thu Jul  7 21:59:39 2016	Bobba Fett (STEAM_0:1:165468783): !hp st 500
+Thu Jul  7 21:59:42 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // im back
+Thu Jul  7 21:59:43 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618): // Ethan tp to me
+Thu Jul  7 21:59:46 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !goto mar
+Thu Jul  7 21:59:52 2016	MED PFC 2109 Finnerd was killed by Manderloreun Sloth with a weapon_752bf3_se14c
+Thu Jul  7 21:59:53 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138) spawned
+Thu Jul  7 21:59:57 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !h p^ 550
+Thu Jul  7 21:59:59 2016	ST PVT 2410 Roy was killed by Manderloreun Sloth with a weapon_752bf3_se14c
+Thu Jul  7 22:00:00 2016	ST PVT 2410 Roy (STEAM_0:1:87936506) spawned
+Thu Jul  7 22:00:02 2016	ST PVT 1456 Aladeen was killed by Bobba Fett with a weapon_752bf3_se14c
+Thu Jul  7 22:00:02 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !hp ^ 550
+Thu Jul  7 22:00:04 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610) spawned
+Thu Jul  7 22:00:15 2016	ST PVT 1763 Person was killed by Manderloreun Sloth with a weapon_752bf3_se14c
+Thu Jul  7 22:00:17 2016	ST PVT 1763 Person (STEAM_0:0:63975104) spawned
+Thu Jul  7 22:00:26 2016	ST PVT 2410 Roy was killed by Manderloreun Sloth with a weapon_752bf3_se14c
+Thu Jul  7 22:00:28 2016	ST PVT 2410 Roy (STEAM_0:1:87936506) spawned
+Thu Jul  7 22:00:31 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !uncloak
+Thu Jul  7 22:00:36 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): /ooc whats the command for IC?
+Thu Jul  7 22:00:48 2016	Bobba Fett (STEAM_0:1:165468783): !hp older 6500
+Thu Jul  7 22:00:54 2016	ST PVT 9034 Marshall was killed by Stealth Bot with a weapon_laserpistol
+Thu Jul  7 22:00:54 2016	ST PVT 1763 Person (STEAM_0:0:63975104): // This is not an event this is a rdm spree
+Thu Jul  7 22:00:57 2016	Bobba Fett (STEAM_0:1:165468783): !hp older 6500
+Thu Jul  7 22:00:57 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) spawned
+Thu Jul  7 22:01:00 2016	AngryChicken82 (STEAM_0:1:92889617) has joined the game
+Thu Jul  7 22:01:00 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) spawned
+Thu Jul  7 22:01:01 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): // type /advert *IC* words
+Thu Jul  7 22:01:06 2016	ST PVT 1763 Person (STEAM_0:0:63975104): // ?
+Thu Jul  7 22:01:06 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618): /name Scooby doo
+Thu Jul  7 22:01:10 2016	ST PVT 1456 Aladeen was killed by Manderloreun Sloth with a weapon_752bf3_se14c
+Thu Jul  7 22:01:11 2016	Scooby doo was killed by Manderloreun Sloth with a weapon_752bf3_se14c
+Thu Jul  7 22:01:11 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610) spawned
+Thu Jul  7 22:01:12 2016	Scooby doo (STEAM_0:1:112426618) spawned
+Thu Jul  7 22:01:21 2016	Scooby doo (STEAM_0:1:112426618): 
+Thu Jul  7 22:01:24 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) spawned
+Thu Jul  7 22:01:25 2016	Scooby doo (STEAM_0:1:112426618): 
+Thu Jul  7 22:01:27 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610): /ooc im just gonna disconnect fuck this lol
+Thu Jul  7 22:01:31 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /me salutes
+Thu Jul  7 22:01:42 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610): /ooc only been on here 5 minutes
+Thu Jul  7 22:01:42 2016	Bobba Fett (STEAM_0:1:165468783): !hp s 650
+Thu Jul  7 22:01:43 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): /PM sCOOBY What happend?
+Thu Jul  7 22:01:48 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): /me gives comms back
+Thu Jul  7 22:01:49 2016	Bobba Fett (STEAM_0:1:165468783): !hp m 500
+Thu Jul  7 22:02:00 2016	SHDT COL 0512 Shrimp was killed by Manderloreun Sloth with a weapon_752bf3_se14c
+Thu Jul  7 22:02:06 2016	Stealth Bot was killed by ST PVT 1456 Aladeen with a weapon_752bf3_e11
+Thu Jul  7 22:02:06 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841) spawned
+Thu Jul  7 22:02:07 2016	Stealth Bot (STEAM_0:1:90211140) spawned
+Thu Jul  7 22:02:11 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /advert *IC* I got my comms back, and Im free get back quickly to the landing area
+Thu Jul  7 22:02:15 2016	Scooby doo was killed by Rebel Duck with a weapon_752bf3_se14c
+Thu Jul  7 22:02:15 2016	Bobba Fett (STEAM_0:1:165468783): !hp sloth 1000
+Thu Jul  7 22:02:15 2016	MED REG COMM Ethan was killed by Manderloreun Sloth with a weapon_752bf3_se14c
+Thu Jul  7 22:02:17 2016	Scooby doo (STEAM_0:1:112426618) spawned
+Thu Jul  7 22:02:17 2016	MED REG COMM Ethan (STEAM_0:1:72945201) spawned
+Thu Jul  7 22:02:26 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // Sh** players voices are still buffering but other internet issues are resolved
+Thu Jul  7 22:02:34 2016	Stealth Bot (STEAM_0:1:90211140): /advert KILL ME AGAIN  I SWAR I WAS TRYING TO SORT IT OUT 
+Thu Jul  7 22:02:35 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): What Scooby
+Thu Jul  7 22:02:36 2016	Scooby doo (STEAM_0:1:112426618): 
+Thu Jul  7 22:02:45 2016	Manderloreun Sloth (STEAM_0:1:88690147): /pm ethan sorry
+Thu Jul  7 22:02:49 2016	ST PVT 2410 Roy (STEAM_0:1:87936506): /ooc wait
+Thu Jul  7 22:02:50 2016	Scooby doo was killed by Rebel Duck with a weapon_752bf3_se14c
+Thu Jul  7 22:02:52 2016	Manderloreun Sloth (STEAM_0:1:88690147): #
+Thu Jul  7 22:02:52 2016	Scooby doo (STEAM_0:1:112426618) spawned
+Thu Jul  7 22:02:55 2016	Bobba Fett (STEAM_0:1:165468783): !give scooby weapon_752_e60r
+Thu Jul  7 22:02:59 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /advert  GET BACK QUICKLY TO THE LANDING AREA!
+Thu Jul  7 22:03:11 2016	Bobba Fett (STEAM_0:1:165468783): /ooc Scoody do change your name
+Thu Jul  7 22:03:13 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !goto bot
+Thu Jul  7 22:03:16 2016	Scooby doo was killed by Manderloreun Sloth with a weapon_752bf3_se14c
+Thu Jul  7 22:03:18 2016	Scooby doo (STEAM_0:1:112426618) spawned
+Thu Jul  7 22:03:24 2016	ST PVT 2410 Roy (STEAM_0:1:87936506): 
+Thu Jul  7 22:03:33 2016	Scooby doo (STEAM_0:1:112426618): // WOW, dead.... this even is terrible....
+Thu Jul  7 22:03:37 2016	Bobba Fett (STEAM_0:1:165468783): !goto roy
+Thu Jul  7 22:03:47 2016	Scooby doo (STEAM_0:1:112426618): /name ST PVT 8893 Marshall
+Thu Jul  7 22:04:00 2016	Bobba Fett (STEAM_0:1:165468783): !return
+Thu Jul  7 22:04:02 2016	ST PVT 1456 Aladeen was killed by Manderloreun Sloth with a weapon_752bf3_se14c
+Thu Jul  7 22:04:03 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610) spawned
+Thu Jul  7 22:04:04 2016	MED REG COMM Ethan was killed by Manderloreun Sloth with a weapon_752bf3_se14c
+Thu Jul  7 22:04:07 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // IM DONE
+Thu Jul  7 22:04:09 2016	MED PFC 2109 Finnerd was killed by Bobba Fett with a weapon_752_e11
+Thu Jul  7 22:04:16 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138) spawned
+Thu Jul  7 22:04:18 2016	MED REG COMM Ethan (STEAM_0:1:72945201): / /U WOULD NOT COME UP TO A FUCKING IMPIRAL ARMY WITH 3 REBELS
+Thu Jul  7 22:04:21 2016	Manderloreun Sloth (STEAM_0:1:88690147): // i can't tell who is who
+Thu Jul  7 22:04:29 2016	ST PVT 8893 Marshall (STEAM_0:1:112426618): // i will actually drink bleach
+Thu Jul  7 22:04:29 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /ADVERT  U WOULD NOT COME UP TO A FUCKING IMPIRAL ARMY WITH 3 REBELS
+Thu Jul  7 22:04:32 2016	MED REG COMM Ethan (STEAM_0:1:72945201) spawned
+Thu Jul  7 22:04:36 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !goto shr
+Thu Jul  7 22:04:42 2016	MED PFC 2109 Finnerd was killed by ST PVT 1456 Aladeen with a weapon_752bf3_e11
+Thu Jul  7 22:04:45 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138) spawned
+Thu Jul  7 22:05:31 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !kick roy NOPE
+Thu Jul  7 22:05:31 2016	ST PVT 2410 Roy (STEAM_0:1:87936506) disconnected
+Thu Jul  7 22:05:41 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !cleardecals
+Thu Jul  7 22:05:46 2016	Stealth Bot (STEAM_0:1:90211140): /me Shows ID: [ImperialName:Hook ] [Rank:SSGT ] [Numbers: 4312] [Height: 500cm] [Weight: 60kg]
+Thu Jul  7 22:05:47 2016	Stealth Bot (STEAM_0:1:90211140): /me Shows ID: [ImperialName:Hook ] [Rank:SSGT ] [Numbers: 4312] [Height: 500cm] [Weight: 60kg]
+Thu Jul  7 22:05:55 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // I have no idea what's happening i can barely hear people and im very confused...
+Thu Jul  7 22:05:56 2016	ST PVT 8893 Marshall was killed by Entity [0][worldspawn] with a unknown
+Thu Jul  7 22:05:56 2016	Bobba Fett (STEAM_0:1:165468783): !unjail bobba
+Thu Jul  7 22:06:02 2016	ST PVT 8893 Marshall (STEAM_0:1:112426618) spawned
+Thu Jul  7 22:06:09 2016	Bobba Fett (STEAM_0:1:165468783): !jail bobba
+Thu Jul  7 22:06:22 2016	ST PVT 8893 Marshall (STEAM_0:1:112426618): // i swear ima kill myself...
+Thu Jul  7 22:06:27 2016	Bobba Fett (STEAM_0:1:165468783): !unjail bobba
+Thu Jul  7 22:06:30 2016	ST PVT 1763 Person (STEAM_0:0:63975104): Understood
+Thu Jul  7 22:06:30 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): understood
+Thu Jul  7 22:06:38 2016	Bobba Fett (STEAM_0:1:165468783): !jail bobba
+Thu Jul  7 22:06:41 2016	ST PVT 8893 Marshall (STEAM_0:1:112426618): /warp
+Thu Jul  7 22:06:55 2016	ST PVT 8893 Marshall (STEAM_0:1:112426618): 
+Thu Jul  7 22:07:00 2016	ST PVT 8893 Marshall was killed by Himself with a suicide trick
+Thu Jul  7 22:07:02 2016	ST PVT 8893 Marshall (STEAM_0:1:112426618) spawned
+Thu Jul  7 22:07:05 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // Could i just spectate because it is really hard to participate in events like this
+Thu Jul  7 22:07:33 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): /pm ethan Could i just spectate because it is really hard to participate in events like this
+Thu Jul  7 22:07:37 2016	ST PVT 8893 Marshall (STEAM_0:1:112426618): // why are there so many wnna be canceralert!
+Thu Jul  7 22:08:04 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !t pmar
+Thu Jul  7 22:08:06 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): 
+Thu Jul  7 22:08:07 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp mar
+Thu Jul  7 22:08:16 2016	ST PVT 1763 Person (STEAM_0:0:63975104): // AFK
+Thu Jul  7 22:08:28 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !jail *
+Thu Jul  7 22:08:31 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !unjail ^
+Thu Jul  7 22:08:35 2016	Bobba Fett (STEAM_0:1:165468783): !give bobba weapon_752_ee3
+Thu Jul  7 22:08:37 2016	Stealth Bot (STEAM_0:1:90211140): !menu
+Thu Jul  7 22:08:42 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !unjial @
+Thu Jul  7 22:08:48 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !unjail @
+Thu Jul  7 22:08:51 2016	Bobba Fett (STEAM_0:1:165468783): !give sloth weapon_752_ee3
+Thu Jul  7 22:08:52 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !unjail bot
+Thu Jul  7 22:09:01 2016	ST PVT 1763 Person (STEAM_0:0:63975104): /afk
+Thu Jul  7 22:09:04 2016	ST PVT 1763 Person (STEAM_0:0:63975104): !afk
+Thu Jul  7 22:09:09 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): !unjail ^
+Thu Jul  7 22:09:31 2016	MED REG COMM Ethan (STEAM_0:1:72945201): brb
+Thu Jul  7 22:09:52 2016	Stealth Bot (STEAM_0:1:90211140) spawned
+Thu Jul  7 22:09:58 2016	Bobba Fett (STEAM_0:1:165468783): !tp sloth
+Thu Jul  7 22:10:18 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // ah
+Thu Jul  7 22:10:20 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): // it was actually ridiculous. They had OP weps, too much health and they continued to just suicide us
+Thu Jul  7 22:10:21 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // wtf happend
+Thu Jul  7 22:10:30 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // I agree with u shrimp
+Thu Jul  7 22:10:34 2016	ST PVT 8893 Marshall (STEAM_0:1:112426618): // thanks for letting me be your cages monkey
+Thu Jul  7 22:10:48 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !unjail *
+Thu Jul  7 22:11:06 2016	Stealth Bot (STEAM_0:1:90211140): !menu
+Thu Jul  7 22:11:32 2016	ST PVT 8893 Marshall (STEAM_0:1:112426618): /kill
+Thu Jul  7 22:11:34 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !warn ala DO NOT SPAWN PROP
+Thu Jul  7 22:11:37 2016	ST PVT 8893 Marshall (STEAM_0:1:112426618): /suasude
+Thu Jul  7 22:11:41 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // Im experiencing other internet issues right nowi can barely move :/ sorry guys im gonna try and fix this and ill be back la
+Thu Jul  7 22:11:46 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617): // later*
+Thu Jul  7 22:11:57 2016	ST PVT 8893 Marshall (STEAM_0:1:112426618) disconnected
+Thu Jul  7 22:12:05 2016	SHDT Reg Comm Ancient (STEAM_0:1:92889617) disconnected
+Thu Jul  7 22:12:29 2016	Marshall (STEAM_0:1:112426618) has joined the game
+Thu Jul  7 22:12:29 2016	ST PVT 8893 Marshall (STEAM_0:1:112426618) spawned
+Thu Jul  7 22:12:51 2016	Stealth Bot (STEAM_0:1:90211140): !hp Shrimp 600
+Thu Jul  7 22:13:04 2016	Stealth Bot (STEAM_0:1:90211140): !menu
+Thu Jul  7 22:13:29 2016	ST PVT 8893 Marshall (STEAM_0:1:112426618) disconnected
+Thu Jul  7 22:13:58 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): yes
+Thu Jul  7 22:13:59 2016	Rebel Duck (STEAM_0:0:53304050): yes
+Thu Jul  7 22:13:59 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): yes
+Thu Jul  7 22:14:00 2016	Bobba Fett (STEAM_0:1:165468783): YH
+Thu Jul  7 22:14:02 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610): yes
+Thu Jul  7 22:14:03 2016	Manderloreun Sloth (STEAM_0:1:88690147): yes
+Thu Jul  7 22:14:12 2016	Bobba Fett (STEAM_0:1:165468783): dont say that
+Thu Jul  7 22:15:06 2016	Bobba Fett (STEAM_0:1:165468783) spawned
+Thu Jul  7 22:15:16 2016	Bobba Fett (STEAM_0:1:165468783): /name REBEL REN
+Thu Jul  7 22:15:23 2016	REBEL REN (STEAM_0:1:165468783): !tp d
+Thu Jul  7 22:15:33 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !cleardecals
+Thu Jul  7 22:15:43 2016	MED REG COMM Ethan (STEAM_0:1:72945201): 
+Thu Jul  7 22:15:50 2016	Manderloreun Sloth (STEAM_0:1:88690147) spawned
+Thu Jul  7 22:15:53 2016	Stealth Bot (STEAM_0:1:90211140) spawned SENT sw_vehicle_752_tx130t_base_blue
+Thu Jul  7 22:15:58 2016	REBEL REN (STEAM_0:1:165468783): !tp msloth
+Thu Jul  7 22:16:01 2016	MED REG COMM Ethan (STEAM_0:1:72945201) spawned
+Thu Jul  7 22:16:02 2016	REBEL REN (STEAM_0:1:165468783): !sloth
+Thu Jul  7 22:16:06 2016	REBEL REN (STEAM_0:1:165468783): !tp sloth
+Thu Jul  7 22:16:06 2016	Manderloreun Sloth (STEAM_0:1:88690147): /name Rebel  Sloth
+Thu Jul  7 22:16:24 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610) spawned
+Thu Jul  7 22:16:30 2016	REBEL REN (STEAM_0:1:165468783) spawned SENT sw_vehicle_752_74z
+Thu Jul  7 22:16:32 2016	REBEL REN (STEAM_0:1:165468783) spawned SENT sw_vehicle_752_74z
+Thu Jul  7 22:16:34 2016	REBEL REN (STEAM_0:1:165468783) spawned SENT sw_vehicle_752_74z
+Thu Jul  7 22:16:45 2016	MED REG COMM Ethan (STEAM_0:1:72945201) spawned SENT aat
+Thu Jul  7 22:16:46 2016	REBEL REN (STEAM_0:1:165468783) spawned SENT wt_rocketboots
+Thu Jul  7 22:16:46 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841) spawned
+Thu Jul  7 22:16:47 2016	REBEL REN (STEAM_0:1:165468783) spawned SENT wt_rocketboots
+Thu Jul  7 22:16:52 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610) spawned
+Thu Jul  7 22:17:09 2016	ST PVT 1763 Person was killed by Himself with a suicide trick
+Thu Jul  7 22:17:09 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !slay person
+Thu Jul  7 22:17:10 2016	ST PVT 1763 Person (STEAM_0:0:63975104) spawned
+Thu Jul  7 22:17:11 2016	Roy (STEAM_0:1:87936506) has joined the game
+Thu Jul  7 22:17:11 2016	ST PVT 2410 Roy (STEAM_0:1:87936506) spawned
+Thu Jul  7 22:17:14 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp per
+Thu Jul  7 22:17:31 2016	SHDT COL 0512 Shrimp was killed by Entity [0][worldspawn] with a unknown
+Thu Jul  7 22:17:34 2016	REBEL REN (STEAM_0:1:165468783): !hp re 2500
+Thu Jul  7 22:17:35 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841) spawned
+Thu Jul  7 22:17:43 2016	ST PVT 1456 Aladeen was killed by Entity [0][worldspawn] with a unknown
+Thu Jul  7 22:17:46 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610) spawned
+Thu Jul  7 22:17:59 2016	MED REG COMM Ethan (STEAM_0:1:72945201) spawned SENT podracer
+Thu Jul  7 22:18:05 2016	MED REG COMM Ethan (STEAM_0:1:72945201) spawned SENT speeder_bike
+Thu Jul  7 22:18:08 2016	MED REG COMM Ethan (STEAM_0:1:72945201) spawned SENT speeder_bike
+Thu Jul  7 22:18:43 2016	MED PFC 2109 Finnerd was killed by Entity [574][aat] with a aat
+Thu Jul  7 22:18:44 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138) spawned
+Thu Jul  7 22:18:51 2016	REBEL REN (STEAM_0:1:165468783): !tp du
+Thu Jul  7 22:18:57 2016	ST PVT 1456 Aladeen was killed by Himself with a suicide trick
+Thu Jul  7 22:18:58 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610) spawned
+Thu Jul  7 22:18:59 2016	MED REG COMM Ethan (STEAM_0:1:72945201) spawned SENT speeder_bike
+Thu Jul  7 22:19:05 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): thanks
+Thu Jul  7 22:19:08 2016	Rebel Duck (STEAM_0:0:53304050): yes
+Thu Jul  7 22:19:16 2016	REBEL REN (STEAM_0:1:165468783) spawned
+Thu Jul  7 22:19:18 2016	Rebel Duck (STEAM_0:0:53304050) spawned
+Thu Jul  7 22:19:18 2016	Rebel  Sloth (STEAM_0:1:88690147) spawned
+Thu Jul  7 22:19:29 2016	ST PVT 2410 Roy (STEAM_0:1:87936506) spawned
+Thu Jul  7 22:19:32 2016	MED REG COMM Ethan (STEAM_0:1:72945201): 
+Thu Jul  7 22:19:34 2016	REBEL REN (STEAM_0:1:165468783) spawned SENT speeder_bike
+Thu Jul  7 22:19:35 2016	MED REG COMM Ethan (STEAM_0:1:72945201): 
+Thu Jul  7 22:19:37 2016	ST PVT 2410 Roy (STEAM_0:1:87936506): 
+Thu Jul  7 22:19:38 2016	REBEL REN (STEAM_0:1:165468783) spawned SENT speeder_bike
+Thu Jul  7 22:19:40 2016	REBEL REN (STEAM_0:1:165468783) spawned SENT speeder_bike
+Thu Jul  7 22:19:44 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp ro
+Thu Jul  7 22:19:48 2016	ST PVT 1763 Person was killed by Himself with a suicide trick
+Thu Jul  7 22:19:52 2016	ST PVT 1763 Person (STEAM_0:0:63975104) spawned
+Thu Jul  7 22:20:00 2016	ST PVT 1456 Aladeen was killed by Himself with a suicide trick
+Thu Jul  7 22:20:01 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610) spawned
+Thu Jul  7 22:20:03 2016	REBEL REN (STEAM_0:1:165468783) spawned SENT sw_vehicle_752_74z
+Thu Jul  7 22:20:05 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp ala
+Thu Jul  7 22:20:15 2016	REBEL REN (STEAM_0:1:165468783): !hp re 2500
+Thu Jul  7 22:20:20 2016	ST PVT 2410 Roy (STEAM_0:1:87936506): /ooc can i get ship?
+Thu Jul  7 22:20:22 2016	ST PVT 2410 Roy was killed by Entity [0][worldspawn] with a unknown
+Thu Jul  7 22:20:24 2016	ST PVT 2410 Roy (STEAM_0:1:87936506) spawned
+Thu Jul  7 22:20:44 2016	MED PFC 2109 Finnerd was killed by Entity [0][worldspawn] with a unknown
+Thu Jul  7 22:20:51 2016	ST PVT 2410 Roy was killed by Entity [0][worldspawn] with a unknown
+Thu Jul  7 22:20:52 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138) spawned
+Thu Jul  7 22:20:53 2016	ST PVT 2410 Roy (STEAM_0:1:87936506) spawned
+Thu Jul  7 22:20:54 2016	REBEL REN (STEAM_0:1:165468783) spawned
+Thu Jul  7 22:20:57 2016	REBEL REN (STEAM_0:1:165468783) spawned SENT speeder_bike
+Thu Jul  7 22:21:09 2016	MED REG COMM Ethan (STEAM_0:1:72945201) spawned SENT speeder_bike
+Thu Jul  7 22:21:17 2016	ST PVT 1456 Aladeen was killed by Entity [574][aat] with a aat
+Thu Jul  7 22:21:19 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610) spawned
+Thu Jul  7 22:21:42 2016	MED REG COMM Ethan (STEAM_0:1:72945201): 
+Thu Jul  7 22:21:49 2016	MED REG COMM Ethan (STEAM_0:1:72945201): 
+Thu Jul  7 22:21:51 2016	ST PVT 2410 Roy (STEAM_0:1:87936506): /ooc can i have a ship?
+Thu Jul  7 22:21:52 2016	MED REG COMM Ethan (STEAM_0:1:72945201): 
+Thu Jul  7 22:21:58 2016	REBEL REN (STEAM_0:1:165468783): 
+Thu Jul  7 22:22:01 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp roy
+Thu Jul  7 22:22:02 2016	MED REG COMM Ethan (STEAM_0:1:72945201) spawned SENT speeder_bike
+Thu Jul  7 22:22:10 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // i am calling this event off
+Thu Jul  7 22:22:14 2016	Stealth Bot (STEAM_0:1:90211140): /advert Everyone to starting area NOW
+Thu Jul  7 22:22:21 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): // lets go back to the star destroyer
+Thu Jul  7 22:22:39 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !resetmap
+Thu Jul  7 22:22:48 2016	REBEL REN (STEAM_0:1:165468783) spawned SENT speeder_bike
+Thu Jul  7 22:22:49 2016	REBEL REN (STEAM_0:1:165468783) spawned SENT speeder_bike
+Thu Jul  7 22:22:51 2016	REBEL REN (STEAM_0:1:165468783) spawned SENT speeder_bike
+Thu Jul  7 22:23:02 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /me strips weapons and comms
+Thu Jul  7 22:23:21 2016	REBEL REN (STEAM_0:1:165468783): /name Bobba Ren
+Thu Jul  7 22:23:32 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): // you will all be trained when we go to the next map. ok?
+Thu Jul  7 22:23:53 2016	ST PVT 1456 Aladeen was killed by Stealth Bot with a weapon_laserpistol
+Thu Jul  7 22:23:54 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610) spawned
+Thu Jul  7 22:23:56 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /advert rebels get to ru bloody spots
+Thu Jul  7 22:23:59 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // ur*
+Thu Jul  7 22:24:08 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /advert Starting in 30 secs
+Thu Jul  7 22:24:23 2016	Bobba Ren (STEAM_0:1:165468783): !tp sloth
+Thu Jul  7 22:24:28 2016	Bobba Ren (STEAM_0:1:165468783): !tp duck
+Thu Jul  7 22:24:32 2016	Bobba Ren (STEAM_0:1:165468783) spawned SENT speeder_bike
+Thu Jul  7 22:24:33 2016	Bobba Ren (STEAM_0:1:165468783) spawned SENT speeder_bike
+Thu Jul  7 22:24:34 2016	Bobba Ren (STEAM_0:1:165468783) spawned SENT speeder_bike
+Thu Jul  7 22:24:40 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /advert start
+Thu Jul  7 22:24:57 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !hp ^ 650
+Thu Jul  7 22:25:30 2016	MED PFC 2109 Finnerd was killed by Entity [0][worldspawn] with a unknown
+Thu Jul  7 22:25:31 2016	Stealth Bot (STEAM_0:1:90211140): /name HOOK
+Thu Jul  7 22:25:32 2016	ST PVT 1456 Aladeen was killed by Entity [0][worldspawn] with a unknown
+Thu Jul  7 22:25:33 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138) spawned
+Thu Jul  7 22:25:33 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610) spawned
+Thu Jul  7 22:25:57 2016	OperationWaffles (STEAM_0:1:64526417) has joined the game
+Thu Jul  7 22:25:57 2016	ST REG COMM Operationwaffles (STEAM_0:1:64526417) spawned
+Thu Jul  7 22:26:18 2016	ST PVT 2410 Roy (STEAM_0:1:87936506): /ooc out of ammo help
+Thu Jul  7 22:26:19 2016	MED PFC 2109 Finnerd was killed by Himself with a suicide trick
+Thu Jul  7 22:26:21 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138) spawned
+Thu Jul  7 22:26:23 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // U GAVE THEN GRAPPLING HOOKS?
+Thu Jul  7 22:26:27 2016	MED REG COMM Ethan (STEAM_0:1:72945201): / /them*
+Thu Jul  7 22:26:29 2016	MED REG COMM Ethan (STEAM_0:1:72945201): / /them*
+Thu Jul  7 22:26:32 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // them*
+Thu Jul  7 22:26:33 2016	ST REG COMM Operationwaffles (STEAM_0:1:64526417) spawned
+Thu Jul  7 22:26:37 2016	Bobba Ren (STEAM_0:1:165468783): /ooc no they aready have them
+Thu Jul  7 22:26:39 2016	ST PVT 2410 Roy was killed by Entity [0][worldspawn] with a unknown
+Thu Jul  7 22:26:41 2016	Rebel  Sloth (STEAM_0:1:88690147): // it comes with the job
+Thu Jul  7 22:26:41 2016	ST PVT 2410 Roy (STEAM_0:1:87936506) spawned
+Thu Jul  7 22:26:58 2016	ST PVT 2410 Roy (STEAM_0:1:87936506): 
+Thu Jul  7 22:27:01 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // WELP
+Thu Jul  7 22:27:05 2016	Bobba Ren (STEAM_0:1:165468783): !tp du
+Thu Jul  7 22:27:06 2016	MED REG COMM Ethan (STEAM_0:1:72945201): / /dont use them in this map
+Thu Jul  7 22:27:08 2016	Bobba Ren (STEAM_0:1:165468783) spawned SENT wt_rocketboots_remover
+Thu Jul  7 22:27:09 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // do not use them
+Thu Jul  7 22:27:10 2016	Bobba Ren (STEAM_0:1:165468783) spawned SENT wt_rocketboots_remover
+Thu Jul  7 22:27:18 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // when its on the star destroyer is ok
+Thu Jul  7 22:27:19 2016	Bobba Ren (STEAM_0:1:165468783): !return du
+Thu Jul  7 22:27:21 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // not on here
+Thu Jul  7 22:27:33 2016	Bobba Ren (STEAM_0:1:165468783): !tp op
+Thu Jul  7 22:27:42 2016	ST PVT 2410 Roy (STEAM_0:1:87936506): /ooc where i need to be?
+Thu Jul  7 22:27:42 2016	ST PVT 1763 Person was killed by ST PVT 1456 Aladeen with a weapon_752bf3_e11
+Thu Jul  7 22:27:43 2016	MED PFC 2109 Finnerd was killed by Rebel Duck with a weapon_752bf3_a280
+Thu Jul  7 22:27:45 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138) spawned
+Thu Jul  7 22:27:46 2016	SHDT COL 0512 Shrimp was killed by Rebel Duck with a weapon_752bf3_a280
+Thu Jul  7 22:27:48 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841) spawned
+Thu Jul  7 22:27:48 2016	ST PVT 1763 Person (STEAM_0:0:63975104) spawned
+Thu Jul  7 22:27:56 2016	HOOK (STEAM_0:1:90211140): !hp Duck 1000
+Thu Jul  7 22:27:59 2016	ST PVT 1456 Aladeen was killed by ST PVT 2410 Roy with a weapon_752bf3_e11
+Thu Jul  7 22:28:01 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610) spawned
+Thu Jul  7 22:28:06 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp ala
+Thu Jul  7 22:28:07 2016	ST REG COMM Operationwaffles (STEAM_0:1:64526417): /ooc stop ffs
+Thu Jul  7 22:28:09 2016	MED PFC 2109 Finnerd was killed by Rebel Duck with a weapon_752bf3_a280
+Thu Jul  7 22:28:11 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !bring ala
+Thu Jul  7 22:28:11 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138) spawned
+Thu Jul  7 22:28:23 2016	ST PVT 1763 Person was killed by Rebel  Sloth with a weapon_752bf3_a280
+Thu Jul  7 22:28:27 2016	ST PVT 1763 Person (STEAM_0:0:63975104) spawned
+Thu Jul  7 22:28:59 2016	ST PVT 1763 Person was killed by Rebel  Sloth with a weapon_752bf3_a280
+Thu Jul  7 22:29:03 2016	ST PVT 1763 Person (STEAM_0:0:63975104) spawned
+Thu Jul  7 22:29:07 2016	ST PVT 1456 Aladeen was killed by Bobba Ren with a weapon_752bf3_a280
+Thu Jul  7 22:29:08 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610) spawned
+Thu Jul  7 22:29:18 2016	ST PVT 1763 Person was killed by ST PVT 1456 Aladeen with a weapon_752bf3_e11
+Thu Jul  7 22:29:23 2016	ST PVT 1763 Person (STEAM_0:0:63975104) spawned
+Thu Jul  7 22:29:35 2016	Bobba Ren was killed by SHDT COL 0512 Shrimp with a weapon_752bf3_dh17
+Thu Jul  7 22:29:39 2016	MED REG COMM Ethan (STEAM_0:1:72945201): / /one down
+Thu Jul  7 22:29:40 2016	Bobba Ren (STEAM_0:1:165468783): lol
+Thu Jul  7 22:29:41 2016	Bobba Ren (STEAM_0:1:165468783) spawned
+Thu Jul  7 22:29:42 2016	ST PVT 1763 Person was killed by ST PVT 1456 Aladeen with a weapon_752bf3_dh17
+Thu Jul  7 22:29:42 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // one is down
+Thu Jul  7 22:29:48 2016	ST PVT 1763 Person (STEAM_0:0:63975104): // RDM TWICEW
+Thu Jul  7 22:29:48 2016	ST PVT 1763 Person (STEAM_0:0:63975104) spawned
+Thu Jul  7 22:29:54 2016	Bobba Ren (STEAM_0:1:165468783) spawned
+Thu Jul  7 22:29:59 2016	Bobba Ren (STEAM_0:1:165468783) spawned SENT wt_rocketboots
+Thu Jul  7 22:30:05 2016	ST REG COMM Operationwaffles was killed by Rebel  Sloth with a weapon_752bf3_a280
+Thu Jul  7 22:30:06 2016	Bobba Ren (STEAM_0:1:165468783): !goto ethan
+Thu Jul  7 22:30:09 2016	ST REG COMM Operationwaffles (STEAM_0:1:64526417) spawned
+Thu Jul  7 22:30:26 2016	ST PVT 1763 Person was killed by Rebel Duck with a weapon_752bf3_a280
+Thu Jul  7 22:30:28 2016	ST PVT 1763 Person (STEAM_0:0:63975104) spawned
+Thu Jul  7 22:30:30 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !hp roy 100
+Thu Jul  7 22:30:42 2016	Bobba Ren (STEAM_0:1:165468783): !hp ren 500
+Thu Jul  7 22:31:13 2016	Bobba Ren was killed by ST PVT 1456 Aladeen with a weapon_752bf3_dh17
+Thu Jul  7 22:31:30 2016	Bobba Ren (STEAM_0:1:165468783) spawned
+Thu Jul  7 22:31:39 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // one rebel elft right?
+Thu Jul  7 22:31:50 2016	HOOK (STEAM_0:1:90211140): !hp Sloth 1000
+Thu Jul  7 22:32:07 2016	Bobba Ren (STEAM_0:1:165468783): /ooc I am on the Inperial Side.
+Thu Jul  7 22:32:11 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !hp ^ 400
+Thu Jul  7 22:32:25 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // we stole LightSabers
+Thu Jul  7 22:32:33 2016	ST PVT 1456 Aladeen was killed by ST PVT 1763 Person with a weapon_lightsaber
+Thu Jul  7 22:32:34 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610) spawned
+Thu Jul  7 22:32:38 2016	SHDT COL 0512 Shrimp was killed by Rebel  Sloth with a weapon_752bf3_a280
+Thu Jul  7 22:32:38 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !hp ^ 500
+Thu Jul  7 22:32:39 2016	ST PVT 1763 Person was killed by ST PVT 1456 Aladeen with a weapon_752bf3_e11
+Thu Jul  7 22:32:41 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841) spawned
+Thu Jul  7 22:32:41 2016	ST PVT 1763 Person (STEAM_0:0:63975104) spawned
+Thu Jul  7 22:32:41 2016	MED PFC 2109 Finnerd was killed by Rebel Duck with a weapon_752bf3_a280
+Thu Jul  7 22:32:43 2016	ST REG COMM Operationwaffles was killed by Rebel  Sloth with a weapon_752bf3_a280
+Thu Jul  7 22:32:44 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138) spawned
+Thu Jul  7 22:32:50 2016	ST PVT 1456 Aladeen was killed by SHDT COL 0512 Shrimp with a weapon_752bf3_t21
+Thu Jul  7 22:32:51 2016	ST PVT 1456 Aladeen (STEAM_0:1:27652610) spawned
+Thu Jul  7 22:32:53 2016	Rebel  Sloth was killed by Himself with a suicide trick
+Thu Jul  7 22:32:55 2016	ST REG COMM Operationwaffles (STEAM_0:1:64526417) spawned
+Thu Jul  7 22:32:56 2016	Rebel  Sloth (STEAM_0:1:88690147) spawned
+Thu Jul  7 22:33:27 2016	ST PVT 1763 Person was killed by ST PVT 1456 Aladeen with a weapon_752bf3_dh17
+Thu Jul  7 22:33:34 2016	ST PVT 1763 Person (STEAM_0:0:63975104) spawned
+Thu Jul  7 22:33:35 2016	Bobba Ren (STEAM_0:1:165468783): !goto ethan
+Thu Jul  7 22:33:43 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !strip *
+Thu Jul  7 22:33:48 2016	Bobba Ren (STEAM_0:1:165468783): they all have lightsabers
+Thu Jul  7 22:33:51 2016	ST PVT 2410 Roy (STEAM_0:1:87936506): /ooc 
+Thu Jul  7 22:34:14 2016	MED REG COMM Ethan (STEAM_0:1:72945201): / /event over
+Thu Jul  7 22:34:15 2016	HOOK (STEAM_0:1:90211140): !menu
+Thu Jul  7 22:34:17 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // event over
+Thu Jul  7 22:34:21 2016	Bobba Ren (STEAM_0:1:165468783): okay it's gone to far

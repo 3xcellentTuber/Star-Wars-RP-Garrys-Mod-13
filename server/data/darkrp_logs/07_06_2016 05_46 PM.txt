@@ -1,0 +1,31 @@
+Wed Jul  6 17:46:26 2016	Ethan (STEAM_0:1:72945201) has joined the game
+Wed Jul  6 17:46:26 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 17:46:37 2016	Ethan (STEAM_0:1:72945201): 
+Wed Jul  6 17:47:15 2016	Ethan (STEAM_0:1:72945201): .
+Wed Jul  6 17:48:13 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 17:48:21 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 17:48:53 2016	Ethan (STEAM_0:1:72945201): /setwarp HBRailWay
+Wed Jul  6 17:48:58 2016	Ethan (STEAM_0:1:72945201): /warp
+Wed Jul  6 17:49:39 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 17:50:27 2016	Ethan (STEAM_0:1:72945201): /setspawn aod
+Wed Jul  6 17:50:51 2016	Ethan was killed by Himself with a suicide trick
+Wed Jul  6 17:50:52 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 17:53:23 2016	Ethan (STEAM_0:1:72945201): !model ^ models/player/combine_super_soldier.mdl
+Wed Jul  6 17:53:43 2016	Ethan (STEAM_0:1:72945201): 
+Wed Jul  6 17:54:00 2016	Ethan (STEAM_0:1:72945201): 
+Wed Jul  6 17:54:20 2016	[RG] NievAchieve (STEAM_0:1:79001790) has joined the game
+Wed Jul  6 17:54:20 2016	Horsie (STEAM_0:1:79001790) spawned
+Wed Jul  6 17:54:50 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 17:54:55 2016	Ethan (STEAM_0:1:72945201): !goto hor
+Wed Jul  6 17:54:58 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 17:55:10 2016	Ethan (STEAM_0:1:72945201): 
+Wed Jul  6 17:55:26 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 17:55:29 2016	Horsie (STEAM_0:1:79001790): !noclip
+Wed Jul  6 17:55:47 2016	Ethan (STEAM_0:1:72945201): bind v "ulx noclip"
+Wed Jul  6 17:55:51 2016	Horsie (STEAM_0:1:79001790): /name Darth Sol
+Wed Jul  6 17:56:24 2016	Ethan (STEAM_0:1:72945201): bind key ulogs
+Wed Jul  6 17:56:46 2016	Darth Sol (STEAM_0:1:79001790): /me at ease trooper your respect have been noticed
+Wed Jul  6 17:58:42 2016	Darth Sol (STEAM_0:1:79001790) spawned
+Wed Jul  6 18:01:08 2016	Ethan (STEAM_0:1:72945201): !mapreset
+Wed Jul  6 18:01:14 2016	Ethan (STEAM_0:1:72945201): !resetmap
+Wed Jul  6 18:01:21 2016	Ethan (STEAM_0:1:72945201): !maprestart

@@ -1,0 +1,1001 @@
+Wed Jul  6 20:36:20 2016	Roy (STEAM_0:1:87936506) has joined the game
+Wed Jul  6 20:36:20 2016	Roy (STEAM_0:1:87936506) spawned
+Wed Jul  6 20:36:24 2016	Benji (STEAM_0:1:81357128) has joined the game
+Wed Jul  6 20:36:24 2016	TP Reg Commander Benji (STEAM_0:1:81357128) spawned
+Wed Jul  6 20:36:26 2016	[RG] NievAchieve (STEAM_0:1:79001790) has joined the game
+Wed Jul  6 20:36:26 2016	212th REG Commander Cody (STEAM_0:1:79001790) spawned
+Wed Jul  6 20:36:31 2016	Ethan (STEAM_0:1:72945201) has joined the game
+Wed Jul  6 20:36:31 2016	Ethan Is Building (STEAM_0:1:72945201) spawned
+Wed Jul  6 20:36:44 2016	Roy (STEAM_0:1:87936506): how
+Wed Jul  6 20:36:46 2016	Roy (STEAM_0:1:87936506): i 
+Wed Jul  6 20:36:54 2016	Roy (STEAM_0:1:87936506): download errors
+Wed Jul  6 20:37:25 2016	Roy (STEAM_0:1:87936506): how to download errors!!!!
+Wed Jul  6 20:37:39 2016	Roy (STEAM_0:1:87936506): !modt
+Wed Jul  6 20:38:00 2016	Roy (STEAM_0:1:87936506) disconnected
+Wed Jul  6 20:38:11 2016	Ethan Is Building was killed by NPC [579][npc_manhack] with a npc_manhack
+Wed Jul  6 20:38:16 2016	Ethan Is Building (STEAM_0:1:72945201): // well
+Wed Jul  6 20:38:20 2016	Ethan Is Building (STEAM_0:1:72945201) spawned
+Wed Jul  6 20:38:28 2016	Ethan Is Building (STEAM_0:1:72945201) spawned
+Wed Jul  6 20:38:52 2016	Ethan Is Building (STEAM_0:1:72945201): // brb
+Wed Jul  6 20:40:12 2016	212th REG Commander Cody was killed by NPC [541][npc_manhack] with a npc_manhack
+Wed Jul  6 20:40:18 2016	212th REG Commander Cody (STEAM_0:1:79001790) spawned
+Wed Jul  6 20:40:26 2016	Roy (STEAM_0:1:87936506) has joined the game
+Wed Jul  6 20:40:26 2016	Roy (STEAM_0:1:87936506) spawned
+Wed Jul  6 20:40:57 2016	Roy was killed by NPC [692][npc_manhack] with a npc_manhack
+Wed Jul  6 20:40:58 2016	Roy (STEAM_0:1:87936506): 
+Wed Jul  6 20:40:59 2016	Roy (STEAM_0:1:87936506) spawned
+Wed Jul  6 20:41:07 2016	Roy (STEAM_0:1:87936506): 
+Wed Jul  6 20:41:11 2016	TP Reg Commander Benji was killed by NPC [687][npc_manhack] with a npc_manhack
+Wed Jul  6 20:41:24 2016	Roy was killed by NPC [648][npc_manhack] with a npc_manhack
+Wed Jul  6 20:41:25 2016	Roy (STEAM_0:1:87936506) spawned
+Wed Jul  6 20:42:03 2016	Roy (STEAM_0:1:87936506): 
+Wed Jul  6 20:42:08 2016	Ethan Is Building (STEAM_0:1:72945201): !goto ro
+Wed Jul  6 20:42:13 2016	Roy (STEAM_0:1:87936506): help
+Wed Jul  6 20:42:17 2016	Ethan Is Building (STEAM_0:1:72945201): !resetmap
+Wed Jul  6 20:42:23 2016	Ethan Is Building (STEAM_0:1:72945201): 
+Wed Jul  6 20:42:28 2016	Roy (STEAM_0:1:87936506): admin how to download all errors
+Wed Jul  6 20:42:42 2016	Ethan Is Building (STEAM_0:1:72945201): http://steamcommunity.com/sharedfiles/filedetails/?id=675039044
+Wed Jul  6 20:42:52 2016	Roy (STEAM_0:1:87936506): ok
+Wed Jul  6 20:42:54 2016	Roy (STEAM_0:1:87936506): and?
+Wed Jul  6 20:43:13 2016	Mad Dog (STEAM_0:0:88602651) has joined the game
+Wed Jul  6 20:43:13 2016	ST PVT 1923 mad dog (STEAM_0:0:88602651) spawned
+Wed Jul  6 20:43:25 2016	Roy (STEAM_0:1:87936506): ok
+Wed Jul  6 20:43:33 2016	Roy (STEAM_0:1:87936506): that was wierd
+Wed Jul  6 20:43:47 2016	Ethan Is Building (STEAM_0:1:72945201): !ftp cod
+Wed Jul  6 20:43:52 2016	212th REG Commander Cody was killed by Himself with a suicide trick
+Wed Jul  6 20:43:52 2016	Ethan Is Building (STEAM_0:1:72945201): !explode cod
+Wed Jul  6 20:43:59 2016	Ethan Is Building (STEAM_0:1:72945201): !unfreeze cod
+Wed Jul  6 20:44:05 2016	Ethan Is Building (STEAM_0:1:72945201): !resetmap
+Wed Jul  6 20:44:09 2016	212th REG Commander Cody (STEAM_0:1:79001790) spawned
+Wed Jul  6 20:44:30 2016	Roy (STEAM_0:1:87936506): 
+Wed Jul  6 20:44:43 2016	Fyllex [PL] (STEAM_0:1:61012606) has joined the game
+Wed Jul  6 20:44:43 2016	ST PVT 1337 PinkiePie (STEAM_0:1:61012606) spawned
+Wed Jul  6 20:44:45 2016	Ethan Is Building (STEAM_0:1:72945201): !goto cod
+Wed Jul  6 20:45:04 2016	Ethan Is Building (STEAM_0:1:72945201): !resetmap
+Wed Jul  6 20:45:27 2016	Ethan Is Building (STEAM_0:1:72945201): !resetmap
+Wed Jul  6 20:45:38 2016	Ethan Is Building was killed by Himself with a suicide trick
+Wed Jul  6 20:45:39 2016	Ethan Is Building (STEAM_0:1:72945201) spawned
+Wed Jul  6 20:45:47 2016	Ethan Is Building (STEAM_0:1:72945201): 
+Wed Jul  6 20:45:58 2016	Ethan Is Building (STEAM_0:1:72945201): !tp roy
+Wed Jul  6 20:46:12 2016	Ethan Is Building (STEAM_0:1:72945201): hello?
+Wed Jul  6 20:46:17 2016	Ethan Is Building (STEAM_0:1:72945201): can you hear me
+Wed Jul  6 20:46:25 2016	Ethan Is Building (STEAM_0:1:72945201): /name MED REG COMM Ethan
+Wed Jul  6 20:46:50 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !goto cod
+Wed Jul  6 20:46:56 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // wtf are you doing?
+Wed Jul  6 20:46:57 2016	ST PVT 1337 PinkiePie was killed by NPC [1909][npc_manhack] with a npc_manhack
+Wed Jul  6 20:46:58 2016	Roy (STEAM_0:1:87936506) disconnected
+Wed Jul  6 20:46:59 2016	L1K34PRO (STEAM_0:0:113721067) has joined the game
+Wed Jul  6 20:46:59 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Wed Jul  6 20:47:02 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !reset map
+Wed Jul  6 20:47:05 2016	MED REG COMM Ethan was killed by NPC [1925][npc_manhack] with a npc_manhack
+Wed Jul  6 20:47:05 2016	ST PVT 1337 PinkiePie (STEAM_0:1:61012606) spawned
+Wed Jul  6 20:47:10 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !resetmap
+Wed Jul  6 20:47:16 2016	212th REG Commander Cody was killed by Himself with a suicide trick
+Wed Jul  6 20:47:16 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !explode cod
+Wed Jul  6 20:47:17 2016	MED REG COMM Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 20:47:19 2016	212th REG Commander Cody (STEAM_0:1:79001790) spawned
+Wed Jul  6 20:47:38 2016	212th REG Commander Cody was killed by MED REG COMM Ethan with a stunstick
+Wed Jul  6 20:47:40 2016	212th REG Commander Cody (STEAM_0:1:79001790) spawned
+Wed Jul  6 20:48:09 2016	ST PVT 1923 mad dog (STEAM_0:0:88602651): /name ST PVT 1923 mad dog
+Wed Jul  6 20:48:29 2016	ST PVT 1923 mad dog (STEAM_0:0:88602651): i
+Wed Jul  6 20:49:01 2016	ST PVT 1923 mad dog (STEAM_0:0:88602651): /name ST PVT 1234 MAD DOG
+Wed Jul  6 20:49:04 2016	ST PVT 1337 PinkiePie (STEAM_0:1:61012606) spawned
+Wed Jul  6 20:49:08 2016	ST PVT 1234 MAD DOG (STEAM_0:0:88602651): YES
+Wed Jul  6 20:49:31 2016	ST PVT 1234 MAD DOG (STEAM_0:0:88602651): ok
+Wed Jul  6 20:49:48 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // XD
+Wed Jul  6 20:50:09 2016	ST PVT 1234 MAD DOG (STEAM_0:0:88602651): what?
+Wed Jul  6 20:50:12 2016	212th REG Commander Cody (STEAM_0:1:79001790): /name Adolf
+Wed Jul  6 20:50:17 2016	ST PVT 1234 MAD DOG (STEAM_0:0:88602651): yes
+Wed Jul  6 20:50:35 2016	Adolf (STEAM_0:1:79001790): /name Arnold Schwarzenegger
+Wed Jul  6 20:50:48 2016	ST PVT 1234 MAD DOG (STEAM_0:0:88602651): i dident undersantd the orders
+Wed Jul  6 20:51:00 2016	ST PVT 1234 MAD DOG (STEAM_0:0:88602651): how to do the faces
+Wed Jul  6 20:51:03 2016	ST PVT 1234 MAD DOG (STEAM_0:0:88602651): no
+Wed Jul  6 20:51:08 2016	MED REG COMM Ethan (STEAM_0:1:72945201): http://steamcommunity.com/sharedfiles/filedetails/?id=675039044
+Wed Jul  6 20:51:15 2016	ST PVT 1234 MAD DOG (STEAM_0:0:88602651): it says error
+Wed Jul  6 20:51:21 2016	MED REG COMM Ethan (STEAM_0:1:72945201): http://steamcommunity.com/sharedfiles/filedetails/?id=675039044
+Wed Jul  6 20:51:24 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067): hey Ethan
+Wed Jul  6 20:51:25 2016	ST PVT 1234 MAD DOG (STEAM_0:0:88602651): ok
+Wed Jul  6 20:51:43 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Wed Jul  6 20:51:48 2016	ST PVT 1234 MAD DOG (STEAM_0:0:88602651): ok
+Wed Jul  6 20:51:55 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067): omg my lagg
+Wed Jul  6 20:51:57 2016	ST PVT 1234 MAD DOG (STEAM_0:0:88602651) disconnected
+Wed Jul  6 20:52:45 2016	ST PVT 1337 PinkiePie was killed by Himself with a suicide trick
+Wed Jul  6 20:52:51 2016	ST PVT 1337 PinkiePie (STEAM_0:1:61012606) spawned
+Wed Jul  6 20:53:36 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067): hey
+Wed Jul  6 20:53:48 2016	Arnold Schwarzenegger (STEAM_0:1:79001790): /name Radio from other Galaxy
+Wed Jul  6 20:53:49 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067): do i have a pts?
+Wed Jul  6 20:54:11 2016	Radio from other Galaxy (STEAM_0:1:79001790): /name PC from other Galaxy
+Wed Jul  6 20:54:24 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067): Ethan can i have pts pls
+Wed Jul  6 20:54:30 2016	PC from other Galaxy was killed by ST PVT 1337 PinkiePie with a weapon_752bf3_e11
+Wed Jul  6 20:54:32 2016	PC from other Galaxy (STEAM_0:1:79001790) spawned
+Wed Jul  6 20:54:43 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !cleardecals
+Wed Jul  6 20:54:43 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067): hey
+Wed Jul  6 20:55:00 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067): so can i have pls pts
+Wed Jul  6 20:55:03 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !cleardecals
+Wed Jul  6 20:55:07 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !hp * 500
+Wed Jul  6 20:55:15 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !hp ^ 650
+Wed Jul  6 20:55:42 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !goto ben
+Wed Jul  6 20:55:48 2016	TP Reg Commander Benji (STEAM_0:1:81357128) spawned
+Wed Jul  6 20:55:48 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !forcerespawn ben
+Wed Jul  6 20:55:51 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !goto ben
+Wed Jul  6 20:56:07 2016	TP Reg Commander Benji (STEAM_0:1:81357128) spawned
+Wed Jul  6 20:56:07 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !forcerespawn ben
+Wed Jul  6 20:56:56 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067): omg vannos gaming :D
+Wed Jul  6 20:57:13 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067): lol i know this vid XD
+Wed Jul  6 20:57:26 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067): \
+Wed Jul  6 20:57:37 2016	ST PVT 1337 PinkiePie (STEAM_0:1:61012606): Allachu akbbar!
+Wed Jul  6 20:57:39 2016	ST PVT 1337 PinkiePie was killed by Himself with a suicide trick
+Wed Jul  6 20:57:42 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !scale * 0.5
+Wed Jul  6 20:57:46 2016	ST PVT 1337 PinkiePie (STEAM_0:1:61012606) spawned
+Wed Jul  6 20:58:13 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /me hails
+Wed Jul  6 20:58:25 2016	PC from other Galaxy (STEAM_0:1:79001790): /name Adolf Hitler
+Wed Jul  6 20:58:42 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067): im'm done
+Wed Jul  6 20:58:44 2016	MED REG COMM Ethan was killed by Himself with a suicide trick
+Wed Jul  6 20:58:48 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067): i'm so done
+Wed Jul  6 20:58:48 2016	MED REG COMM Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 20:58:53 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !scale* 1
+Wed Jul  6 20:58:57 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !scale * 1
+Wed Jul  6 20:59:10 2016	ST PVT 1337 PinkiePie (STEAM_0:1:61012606): /me seig heil
+Wed Jul  6 20:59:37 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !ftp hitl
+Wed Jul  6 20:59:45 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !unfreeze hitl
+Wed Jul  6 20:59:48 2016	Adolf Hitler was killed by MED REG COMM Ethan with a weapon_752bf3_t21
+Wed Jul  6 20:59:48 2016	Коля174 (STEAM_0:0:172467139) has joined the game
+Wed Jul  6 20:59:48 2016	Коля174 (STEAM_0:0:172467139) spawned
+Wed Jul  6 20:59:50 2016	Adolf Hitler (STEAM_0:1:79001790) spawned
+Wed Jul  6 20:59:53 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !cleardecals
+Wed Jul  6 20:59:57 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp l1k
+Wed Jul  6 20:59:57 2016	ST PVT 1337 PinkiePie was killed by Adolf Hitler with a weapon_laserpistol
+Wed Jul  6 21:00:02 2016	ST PVT 1337 PinkiePie (STEAM_0:1:61012606) spawned
+Wed Jul  6 21:00:17 2016	ST PVT 1234 L1K34PR0 was killed by Adolf Hitler with a weapon_laserpistol
+Wed Jul  6 21:00:19 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Wed Jul  6 21:00:21 2016	Adolf Hitler was killed by MED REG COMM Ethan with a weapon_752bf3_dh17
+Wed Jul  6 21:00:22 2016	Adolf Hitler (STEAM_0:1:79001790) spawned
+Wed Jul  6 21:00:28 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !cleardecals
+Wed Jul  6 21:00:34 2016	Коля174 was killed by Adolf Hitler with a weapon_lasersmg
+Wed Jul  6 21:00:43 2016	Коля174 (STEAM_0:0:172467139) spawned
+Wed Jul  6 21:00:45 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !ss
+Wed Jul  6 21:00:49 2016	MED REG COMM Ethan was killed by Himself with a suicide trick
+Wed Jul  6 21:00:49 2016	Adolf Hitler was killed by Himself with a suicide trick
+Wed Jul  6 21:00:49 2016	Коля174 was killed by Himself with a suicide trick
+Wed Jul  6 21:00:49 2016	TP Reg Commander Benji was killed by Himself with a suicide trick
+Wed Jul  6 21:00:49 2016	ST PVT 1337 PinkiePie was killed by Himself with a suicide trick
+Wed Jul  6 21:00:49 2016	ST PVT 1234 L1K34PR0 was killed by Himself with a suicide trick
+Wed Jul  6 21:00:49 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !explode *
+Wed Jul  6 21:00:50 2016	MED REG COMM Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 21:00:52 2016	Коля174 (STEAM_0:0:172467139) spawned
+Wed Jul  6 21:00:52 2016	Adolf Hitler (STEAM_0:1:79001790) spawned
+Wed Jul  6 21:00:52 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !ss
+Wed Jul  6 21:00:52 2016	ST PVT 1337 PinkiePie (STEAM_0:1:61012606) spawned
+Wed Jul  6 21:00:55 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067): wooooooooooooooooooooooooooot
+Wed Jul  6 21:00:56 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Wed Jul  6 21:00:56 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !cleardecals
+Wed Jul  6 21:01:29 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !model ^ models/hitler.mdl
+Wed Jul  6 21:01:51 2016	MED REG COMM Ethan was killed by Himself with a suicide trick
+Wed Jul  6 21:01:52 2016	MED REG COMM Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 21:02:21 2016	Adolf Hitler was killed by Himself with a suicide trick
+Wed Jul  6 21:02:22 2016	Adolf Hitler (STEAM_0:1:79001790) spawned
+Wed Jul  6 21:02:33 2016	Коля174 was killed by Entity [321][func_door] with a func_door
+Wed Jul  6 21:02:36 2016	Коля174 (STEAM_0:0:172467139) spawned
+Wed Jul  6 21:02:41 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !cloak
+Wed Jul  6 21:02:45 2016	Adolf Hitler was killed by ST PVT 1337 PinkiePie with a weapon_752bf3_dh17
+Wed Jul  6 21:02:56 2016	Adolf Hitler (STEAM_0:1:79001790) spawned
+Wed Jul  6 21:03:04 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !uncloak
+Wed Jul  6 21:03:15 2016	Коля174 was killed by ST PVT 1234 L1K34PR0 with a weapon_752bf3_dh17
+Wed Jul  6 21:03:17 2016	Коля174 (STEAM_0:0:172467139) spawned
+Wed Jul  6 21:03:18 2016	Adolf Hitler (STEAM_0:1:79001790): /name Julian Hitler
+Wed Jul  6 21:03:20 2016	Коля174 (STEAM_0:0:172467139) disconnected
+Wed Jul  6 21:03:25 2016	Julian Hitler was killed by MED REG COMM Ethan with a weapon_752bf3_dh17
+Wed Jul  6 21:03:28 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !cleardecals
+Wed Jul  6 21:03:33 2016	Julian Hitler (STEAM_0:1:79001790) spawned
+Wed Jul  6 21:03:55 2016	Julian Hitler (STEAM_0:1:79001790): my real name
+Wed Jul  6 21:04:06 2016	ST PVT 1234 L1K34PR0 was killed by Julian Hitler with a weapon_laserpistol
+Wed Jul  6 21:04:08 2016	Julian Hitler was killed by MED REG COMM Ethan with a weapon_752bf3_t21
+Wed Jul  6 21:04:09 2016	Julian Hitler (STEAM_0:1:79001790) spawned
+Wed Jul  6 21:04:11 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Wed Jul  6 21:04:13 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !cleardecals
+Wed Jul  6 21:04:15 2016	Julian Hitler was killed by ST PVT 1337 PinkiePie with a weapon_752bf3_e11
+Wed Jul  6 21:04:16 2016	Julian Hitler (STEAM_0:1:79001790) spawned
+Wed Jul  6 21:04:19 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !warn jul WANKER
+Wed Jul  6 21:04:27 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp l1
+Wed Jul  6 21:04:36 2016	Roy (STEAM_0:1:87936506) has joined the game
+Wed Jul  6 21:04:36 2016	Roy (STEAM_0:1:87936506) spawned
+Wed Jul  6 21:04:49 2016	Julian Hitler (STEAM_0:1:79001790): !warn
+Wed Jul  6 21:04:55 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !cleardecals
+Wed Jul  6 21:04:59 2016	Julian Hitler was killed by Himself with a suicide trick
+Wed Jul  6 21:05:01 2016	Julian Hitler (STEAM_0:1:79001790) spawned
+Wed Jul  6 21:05:20 2016	ST PVT 1337 PinkiePie (STEAM_0:1:61012606): ibrb
+Wed Jul  6 21:05:26 2016	ST PVT 1337 PinkiePie (STEAM_0:1:61012606): i brb
+Wed Jul  6 21:05:32 2016	Roy (STEAM_0:1:87936506): cant hear
+Wed Jul  6 21:05:34 2016	Roy (STEAM_0:1:87936506): you
+Wed Jul  6 21:05:53 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067): i'll train you for this server ok roy?
+Wed Jul  6 21:06:01 2016	Julian Hitler was killed by ST PVT 1337 PinkiePie with a weapon_752bf3_e11
+Wed Jul  6 21:06:02 2016	Julian Hitler (STEAM_0:1:79001790) spawned
+Wed Jul  6 21:06:03 2016	ST PVT 1337 PinkiePie was killed by MED REG COMM Ethan with a weapon_752bf3_t21
+Wed Jul  6 21:06:07 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !cleardecals
+Wed Jul  6 21:06:08 2016	ST PVT 1337 PinkiePie (STEAM_0:1:61012606) spawned
+Wed Jul  6 21:06:09 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067): ok so first follow me
+Wed Jul  6 21:06:37 2016	Julian Hitler was killed by MED REG COMM Ethan with a stunstick
+Wed Jul  6 21:06:47 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !cleardecals
+Wed Jul  6 21:06:52 2016	Roy (STEAM_0:1:87936506): wtf
+Wed Jul  6 21:06:53 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp jul
+Wed Jul  6 21:06:57 2016	Roy (STEAM_0:1:87936506): wtf is this server
+Wed Jul  6 21:07:07 2016	ST PVT 1337 PinkiePie (STEAM_0:1:61012606): /name ST PVT 6669 Józef Stalin
+Wed Jul  6 21:07:10 2016	Roy (STEAM_0:1:87936506): ok bye
+Wed Jul  6 21:07:11 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067): idk man
+Wed Jul  6 21:07:12 2016	Julian Hitler (STEAM_0:1:79001790) spawned
+Wed Jul  6 21:07:12 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !forcerespawn jul
+Wed Jul  6 21:07:16 2016	Roy was killed by Himself with a suicide trick
+Wed Jul  6 21:07:18 2016	Julian Hitler was killed by Himself with a suicide trick
+Wed Jul  6 21:07:19 2016	Roy (STEAM_0:1:87936506) spawned
+Wed Jul  6 21:07:20 2016	Julian Hitler (STEAM_0:1:79001790) spawned
+Wed Jul  6 21:07:21 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067): XD
+Wed Jul  6 21:07:25 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !ftp jul
+Wed Jul  6 21:07:31 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067): \
+Wed Jul  6 21:07:43 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067): ok so read this
+Wed Jul  6 21:07:44 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !unfreeze jul
+Wed Jul  6 21:08:06 2016	Roy (STEAM_0:1:87936506): /name ST PVT 2410 Yonatan
+Wed Jul  6 21:08:12 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067): ok good
+Wed Jul  6 21:08:41 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067): now the next thing you need to do is to memorise this
+Wed Jul  6 21:08:44 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): ya
+Wed Jul  6 21:09:38 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): ok now
+Wed Jul  6 21:09:52 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): /salute
+Wed Jul  6 21:10:01 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): /me slaute 
+Wed Jul  6 21:10:05 2016	ST PVT 6669 Józef Stalin (STEAM_0:1:61012606): /me seig heil
+Wed Jul  6 21:10:27 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067): /me jhon cena
+Wed Jul  6 21:10:33 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): how to stop it
+Wed Jul  6 21:10:35 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): sorry
+Wed Jul  6 21:10:43 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !'שרמ דאשךןמ 'שמלקר שד 'קךך
+Wed Jul  6 21:10:49 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067): /me is jhon cena
+Wed Jul  6 21:10:49 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !warn stalin wanker as well
+Wed Jul  6 21:11:53 2016	Julian Hitler was killed by ST PVT 6669 Józef Stalin with a weapon_752bf3_e11
+Wed Jul  6 21:12:02 2016	Julian Hitler (STEAM_0:1:79001790) spawned
+Wed Jul  6 21:12:17 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): /me slaute 
+Wed Jul  6 21:12:19 2016	Julian Hitler (STEAM_0:1:79001790): /name 212th REG Commander Cody
+Wed Jul  6 21:12:20 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): /me slaute 
+Wed Jul  6 21:12:23 2016	ST PVT 6669 Józef Stalin (STEAM_0:1:61012606): /me Salutuje
+Wed Jul  6 21:12:24 2016	ST PVT 6669 Józef Stalin (STEAM_0:1:61012606): /me salutes
+Wed Jul  6 21:12:26 2016	ST PVT 6669 Józef Stalin (STEAM_0:1:61012606): /me salutes
+Wed Jul  6 21:12:28 2016	ST PVT 6669 Józef Stalin (STEAM_0:1:61012606): Allachu akbbar!
+Wed Jul  6 21:12:30 2016	ST PVT 6669 Józef Stalin (STEAM_0:1:61012606): 
+Wed Jul  6 21:13:41 2016	212th REG Commander Cody was killed by MED REG COMM Ethan with a weapon_752bf3_dh17
+Wed Jul  6 21:13:42 2016	212th REG Commander Cody (STEAM_0:1:79001790) spawned
+Wed Jul  6 21:14:07 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !cleardecals
+Wed Jul  6 21:14:07 2016	ST PVT 1234 L1K34PR0 was killed by Himself with a suicide trick
+Wed Jul  6 21:14:09 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Wed Jul  6 21:14:25 2016	212th REG Commander Cody (STEAM_0:1:79001790) spawned
+Wed Jul  6 21:14:35 2016	212th REG Commander Cody was killed by MED REG COMM Ethan with a weapon_752bf3_t21
+Wed Jul  6 21:14:37 2016	212th REG Commander Cody (STEAM_0:1:79001790) spawned
+Wed Jul  6 21:14:40 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !cleardecals
+Wed Jul  6 21:15:14 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): /me slaute 
+Wed Jul  6 21:15:15 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): lol
+Wed Jul  6 21:15:20 2016	MED REG COMM Ethan (STEAM_0:1:72945201): "/me strips weapons and comms"
+Wed Jul  6 21:15:46 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): /me strips weapones and comms
+Wed Jul  6 21:15:52 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): taking long xD
+Wed Jul  6 21:15:53 2016	ST PVT 6669 Józef Stalin (STEAM_0:1:61012606): meDIC
+Wed Jul  6 21:15:59 2016	ST PVT 6669 Józef Stalin (STEAM_0:1:61012606): meDICK
+Wed Jul  6 21:16:03 2016	ST PVT 6669 Józef Stalin (STEAM_0:1:61012606): Allachu akbbar!
+Wed Jul  6 21:16:03 2016	ST PVT 6669 Józef Stalin was killed by Himself with a suicide trick
+Wed Jul  6 21:16:07 2016	ST PVT 1234 L1K34PR0 was killed by Himself with a suicide trick
+Wed Jul  6 21:16:09 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Wed Jul  6 21:16:12 2016	ST PVT 2410 Yonatan was killed by Himself with a suicide trick
+Wed Jul  6 21:16:14 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !warn stalin failRP
+Wed Jul  6 21:16:17 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506) spawned
+Wed Jul  6 21:16:19 2016	212th REG Commander Cody was killed by Entity [1425][env_explosion] with a env_explosion
+Wed Jul  6 21:16:22 2016	212th REG Commander Cody (STEAM_0:1:79001790) spawned
+Wed Jul  6 21:16:23 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !warn * failRP
+Wed Jul  6 21:16:30 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !cleardecals
+Wed Jul  6 21:16:33 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): wtf happening
+Wed Jul  6 21:16:53 2016	ST PVT 6669 Józef Stalin (STEAM_0:1:61012606) spawned
+Wed Jul  6 21:17:06 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp cod
+Wed Jul  6 21:17:14 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !goto yo
+Wed Jul  6 21:18:09 2016	ST PVT 6669 Józef Stalin (STEAM_0:1:61012606): /occ
+Wed Jul  6 21:18:16 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): i download all the errors :D
+Wed Jul  6 21:18:20 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): all thattime
+Wed Jul  6 21:18:29 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506) spawned
+Wed Jul  6 21:18:30 2016	ST PVT 6669 Józef Stalin was killed by Entity [0][worldspawn] with a unknown
+Wed Jul  6 21:18:32 2016	ST PVT 6669 Józef Stalin (STEAM_0:1:61012606) spawned
+Wed Jul  6 21:18:53 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !resetmap
+Wed Jul  6 21:19:05 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): 
+Wed Jul  6 21:19:11 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp yon
+Wed Jul  6 21:19:22 2016	212th REG Commander Cody was killed by Entity [0][worldspawn] with a unknown
+Wed Jul  6 21:19:22 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): what now>?
+Wed Jul  6 21:19:26 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): /me slaute 
+Wed Jul  6 21:19:29 2016	212th REG Commander Cody (STEAM_0:1:79001790): /name Keemstar
+Wed Jul  6 21:19:38 2016	Keemstar (STEAM_0:1:79001790): /name Killer Keemstar
+Wed Jul  6 21:19:39 2016	Killer Keemstar (STEAM_0:1:79001790) spawned
+Wed Jul  6 21:19:42 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): ya
+Wed Jul  6 21:20:27 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Wed Jul  6 21:20:38 2016	Killer Keemstar (STEAM_0:1:79001790) spawned
+Wed Jul  6 21:20:48 2016	ST PVT 6669 Józef Stalin (STEAM_0:1:61012606) spawned
+Wed Jul  6 21:20:55 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506) spawned
+Wed Jul  6 21:21:06 2016	Killer Keemstar (STEAM_0:1:79001790): /name Darth Sol
+Wed Jul  6 21:21:07 2016	Darth Sol (STEAM_0:1:79001790) spawned
+Wed Jul  6 21:21:09 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): 
+Wed Jul  6 21:21:13 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): 
+Wed Jul  6 21:21:14 2016	MED REG COMM Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 21:21:18 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /// wait
+Wed Jul  6 21:21:26 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp yo
+Wed Jul  6 21:21:28 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): 
+Wed Jul  6 21:21:29 2016	AngryChicken82 (STEAM_0:1:92889617) has joined the game
+Wed Jul  6 21:21:29 2016	Master JewDa (STEAM_0:1:92889617) spawned
+Wed Jul  6 21:21:29 2016	MED REG COMM Ethan (STEAM_0:1:72945201): ! tp *
+Wed Jul  6 21:21:33 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp *
+Wed Jul  6 21:22:07 2016	Master JewDa (STEAM_0:1:92889617): At ease Trooper(s)
+Wed Jul  6 21:22:12 2016	Master JewDa (STEAM_0:1:92889617): // Tf?
+Wed Jul  6 21:22:19 2016	ST PVT 1234 L1K34PR0 was killed by Himself with a suicide trick
+Wed Jul  6 21:22:20 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Wed Jul  6 21:22:25 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp l1k
+Wed Jul  6 21:22:42 2016	Master JewDa (STEAM_0:1:92889617): /name Likes Turtles
+Wed Jul  6 21:22:55 2016	Darth Sol (STEAM_0:1:79001790): !hp Sol 10000
+Wed Jul  6 21:22:55 2016	Likes Turtles (STEAM_0:1:92889617): That's what mu job's about
+Wed Jul  6 21:22:57 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // ./name Sith APP name
+Wed Jul  6 21:22:58 2016	ST PVT 6669 Józef Stalin (STEAM_0:1:61012606): /name JEDI Han multi
+Wed Jul  6 21:23:02 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): admin
+Wed Jul  6 21:23:09 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): i am stuck in third person
+Wed Jul  6 21:23:14 2016	Likes Turtles (STEAM_0:1:92889617): say
+Wed Jul  6 21:23:18 2016	Likes Turtles (STEAM_0:1:92889617): 
+Wed Jul  6 21:23:20 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067): /name sith 1743 Darth_Vader_Jr
+Wed Jul  6 21:23:26 2016	Likes Turtles (STEAM_0:1:92889617): Say thirdperson
+Wed Jul  6 21:23:31 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): oh right xD
+Wed Jul  6 21:23:40 2016	Likes Turtles (STEAM_0:1:92889617): 
+Wed Jul  6 21:23:45 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067): /name Sith Darth vader Jr
+Wed Jul  6 21:23:49 2016	Likes Turtles (STEAM_0:1:92889617): 
+Wed Jul  6 21:23:49 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): hwo to turn it on?
+Wed Jul  6 21:24:04 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): the lightseber
+Wed Jul  6 21:24:10 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): ok
+Wed Jul  6 21:24:26 2016	Likes Turtles (STEAM_0:1:92889617): /me Ancient
+Wed Jul  6 21:24:34 2016	Likes Turtles (STEAM_0:1:92889617): What situation?
+Wed Jul  6 21:24:55 2016	Likes Turtles (STEAM_0:1:92889617): /name Ancient
+Wed Jul  6 21:24:58 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): admin now im in jedi white list?
+Wed Jul  6 21:25:06 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): D:
+Wed Jul  6 21:25:23 2016	Darth Sol (STEAM_0:1:79001790): rise mz apprentice
+Wed Jul  6 21:25:29 2016	Darth Sol (STEAM_0:1:79001790): my#
+Wed Jul  6 21:25:47 2016	Ancient (STEAM_0:1:92889617): !scale ^ 0.5
+Wed Jul  6 21:25:49 2016	Darth Sol (STEAM_0:1:79001790): !hp Han 6000
+Wed Jul  6 21:25:52 2016	Ancient (STEAM_0:1:92889617): !model ^ models/player/b4p/b4p_jawa.mdl
+Wed Jul  6 21:25:54 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): sry
+Wed Jul  6 21:26:07 2016	Darth Sol (STEAM_0:1:79001790): !scale Sol 0.1
+Wed Jul  6 21:26:24 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !cleardecals
+Wed Jul  6 21:26:27 2016	Ancient (STEAM_0:1:92889617): Wow
+Wed Jul  6 21:26:31 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): wtf is this>
+Wed Jul  6 21:26:36 2016	Ancient (STEAM_0:1:92889617): Nice Med model
+Wed Jul  6 21:26:55 2016	Ancient (STEAM_0:1:92889617): !hp ^ 650
+Wed Jul  6 21:27:03 2016	Darth Sol was killed by Himself with a suicide trick
+Wed Jul  6 21:27:03 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !explode sol
+Wed Jul  6 21:27:05 2016	Darth Sol (STEAM_0:1:79001790) spawned
+Wed Jul  6 21:27:10 2016	JEDI Han multi was killed by Himself with a suicide trick
+Wed Jul  6 21:27:12 2016	JEDI Han multi (STEAM_0:1:61012606) spawned
+Wed Jul  6 21:27:14 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !cleardecals
+Wed Jul  6 21:27:14 2016	Ancient (STEAM_0:1:92889617): Am i cute OR WAHT?
+Wed Jul  6 21:27:20 2016	Darth Sol (STEAM_0:1:79001790): !hp Sol 10000
+Wed Jul  6 21:27:39 2016	Ancient (STEAM_0:1:92889617): You are a failed turtle lover
+Wed Jul  6 21:27:48 2016	Ancient was killed by Darth Sol with a weapon_lightsaber
+Wed Jul  6 21:27:54 2016	Ancient (STEAM_0:1:92889617) spawned
+Wed Jul  6 21:28:03 2016	MED REG COMM Ethan (STEAM_0:1:72945201): 
+Wed Jul  6 21:28:11 2016	MED REG COMM Ethan (STEAM_0:1:72945201): 
+Wed Jul  6 21:28:20 2016	MED REG COMM Ethan was killed by Himself with a suicide trick
+Wed Jul  6 21:28:20 2016	Darth Sol was killed by Himself with a suicide trick
+Wed Jul  6 21:28:20 2016	Ancient was killed by Himself with a suicide trick
+Wed Jul  6 21:28:20 2016	TP Reg Commander Benji was killed by Himself with a suicide trick
+Wed Jul  6 21:28:20 2016	ST PVT 2410 Yonatan was killed by Himself with a suicide trick
+Wed Jul  6 21:28:20 2016	JEDI Han multi was killed by Himself with a suicide trick
+Wed Jul  6 21:28:20 2016	Sith Darth vader Jr was killed by Himself with a suicide trick
+Wed Jul  6 21:28:20 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !explode *
+Wed Jul  6 21:28:21 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506) spawned
+Wed Jul  6 21:28:22 2016	JEDI Han multi (STEAM_0:1:61012606) spawned
+Wed Jul  6 21:28:23 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): lol
+Wed Jul  6 21:28:24 2016	Ancient (STEAM_0:1:92889617): // yay
+Wed Jul  6 21:28:26 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): wtf
+Wed Jul  6 21:28:26 2016	Ancient (STEAM_0:1:92889617) spawned
+Wed Jul  6 21:28:27 2016	Sith Darth vader Jr (STEAM_0:0:113721067) spawned
+Wed Jul  6 21:28:30 2016	MED REG COMM Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 21:28:31 2016	Darth Sol (STEAM_0:1:79001790) spawned
+Wed Jul  6 21:28:48 2016	Darth Sol (STEAM_0:1:79001790): !hp Sol 10000
+Wed Jul  6 21:28:58 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): 
+Wed Jul  6 21:29:06 2016	Ancient (STEAM_0:1:92889617): What?
+Wed Jul  6 21:29:07 2016	Sith Darth vader Jr (STEAM_0:0:113721067): :/
+Wed Jul  6 21:29:11 2016	Darth Sol (STEAM_0:1:79001790): /name Mutated Trooper Bob
+Wed Jul  6 21:29:13 2016	Mutated Trooper Bob (STEAM_0:1:79001790) spawned
+Wed Jul  6 21:29:16 2016	Ancient (STEAM_0:1:92889617): I dont know waht event xD
+Wed Jul  6 21:29:47 2016	Ancient (STEAM_0:1:92889617): /pm ethan should i just make an event?
+Wed Jul  6 21:30:11 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): im not in max hp
+Wed Jul  6 21:30:25 2016	Ancient (STEAM_0:1:92889617): !goto etha
+Wed Jul  6 21:30:30 2016	Mutated Trooper Bob (STEAM_0:1:79001790): !hp Bob 10000
+Wed Jul  6 21:30:34 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !freeze *
+Wed Jul  6 21:30:39 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !unfreeze ^
+Wed Jul  6 21:30:46 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !t pyon
+Wed Jul  6 21:30:50 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp yon
+Wed Jul  6 21:30:52 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): why i am stuck
+Wed Jul  6 21:30:55 2016	IDONTKNOW (STEAM_0:1:165468783) has joined the game
+Wed Jul  6 21:30:55 2016	Bobba Ren (STEAM_0:1:165468783) spawned
+Wed Jul  6 21:30:55 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !unfreeze *
+Wed Jul  6 21:30:58 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp yon
+Wed Jul  6 21:31:08 2016	TP Reg Commander Benji (STEAM_0:1:81357128) disconnected
+Wed Jul  6 21:31:09 2016	Ancient (STEAM_0:1:92889617): // Zombie event?
+Wed Jul  6 21:31:17 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // no
+Wed Jul  6 21:31:21 2016	MED REG COMM Ethan (STEAM_0:1:72945201): / /sith vs Jedi
+Wed Jul  6 21:31:21 2016	Ancient (STEAM_0:1:92889617): // Oh
+Wed Jul  6 21:31:25 2016	MED REG COMM Ethan (STEAM_0:1:72945201): // sith VS jedi
+Wed Jul  6 21:31:27 2016	Benji (STEAM_0:1:81357128) has joined the game
+Wed Jul  6 21:31:27 2016	TP Reg Commander Benji (STEAM_0:1:81357128) spawned
+Wed Jul  6 21:31:32 2016	Sith Darth vader Jr (STEAM_0:0:113721067): ohhhhhhhhhhhhhhh
+Wed Jul  6 21:31:32 2016	Ancient (STEAM_0:1:92889617): // Oh cool!
+Wed Jul  6 21:31:43 2016	TP Reg Commander Benji (STEAM_0:1:81357128) spawned
+Wed Jul  6 21:31:43 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !forcerespawn ben
+Wed Jul  6 21:31:46 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !tp ben
+Wed Jul  6 21:31:46 2016	Ancient (STEAM_0:1:92889617): I like turtles
+Wed Jul  6 21:32:03 2016	MED REG COMM Ethan (STEAM_0:1:72945201): !hp * 10000
+Wed Jul  6 21:32:15 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /advert 3
+Wed Jul  6 21:32:16 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): me too?
+Wed Jul  6 21:32:17 2016	Bobba Ren (STEAM_0:1:165468783) spawned
+Wed Jul  6 21:32:17 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /advert 2
+Wed Jul  6 21:32:19 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /name Ethan
+Wed Jul  6 21:32:22 2016	Ethan (STEAM_0:1:72945201): /advert GO
+Wed Jul  6 21:32:26 2016	Bobba Ren (STEAM_0:1:165468783) spawned
+Wed Jul  6 21:32:30 2016	Ethan (STEAM_0:1:72945201): 
+Wed Jul  6 21:32:48 2016	Ethan (STEAM_0:1:72945201) disconnected
+Wed Jul  6 21:32:53 2016	JEDI Han multi was killed by Himself with a suicide trick
+Wed Jul  6 21:33:00 2016	JEDI Han multi (STEAM_0:1:61012606) disconnected
+Wed Jul  6 21:33:20 2016	Mutated Trooper Bob (STEAM_0:1:79001790): /name Luke Skywalker
+Wed Jul  6 21:33:20 2016	Luke Skywalker (STEAM_0:1:79001790) spawned
+Wed Jul  6 21:33:38 2016	Ancient (STEAM_0:1:92889617): /name Master Jew-Da
+Wed Jul  6 21:33:47 2016	Ancient (STEAM_0:1:92889617): /name Master JewDa
+Wed Jul  6 21:33:53 2016	Master JewDa (STEAM_0:1:92889617) spawned
+Wed Jul  6 21:33:59 2016	Master JewDa (STEAM_0:1:92889617): !return
+Wed Jul  6 21:34:06 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): 73
+Wed Jul  6 21:34:24 2016	Bobba Ren (STEAM_0:1:165468783) spawned
+Wed Jul  6 21:35:02 2016	Bobba Ren (STEAM_0:1:165468783): !HP REN 10000
+Wed Jul  6 21:35:06 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): \
+Wed Jul  6 21:35:11 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): can i use my force?
+Wed Jul  6 21:35:49 2016	AJFERR (STEAM_0:0:53304050) has joined the game
+Wed Jul  6 21:35:49 2016	ST PVT 7598 Duck (STEAM_0:0:53304050) spawned
+Wed Jul  6 21:36:40 2016	Master JewDa (STEAM_0:1:92889617): // IM NOT YODA IM A JEWISH YODA NAMED JewDa
+Wed Jul  6 21:36:40 2016	The_Mantis_Shrimp (STEAM_0:0:81720841) has joined the game
+Wed Jul  6 21:36:40 2016	Jedi Knight Shrimp (STEAM_0:0:81720841) spawned
+Wed Jul  6 21:36:59 2016	ST PVT 7598 Duck (STEAM_0:0:53304050) spawned
+Wed Jul  6 21:37:17 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): /name SHDT COL 0512 Shrimp
+Wed Jul  6 21:37:18 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841) spawned
+Wed Jul  6 21:37:20 2016	ST PVT 7598 Duck was killed by Entity [307][func_door] with a func_door
+Wed Jul  6 21:37:25 2016	ST PVT 7598 Duck (STEAM_0:0:53304050) spawned
+Wed Jul  6 21:37:34 2016	TP Reg Commander Benji was killed by ST PVT 2410 Yonatan with a weapon_lightsaber
+Wed Jul  6 21:37:38 2016	TP Reg Commander Benji (STEAM_0:1:81357128) spawned
+Wed Jul  6 21:37:44 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): // hey ethan!
+Wed Jul  6 21:37:46 2016	Luke Skywalker (STEAM_0:1:79001790): /name Darth Sol
+Wed Jul  6 21:37:49 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): // hey bengi
+Wed Jul  6 21:37:50 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !HP benji 10000
+Wed Jul  6 21:37:52 2016	Darth Sol (STEAM_0:1:79001790): !hp Sol 10000
+Wed Jul  6 21:37:52 2016	Darth Sol (STEAM_0:1:79001790) spawned
+Wed Jul  6 21:37:56 2016	Master JewDa (STEAM_0:1:92889617): // He's offline
+Wed Jul  6 21:37:57 2016	ST PVT 7598 Duck (STEAM_0:0:53304050): Hello
+Wed Jul  6 21:38:05 2016	ST PVT 7598 Duck (STEAM_0:0:53304050): /me salutes
+Wed Jul  6 21:38:07 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): at ease trooper(s)
+Wed Jul  6 21:38:16 2016	Master JewDa (STEAM_0:1:92889617): // Shrimp you wanna be Sith or Jedi
+Wed Jul  6 21:38:22 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): // now?
+Wed Jul  6 21:38:26 2016	Sith Darth vader Jr was killed by Bobba Ren with a weapon_lightsaber
+Wed Jul  6 21:38:28 2016	Sith Darth vader Jr (STEAM_0:0:113721067) spawned
+Wed Jul  6 21:38:30 2016	Master JewDa (STEAM_0:1:92889617): // Yeah for now
+Wed Jul  6 21:38:32 2016	Master JewDa was killed by TP Reg Commander Benji with a weapon_lightsaber
+Wed Jul  6 21:38:36 2016	Master JewDa (STEAM_0:1:92889617) spawned
+Wed Jul  6 21:38:40 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): // erm Jedi again pls
+Wed Jul  6 21:38:40 2016	Master JewDa (STEAM_0:1:92889617): // For an event
+Wed Jul  6 21:38:53 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): 
+Wed Jul  6 21:39:00 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841) spawned
+Wed Jul  6 21:39:10 2016	Bobba Ren (STEAM_0:1:165468783): !model ren models/player/generalkenobi/cgikenobi.mdl
+Wed Jul  6 21:39:11 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506) spawned
+Wed Jul  6 21:39:14 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): // tp pls
+Wed Jul  6 21:39:16 2016	Master JewDa (STEAM_0:1:92889617): !goto sol
+Wed Jul  6 21:39:20 2016	Master JewDa was killed by TP Reg Commander Benji with a weapon_lightsaber
+Wed Jul  6 21:39:20 2016	Bobba Ren was killed by Entity [0][worldspawn] with a player
+Wed Jul  6 21:39:22 2016	Master JewDa (STEAM_0:1:92889617): !tp shrimp
+Wed Jul  6 21:39:23 2016	Master JewDa (STEAM_0:1:92889617) spawned
+Wed Jul  6 21:39:24 2016	SHDT COL 0512 Shrimp was killed by Entity [0][worldspawn] with a player
+Wed Jul  6 21:39:26 2016	TP Reg Commander Benji was killed by Entity [0][worldspawn] with a player
+Wed Jul  6 21:39:28 2016	Bobba Ren (STEAM_0:1:165468783): fuk
+Wed Jul  6 21:39:29 2016	Master JewDa (STEAM_0:1:92889617): !goto sol
+Wed Jul  6 21:39:30 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): 
+Wed Jul  6 21:39:32 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): /name Jedi Knight Shrimp
+Wed Jul  6 21:39:32 2016	TP Reg Commander Benji (STEAM_0:1:81357128) spawned
+Wed Jul  6 21:39:33 2016	Jedi Knight Shrimp (STEAM_0:0:81720841) spawned
+Wed Jul  6 21:39:36 2016	Bobba Ren (STEAM_0:1:165468783) spawned
+Wed Jul  6 21:39:36 2016	Master JewDa (STEAM_0:1:92889617): !tp yona
+Wed Jul  6 21:39:39 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): // tp pls
+Wed Jul  6 21:39:43 2016	Bobba Ren (STEAM_0:1:165468783): !goto yon
+Wed Jul  6 21:39:45 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): 
+Wed Jul  6 21:39:48 2016	Master JewDa (STEAM_0:1:92889617): !tp shri
+Wed Jul  6 21:39:53 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !menu
+Wed Jul  6 21:39:54 2016	ST PVT 2410 Yonatan was killed by Entity [0][worldspawn] with a player
+Wed Jul  6 21:39:58 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506) spawned
+Wed Jul  6 21:40:07 2016	Master JewDa (STEAM_0:1:92889617): /pm yonatan you are in the dark side
+Wed Jul  6 21:40:12 2016	Sith Darth vader Jr was killed by Entity [0][worldspawn] with a player
+Wed Jul  6 21:40:16 2016	Sith Darth vader Jr (STEAM_0:0:113721067) spawned
+Wed Jul  6 21:40:18 2016	Bobba Ren (STEAM_0:1:165468783): !tp ben
+Wed Jul  6 21:40:25 2016	Bobba Ren (STEAM_0:1:165468783): !tp ben
+Wed Jul  6 21:40:28 2016	Master JewDa (STEAM_0:1:92889617): !goto yona
+Wed Jul  6 21:40:42 2016	Master JewDa (STEAM_0:1:92889617): You are in the dark side
+Wed Jul  6 21:40:42 2016	Sith Darth vader Jr was killed by Himself with a suicide trick
+Wed Jul  6 21:40:44 2016	Sith Darth vader Jr (STEAM_0:0:113721067) spawned
+Wed Jul  6 21:40:47 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): but this
+Wed Jul  6 21:40:48 2016	ST PVT 7598 Duck was killed by Bobba Ren with a weapon_752bf3_se14c
+Wed Jul  6 21:40:50 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): why sthis
+Wed Jul  6 21:40:53 2016	ST PVT 7598 Duck (STEAM_0:0:53304050) spawned
+Wed Jul  6 21:40:56 2016	Bobba Ren (STEAM_0:1:165468783): !goto ben
+Wed Jul  6 21:40:56 2016	Jedi Knight Shrimp was killed by Entity [0][worldspawn] with a player
+Wed Jul  6 21:40:56 2016	Master JewDa (STEAM_0:1:92889617): This is a sith
+Wed Jul  6 21:41:00 2016	Jedi Knight Shrimp (STEAM_0:0:81720841) spawned
+Wed Jul  6 21:41:02 2016	Master JewDa (STEAM_0:1:92889617): you want jedi?
+Wed Jul  6 21:41:06 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): ya but this is the only job?
+Wed Jul  6 21:41:09 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): D:
+Wed Jul  6 21:41:09 2016	Bobba Ren was killed by Entity [0][worldspawn] with a player
+Wed Jul  6 21:41:21 2016	Master JewDa (STEAM_0:1:92889617): There is more but you are on apperentice 
+Wed Jul  6 21:41:22 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): // tp pls
+Wed Jul  6 21:41:23 2016	Sith Darth vader Jr was killed by Himself with a suicide trick
+Wed Jul  6 21:41:27 2016	Sith Darth vader Jr (STEAM_0:0:113721067) spawned
+Wed Jul  6 21:41:29 2016	Bobba Ren (STEAM_0:1:165468783) spawned
+Wed Jul  6 21:41:29 2016	Master JewDa (STEAM_0:1:92889617): !return
+Wed Jul  6 21:41:30 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): // sol keeps killing me
+Wed Jul  6 21:41:31 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): \S
+Wed Jul  6 21:41:31 2016	Darth Sol (STEAM_0:1:79001790): !bring Shrim
+Wed Jul  6 21:41:31 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !model benji models/grealms/characters/kitfisto/fisto.mdl
+Wed Jul  6 21:41:35 2016	Master JewDa (STEAM_0:1:92889617): !tp shri
+Wed Jul  6 21:41:35 2016	Bobba Ren (STEAM_0:1:165468783): !tp shrimp
+Wed Jul  6 21:41:41 2016	Master JewDa was killed by Entity [0][worldspawn] with a player
+Wed Jul  6 21:41:41 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): 
+Wed Jul  6 21:41:45 2016	Master JewDa (STEAM_0:1:92889617) spawned
+Wed Jul  6 21:41:53 2016	Darth Sol (STEAM_0:1:79001790): /OOC nop
+Wed Jul  6 21:41:57 2016	ST PVT 7598 Duck was killed by ST PVT 2410 Yonatan with a weapon_lightsaber
+Wed Jul  6 21:41:57 2016	TP Reg Commander Benji was killed by Entity [0][worldspawn] with a player
+Wed Jul  6 21:42:00 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): wtf
+Wed Jul  6 21:42:01 2016	Master JewDa (STEAM_0:1:92889617): // Dinner's ready gtg sorry 
+Wed Jul  6 21:42:05 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !hp benji 10000
+Wed Jul  6 21:42:06 2016	TP Reg Commander Benji (STEAM_0:1:81357128) spawned
+Wed Jul  6 21:42:08 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !hp benji 10000
+Wed Jul  6 21:42:10 2016	Darth Sol (STEAM_0:1:79001790): /OOC bye see you then
+Wed Jul  6 21:42:13 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): // tp pls
+Wed Jul  6 21:42:14 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): sory
+Wed Jul  6 21:42:15 2016	ST PVT 7598 Duck (STEAM_0:0:53304050) spawned
+Wed Jul  6 21:42:19 2016	Master JewDa (STEAM_0:1:92889617) disconnected
+Wed Jul  6 21:42:19 2016	Darth Sol (STEAM_0:1:79001790): !bring Shrim
+Wed Jul  6 21:42:22 2016	Bobba Ren (STEAM_0:1:165468783): !return
+Wed Jul  6 21:42:29 2016	Bobba Ren (STEAM_0:1:165468783): !tp du
+Wed Jul  6 21:42:39 2016	TP Reg Commander Benji was killed by Entity [0][worldspawn] with a player
+Wed Jul  6 21:42:53 2016	ST PVT 7598 Duck (STEAM_0:0:53304050) spawned
+Wed Jul  6 21:42:59 2016	Bobba Ren (STEAM_0:1:165468783): !hp duck 10000
+Wed Jul  6 21:43:01 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !model benji models/grealms/characters/kitfisto/fisto.mdl
+Wed Jul  6 21:43:02 2016	TP Reg Commander Benji (STEAM_0:1:81357128) spawned
+Wed Jul  6 21:43:12 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): // benji could you host a tryout for duck after the event?
+Wed Jul  6 21:43:16 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !model benji models/grealms/characters/kitfisto/fisto.mdl
+Wed Jul  6 21:43:19 2016	Sith Darth vader Jr was killed by Bobba Ren with a weapon_lightsaber
+Wed Jul  6 21:43:21 2016	Sith Darth vader Jr (STEAM_0:0:113721067) spawned
+Wed Jul  6 21:43:24 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !hp benji 10000
+Wed Jul  6 21:43:27 2016	ST PVT 7598 Duck was killed by Himself with a suicide trick
+Wed Jul  6 21:43:28 2016	Sith Darth vader Jr was killed by Himself with a suicide trick
+Wed Jul  6 21:43:29 2016	Sith Darth vader Jr (STEAM_0:0:113721067) spawned
+Wed Jul  6 21:43:32 2016	Jedi Knight Shrimp was killed by Entity [0][worldspawn] with a player
+Wed Jul  6 21:43:34 2016	ST PVT 2410 Yonatan was killed by Bobba Ren with a weapon_752bf3_se14c
+Wed Jul  6 21:43:35 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506) spawned
+Wed Jul  6 21:43:35 2016	Jedi Knight Shrimp (STEAM_0:0:81720841) spawned
+Wed Jul  6 21:43:39 2016	Darth Sol (STEAM_0:1:79001790): /me salutiert mit Respekt
+Wed Jul  6 21:43:39 2016	ST PVT 7598 Duck (STEAM_0:0:53304050) spawned
+Wed Jul  6 21:43:41 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): 6
+Wed Jul  6 21:43:46 2016	Darth Sol (STEAM_0:1:79001790): /me salutiert mit Respekt
+Wed Jul  6 21:43:47 2016	Darth Sol (STEAM_0:1:79001790): /me salutiert mit Respekt
+Wed Jul  6 21:43:48 2016	Darth Sol (STEAM_0:1:79001790): /me salutiert mit Respekt
+Wed Jul  6 21:43:49 2016	Darth Sol (STEAM_0:1:79001790): /me salutiert mit Respekt
+Wed Jul  6 21:43:50 2016	Darth Sol (STEAM_0:1:79001790): /me salutiert mit Respekt
+Wed Jul  6 21:43:50 2016	Darth Sol (STEAM_0:1:79001790): /me salutiert mit Respekt
+Wed Jul  6 21:43:56 2016	Darth Sol (STEAM_0:1:79001790): /me salutiert mit Respekt
+Wed Jul  6 21:43:57 2016	Darth Sol (STEAM_0:1:79001790): /me salutiert mit Respekt
+Wed Jul  6 21:43:57 2016	Darth Sol (STEAM_0:1:79001790): /me salutiert mit Respekt
+Wed Jul  6 21:44:00 2016	Darth Sol (STEAM_0:1:79001790): /me salutiert mit Respekt
+Wed Jul  6 21:44:05 2016	Darth Sol (STEAM_0:1:79001790): rea it
+Wed Jul  6 21:44:08 2016	Darth Sol (STEAM_0:1:79001790): read it
+Wed Jul  6 21:44:09 2016	Darth Sol (STEAM_0:1:79001790): /me salutiert mit Respekt
+Wed Jul  6 21:44:17 2016	ST PVT 7598 Duck was killed by Entity [0][worldspawn] with a player
+Wed Jul  6 21:44:20 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): 
+Wed Jul  6 21:44:20 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): // benji?
+Wed Jul  6 21:44:22 2016	ST PVT 7598 Duck (STEAM_0:0:53304050) spawned
+Wed Jul  6 21:44:39 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): // BENGI!
+Wed Jul  6 21:44:39 2016	TP Reg Commander Benji was killed by Entity [0][worldspawn] with a player
+Wed Jul  6 21:44:47 2016	TP Reg Commander Benji (STEAM_0:1:81357128): /ooc we
+Wed Jul  6 21:44:49 2016	TP Reg Commander Benji (STEAM_0:1:81357128) spawned
+Wed Jul  6 21:44:53 2016	TP Reg Commander Benji (STEAM_0:1:81357128): /ooc yeah
+Wed Jul  6 21:45:04 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !model benji models/grealms/characters/kitfisto/fisto.mdl
+Wed Jul  6 21:45:11 2016	ST PVT 7598 Duck was killed by Himself with a suicide trick
+Wed Jul  6 21:45:12 2016	Darth Sol was killed by Himself with a suicide trick
+Wed Jul  6 21:45:12 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !slap sol 1000000000000
+Wed Jul  6 21:45:13 2016	ST PVT 7598 Duck (STEAM_0:0:53304050) spawned
+Wed Jul  6 21:45:15 2016	Darth Sol (STEAM_0:1:79001790) spawned
+Wed Jul  6 21:45:15 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): // will you host a tryout for duck after this, he wants to join tie pilots :P
+Wed Jul  6 21:45:15 2016	Bobba Ren (STEAM_0:1:165468783): !goto yon
+Wed Jul  6 21:45:22 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !hp benji 10000
+Wed Jul  6 21:45:30 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): wmpire palp
+Wed Jul  6 21:45:50 2016	Sith Darth vader Jr was killed by Himself with a suicide trick
+Wed Jul  6 21:45:52 2016	Sith Darth vader Jr (STEAM_0:0:113721067) spawned
+Wed Jul  6 21:45:55 2016	Jedi Knight Shrimp was killed by Entity [0][worldspawn] with a player
+Wed Jul  6 21:46:00 2016	TP Reg Commander Benji was killed by Entity [0][worldspawn] with a player
+Wed Jul  6 21:46:01 2016	Jedi Knight Shrimp (STEAM_0:0:81720841) spawned
+Wed Jul  6 21:46:03 2016	TP Reg Commander Benji (STEAM_0:1:81357128) spawned
+Wed Jul  6 21:46:14 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): sry
+Wed Jul  6 21:46:30 2016	TP Reg Commander Benji (STEAM_0:1:81357128): /ooc how do i bind a key to my force abilertys
+Wed Jul  6 21:46:37 2016	ST PVT 2410 Yonatan (STEAM_0:1:87936506): /name Roy
+Wed Jul  6 21:46:42 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !model benji models/grealms/characters/kitfisto/fisto.mdl
+Wed Jul  6 21:46:47 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): // will you host a tryout for duck benji?
+Wed Jul  6 21:46:48 2016	ST PVT 7598 Duck (STEAM_0:0:53304050): /name Sith Apprentice Duck
+Wed Jul  6 21:46:48 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !hp 15000
+Wed Jul  6 21:46:58 2016	Darth Sol (STEAM_0:1:79001790): /OOC haha Benki
+Wed Jul  6 21:46:58 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !hp benji 15000
+Wed Jul  6 21:47:05 2016	Darth Sol (STEAM_0:1:79001790): /OOC Benji#
+Wed Jul  6 21:47:20 2016	TP Reg Commander Benji (STEAM_0:1:81357128): /ooc cant m8 gotto go off in 5 mins
+Wed Jul  6 21:47:28 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): //ok
+Wed Jul  6 21:47:43 2016	Daniel (STEAM_0:0:27711570) has joined the game
+Wed Jul  6 21:47:43 2016	Fleet Admiral Daniel (STEAM_0:0:27711570) spawned
+Wed Jul  6 21:47:48 2016	Darth Sol (STEAM_0:1:79001790): /name Emperor Shadow
+Wed Jul  6 21:47:49 2016	Emperor Shadow (STEAM_0:1:79001790) spawned
+Wed Jul  6 21:48:01 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): /name SHDT COL 0512 Shrimp
+Wed Jul  6 21:48:02 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841) spawned
+Wed Jul  6 21:48:05 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !goto daniel
+Wed Jul  6 21:48:21 2016	Roy (STEAM_0:1:87936506): ya
+Wed Jul  6 21:48:22 2016	Roy (STEAM_0:1:87936506): ay
+Wed Jul  6 21:48:24 2016	Roy (STEAM_0:1:87936506): ys
+Wed Jul  6 21:48:26 2016	TP Reg Commander Benji was killed by Entity [0][worldspawn] with a player
+Wed Jul  6 21:48:28 2016	TP Reg Commander Benji (STEAM_0:1:81357128) spawned
+Wed Jul  6 21:48:33 2016	Sith Darth vader Jr (STEAM_0:0:113721067) spawned
+Wed Jul  6 21:48:34 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !model benji models/grealms/characters/kitfisto/fisto.mdl
+Wed Jul  6 21:48:37 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): xD
+Wed Jul  6 21:48:37 2016	Roy (STEAM_0:1:87936506): can i be in white list for dark vider?
+Wed Jul  6 21:48:41 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): still didnet forgot you
+Wed Jul  6 21:48:48 2016	Roy (STEAM_0:1:87936506): please
+Wed Jul  6 21:48:51 2016	Roy (STEAM_0:1:87936506): ok
+Wed Jul  6 21:48:51 2016	TP Reg Commander Benji was killed by Entity [0][worldspawn] with a player
+Wed Jul  6 21:48:54 2016	Roy (STEAM_0:1:87936506): but can i be
+Wed Jul  6 21:48:55 2016	TP Reg Commander Benji (STEAM_0:1:81357128) spawned
+Wed Jul  6 21:48:56 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): :)
+Wed Jul  6 21:49:01 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !goto shaddow
+Wed Jul  6 21:49:07 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !goto shadow
+Wed Jul  6 21:49:08 2016	Emperor Shadow (STEAM_0:1:79001790): sit down
+Wed Jul  6 21:49:09 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): gime lightsaber
+Wed Jul  6 21:49:13 2016	Emperor Shadow (STEAM_0:1:79001790): sure
+Wed Jul  6 21:49:14 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !goto shadow
+Wed Jul  6 21:49:21 2016	Emperor Shadow (STEAM_0:1:79001790): /drop
+Wed Jul  6 21:49:22 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): not like that pls
+Wed Jul  6 21:49:25 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): ty
+Wed Jul  6 21:49:33 2016	Sith Darth vader Jr (STEAM_0:0:113721067) spawned
+Wed Jul  6 21:49:36 2016	Roy (STEAM_0:1:87936506): can i be darth vider?
+Wed Jul  6 21:49:41 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): /drop
+Wed Jul  6 21:49:51 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): you not allowding me?
+Wed Jul  6 21:49:54 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): i am allow
+Wed Jul  6 21:50:00 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): i talk with ethan
+Wed Jul  6 21:50:07 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): so go fak yourself
+Wed Jul  6 21:50:08 2016	Roy (STEAM_0:1:87936506): ok D;
+Wed Jul  6 21:50:11 2016	Fleet Admiral Daniel was killed by Entity [0][worldspawn] with a player
+Wed Jul  6 21:50:12 2016	Fleet Admiral Daniel (STEAM_0:0:27711570) spawned
+Wed Jul  6 21:50:13 2016	TP Reg Commander Benji was killed by Entity [0][worldspawn] with a player
+Wed Jul  6 21:50:15 2016	TP Reg Commander Benji (STEAM_0:1:81357128) spawned
+Wed Jul  6 21:50:19 2016	Roy (STEAM_0:1:87936506): CAN I BE YODA
+Wed Jul  6 21:50:21 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): /pm em lol
+Wed Jul  6 21:50:22 2016	Emperor Shadow (STEAM_0:1:79001790): ST LT
+Wed Jul  6 21:50:26 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !goto shadow
+Wed Jul  6 21:50:27 2016	Roy (STEAM_0:1:87936506) disconnected
+Wed Jul  6 21:50:34 2016	TP Reg Commander Benji was killed by Entity [0][worldspawn] with a player
+Wed Jul  6 21:50:38 2016	TP Reg Commander Benji (STEAM_0:1:81357128) spawned
+Wed Jul  6 21:50:43 2016	Emperor Shadow (STEAM_0:1:79001790): xD
+Wed Jul  6 21:50:47 2016	SHDT COL 0512 Shrimp was killed by Sith Apprentice Duck with a weapon_lightsaber
+Wed Jul  6 21:50:49 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841) spawned
+Wed Jul  6 21:50:49 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !goto shadow
+Wed Jul  6 21:50:55 2016	Fleet Admiral Daniel was killed by TP Reg Commander Benji with a weapon_lasermgun
+Wed Jul  6 21:50:56 2016	TP Reg Commander Benji was killed by Entity [0][worldspawn] with a player
+Wed Jul  6 21:50:56 2016	Fleet Admiral Daniel (STEAM_0:0:27711570) spawned
+Wed Jul  6 21:51:03 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): 
+Wed Jul  6 21:51:21 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): 
+Wed Jul  6 21:51:42 2016	TP Reg Commander Benji (STEAM_0:1:81357128): 
+Wed Jul  6 21:51:44 2016	TP Reg Commander Benji (STEAM_0:1:81357128) spawned
+Wed Jul  6 21:51:49 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !goto shaddow
+Wed Jul  6 21:51:50 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): he need to warn himsel
+Wed Jul  6 21:51:52 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): himself
+Wed Jul  6 21:51:54 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): for rdm
+Wed Jul  6 21:51:55 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !goto shadow
+Wed Jul  6 21:51:58 2016	Emperor Shadow (STEAM_0:1:79001790): powerful
+Wed Jul  6 21:51:58 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !bring ren
+Wed Jul  6 21:52:02 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): you need to warn yourself
+Wed Jul  6 21:52:05 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): for rdm
+Wed Jul  6 21:52:08 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !bring bobba
+Wed Jul  6 21:52:15 2016	SHDT COL 0512 Shrimp was killed by Himself with a suicide trick
+Wed Jul  6 21:52:21 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841) spawned
+Wed Jul  6 21:52:21 2016	Emperor Shadow (STEAM_0:1:79001790): powerful
+Wed Jul  6 21:52:28 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): go fuck yourself i talk with ethan
+Wed Jul  6 21:52:29 2016	Emperor Shadow (STEAM_0:1:79001790): mesa powerful
+Wed Jul  6 21:52:39 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): go fuck yourself  pussy
+Wed Jul  6 21:52:43 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): i talk with ethan
+Wed Jul  6 21:52:44 2016	Bobba Ren (STEAM_0:1:165468783): !menu
+Wed Jul  6 21:52:49 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !warn daniel dissrispect m8
+Wed Jul  6 21:52:53 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): he is an pussy
+Wed Jul  6 21:53:02 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): sry i can't do noting about it
+Wed Jul  6 21:53:12 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): leave me alone
+Wed Jul  6 21:53:15 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): i want talk with Shadow
+Wed Jul  6 21:53:47 2016	Bobba Ren (STEAM_0:1:165468783): !warn daniel Reason Dissrispect.
+Wed Jul  6 21:53:51 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): wtf
+Wed Jul  6 21:53:52 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): 2 warns
+Wed Jul  6 21:53:55 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): wtf
+Wed Jul  6 21:54:00 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): // 2 warns
+Wed Jul  6 21:54:04 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): // what a abuse
+Wed Jul  6 21:54:14 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): !warns
+Wed Jul  6 21:54:14 2016	Sith Darth vader Jr was killed by Himself with a suicide trick
+Wed Jul  6 21:54:18 2016	Sith Darth vader Jr (STEAM_0:0:113721067) spawned
+Wed Jul  6 21:54:23 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): enjoy your perma ban dude
+Wed Jul  6 21:54:34 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): and lete me talk with shadow
+Wed Jul  6 21:54:37 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): !menu
+Wed Jul  6 21:54:50 2016	SHDT COL 0512 Shrimp was killed by Sith Apprentice Duck with a weapon_lightsaber
+Wed Jul  6 21:54:54 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841) spawned
+Wed Jul  6 21:55:02 2016	Sith Apprentice Duck (STEAM_0:0:53304050): /me salutes
+Wed Jul  6 21:55:06 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): // reasson pussy
+Wed Jul  6 21:55:14 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): go fuck yourself
+Wed Jul  6 21:55:34 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): /pm shad ahaha
+Wed Jul  6 21:55:38 2016	Bobba Ren (STEAM_0:1:165468783): !menu
+Wed Jul  6 21:55:46 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): /pm sha Benji is pussy..
+Wed Jul  6 21:55:47 2016	Sith Darth vader Jr was killed by Himself with a suicide trick
+Wed Jul  6 21:55:48 2016	Sith Darth vader Jr (STEAM_0:0:113721067) spawned
+Wed Jul  6 21:56:06 2016	Emperor Shadow (STEAM_0:1:79001790): /OOC Drama Alert
+Wed Jul  6 21:56:07 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !MENU
+Wed Jul  6 21:56:10 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): // how 4/7 isn't gag?
+Wed Jul  6 21:56:18 2016	Sith Darth vader Jr (STEAM_0:0:113721067): idk man
+Wed Jul  6 21:56:25 2016	SHDT COL 0512 Shrimp was killed by Himself with a suicide trick
+Wed Jul  6 21:56:26 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841) spawned
+Wed Jul  6 21:56:30 2016	Finnerd (STEAM_0:1:56053138) has joined the game
+Wed Jul  6 21:56:30 2016	Sith Apprentice Dat Boi (STEAM_0:1:56053138) spawned
+Wed Jul  6 21:56:31 2016	★slendysupFTW★ (STEAM_0:0:100068273) has joined the game
+Wed Jul  6 21:56:31 2016	★slendysupFTW★ (STEAM_0:0:100068273) spawned
+Wed Jul  6 21:56:34 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): noting
+Wed Jul  6 21:56:37 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): just benji
+Wed Jul  6 21:56:42 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): GTFO
+Wed Jul  6 21:56:43 2016	Bobba Ren (STEAM_0:1:165468783): hi
+Wed Jul  6 21:56:47 2016	Bobba Ren (STEAM_0:1:165468783): english
+Wed Jul  6 21:56:58 2016	Sith Darth vader Jr (STEAM_0:0:113721067): slendysup is my friend
+Wed Jul  6 21:57:09 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): benji not stop talking about my demote
+Wed Jul  6 21:57:12 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): and its anoing
+Wed Jul  6 21:57:16 2016	TP Reg Commander Benji (STEAM_0:1:81357128): /advert *JEDI VS SITH finished return to you normal jobs*
+Wed Jul  6 21:57:32 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): // bengi please host a tryout
+Wed Jul  6 21:57:38 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): // Benji only for you know i am admin in military rp that all day 40-60 pepole connecting
+Wed Jul  6 21:57:42 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): // try to find it
+Wed Jul  6 21:57:43 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): // AG
+Wed Jul  6 21:57:46 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): // A
+Wed Jul  6 21:57:47 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): // AG
+Wed Jul  6 21:57:52 2016	TP Reg Commander Benji (STEAM_0:1:81357128): /ooc i cant ive got to go off in 5
+Wed Jul  6 21:57:52 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): // Cheak it out
+Wed Jul  6 21:57:54 2016	★slendysupFTW★ (STEAM_0:0:100068273): /name ST PVT 4248 slendysupFTW
+Wed Jul  6 21:58:00 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): cheese
+Wed Jul  6 21:58:01 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): ya
+Wed Jul  6 21:58:04 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): yay
+Wed Jul  6 21:58:11 2016	SHDT COL 0512 Shrimp was killed by Himself with a suicide trick
+Wed Jul  6 21:58:13 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !goto daniel
+Wed Jul  6 21:58:20 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): freeman
+Wed Jul  6 21:58:26 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): hacks
+Wed Jul  6 21:58:29 2016	Sith Apprentice Duck (STEAM_0:0:53304050): bull shit
+Wed Jul  6 21:58:34 2016	Sith Apprentice Duck (STEAM_0:0:53304050): cheese
+Wed Jul  6 21:58:35 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): gman
+Wed Jul  6 21:58:39 2016	Sith Apprentice Duck (STEAM_0:0:53304050): hacks
+Wed Jul  6 21:58:39 2016	Fleet Admiral Daniel was killed by Himself with a suicide trick
+Wed Jul  6 21:58:40 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841) spawned
+Wed Jul  6 21:58:41 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): stfu
+Wed Jul  6 21:58:44 2016	Sith Apprentice Duck (STEAM_0:0:53304050): hack
+Wed Jul  6 21:58:44 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): you killing me
+Wed Jul  6 21:58:50 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): you giving me hearth attack
+Wed Jul  6 21:58:50 2016	Fleet Admiral Daniel (STEAM_0:0:27711570) spawned
+Wed Jul  6 21:58:50 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841) disconnected
+Wed Jul  6 21:58:52 2016	Sith Apprentice Duck (STEAM_0:0:53304050) disconnected
+Wed Jul  6 21:59:10 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): // Benji leave me alone you giving me heath attacks
+Wed Jul  6 21:59:14 2016	Bobba Ren (STEAM_0:1:165468783): naughty biy
+Wed Jul  6 21:59:21 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): leave me
+Wed Jul  6 21:59:30 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): LETE ME FUCKING TALK WITH SHADOW
+Wed Jul  6 21:59:39 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): LETE ME FUCKING TALK WITH SHADOW
+Wed Jul  6 21:59:40 2016	Bobba Ren (STEAM_0:1:165468783): i will tp u to him
+Wed Jul  6 22:00:16 2016	Bobba Ren (STEAM_0:1:165468783): !goto dan
+Wed Jul  6 22:00:29 2016	Bobba Ren (STEAM_0:1:165468783): shadow is talking
+Wed Jul  6 22:00:41 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): FUCKING LEAVE ME ALONE AND STOP PHYISGUN ABUSE
+Wed Jul  6 22:00:54 2016	Bobba Ren (STEAM_0:1:165468783): dont leave the area
+Wed Jul  6 22:00:55 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): I AM STLT
+Wed Jul  6 22:01:02 2016	Bobba Ren (STEAM_0:1:165468783): !tp dan
+Wed Jul  6 22:01:09 2016	Bobba Ren (STEAM_0:1:165468783): !freeze dan
+Wed Jul  6 22:01:18 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): I AM STLT FUCKING CHEAK THE TAB MENU
+Wed Jul  6 22:01:19 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): !menu
+Wed Jul  6 22:01:22 2016	Bobba Ren (STEAM_0:1:165468783): god u made me do that
+Wed Jul  6 22:01:32 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): // reasson dumb
+Wed Jul  6 22:01:37 2016	ST PVT 4248 slendysupFTW (STEAM_0:0:100068273) disconnected
+Wed Jul  6 22:01:38 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !dab
+Wed Jul  6 22:01:40 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): your dumb
+Wed Jul  6 22:01:42 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !goto dan
+Wed Jul  6 22:01:44 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): and faggot
+Wed Jul  6 22:01:54 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): you phyisgun abuse
+Wed Jul  6 22:01:55 2016	Fleet Admiral Daniel (STEAM_0:0:27711570) spawned
+Wed Jul  6 22:01:55 2016	Fleet Admiral Daniel (STEAM_0:0:27711570) spawned
+Wed Jul  6 22:02:02 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): I am SLAT
+Wed Jul  6 22:02:07 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): you can see in tub
+Wed Jul  6 22:02:14 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): he is fucking anoing
+Wed Jul  6 22:02:17 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): i said them
+Wed Jul  6 22:02:28 2016	TP Reg Commander Benji (STEAM_0:1:81357128): /pm shadow shall we ban him
+Wed Jul  6 22:02:34 2016	Bobba Ren (STEAM_0:1:165468783): /ooc Everyone to their nomal jobs.
+Wed Jul  6 22:02:39 2016	Sith Darth vader Jr (STEAM_0:0:113721067): k
+Wed Jul  6 22:02:43 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !CLOAK
+Wed Jul  6 22:02:45 2016	Emperor Shadow (STEAM_0:1:79001790): /PM Benji for what you want to ban him now
+Wed Jul  6 22:02:46 2016	Sith Darth vader Jr (STEAM_0:0:113721067) spawned
+Wed Jul  6 22:03:01 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): what?
+Wed Jul  6 22:03:17 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !PM No because he created them votes and disrispect breaking 2 rules
+Wed Jul  6 22:03:19 2016	Sith Darth vader Jr (STEAM_0:0:113721067): /name STPVT 1873 L1K34PR0
+Wed Jul  6 22:03:39 2016	TP Reg Commander Benji (STEAM_0:1:81357128): /pm sh and standing on your head#
+Wed Jul  6 22:03:48 2016	TP Reg Commander Benji (STEAM_0:1:81357128): !goto dan
+Wed Jul  6 22:03:55 2016	Bobba Ren (STEAM_0:1:165468783): hi
+Wed Jul  6 22:04:00 2016	Bobba Ren (STEAM_0:1:165468783): salute
+Wed Jul  6 22:04:06 2016	Bobba Ren (STEAM_0:1:165468783): plz
+Wed Jul  6 22:04:12 2016	Bobba Ren (STEAM_0:1:165468783): i am special
+Wed Jul  6 22:04:15 2016	STPVT 1873 L1K34PR0 (STEAM_0:0:113721067): /me salute
+Wed Jul  6 22:04:18 2016	Bobba Ren (STEAM_0:1:165468783): thx
+Wed Jul  6 22:04:35 2016	TP Reg Commander Benji (STEAM_0:1:81357128): /ooc got to go guys cya !!!!!!!!!!!!!!!!!!!!!!:)
+Wed Jul  6 22:04:50 2016	Bobba Ren (STEAM_0:1:165468783): /ooc bye!!
+Wed Jul  6 22:05:18 2016	TP Reg Commander Benji (STEAM_0:1:81357128) disconnected
+Wed Jul  6 22:05:53 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): y
+Wed Jul  6 22:06:23 2016	Bobba Ren (STEAM_0:1:165468783): !cleardecals
+Wed Jul  6 22:06:34 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): /me Hacking Benji Computer (20%)
+Wed Jul  6 22:06:51 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): /me (40%)
+Wed Jul  6 22:06:54 2016	STPVT 1873 L1K34PR0 (STEAM_0:0:113721067): someone can pls send me the link for the mods for the server?
+Wed Jul  6 22:07:00 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): /me (Bosting Hack.exe)
+Wed Jul  6 22:07:11 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): /me (80%)
+Wed Jul  6 22:07:24 2016	Emperor Shadow (STEAM_0:1:79001790): LOOC hacker he is
+Wed Jul  6 22:07:38 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): /me (100%) Hack completed connecting into the server to perma ban myself
+Wed Jul  6 22:07:38 2016	Bobba Ren (STEAM_0:1:165468783) disconnected
+Wed Jul  6 22:07:59 2016	Emperor Shadow (STEAM_0:1:79001790): lo
+Wed Jul  6 22:08:04 2016	Emperor Shadow (STEAM_0:1:79001790): lol
+Wed Jul  6 22:08:18 2016	Emperor Shadow (STEAM_0:1:79001790): you wanna see my office
+Wed Jul  6 22:08:29 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): /me Benji banned permanetly Benji (reasson I am faggot)
+Wed Jul  6 22:08:31 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): done
+Wed Jul  6 22:08:45 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): ye
+Wed Jul  6 22:09:51 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): /me I am the new Emperor! I hacked into the ship now i am new leader!
+Wed Jul  6 22:10:12 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): /me Now can some one perma ban benji for me?
+Wed Jul  6 22:10:25 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): // can some one perma ban benji for me?
+Wed Jul  6 22:10:27 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): !menu
+Wed Jul  6 22:11:01 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): // hate this map
+Wed Jul  6 22:11:04 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): !votemap 13
+Wed Jul  6 22:11:17 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): / / vote map for me!
+Wed Jul  6 22:11:22 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): // vote map for me
+Wed Jul  6 22:11:31 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): gime light saber
+Wed Jul  6 22:11:32 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): model me
+Wed Jul  6 22:11:33 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): and
+Wed Jul  6 22:11:36 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): give me
+Wed Jul  6 22:11:43 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): 5k hp
+Wed Jul  6 22:11:45 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): lets do figh
+Wed Jul  6 22:11:51 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): fight
+Wed Jul  6 22:11:53 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): *
+Wed Jul  6 22:11:53 2016	Emperor Shadow (STEAM_0:1:79001790): /name 212th REG Commander Cody
+Wed Jul  6 22:12:04 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): but change your model
+Wed Jul  6 22:12:04 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): its
+Wed Jul  6 22:12:06 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): error
+Wed Jul  6 22:12:07 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): for me
+Wed Jul  6 22:12:19 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): i did
+Wed Jul  6 22:12:35 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): Benj
+Wed Jul  6 22:12:43 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): 212th
+Wed Jul  6 22:12:46 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): hold on
+Wed Jul  6 22:12:51 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): can you make me yoda
+Wed Jul  6 22:12:56 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): and you plaptine
+Wed Jul  6 22:13:02 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): i just want do single fight
+Wed Jul  6 22:13:04 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): pls
+Wed Jul  6 22:13:07 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): one fight
+Wed Jul  6 22:13:09 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): model me
+Wed Jul  6 22:13:12 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): as yoda
+Wed Jul  6 22:13:13 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): pls
+Wed Jul  6 22:13:35 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): scale?
+Wed Jul  6 22:13:53 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): FAILRP
+Wed Jul  6 22:13:56 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): reported
+Wed Jul  6 22:13:58 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): wtf
+Wed Jul  6 22:14:05 2016	zzsaliha159 (STEAM_0:1:177741883) has joined the game
+Wed Jul  6 22:14:05 2016	zzsaliha159 (STEAM_0:1:177741883) spawned
+Wed Jul  6 22:14:08 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): its error
+Wed Jul  6 22:14:39 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): light saber
+Wed Jul  6 22:14:41 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): and hp pls
+Wed Jul  6 22:14:50 2016	212th REG Commander Cody (STEAM_0:1:79001790): /drop
+Wed Jul  6 22:14:51 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): ITS ERROR
+Wed Jul  6 22:14:59 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): pls other model
+Wed Jul  6 22:15:00 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): i am sorry
+Wed Jul  6 22:15:03 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): its error
+Wed Jul  6 22:15:30 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): maybe it
+Wed Jul  6 22:15:31 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): models/mark2580/payday2/pd2_cloaker_player.mdl
+Wed Jul  6 22:15:34 2016	Sith Apprentice Dat Boi (STEAM_0:1:56053138) disconnected
+Wed Jul  6 22:15:41 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): can you do it
+Wed Jul  6 22:15:43 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): models/mark2580/payday2/pd2_cloaker_player.mdl
+Wed Jul  6 22:15:46 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): pls
+Wed Jul  6 22:15:54 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): models/mark2580/payday2/pd2_cloaker_player.mdl
+Wed Jul  6 22:15:55 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): pls
+Wed Jul  6 22:15:58 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): yay
+Wed Jul  6 22:16:02 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): its cool
+Wed Jul  6 22:16:07 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): can you set my hp just
+Wed Jul  6 22:16:19 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): /job Cloaker madafaka
+Wed Jul  6 22:16:26 2016	212th REG Commander Cody (STEAM_0:1:79001790): !hp Daniel 5000
+Wed Jul  6 22:16:30 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): lets fight
+Wed Jul  6 22:16:34 2016	212th REG Commander Cody was killed by Himself with a suicide trick
+Wed Jul  6 22:16:43 2016	212th REG Commander Cody (STEAM_0:1:79001790): /name Emperor Shadow
+Wed Jul  6 22:16:44 2016	Emperor Shadow (STEAM_0:1:79001790) spawned
+Wed Jul  6 22:16:48 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): /job Jedi Cloaker 123
+Wed Jul  6 22:17:00 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): /job Jedi Cloaker Daniel
+Wed Jul  6 22:17:01 2016	Finnerd (STEAM_0:1:56053138) has joined the game
+Wed Jul  6 22:17:01 2016	Sith Apprentice Dat Boi (STEAM_0:1:56053138) spawned
+Wed Jul  6 22:17:16 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): /job Sith Cloaker Daniel
+Wed Jul  6 22:17:30 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): tryout for?
+Wed Jul  6 22:17:35 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): oh 
+Wed Jul  6 22:17:50 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): hold up
+Wed Jul  6 22:18:04 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): /drop
+Wed Jul  6 22:18:07 2016	zzsaliha159 was killed by Emperor Shadow with a weapon_lightsaber
+Wed Jul  6 22:18:14 2016	zzsaliha159 (STEAM_0:1:177741883) spawned
+Wed Jul  6 22:18:25 2016	STPVT 1873 L1K34PR0 was killed by Emperor Shadow with a weapon_lightsaber
+Wed Jul  6 22:18:26 2016	STPVT 1873 L1K34PR0 (STEAM_0:0:113721067) spawned
+Wed Jul  6 22:19:07 2016	Emperor Shadow (STEAM_0:1:79001790): English?
+Wed Jul  6 22:19:14 2016	Emperor Shadow (STEAM_0:1:79001790): can you speak it?
+Wed Jul  6 22:19:21 2016	STPVT 1873 L1K34PR0 was killed by Fleet Admiral Daniel with a weapon_lightsaber
+Wed Jul  6 22:19:25 2016	zzsaliha159 (STEAM_0:1:177741883): tuasd
+Wed Jul  6 22:19:27 2016	STPVT 1873 L1K34PR0 (STEAM_0:0:113721067) spawned
+Wed Jul  6 22:19:29 2016	zzsaliha159 (STEAM_0:1:177741883): turkis
+Wed Jul  6 22:19:36 2016	Emperor Shadow (STEAM_0:1:79001790): sry English server
+Wed Jul  6 22:19:44 2016	zzsaliha159 (STEAM_0:1:177741883): ok
+Wed Jul  6 22:19:52 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): hppp
+Wed Jul  6 22:20:19 2016	Emperor Shadow (STEAM_0:1:79001790): !kick zzsaliha sry its an english server
+Wed Jul  6 22:20:19 2016	zzsaliha159 (STEAM_0:1:177741883) disconnected
+Wed Jul  6 22:20:20 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): from now
+Wed Jul  6 22:21:03 2016	Sith Apprentice Dat Boi (STEAM_0:1:56053138) spawned
+Wed Jul  6 22:21:17 2016	Fleet Admiral Daniel was killed by Emperor Shadow with a weapon_lightsaber
+Wed Jul  6 22:21:19 2016	Fleet Admiral Daniel (STEAM_0:0:27711570) spawned
+Wed Jul  6 22:21:25 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): // NOOO THE MODEL!
+Wed Jul  6 22:21:31 2016	Fleet Admiral Daniel was killed by Emperor Shadow with a weapon_lightsaber
+Wed Jul  6 22:21:32 2016	Sith Apprentice Dat Boi (STEAM_0:1:56053138): /name MED FPC 2109 Finnerd
+Wed Jul  6 22:21:33 2016	Fleet Admiral Daniel (STEAM_0:0:27711570) spawned
+Wed Jul  6 22:21:38 2016	Fleet Admiral Daniel was killed by Emperor Shadow with a weapon_lightsaber
+Wed Jul  6 22:21:39 2016	Fleet Admiral Daniel (STEAM_0:0:27711570) spawned
+Wed Jul  6 22:21:50 2016	Emperor Shadow (STEAM_0:1:79001790): promotion?
+Wed Jul  6 22:21:57 2016	MED FPC 2109 Finnerd (STEAM_0:1:56053138): /name MED PFC 2109 Finnerd
+Wed Jul  6 22:22:04 2016	Emperor Shadow (STEAM_0:1:79001790): to what?
+Wed Jul  6 22:22:07 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): !.model daniel models/mark2580/payday2/pd2_cloaker_rebel.mdl
+Wed Jul  6 22:22:23 2016	Fleet Admiral Daniel was killed by Emperor Shadow with a weapon_lightsaber
+Wed Jul  6 22:22:24 2016	Fleet Admiral Daniel (STEAM_0:0:27711570) spawned
+Wed Jul  6 22:22:34 2016	Emperor Shadow (STEAM_0:1:79001790): trolling you
+Wed Jul  6 22:22:46 2016	Emperor Shadow (STEAM_0:1:79001790): !scale Daniel 0.1
+Wed Jul  6 22:22:58 2016	Emperor Shadow (STEAM_0:1:79001790): /drop
+Wed Jul  6 22:23:16 2016	Emperor Shadow (STEAM_0:1:79001790): !hp Daniel 5000
+Wed Jul  6 22:23:29 2016	Emperor Shadow (STEAM_0:1:79001790): type 
+Wed Jul  6 22:24:24 2016	MED PFC 2109 Finnerd was killed by Himself with a suicide trick
+Wed Jul  6 22:24:27 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138) spawned
+Wed Jul  6 22:24:35 2016	STPVT 1873 L1K34PR0 (STEAM_0:0:113721067): can i please get a promotion to storm trooper MJR cus it has more weapons
+Wed Jul  6 22:24:57 2016	Emperor Shadow (STEAM_0:1:79001790): hmmmmmm ask you Commander
+Wed Jul  6 22:25:09 2016	STPVT 1873 L1K34PR0 (STEAM_0:0:113721067): and who it is?
+Wed Jul  6 22:25:09 2016	MED PFC 2109 Finnerd was killed by Fleet Admiral Daniel with a weapon_lightsaber
+Wed Jul  6 22:25:11 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138) spawned
+Wed Jul  6 22:25:21 2016	Emperor Shadow (STEAM_0:1:79001790): hmmmmm forgot his name
+Wed Jul  6 22:25:28 2016	Emperor Shadow (STEAM_0:1:79001790): I am crap
+Wed Jul  6 22:25:32 2016	STPVT 1873 L1K34PR0 (STEAM_0:0:113721067): :/
+Wed Jul  6 22:25:59 2016	Emperor Shadow (STEAM_0:1:79001790): !scale Daniel 2
+Wed Jul  6 22:26:09 2016	STPVT 1873 L1K34PR0 (STEAM_0:0:113721067): Ethan will be able to promote me?
+Wed Jul  6 22:26:16 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): permission to shot?
+Wed Jul  6 22:26:30 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): *shoot
+Wed Jul  6 22:26:33 2016	Fleet Admiral Daniel was killed by Emperor Shadow with a weapon_lightsaber
+Wed Jul  6 22:26:34 2016	Fleet Admiral Daniel (STEAM_0:0:27711570) spawned
+Wed Jul  6 22:26:38 2016	Fleet Admiral Daniel (STEAM_0:0:27711570): // rip
+Wed Jul  6 22:26:44 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): /me salute
+Wed Jul  6 22:26:53 2016	Fleet Admiral Daniel (STEAM_0:0:27711570) disconnected
+Wed Jul  6 22:26:59 2016	Emperor Shadow (STEAM_0:1:79001790): lol
+Wed Jul  6 22:27:05 2016	Emperor Shadow (STEAM_0:1:79001790): /OOC I am off aswell
+Wed Jul  6 22:27:08 2016	Emperor Shadow (STEAM_0:1:79001790): bye
+Wed Jul  6 22:27:15 2016	Emperor Shadow (STEAM_0:1:79001790) disconnected
+Wed Jul  6 22:27:29 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138) disconnected
+Wed Jul  6 22:29:10 2016	STPVT 1873 L1K34PR0 was killed by Entity [0][worldspawn] with a unknown
+Wed Jul  6 22:29:12 2016	STPVT 1873 L1K34PR0 (STEAM_0:0:113721067) spawned
+Wed Jul  6 22:29:12 2016	Mc_Fristailo (STEAM_0:1:116017338) has joined the game
+Wed Jul  6 22:29:12 2016	Mc_Fristailo (STEAM_0:1:116017338) spawned
+Wed Jul  6 22:29:15 2016	STPVT 1873 L1K34PR0 (STEAM_0:0:113721067) disconnected
+Wed Jul  6 22:32:08 2016	Mc_Fristailo (STEAM_0:1:116017338) disconnected
+Wed Jul  6 23:07:13 2016	Ethan (STEAM_0:1:72945201) has joined the game
+Wed Jul  6 23:07:13 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 23:08:35 2016	Ethan (STEAM_0:1:72945201) spawned
+Wed Jul  6 23:08:45 2016	Ethan (STEAM_0:1:72945201): 
+Wed Jul  6 23:13:20 2016	Ethan (STEAM_0:1:72945201): .
+Wed Jul  6 23:13:44 2016	Ethan (STEAM_0:1:72945201): !ss
+Wed Jul  6 23:13:49 2016	Ethan (STEAM_0:1:72945201): !ps
+Wed Jul  6 23:13:52 2016	Ethan (STEAM_0:1:72945201): !pts
+Wed Jul  6 23:14:27 2016	Ethan (STEAM_0:1:72945201): /name BRB
+Wed Jul  6 23:14:56 2016	Sloth (STEAM_0:1:88690147) has joined the game
+Wed Jul  6 23:14:56 2016	SKT REG COMM Sloth (STEAM_0:1:88690147) spawned
+Wed Jul  6 23:15:19 2016	SKT REG COMM Sloth (STEAM_0:1:88690147) spawned
+Wed Jul  6 23:15:58 2016	SKT REG COMM Sloth (STEAM_0:1:88690147) disconnected

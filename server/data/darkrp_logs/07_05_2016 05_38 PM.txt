@@ -1,0 +1,591 @@
+Tue Jul  5 17:38:34 2016	Marshall (STEAM_0:1:112426618) has joined the game
+Tue Jul  5 17:38:34 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) spawned
+Tue Jul  5 17:39:55 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618): WOW>
+Tue Jul  5 17:40:32 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) disconnected
+Tue Jul  5 18:50:24 2016	L1K34PRO (STEAM_0:0:113721067) has joined the game
+Tue Jul  5 18:50:24 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 18:51:58 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 18:56:03 2016	ST PVT 1234 L1K34PR0 was killed by Entity [187][func_tracktrain] with a func_tracktrain
+Tue Jul  5 18:56:05 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 19:05:50 2016	toti37182 (STEAM_0:0:131304126) has joined the game
+Tue Jul  5 19:05:50 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:06:22 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:06:54 2016	ST PVT 1234 L1K34PR0 was killed by Himself with a suicide trick
+Tue Jul  5 19:07:03 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067): !clear decoy
+Tue Jul  5 19:07:03 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 19:07:30 2016	ST PVT 4859 Toti was killed by Himself with a suicide trick
+Tue Jul  5 19:07:31 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:07:36 2016	ST PVT 4859 Toti was killed by Himself with a suicide trick
+Tue Jul  5 19:07:38 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:09:37 2016	ST PVT 4859 Toti was killed by Himself with a suicide trick
+Tue Jul  5 19:09:39 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:10:13 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) disconnected
+Tue Jul  5 19:11:32 2016	L1K34PRO (STEAM_0:0:113721067) has joined the game
+Tue Jul  5 19:11:32 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 19:12:01 2016	ST PVT 4859 Toti was killed by Himself with a suicide trick
+Tue Jul  5 19:12:07 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:12:12 2016	ST PVT 4859 Toti was killed by Himself with a suicide trick
+Tue Jul  5 19:12:15 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:12:20 2016	ST PVT 4859 Toti was killed by Himself with a suicide trick
+Tue Jul  5 19:12:26 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:12:30 2016	ST PVT 4859 Toti was killed by Himself with a suicide trick
+Tue Jul  5 19:12:35 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:12:45 2016	ST PVT 4859 Toti was killed by Himself with a suicide trick
+Tue Jul  5 19:12:48 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:12:56 2016	ST PVT 4859 Toti was killed by Himself with a suicide trick
+Tue Jul  5 19:14:56 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 19:15:02 2016	ST PVT 1234 L1K34PR0 was killed by Himself with a suicide trick
+Tue Jul  5 19:15:03 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 19:15:19 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:17:31 2016	ST PVT 1234 L1K34PR0 was killed by Himself with a suicide trick
+Tue Jul  5 19:17:41 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 19:19:56 2016	ST PVT 1234 L1K34PR0 was killed by ST PVT 4859 Toti with a weapon_752bf3_dh17
+Tue Jul  5 19:19:58 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 19:20:14 2016	ST PVT 4859 Toti was killed by Himself with a suicide trick
+Tue Jul  5 19:20:15 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:22:07 2016	liron312 (STEAM_0:0:64179865) has joined the game
+Tue Jul  5 19:22:07 2016	liron312 (STEAM_0:0:64179865) spawned
+Tue Jul  5 19:22:15 2016	ST PVT 1234 L1K34PR0 was killed by Himself with a suicide trick
+Tue Jul  5 19:22:17 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 19:23:26 2016	liron312 (STEAM_0:0:64179865) disconnected
+Tue Jul  5 19:23:40 2016	ST PVT 4859 Toti was killed by Himself with a suicide trick
+Tue Jul  5 19:23:42 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:23:46 2016	ST PVT 4859 Toti was killed by Himself with a suicide trick
+Tue Jul  5 19:23:48 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:25:01 2016	ST PVT 1234 L1K34PR0 was killed by ST PVT 4859 Toti with a weapon_752bf3_e11
+Tue Jul  5 19:25:04 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 19:25:10 2016	ST PVT 4859 Toti was killed by Himself with a suicide trick
+Tue Jul  5 19:25:14 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:26:17 2016	ST PVT 4859 Toti was killed by Entity [307][func_door] with a func_door
+Tue Jul  5 19:26:23 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:26:25 2016	ST PVT 1234 L1K34PR0 was killed by Himself with a suicide trick
+Tue Jul  5 19:26:28 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 19:27:43 2016	ST PVT 4859 Toti was killed by ST PVT 1234 L1K34PR0 with a weapon_752bf3_e11
+Tue Jul  5 19:27:44 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:27:55 2016	ST PVT 1234 L1K34PR0 was killed by Himself with a suicide trick
+Tue Jul  5 19:27:59 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 19:29:18 2016	ST PVT 4859 Toti was killed by ST PVT 1234 L1K34PR0 with a prop_physics
+Tue Jul  5 19:29:22 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:29:23 2016	ST PVT 1234 L1K34PR0 was killed by Himself with a suicide trick
+Tue Jul  5 19:29:25 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 19:29:57 2016	ST PVT 4859 Toti was killed by ST PVT 1234 L1K34PR0 with a weapon_752bf3_dh17
+Tue Jul  5 19:29:59 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:30:13 2016	ST PVT 1234 L1K34PR0 was killed by ST PVT 4859 Toti with a weapon_752bf3_e11
+Tue Jul  5 19:30:15 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) disconnected
+Tue Jul  5 19:30:43 2016	ST PVT 4859 Toti was killed by Entity [307][func_door] with a func_door
+Tue Jul  5 19:30:45 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:31:24 2016	Marshall (STEAM_0:1:112426618) has joined the game
+Tue Jul  5 19:31:24 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) spawned
+Tue Jul  5 19:31:25 2016	L1K34PRO (STEAM_0:0:113721067) has joined the game
+Tue Jul  5 19:31:25 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 19:33:24 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 19:33:59 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) disconnected
+Tue Jul  5 19:46:02 2016	ST PVT 4859 Toti was killed by Himself with a suicide trick
+Tue Jul  5 19:46:05 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:46:39 2016	ST PVT 1234 L1K34PR0 was killed by ST PVT 4859 Toti with a weapon_752bf3_e11
+Tue Jul  5 19:46:41 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 19:46:47 2016	ST PVT 4859 Toti was killed by Himself with a suicide trick
+Tue Jul  5 19:46:50 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:47:13 2016	ST PVT 1234 L1K34PR0 was killed by ST PVT 4859 Toti with a weapon_752bf3_e11
+Tue Jul  5 19:47:15 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 19:47:21 2016	ST PVT 4859 Toti was killed by Himself with a suicide trick
+Tue Jul  5 19:47:23 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:48:59 2016	ST PVT 1234 L1K34PR0 was killed by ST PVT 4859 Toti with a weapon_752bf3_e11
+Tue Jul  5 19:49:09 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 19:49:45 2016	ST PVT 1234 L1K34PR0 was killed by ST PVT 4859 Toti with a weapon_752bf3_e11
+Tue Jul  5 19:49:46 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 19:49:50 2016	ST PVT 4859 Toti was killed by Himself with a suicide trick
+Tue Jul  5 19:49:52 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:50:00 2016	ST PVT 1234 L1K34PR0 was killed by ST PVT 4859 Toti with a weapon_752bf3_e11
+Tue Jul  5 19:50:01 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 19:50:05 2016	ST PVT 4859 Toti was killed by ST PVT 1234 L1K34PR0 with a weapon_752bf3_e11
+Tue Jul  5 19:50:07 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:50:10 2016	ST PVT 1234 L1K34PR0 was killed by ST PVT 4859 Toti with a weapon_752bf3_e11
+Tue Jul  5 19:50:10 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) disconnected
+Tue Jul  5 19:50:53 2016	ST PVT 4859 Toti was killed by Himself with a suicide trick
+Tue Jul  5 19:50:54 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:51:04 2016	L1K34PRO (STEAM_0:0:113721067) has joined the game
+Tue Jul  5 19:51:04 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 19:52:57 2016	Marshall (STEAM_0:1:112426618) has joined the game
+Tue Jul  5 19:52:57 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) spawned
+Tue Jul  5 19:53:45 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 19:53:51 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067): hey
+Tue Jul  5 19:54:19 2016	ST PVT 4859 Toti was killed by ST PVT 1234 L1K34PR0 with a weapon_752bf3_dh17
+Tue Jul  5 19:54:20 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:54:22 2016	ST PVT 1234 L1K34PR0 was killed by Himself with a suicide trick
+Tue Jul  5 19:54:23 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 19:54:31 2016	ST PVT 1234 L1K34PR0 was killed by ST PVT 4859 Toti with a weapon_752bf3_e11
+Tue Jul  5 19:54:33 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 19:54:42 2016	ST PVT 4859 Toti was killed by ST PVT 1234 L1K34PR0 with a weapon_752bf3_e11
+Tue Jul  5 19:54:43 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:54:44 2016	ST PVT 1234 L1K34PR0 was killed by Himself with a suicide trick
+Tue Jul  5 19:54:46 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 19:54:55 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) spawned
+Tue Jul  5 19:54:58 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618): yy
+Tue Jul  5 19:55:06 2016	ST PVT 4859 Toti was killed by Entity [307][func_door] with a func_door
+Tue Jul  5 19:55:11 2016	ST PVT 1234 L1K34PR0 was killed by Himself with a suicide trick
+Tue Jul  5 19:55:11 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:55:12 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 19:55:16 2016	ST PVT 1234 L1K34PR0 was killed by Himself with a suicide trick
+Tue Jul  5 19:55:19 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 19:55:37 2016	ST PVT 4859 Toti was killed by Entity [307][func_door] with a func_door
+Tue Jul  5 19:55:40 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:55:54 2016	ST PVT 4859 Toti was killed by ST PVT 9034 Marshall with a weapon_752bf3_e11
+Tue Jul  5 19:55:59 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:56:18 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067): the rule man
+Tue Jul  5 19:56:35 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067): the GOLDAN rule
+Tue Jul  5 19:57:37 2016	ST PVT 1234 L1K34PR0 was killed by Himself with a suicide trick
+Tue Jul  5 19:57:39 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 19:58:19 2016	ST PVT 1234 L1K34PR0 was killed by ST PVT 4859 Toti with a weapon_752bf3_e11
+Tue Jul  5 19:58:20 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 19:58:27 2016	ST PVT 4859 Toti was killed by Entity [0][worldspawn] with a unknown
+Tue Jul  5 19:58:32 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:59:27 2016	ST PVT 4859 Toti was killed by ST PVT 1234 L1K34PR0 with a weapon_752bf3_e11
+Tue Jul  5 19:59:28 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 19:59:29 2016	ST PVT 1234 L1K34PR0 was killed by Himself with a suicide trick
+Tue Jul  5 19:59:34 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 19:59:41 2016	ST PVT 1234 L1K34PR0 was killed by Himself with a suicide trick
+Tue Jul  5 19:59:43 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 19:59:51 2016	ST PVT 1234 L1K34PR0 was killed by Himself with a suicide trick
+Tue Jul  5 20:00:11 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 20:01:06 2016	ST PVT 4859 Toti was killed by Entity [0][worldspawn] with a unknown
+Tue Jul  5 20:01:23 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 20:02:32 2016	ST PVT 4859 Toti was killed by Entity [0][worldspawn] with a unknown
+Tue Jul  5 20:03:07 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 20:04:10 2016	ST PVT 4859 Toti was killed by ST PVT 1234 L1K34PR0 with a weapon_752bf3_e11
+Tue Jul  5 20:04:12 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) spawned
+Tue Jul  5 20:04:13 2016	ST PVT 1234 L1K34PR0 was killed by Himself with a suicide trick
+Tue Jul  5 20:04:15 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 20:04:53 2016	ST PVT 1234 L1K34PR0 was killed by ST PVT 4859 Toti with a weapon_752bf3_e11
+Tue Jul  5 20:04:54 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) spawned
+Tue Jul  5 20:10:53 2016	ST PVT 4859 Toti (STEAM_0:0:131304126) disconnected
+Tue Jul  5 20:11:06 2016	ST PVT 1234 L1K34PR0 (STEAM_0:0:113721067) disconnected
+Tue Jul  5 20:40:34 2016	itaydaga (STEAM_0:0:142468349) has joined the game
+Tue Jul  5 20:40:34 2016	itaydaga (STEAM_0:0:142468349) spawned
+Tue Jul  5 20:40:34 2016	ST PVT 9034 Marshall (STEAM_0:1:112426618) disconnected
+Tue Jul  5 20:46:18 2016	itaydaga (STEAM_0:0:142468349) disconnected
+Tue Jul  5 21:09:17 2016	The_Mantis_Shrimp (STEAM_0:0:81720841) has joined the game
+Tue Jul  5 21:09:18 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841) spawned
+Tue Jul  5 21:10:55 2016	yarinking .i. (STEAM_0:0:172979541) has joined the game
+Tue Jul  5 21:10:55 2016	st pvt 1234 me me me (STEAM_0:0:172979541) spawned
+Tue Jul  5 21:11:07 2016	st pvt 1234 me me me (STEAM_0:0:172979541): hi
+Tue Jul  5 21:11:12 2016	st pvt 1234 me me me (STEAM_0:0:172979541): where to go
+Tue Jul  5 21:11:15 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841) spawned
+Tue Jul  5 21:11:29 2016	st pvt 1234 me me me (STEAM_0:0:172979541): hi
+Tue Jul  5 21:11:35 2016	st pvt 1234 me me me (STEAM_0:0:172979541): can u help me
+Tue Jul  5 21:11:40 2016	st pvt 1234 me me me (STEAM_0:0:172979541): again
+Tue Jul  5 21:11:49 2016	st pvt 1234 me me me (STEAM_0:0:172979541): where to go
+Tue Jul  5 21:11:59 2016	st pvt 1234 me me me (STEAM_0:0:172979541): i read all of that
+Tue Jul  5 21:12:17 2016	st pvt 1234 me me me (STEAM_0:0:172979541): again
+Tue Jul  5 21:12:34 2016	st pvt 1234 me me me (STEAM_0:0:172979541): 65 hp
+Tue Jul  5 21:13:05 2016	st pvt 1234 me me me (STEAM_0:0:172979541): i dpmt jave a mik
+Tue Jul  5 21:13:20 2016	st pvt 1234 me me me (STEAM_0:0:172979541): y
+Tue Jul  5 21:13:31 2016	st pvt 1234 me me me (STEAM_0:0:172979541): ?
+Tue Jul  5 21:13:33 2016	st pvt 1234 me me me (STEAM_0:0:172979541): whaty
+Tue Jul  5 21:13:40 2016	st pvt 1234 me me me (STEAM_0:0:172979541): spol?
+Tue Jul  5 21:13:46 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): read the wall
+Tue Jul  5 21:14:03 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): im gonna say which one to do
+Tue Jul  5 21:14:16 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): read it?
+Tue Jul  5 21:14:18 2016	st pvt 1234 me me me (STEAM_0:0:172979541): y
+Tue Jul  5 21:14:38 2016	st pvt 1234 me me me (STEAM_0:0:172979541): /me
+Tue Jul  5 21:14:40 2016	st pvt 1234 me me me (STEAM_0:0:172979541): me
+Tue Jul  5 21:14:41 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): /kick
+Tue Jul  5 21:14:58 2016	st pvt 1234 me me me was killed by SHDT COL 0512 Shrimp with a weapon_752bf3_t21
+Tue Jul  5 21:15:02 2016	st pvt 1234 me me me (STEAM_0:0:172979541): why no one play this server
+Tue Jul  5 21:15:02 2016	st pvt 1234 me me me (STEAM_0:0:172979541) spawned
+Tue Jul  5 21:15:08 2016	st pvt 1234 me me me (STEAM_0:0:172979541) disconnected
+Tue Jul  5 21:15:21 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): ok
+Tue Jul  5 21:15:32 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): no one is on ;-;
+Tue Jul  5 21:16:01 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): its sad
+Tue Jul  5 21:17:25 2016	Ethan (STEAM_0:1:72945201) has joined the game
+Tue Jul  5 21:17:25 2016	Darth Ethan (STEAM_0:1:72945201) spawned
+Tue Jul  5 21:18:48 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): ;-;
+Tue Jul  5 21:19:03 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): :3
+Tue Jul  5 21:32:46 2016	Darth Ethan (STEAM_0:1:72945201) disconnected
+Tue Jul  5 21:32:53 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841) disconnected
+Tue Jul  5 21:59:23 2016	The_Mantis_Shrimp (STEAM_0:0:81720841) has joined the game
+Tue Jul  5 21:59:23 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841) spawned
+Tue Jul  5 22:00:22 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841) spawned
+Tue Jul  5 22:17:24 2016	Duck Sauce (STEAM_0:0:53304050) has joined the game
+Tue Jul  5 22:17:24 2016	Duck Sauce (STEAM_0:0:53304050) spawned
+Tue Jul  5 22:19:38 2016	Duck Sauce (STEAM_0:0:53304050): /me salutes
+Tue Jul  5 22:19:48 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): /me salutes
+Tue Jul  5 22:19:50 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): at ease trooper(s)
+Tue Jul  5 22:21:40 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): bind k "say /me salutes"
+Tue Jul  5 22:21:44 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): /me salutes
+Tue Jul  5 22:21:55 2016	Duck Sauce (STEAM_0:0:53304050): /me salutes
+Tue Jul  5 22:27:25 2016	Duck Sauce (STEAM_0:0:53304050): /Duck ST PVT 7598 Duck
+Tue Jul  5 22:27:36 2016	Duck Sauce (STEAM_0:0:53304050):  /name ST PVT 7598 Duck
+Tue Jul  5 22:27:54 2016	Duck Sauce (STEAM_0:0:53304050): /name ST PVT 7598 Duck
+Tue Jul  5 22:31:16 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): // yolo
+Tue Jul  5 22:31:23 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): /
+Tue Jul  5 22:31:25 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): //
+Tue Jul  5 22:31:26 2016	ST PVT 7598 Duck (STEAM_0:0:53304050): //oh hey
+Tue Jul  5 22:31:32 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): // lol
+Tue Jul  5 22:31:37 2016	ST PVT 7598 Duck (STEAM_0:0:53304050): / /hey
+Tue Jul  5 22:31:43 2016	ST PVT 7598 Duck (STEAM_0:0:53304050): / / hey
+Tue Jul  5 22:31:51 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): "// hey"
+Tue Jul  5 22:31:59 2016	ST PVT 7598 Duck (STEAM_0:0:53304050): // hey
+Tue Jul  5 22:36:03 2016	avinizri890 (STEAM_0:0:41834156) has joined the game
+Tue Jul  5 22:36:03 2016	avinizri890 (STEAM_0:0:41834156) spawned
+Tue Jul  5 22:37:13 2016	avinizri890 (STEAM_0:0:41834156): !צודןב
+Tue Jul  5 22:37:18 2016	avinizri890 (STEAM_0:0:41834156): !music
+Tue Jul  5 22:37:43 2016	avinizri890 (STEAM_0:0:41834156) disconnected
+Tue Jul  5 22:40:11 2016	Finnerd (STEAM_0:1:56053138) has joined the game
+Tue Jul  5 22:40:11 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138) spawned
+Tue Jul  5 22:40:24 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): hey fin, ill invite you to chat
+Tue Jul  5 22:41:40 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): fin?
+Tue Jul  5 22:45:38 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138) spawned
+Tue Jul  5 22:47:35 2016	MED PFC 2109 Finnerd was killed by SHDT COL 0512 Shrimp with a weapon_752bf3_t21
+Tue Jul  5 22:47:38 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138) spawned
+Tue Jul  5 22:47:54 2016	MED PFC 2109 Finnerd was killed by SHDT COL 0512 Shrimp with a weapon_752bf3_t21
+Tue Jul  5 22:47:55 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138) spawned
+Tue Jul  5 22:48:02 2016	MED PFC 2109 Finnerd was killed by SHDT COL 0512 Shrimp with a weapon_752bf3_t21
+Tue Jul  5 22:48:13 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138) spawned
+Tue Jul  5 22:49:56 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): /me tickles fin
+Tue Jul  5 22:50:12 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): /me rubs his belly
+Tue Jul  5 22:50:17 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): /me groans
+Tue Jul  5 22:51:23 2016	SHDT COL 0512 Shrimp was killed by Himself with a suicide trick
+Tue Jul  5 22:51:25 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841) spawned
+Tue Jul  5 22:52:08 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): 
+Tue Jul  5 22:52:42 2016	MED PFC 2109 Finnerd was killed by SHDT COL 0512 Shrimp with a weapon_752bf3_t21
+Tue Jul  5 22:52:43 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138) spawned
+Tue Jul  5 22:52:55 2016	SHDT COL 0512 Shrimp was killed by Himself with a suicide trick
+Tue Jul  5 22:52:56 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841) spawned
+Tue Jul  5 22:53:06 2016	ST PVT 7598 Duck was killed by MED PFC 2109 Finnerd with a weapon_752bf3_e11
+Tue Jul  5 22:53:08 2016	ST PVT 7598 Duck (STEAM_0:0:53304050) spawned
+Tue Jul  5 22:53:09 2016	MED PFC 2109 Finnerd was killed by SHDT COL 0512 Shrimp with a weapon_752bf3_t21
+Tue Jul  5 22:53:10 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138) spawned
+Tue Jul  5 22:54:10 2016	ST PVT 7598 Duck was killed by SHDT COL 0512 Shrimp with a weapon_752bf3_t21
+Tue Jul  5 22:54:12 2016	ST PVT 7598 Duck (STEAM_0:0:53304050) spawned
+Tue Jul  5 22:54:19 2016	ST PVT 7598 Duck was killed by MED PFC 2109 Finnerd with a weapon_752bf3_e11
+Tue Jul  5 22:54:20 2016	ST PVT 7598 Duck (STEAM_0:0:53304050) spawned
+Tue Jul  5 22:54:42 2016	SHDT COL 0512 Shrimp was killed by Himself with a suicide trick
+Tue Jul  5 22:54:45 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841) spawned
+Tue Jul  5 22:55:08 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): thats ok
+Tue Jul  5 22:55:18 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): you ready
+Tue Jul  5 22:55:20 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): will you white list duck?
+Tue Jul  5 22:55:31 2016	ST PVT 7598 Duck (STEAM_0:0:53304050): /me salutes
+Tue Jul  5 22:55:34 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): /me salute
+Tue Jul  5 22:55:49 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): hey ethan, we were just having some fun
+Tue Jul  5 22:56:30 2016	MED PFC 2109 Finnerd was killed by SHDT COL 0512 Shrimp with a weapon_752bf3_dh17
+Tue Jul  5 22:56:31 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138) spawned
+Tue Jul  5 22:57:08 2016	ST PVT 7598 Duck was killed by SHDT COL 0512 Shrimp with a weapon_752bf3_t21
+Tue Jul  5 22:57:12 2016	ST PVT 7598 Duck (STEAM_0:0:53304050) spawned
+Tue Jul  5 22:57:27 2016	MED PFC 2109 Finnerd was killed by SHDT COL 0512 Shrimp with a weapon_752bf3_t21
+Tue Jul  5 22:57:30 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138) spawned
+Tue Jul  5 22:59:56 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): /me salute
+Tue Jul  5 22:59:58 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): /me salute
+Tue Jul  5 22:59:58 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): /me salute
+Tue Jul  5 22:59:59 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): at ease trooper(s)
+Tue Jul  5 23:02:47 2016	ST PVT 7598 Duck was killed by SHDT COL 0512 Shrimp with a weapon_752bf3_t21
+Tue Jul  5 23:02:49 2016	ST PVT 7598 Duck (STEAM_0:0:53304050) spawned
+Tue Jul  5 23:03:01 2016	MED PFC 2109 Finnerd was killed by Himself with a suicide trick
+Tue Jul  5 23:03:04 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138) spawned
+Tue Jul  5 23:03:56 2016	HooDini (STEAM_0:1:177652148) has joined the game
+Tue Jul  5 23:03:56 2016	HooDini (STEAM_0:1:177652148) spawned
+Tue Jul  5 23:04:10 2016	HooDini (STEAM_0:1:177652148): hey
+Tue Jul  5 23:04:18 2016	HooDini (STEAM_0:1:177652148): yes
+Tue Jul  5 23:04:23 2016	HooDini (STEAM_0:1:177652148): TC
+Tue Jul  5 23:04:30 2016	HooDini (STEAM_0:1:177652148): WAIT
+Tue Jul  5 23:04:32 2016	HooDini (STEAM_0:1:177652148): RLY
+Tue Jul  5 23:04:34 2016	HooDini (STEAM_0:1:177652148): YES!!!!!!!!!!!!!!
+Tue Jul  5 23:04:36 2016	HooDini was killed by Himself with a suicide trick
+Tue Jul  5 23:04:38 2016	HooDini (STEAM_0:1:177652148) spawned
+Tue Jul  5 23:04:47 2016	HooDini (STEAM_0:1:177652148): nice
+Tue Jul  5 23:04:49 2016	HooDini (STEAM_0:1:177652148): finally
+Tue Jul  5 23:05:00 2016	HooDini (STEAM_0:1:177652148): IDK do I?
+Tue Jul  5 23:05:08 2016	HooDini (STEAM_0:1:177652148): who is this 
+Tue Jul  5 23:05:16 2016	HooDini (STEAM_0:1:177652148): oh
+Tue Jul  5 23:05:22 2016	HooDini (STEAM_0:1:177652148): ok
+Tue Jul  5 23:05:26 2016	HooDini (STEAM_0:1:177652148): well
+Tue Jul  5 23:05:27 2016	HooDini (STEAM_0:1:177652148): ya
+Tue Jul  5 23:05:29 2016	HooDini (STEAM_0:1:177652148): brb
+Tue Jul  5 23:05:35 2016	HooDini (STEAM_0:1:177652148): like gimmie 2 mins my mum needs me
+Tue Jul  5 23:05:41 2016	HooDini (STEAM_0:1:177652148): nah
+Tue Jul  5 23:05:45 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): http://steamcommunity.com/sharedfiles/filedetails/?id=675039044
+Tue Jul  5 23:06:09 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): yes, duck please
+Tue Jul  5 23:06:10 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): DUCK
+Tue Jul  5 23:06:39 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): thnx, erm for now come back in 10
+Tue Jul  5 23:06:52 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): could you start an event?
+Tue Jul  5 23:06:55 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): ok
+Tue Jul  5 23:06:56 2016	ST PVT 7598 Duck (STEAM_0:0:53304050) spawned
+Tue Jul  5 23:07:14 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): YYYYAYAYAYAYAYAY
+Tue Jul  5 23:07:34 2016	HooDini (STEAM_0:1:177652148): ah ffs
+Tue Jul  5 23:07:37 2016	HooDini (STEAM_0:1:177652148): hold on
+Tue Jul  5 23:07:41 2016	HooDini (STEAM_0:1:177652148): my bro needs me
+Tue Jul  5 23:07:42 2016	HooDini (STEAM_0:1:177652148): xD
+Tue Jul  5 23:07:51 2016	HooDini (STEAM_0:1:177652148): k back
+Tue Jul  5 23:07:55 2016	HooDini (STEAM_0:1:177652148): so
+Tue Jul  5 23:08:14 2016	HooDini (STEAM_0:1:177652148): yes DADDY
+Tue Jul  5 23:08:24 2016	HooDini (STEAM_0:1:177652148): /name ST PVT 1456 HooDini
+Tue Jul  5 23:08:35 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): I think
+Tue Jul  5 23:08:36 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): /me salutes
+Tue Jul  5 23:08:37 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): /me strips weapons and comms
+Tue Jul  5 23:08:38 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): /me strips weapons and comms
+Tue Jul  5 23:09:53 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): weapon away
+Tue Jul  5 23:10:07 2016	ST PVT 1456 HooDini was killed by Himself with a suicide trick
+Tue Jul  5 23:10:08 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148) spawned
+Tue Jul  5 23:10:10 2016	ST PVT 7598 Duck (STEAM_0:0:53304050): /me salutes
+Tue Jul  5 23:10:33 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): tight and loose
+Tue Jul  5 23:10:35 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): wat
+Tue Jul  5 23:10:38 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): ?
+Tue Jul  5 23:10:50 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): /me PEW PEW
+Tue Jul  5 23:11:12 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): ohhh yeah
+Tue Jul  5 23:11:33 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): /me strips weapons and comms
+Tue Jul  5 23:12:02 2016	ST PVT 1456 HooDini was killed by ST PVT 7598 Duck with a weapon_752bf3_e11
+Tue Jul  5 23:12:05 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148) spawned
+Tue Jul  5 23:12:35 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): xD
+Tue Jul  5 23:12:45 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): YEAH
+Tue Jul  5 23:12:51 2016	ST PVT 1456 HooDini was killed by SHDT COL 0512 Shrimp with a weapon_752bf3_t21
+Tue Jul  5 23:12:56 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148) spawned
+Tue Jul  5 23:13:00 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): last chance
+Tue Jul  5 23:13:07 2016	ST PVT 1456 HooDini was killed by ST PVT 7598 Duck with a weapon_752bf3_e11
+Tue Jul  5 23:13:22 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): !warn HooDini
+Tue Jul  5 23:13:33 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148) spawned
+Tue Jul  5 23:14:40 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): I didnt hack u or anythin
+Tue Jul  5 23:15:11 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): LOl
+Tue Jul  5 23:15:14 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): y u no kill me
+Tue Jul  5 23:15:15 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): what?
+Tue Jul  5 23:15:23 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): you no clipped
+Tue Jul  5 23:15:27 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): rly
+Tue Jul  5 23:15:29 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): ?
+Tue Jul  5 23:15:32 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): DAMN
+Tue Jul  5 23:15:36 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): should have used that
+Tue Jul  5 23:15:40 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): well
+Tue Jul  5 23:15:48 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): you are getting kicked now :P
+Tue Jul  5 23:15:53 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): soz
+Tue Jul  5 23:15:57 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): tho when I try to it says You don't have access to this command, ST PVT 1456 HooDini!
+Tue Jul  5 23:16:06 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): u r going to kick me?!
+Tue Jul  5 23:16:10 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): pls dont
+Tue Jul  5 23:16:11 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): yeh, soz
+Tue Jul  5 23:16:21 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): should have listened
+Tue Jul  5 23:16:40 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): /y hax
+Tue Jul  5 23:16:42 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): hax
+Tue Jul  5 23:16:44 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): hax
+Tue Jul  5 23:16:48 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): cheese
+Tue Jul  5 23:16:55 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): hax
+Tue Jul  5 23:16:58 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): hack
+Tue Jul  5 23:17:00 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): hacks
+Tue Jul  5 23:17:01 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): Ethan? please kick HooDini
+Tue Jul  5 23:17:03 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148): hacks
+Tue Jul  5 23:17:07 2016	ST PVT 1456 HooDini was killed by Himself with a suicide trick
+Tue Jul  5 23:17:10 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148) spawned
+Tue Jul  5 23:17:23 2016	ST PVT 1456 HooDini (STEAM_0:1:177652148) disconnected
+Tue Jul  5 23:17:46 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): ok
+Tue Jul  5 23:17:50 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): he was no clipping
+Tue Jul  5 23:18:22 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): was that you?
+Tue Jul  5 23:18:27 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): ??
+Tue Jul  5 23:18:49 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): was it your second account
+Tue Jul  5 23:18:53 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): ??
+Tue Jul  5 23:18:56 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): test?
+Tue Jul  5 23:19:14 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): really?
+Tue Jul  5 23:19:26 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): yay!
+Tue Jul  5 23:19:40 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): i remembered your name was hoodini
+Tue Jul  5 23:19:46 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): before.....
+Tue Jul  5 23:20:01 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): mind fuck!
+Tue Jul  5 23:20:07 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): yeh
+Tue Jul  5 23:20:23 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): ok
+Tue Jul  5 23:20:26 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): hurray
+Tue Jul  5 23:20:31 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): thats soo weird
+Tue Jul  5 23:21:27 2016	Ethan (STEAM_0:1:72945201) has joined the game
+Tue Jul  5 23:21:27 2016	Darth Ethan (STEAM_0:1:72945201) spawned
+Tue Jul  5 23:21:51 2016	Darth Ethan (STEAM_0:1:72945201): /name Ethan
+Tue Jul  5 23:22:26 2016	Ethan (STEAM_0:1:72945201): /advert all to Debrief*
+Tue Jul  5 23:22:27 2016	Ethan (STEAM_0:1:72945201) spawned
+Tue Jul  5 23:23:01 2016	Ethan (STEAM_0:1:72945201): /name MED REG COMM Ethan
+Tue Jul  5 23:23:01 2016	MED REG COMM Ethan (STEAM_0:1:72945201) spawned
+Tue Jul  5 23:23:26 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): /me salutes
+Tue Jul  5 23:23:29 2016	ST PVT 7598 Duck (STEAM_0:0:53304050): /me salutes
+Tue Jul  5 23:23:29 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): /me salute
+Tue Jul  5 23:23:47 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): /me salute
+Tue Jul  5 23:23:51 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): /me salute
+Tue Jul  5 23:24:33 2016	MED REG COMM Ethan (STEAM_0:1:72945201): esstarwarsrp.enjin.com
+Tue Jul  5 23:26:11 2016	MED PFC 2109 Finnerd (STEAM_0:1:56053138): /name Finnerd
+Tue Jul  5 23:26:12 2016	MED REG COMM Ethan (STEAM_0:1:72945201): /name Jedi Knight Ethan
+Tue Jul  5 23:26:15 2016	SHDT COL 0512 Shrimp (STEAM_0:0:81720841): /name Jedi Shrimp
+Tue Jul  5 23:26:28 2016	Jedi Shrimp (STEAM_0:0:81720841): /name Jedi Knight Shrimp
+Tue Jul  5 23:26:44 2016	ST PVT 7598 Duck (STEAM_0:0:53304050): /name Sith Apprentice AJFERR
+Tue Jul  5 23:26:48 2016	Jedi Knight Shrimp (STEAM_0:0:81720841) spawned
+Tue Jul  5 23:27:05 2016	Finnerd (STEAM_0:1:56053138): /name Sith Apprentice Dat Boi
+Tue Jul  5 23:27:08 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): // tp pls
+Tue Jul  5 23:27:10 2016	Sith Apprentice Dat Boi (STEAM_0:1:56053138) spawned
+Tue Jul  5 23:27:10 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !tp finn
+Tue Jul  5 23:27:16 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !tp shrim
+Tue Jul  5 23:27:20 2016	Sith Apprentice AJFERR (STEAM_0:0:53304050) spawned
+Tue Jul  5 23:27:23 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !bring shrim
+Tue Jul  5 23:27:27 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !bring finn
+Tue Jul  5 23:27:33 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !bring dat
+Tue Jul  5 23:27:35 2016	Sith Apprentice AJFERR (STEAM_0:0:53304050): /me salutes
+Tue Jul  5 23:27:39 2016	Sith Apprentice AJFERR was killed by Himself with a suicide trick
+Tue Jul  5 23:27:39 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !tp dat
+Tue Jul  5 23:27:40 2016	Sith Apprentice AJFERR (STEAM_0:0:53304050) spawned
+Tue Jul  5 23:27:47 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !tp aj
+Tue Jul  5 23:28:10 2016	Jedi Knight Shrimp was killed by Himself with a suicide trick
+Tue Jul  5 23:28:13 2016	Jedi Knight Shrimp (STEAM_0:0:81720841) spawned
+Tue Jul  5 23:28:29 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !tp shri
+Tue Jul  5 23:28:45 2016	Sith Apprentice Dat Boi (STEAM_0:1:56053138) disconnected
+Tue Jul  5 23:28:52 2016	Jedi Knight Ethan was killed by Jedi Knight Shrimp with a weapon_lightsaber
+Tue Jul  5 23:28:54 2016	Jedi Knight Ethan (STEAM_0:1:72945201) spawned
+Tue Jul  5 23:28:59 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !goto ajf
+Tue Jul  5 23:29:17 2016	Jedi Knight Ethan (STEAM_0:1:72945201) spawned
+Tue Jul  5 23:29:24 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !goto ajf
+Tue Jul  5 23:29:35 2016	Sith Apprentice AJFERR was killed by Himself with a suicide trick
+Tue Jul  5 23:29:36 2016	Sith Apprentice AJFERR (STEAM_0:0:53304050) spawned
+Tue Jul  5 23:29:39 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !tp ajf
+Tue Jul  5 23:29:58 2016	Sith Apprentice AJFERR was killed by Himself with a suicide trick
+Tue Jul  5 23:30:00 2016	Sith Apprentice AJFERR (STEAM_0:0:53304050) spawned
+Tue Jul  5 23:30:02 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !tp ajf
+Tue Jul  5 23:30:17 2016	Jedi Knight Ethan (STEAM_0:1:72945201): about 41
+Tue Jul  5 23:30:35 2016	Sith Apprentice AJFERR was killed by Himself with a suicide trick
+Tue Jul  5 23:30:36 2016	Sith Apprentice AJFERR (STEAM_0:0:53304050) spawned
+Tue Jul  5 23:30:49 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !tp ajf
+Tue Jul  5 23:31:01 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !mapreset
+Tue Jul  5 23:31:04 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !resetmap
+Tue Jul  5 23:31:50 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !tp shri
+Tue Jul  5 23:32:36 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): duck is just changing settings, ill be right back
+Tue Jul  5 23:32:43 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): k?
+Tue Jul  5 23:33:19 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !cleardecals
+Tue Jul  5 23:34:02 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !mapreset
+Tue Jul  5 23:34:07 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !resetmap
+Tue Jul  5 23:36:48 2016	Sloth (STEAM_0:1:88690147) has joined the game
+Tue Jul  5 23:36:48 2016	SKT REG COMM Sloth (STEAM_0:1:88690147) spawned
+Tue Jul  5 23:36:58 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !tp sloth
+Tue Jul  5 23:37:44 2016	Finnerd (STEAM_0:1:56053138) has joined the game
+Tue Jul  5 23:37:44 2016	Sith Apprentice Dat Boi (STEAM_0:1:56053138) spawned
+Tue Jul  5 23:38:03 2016	SKT REG COMM Sloth was killed by Jedi Knight Shrimp with a weapon_lightsaber
+Tue Jul  5 23:38:06 2016	SKT REG COMM Sloth (STEAM_0:1:88690147) spawned
+Tue Jul  5 23:38:10 2016	Sith Apprentice Dat Boi (STEAM_0:1:56053138) spawned
+Tue Jul  5 23:38:10 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !forcerespawn dat
+Tue Jul  5 23:38:12 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !tp dat
+Tue Jul  5 23:38:17 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !tp sloth
+Tue Jul  5 23:38:19 2016	SKT REG COMM Sloth (STEAM_0:1:88690147) spawned
+Tue Jul  5 23:38:22 2016	SKT REG COMM Sloth was killed by Himself with a suicide trick
+Tue Jul  5 23:38:22 2016	SKT REG COMM Sloth (STEAM_0:1:88690147) spawned
+Tue Jul  5 23:38:22 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !forcerespawn sloth
+Tue Jul  5 23:38:25 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !tp sloth
+Tue Jul  5 23:38:53 2016	SKT REG COMM Sloth (STEAM_0:1:88690147): /NAME The papernator
+Tue Jul  5 23:38:53 2016	The papernator (STEAM_0:1:88690147) spawned
+Tue Jul  5 23:38:54 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !tp sloth
+Tue Jul  5 23:38:59 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !tp pap
+Tue Jul  5 23:39:27 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !cleardecals
+Tue Jul  5 23:39:40 2016	The papernator was killed by Himself with a suicide trick
+Tue Jul  5 23:39:41 2016	The papernator (STEAM_0:1:88690147) spawned
+Tue Jul  5 23:39:55 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // nice desk u got here sloth
+Tue Jul  5 23:40:03 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // nice stage as well
+Tue Jul  5 23:40:15 2016	The papernator (STEAM_0:1:88690147): // dew it
+Tue Jul  5 23:40:44 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): bullshit
+Tue Jul  5 23:40:46 2016	Jedi Knight Ethan (STEAM_0:1:72945201): xD
+Tue Jul  5 23:40:48 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): cheese
+Tue Jul  5 23:40:49 2016	Jedi Knight Ethan (STEAM_0:1:72945201): HACKS
+Tue Jul  5 23:40:54 2016	Jedi Knight Ethan (STEAM_0:1:72945201): cheese
+Tue Jul  5 23:40:54 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): cheese
+Tue Jul  5 23:41:02 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): freeman
+Tue Jul  5 23:41:07 2016	Jedi Knight Ethan (STEAM_0:1:72945201): freeman
+Tue Jul  5 23:41:07 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): mesa
+Tue Jul  5 23:41:11 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): cheese
+Tue Jul  5 23:41:12 2016	Jedi Knight Ethan (STEAM_0:1:72945201): hahahah
+Tue Jul  5 23:41:21 2016	Jedi Knight Ethan (STEAM_0:1:72945201): hacks!
+Tue Jul  5 23:41:23 2016	Jedi Knight Ethan (STEAM_0:1:72945201): hack
+Tue Jul  5 23:41:25 2016	Jedi Knight Ethan (STEAM_0:1:72945201): hax
+Tue Jul  5 23:41:29 2016	Jedi Knight Ethan (STEAM_0:1:72945201): hacks
+Tue Jul  5 23:41:31 2016	Jedi Knight Ethan (STEAM_0:1:72945201): hacks
+Tue Jul  5 23:41:31 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): cheese
+Tue Jul  5 23:42:21 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !cleardecals
+Tue Jul  5 23:42:22 2016	Sith Apprentice Dat Boi was killed by Himself with a suicide trick
+Tue Jul  5 23:42:26 2016	Sith Apprentice Dat Boi (STEAM_0:1:56053138) spawned
+Tue Jul  5 23:42:50 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): do it
+Tue Jul  5 23:42:52 2016	Sith Apprentice Dat Boi (STEAM_0:1:56053138): tp me pls
+Tue Jul  5 23:42:53 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): cheese
+Tue Jul  5 23:42:56 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): hacks
+Tue Jul  5 23:43:00 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): hacks
+Tue Jul  5 23:43:00 2016	Sith Apprentice AJFERR (STEAM_0:0:53304050): hacks
+Tue Jul  5 23:43:04 2016	Sith Apprentice AJFERR (STEAM_0:0:53304050): hacks
+Tue Jul  5 23:43:06 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): hacks
+Tue Jul  5 23:43:08 2016	Sith Apprentice AJFERR (STEAM_0:0:53304050): hacks
+Tue Jul  5 23:43:11 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): freeman
+Tue Jul  5 23:43:13 2016	Sith Apprentice AJFERR (STEAM_0:0:53304050): oh yeahhh
+Tue Jul  5 23:43:14 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): bullshit
+Tue Jul  5 23:43:18 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): bull shit
+Tue Jul  5 23:43:23 2016	Sith Apprentice AJFERR (STEAM_0:0:53304050): oh yeahhhh
+Tue Jul  5 23:43:30 2016	Sith Apprentice AJFERR (STEAM_0:0:53304050): oh yeah
+Tue Jul  5 23:44:05 2016	Sith Apprentice AJFERR (STEAM_0:0:53304050): /me salutes
+Tue Jul  5 23:44:14 2016	Sith Apprentice Dat Boi was killed by Himself with a suicide trick
+Tue Jul  5 23:44:19 2016	Sith Apprentice Dat Boi (STEAM_0:1:56053138) spawned
+Tue Jul  5 23:44:26 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): Reasy ethan
+Tue Jul  5 23:44:32 2016	Jedi Knight Shrimp was killed by Himself with a suicide trick
+Tue Jul  5 23:44:33 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // will be back in 3 mins
+Tue Jul  5 23:44:36 2016	Jedi Knight Shrimp (STEAM_0:0:81720841) spawned
+Tue Jul  5 23:51:08 2016	The papernator (STEAM_0:1:88690147): /advert *IC* Put the ship on lock down
+Tue Jul  5 23:52:07 2016	Sith Apprentice Dat Boi was killed by Himself with a suicide trick
+Tue Jul  5 23:52:11 2016	Sith Apprentice Dat Boi (STEAM_0:1:56053138) spawned
+Tue Jul  5 23:52:54 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): // lolololol
+Tue Jul  5 23:52:58 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // back
+Tue Jul  5 23:53:01 2016	The papernator (STEAM_0:1:88690147): // where are you
+Tue Jul  5 23:53:05 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !hp ^ 6500
+Tue Jul  5 23:53:07 2016	Jedi Knight Shrimp (STEAM_0:0:81720841): // lololol
+Tue Jul  5 23:53:49 2016	The papernator (STEAM_0:1:88690147): // ethan lets play hide and seek
+Tue Jul  5 23:53:52 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // k
+Tue Jul  5 23:53:57 2016	The papernator was killed by Himself with a suicide trick
+Tue Jul  5 23:53:57 2016	Sith Apprentice AJFERR was killed by Jedi Knight Ethan with a weapon_lightsaber
+Tue Jul  5 23:54:02 2016	Sith Apprentice AJFERR (STEAM_0:0:53304050) spawned
+Tue Jul  5 23:54:03 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !tp ajf
+Tue Jul  5 23:54:06 2016	The papernator (STEAM_0:1:88690147): // everyone to the MH
+Tue Jul  5 23:54:07 2016	The papernator (STEAM_0:1:88690147) spawned
+Tue Jul  5 23:54:15 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // k
+Tue Jul  5 23:54:51 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !cleardecals
+Tue Jul  5 23:55:12 2016	The papernator (STEAM_0:1:88690147): // ethan tp everyone to the mh
+Tue Jul  5 23:55:27 2016	Jedi Knight Shrimp (STEAM_0:0:81720841) disconnected
+Tue Jul  5 23:55:33 2016	The papernator (STEAM_0:1:88690147): #
+Tue Jul  5 23:55:51 2016	Sith Apprentice AJFERR (STEAM_0:0:53304050) disconnected
+Tue Jul  5 23:56:02 2016	Sith Apprentice Dat Boi (STEAM_0:1:56053138) disconnected
+Tue Jul  5 23:56:59 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !hp * 5000
+Tue Jul  5 23:57:38 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // damn I whish I had the rape mod for this 
+Tue Jul  5 23:57:42 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // xD
+Tue Jul  5 23:57:46 2016	The papernator (STEAM_0:1:88690147): // xd
+Tue Jul  5 23:57:53 2016	The papernator (STEAM_0:1:88690147): // XD
+Tue Jul  5 23:57:59 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // 15
+Tue Jul  5 23:58:08 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // 10
+Tue Jul  5 23:58:14 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // 5
+Tue Jul  5 23:58:16 2016	The papernator (STEAM_0:1:88690147): // READY
+Tue Jul  5 23:58:18 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // 0
+Tue Jul  5 23:58:28 2016	Jedi Knight Ethan (STEAM_0:1:72945201): /advert cuming for ur botty
+Tue Jul  5 23:58:33 2016	Jedi Knight Ethan (STEAM_0:1:72945201): /advert ER only ya
+Tue Jul  5 23:58:37 2016	The papernator (STEAM_0:1:88690147): // xd
+Tue Jul  5 23:58:41 2016	The papernator (STEAM_0:1:88690147): // AD
+Tue Jul  5 23:58:42 2016	Jedi Knight Ethan (STEAM_0:1:72945201): /advert without Sitha rea
+Tue Jul  5 23:58:45 2016	The papernator (STEAM_0:1:88690147): // XD
+Tue Jul  5 23:58:46 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // sitha rea*
+Tue Jul  5 23:58:49 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // ffs
+Tue Jul  5 23:58:53 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // sith area***
+Tue Jul  5 23:58:55 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // k?
+Tue Jul  5 23:59:02 2016	The papernator (STEAM_0:1:88690147): // CUME ON AND FIND ME
+Tue Jul  5 23:59:05 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // dude
+Tue Jul  5 23:59:10 2016	The papernator (STEAM_0:1:88690147): // YEAH
+Tue Jul  5 23:59:12 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // without hiding in sith area
+Tue Jul  5 23:59:13 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // ok
+Tue Jul  5 23:59:17 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // ok
+Wed Jul  6 00:01:00 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // hmmm
+Wed Jul  6 00:01:17 2016	The papernator (STEAM_0:1:88690147): // XD
+Wed Jul  6 00:03:00 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // r u still in ER?
+Wed Jul  6 00:03:06 2016	The papernator (STEAM_0:1:88690147): // YEP
+Wed Jul  6 00:03:09 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // xD
+Wed Jul  6 00:03:19 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // let me guess, i saw u at least 3 times
+Wed Jul  6 00:03:25 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // but I didnt SEE u
+Wed Jul  6 00:03:28 2016	The papernator (STEAM_0:1:88690147): // yep
+Wed Jul  6 00:03:30 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // welp
+Wed Jul  6 00:03:34 2016	The papernator (STEAM_0:1:88690147): // XD
+Wed Jul  6 00:03:47 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // later I will model myslef to luke
+Wed Jul  6 00:04:13 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !model ^ models/player/luke_skywalker.mdl
+Wed Jul  6 00:04:25 2016	The papernator (STEAM_0:1:88690147): // i have to go
+Wed Jul  6 00:04:28 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // WHY
+Wed Jul  6 00:04:36 2016	The papernator (STEAM_0:1:88690147): // got to go to bed
+Wed Jul  6 00:04:40 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // o ya
+Wed Jul  6 00:04:42 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // k
+Wed Jul  6 00:04:44 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // cya
+Wed Jul  6 00:04:46 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // btw
+Wed Jul  6 00:04:49 2016	The papernator (STEAM_0:1:88690147): // i am in the dark bit in the er
+Wed Jul  6 00:04:52 2016	Jedi Knight Ethan (STEAM_0:1:72945201): // when do u ahve summer vac?
+Wed Jul  6 00:05:00 2016	Jedi Knight Ethan (STEAM_0:1:72945201): !goto pap
+Wed Jul  6 00:05:56 2016	The papernator (STEAM_0:1:88690147) disconnected
+Wed Jul  6 00:06:25 2016	Jedi Knight Ethan (STEAM_0:1:72945201) disconnected

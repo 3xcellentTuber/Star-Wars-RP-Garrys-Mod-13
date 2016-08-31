@@ -1,0 +1,1 @@
+steamid=STEAM_0:1:72945201;name=TatooineGuardTower;vec=-12160.385742 12570.829102 3293.554688;ang=0.000 -90.675 0.000

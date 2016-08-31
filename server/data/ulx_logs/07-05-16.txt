@@ -1,0 +1,548 @@
+<Logging continued from "data/ulx_logs/07-04-16.txt">
+[14:04:32] Client "AngryChicken82" connected.
+[14:05:15] Client "AngryChicken82" spawned in server <STEAM_0:1:92889617> (took 43 seconds).
+[14:06:22] Dropped "SHDT Reg Comm Ancient" from server<STEAM_0:1:92889617>
+[15:07:06] Client "Marshall" connected.
+[15:07:35] Client "Marshall" spawned in server <STEAM_0:1:112426618> (took 29 seconds).
+[15:09:30] Dropped "ST PVT 9034 Marshall" from server<STEAM_0:1:112426618>
+[16:50:16] Server is shutting down/changing levels.
+
+
+
+[17:38:00] New map: rp_stardestroyer_v1
+[17:38:34] Client "Marshall" spawned in server <STEAM_0:1:112426618> (took 34 seconds).
+[17:39:50] Client "AlfieDeBae" connected.
+[17:39:55] ST PVT 9034 Marshall: WOW>
+[17:40:32] Dropped "ST PVT 9034 Marshall" from server<STEAM_0:1:112426618>
+[18:48:38] Client "L1K34PRO" connected.
+[18:50:24] Client "L1K34PRO" spawned in server <STEAM_0:0:113721067> (took 106 seconds).
+[18:56:03] ST PVT 1234 L1K34PR0 was killed by func_tracktrain
+[19:04:31] Client "toti37182" connected.
+[19:05:50] Client "toti37182" spawned in server <STEAM_0:0:131304126> (took 79 seconds).
+[19:06:54] ST PVT 1234 L1K34PR0 suicided!
+[19:07:03] ST PVT 1234 L1K34PR0: !clear decoy
+[19:07:30] ST PVT 4859 Toti suicided!
+[19:07:36] ST PVT 4859 Toti suicided!
+[19:09:37] ST PVT 4859 Toti suicided!
+[19:10:13] Dropped "ST PVT 1234 L1K34PR0" from server<STEAM_0:0:113721067>
+[19:10:23] Client "L1K34PRO" connected.
+[19:11:32] Client "L1K34PRO" spawned in server <STEAM_0:0:113721067> (took 69 seconds).
+[19:12:01] ST PVT 4859 Toti suicided!
+[19:12:12] ST PVT 4859 Toti suicided!
+[19:12:20] ST PVT 4859 Toti suicided!
+[19:12:30] ST PVT 4859 Toti suicided!
+[19:12:45] ST PVT 4859 Toti suicided!
+[19:12:56] ST PVT 4859 Toti suicided!
+[19:15:02] ST PVT 1234 L1K34PR0 suicided!
+[19:17:31] ST PVT 1234 L1K34PR0 suicided!
+[19:19:56] ST PVT 4859 Toti killed ST PVT 1234 L1K34PR0 using player
+[19:20:14] ST PVT 4859 Toti suicided!
+[19:21:20] Client "liron312" connected.
+[19:22:07] Client "liron312" spawned in server <STEAM_0:0:64179865> (took 47 seconds).
+[19:22:15] ST PVT 1234 L1K34PR0 suicided!
+[19:23:26] Dropped "liron312" from server<STEAM_0:0:64179865>
+[19:23:40] ST PVT 4859 Toti suicided!
+[19:23:46] ST PVT 4859 Toti suicided!
+[19:25:01] ST PVT 4859 Toti killed ST PVT 1234 L1K34PR0 using player
+[19:25:10] ST PVT 4859 Toti suicided!
+[19:26:17] ST PVT 4859 Toti was killed by func_door
+[19:26:25] ST PVT 1234 L1K34PR0 suicided!
+[19:27:43] ST PVT 1234 L1K34PR0 killed ST PVT 4859 Toti using player
+[19:27:55] ST PVT 1234 L1K34PR0 suicided!
+[19:29:18] ST PVT 1234 L1K34PR0 killed ST PVT 4859 Toti using prop_physics
+[19:29:23] ST PVT 1234 L1K34PR0 suicided!
+[19:29:57] ST PVT 1234 L1K34PR0 killed ST PVT 4859 Toti using player
+[19:30:13] ST PVT 4859 Toti killed ST PVT 1234 L1K34PR0 using player
+[19:30:15] Dropped "ST PVT 1234 L1K34PR0" from server<STEAM_0:0:113721067>
+[19:30:17] Client "L1K34PRO" connected.
+[19:30:43] ST PVT 4859 Toti was killed by func_door
+[19:30:54] Client "Marshall" connected.
+[19:31:24] Client "Marshall" spawned in server <STEAM_0:1:112426618> (took 30 seconds).
+[19:31:25] Client "L1K34PRO" spawned in server <STEAM_0:0:113721067> (took 68 seconds).
+[19:33:59] Dropped "ST PVT 9034 Marshall" from server<STEAM_0:1:112426618>
+[19:46:02] ST PVT 4859 Toti suicided!
+[19:46:39] ST PVT 4859 Toti killed ST PVT 1234 L1K34PR0 using player
+[19:46:47] ST PVT 4859 Toti suicided!
+[19:47:13] ST PVT 4859 Toti killed ST PVT 1234 L1K34PR0 using player
+[19:47:21] ST PVT 4859 Toti suicided!
+[19:48:59] ST PVT 4859 Toti killed ST PVT 1234 L1K34PR0 using player
+[19:49:45] ST PVT 4859 Toti killed ST PVT 1234 L1K34PR0 using player
+[19:49:50] ST PVT 4859 Toti suicided!
+[19:50:00] ST PVT 4859 Toti killed ST PVT 1234 L1K34PR0 using player
+[19:50:05] ST PVT 1234 L1K34PR0 killed ST PVT 4859 Toti using player
+[19:50:10] ST PVT 4859 Toti killed ST PVT 1234 L1K34PR0 using player
+[19:50:10] Dropped "ST PVT 1234 L1K34PR0" from server<STEAM_0:0:113721067>
+[19:50:12] Client "L1K34PRO" connected.
+[19:50:53] ST PVT 4859 Toti suicided!
+[19:51:04] Client "L1K34PRO" spawned in server <STEAM_0:0:113721067> (took 52 seconds).
+[19:52:39] Client "Marshall" connected.
+[19:52:57] Client "Marshall" spawned in server <STEAM_0:1:112426618> (took 18 seconds).
+[19:53:51] ST PVT 1234 L1K34PR0: hey
+[19:54:19] ST PVT 1234 L1K34PR0 killed ST PVT 4859 Toti using player
+[19:54:22] ST PVT 1234 L1K34PR0 suicided!
+[19:54:31] ST PVT 4859 Toti killed ST PVT 1234 L1K34PR0 using player
+[19:54:42] ST PVT 1234 L1K34PR0 killed ST PVT 4859 Toti using player
+[19:54:44] ST PVT 1234 L1K34PR0 suicided!
+[19:54:58] (TEAM) ST PVT 9034 Marshall: yy
+[19:55:06] ST PVT 4859 Toti was killed by func_door
+[19:55:11] ST PVT 1234 L1K34PR0 suicided!
+[19:55:16] ST PVT 1234 L1K34PR0 suicided!
+[19:55:37] ST PVT 4859 Toti was killed by func_door
+[19:55:54] ST PVT 9034 Marshall killed ST PVT 4859 Toti using player
+[19:56:18] ST PVT 1234 L1K34PR0: the rule man
+[19:56:35] ST PVT 1234 L1K34PR0: the GOLDAN rule
+[19:57:37] ST PVT 1234 L1K34PR0 suicided!
+[19:58:19] ST PVT 4859 Toti killed ST PVT 1234 L1K34PR0 using player
+[19:59:27] ST PVT 1234 L1K34PR0 killed ST PVT 4859 Toti using player
+[19:59:29] ST PVT 1234 L1K34PR0 suicided!
+[19:59:41] ST PVT 1234 L1K34PR0 suicided!
+[19:59:51] ST PVT 1234 L1K34PR0 suicided!
+[20:04:10] ST PVT 1234 L1K34PR0 killed ST PVT 4859 Toti using player
+[20:04:13] ST PVT 1234 L1K34PR0 suicided!
+[20:04:53] ST PVT 4859 Toti killed ST PVT 1234 L1K34PR0 using player
+[20:10:53] Dropped "ST PVT 4859 Toti" from server<STEAM_0:0:131304126>
+[20:11:06] Dropped "ST PVT 1234 L1K34PR0" from server<STEAM_0:0:113721067>
+[20:26:13] Client "Benji" connected.
+[20:39:38] Client "itaydaga" connected.
+[20:40:34] Client "itaydaga" spawned in server <STEAM_0:0:142468349> (took 56 seconds).
+[20:40:34] Dropped "ST PVT 9034 Marshall" from server<STEAM_0:1:112426618>
+[20:46:18] Dropped "itaydaga" from server<STEAM_0:0:142468349>
+[20:51:24] Client "yarinking .i." connected.
+[21:08:08] Client "The_Mantis_Shrimp" connected.
+[21:09:17] Client "The_Mantis_Shrimp" spawned in server <STEAM_0:0:81720841> (took 69 seconds).
+[21:10:41] Client "yarinking .i." connected.
+[21:10:55] Client "yarinking .i." spawned in server <STEAM_0:0:172979541> (took 14 seconds).
+[21:11:07] st pvt 1234 me me me: hi
+[21:11:12] st pvt 1234 me me me: where to go
+[21:11:29] st pvt 1234 me me me: hi
+[21:11:35] st pvt 1234 me me me: can u help me
+[21:11:40] st pvt 1234 me me me: again
+[21:11:49] st pvt 1234 me me me: where to go
+[21:11:59] st pvt 1234 me me me: i read all of that
+[21:12:17] st pvt 1234 me me me: again
+[21:12:34] st pvt 1234 me me me: 65 hp
+[21:13:05] st pvt 1234 me me me: i dpmt jave a mik
+[21:13:20] st pvt 1234 me me me: y
+[21:13:31] st pvt 1234 me me me: ?
+[21:13:33] st pvt 1234 me me me: whaty
+[21:13:40] st pvt 1234 me me me: spol?
+[21:13:46] SHDT COL 0512 Shrimp: read the wall
+[21:14:03] SHDT COL 0512 Shrimp: im gonna say which one to do
+[21:14:16] SHDT COL 0512 Shrimp: read it?
+[21:14:18] st pvt 1234 me me me: y
+[21:14:38] st pvt 1234 me me me: /me
+[21:14:40] st pvt 1234 me me me: me
+[21:14:41] SHDT COL 0512 Shrimp: /kick
+[21:14:58] SHDT COL 0512 Shrimp killed st pvt 1234 me me me using player
+[21:15:02] st pvt 1234 me me me: why no one play this server
+[21:15:08] Dropped "st pvt 1234 me me me" from server<STEAM_0:0:172979541>
+[21:15:21] SHDT COL 0512 Shrimp: ok
+[21:15:32] SHDT COL 0512 Shrimp: no one is on ;-;
+[21:16:01] SHDT COL 0512 Shrimp: its sad
+[21:16:18] Client "Ethan" connected.
+[21:17:25] Client "Ethan" spawned in server <STEAM_0:1:72945201> (took 67 seconds).
+[21:18:48] SHDT COL 0512 Shrimp: ;-;
+[21:19:03] SHDT COL 0512 Shrimp: :3
+[21:23:03] Darth Ethan<STEAM_0:1:72945201> spawned model models/props_c17/fence02a.mdl
+[21:23:06] Darth Ethan<STEAM_0:1:72945201> spawned model models/props_c17/fence01a.mdl
+[21:23:10] Darth Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_physgun
+[21:23:15] Darth Ethan<STEAM_0:1:72945201> spawned model models/props_c17/fence01a.mdl
+[21:23:19] Darth Ethan<STEAM_0:1:72945201> spawned model models/props_c17/fence03a.mdl
+[21:23:25] Darth Ethan<STEAM_0:1:72945201> spawned/gave himself swep gmod_tool
+[21:23:27] Darth Ethan<STEAM_0:1:72945201> used the tool precision on models/props_c17/fence03a.mdl
+[21:23:28] Darth Ethan<STEAM_0:1:72945201> used the tool precision on models/props_c17/fence03a.mdl
+[21:23:29] Darth Ethan<STEAM_0:1:72945201> used the tool precision on models/props_c17/fence03a.mdl
+[21:23:29] Darth Ethan<STEAM_0:1:72945201> used the tool precision on models/props_c17/fence03a.mdl
+[21:23:29] Darth Ethan<STEAM_0:1:72945201> used the tool precision on models/props_c17/fence03a.mdl
+[21:23:30] Darth Ethan<STEAM_0:1:72945201> used the tool precision on models/props_c17/fence03a.mdl
+[21:23:30] Darth Ethan<STEAM_0:1:72945201> used the tool precision on models/props_c17/fence03a.mdl
+[21:23:31] Darth Ethan<STEAM_0:1:72945201> used the tool precision on models/props_c17/fence03a.mdl
+[21:23:32] Darth Ethan<STEAM_0:1:72945201> used the tool precision on models/props_c17/fence03a.mdl
+[21:23:32] Darth Ethan<STEAM_0:1:72945201> used the tool precision on models/props_c17/fence03a.mdl
+[21:23:33] Darth Ethan<STEAM_0:1:72945201> used the tool precision on models/props_c17/fence03a.mdl
+[21:23:34] Darth Ethan<STEAM_0:1:72945201> used the tool precision on models/props_c17/fence03a.mdl
+[21:23:34] Darth Ethan<STEAM_0:1:72945201> used the tool precision on models/props_c17/fence03a.mdl
+[21:23:35] Darth Ethan<STEAM_0:1:72945201> used the tool precision on models/props_c17/fence03a.mdl
+[21:23:35] Darth Ethan<STEAM_0:1:72945201> used the tool precision on models/props_c17/fence03a.mdl
+[21:23:35] Darth Ethan<STEAM_0:1:72945201> used the tool precision on models/props_c17/fence03a.mdl
+[21:23:36] Darth Ethan<STEAM_0:1:72945201> used the tool precision on models/props_c17/fence03a.mdl
+[21:23:36] Darth Ethan<STEAM_0:1:72945201> used the tool precision on models/props_c17/fence03a.mdl
+[21:23:37] Darth Ethan<STEAM_0:1:72945201> used the tool precision on models/props_c17/fence03a.mdl
+[21:23:37] Darth Ethan<STEAM_0:1:72945201> used the tool precision on models/props_c17/fence03a.mdl
+[21:30:31] SHDT COL 0512 Shrimp<STEAM_0:0:81720841> spawned/gave himself swep gmod_tool
+[21:32:46] Dropped "Darth Ethan" from server<STEAM_0:1:72945201>
+[21:32:53] Dropped "SHDT COL 0512 Shrimp" from server<STEAM_0:0:81720841>
+[21:59:01] Client "The_Mantis_Shrimp" connected.
+[21:59:23] Client "The_Mantis_Shrimp" spawned in server <STEAM_0:0:81720841> (took 22 seconds).
+[21:59:41] Client "Duck Sauce" connected.
+[22:12:23] Client "Duck Sauce" connected.
+[22:17:24] Client "Duck Sauce" spawned in server <STEAM_0:0:53304050> (took 301 seconds).
+[22:19:38] Duck Sauce: /me salutes
+[22:19:48] SHDT COL 0512 Shrimp: /me salutes
+[22:19:50] SHDT COL 0512 Shrimp: at ease trooper(s)
+[22:21:40] SHDT COL 0512 Shrimp: bind k "say /me salutes"
+[22:21:44] SHDT COL 0512 Shrimp: /me salutes
+[22:21:55] Duck Sauce: /me salutes
+[22:27:25] Duck Sauce: /Duck ST PVT 7598 Duck
+[22:27:36] Duck Sauce:  /name ST PVT 7598 Duck
+[22:27:54] Duck Sauce: /name ST PVT 7598 Duck
+[22:27:55] Duck Sauce<STEAM_0:0:53304050> changed their name to ST PVT 7598 Duck
+[22:29:47] Client "Finnerd" connected.
+[22:31:16] SHDT COL 0512 Shrimp: // yolo
+[22:31:23] SHDT COL 0512 Shrimp: /
+[22:31:25] SHDT COL 0512 Shrimp: //
+[22:31:26] ST PVT 7598 Duck: //oh hey
+[22:31:32] SHDT COL 0512 Shrimp: // lol
+[22:31:37] ST PVT 7598 Duck: / /hey
+[22:31:43] ST PVT 7598 Duck: / / hey
+[22:31:51] SHDT COL 0512 Shrimp: "// hey"
+[22:31:59] (TEAM) ST PVT 7598 Duck: // hey
+[22:33:53] Client "avinizri890" connected.
+[22:36:03] Client "avinizri890" spawned in server <STEAM_0:0:41834156> (took 130 seconds).
+[22:36:54] avinizri890<STEAM_0:0:41834156> spawned/gave himself swep weapon_ak472
+[22:36:57] avinizri890<STEAM_0:0:41834156> spawned/gave himself swep weapon_lightsaber
+[22:37:13] avinizri890: !צודןב
+[22:37:18] avinizri890: !music
+[22:37:43] Dropped "avinizri890" from server<STEAM_0:0:41834156>
+[22:37:44] Client "Finnerd" connected.
+[22:40:11] Client "Finnerd" spawned in server <STEAM_0:1:56053138> (took 147 seconds).
+[22:40:24] SHDT COL 0512 Shrimp: hey fin, ill invite you to chat
+[22:41:40] SHDT COL 0512 Shrimp: fin?
+[22:47:35] SHDT COL 0512 Shrimp killed MED PFC 2109 Finnerd using player
+[22:47:54] SHDT COL 0512 Shrimp killed MED PFC 2109 Finnerd using player
+[22:48:02] SHDT COL 0512 Shrimp killed MED PFC 2109 Finnerd using player
+[22:49:56] SHDT COL 0512 Shrimp: /me tickles fin
+[22:50:12] SHDT COL 0512 Shrimp: /me rubs his belly
+[22:50:17] MED PFC 2109 Finnerd: /me groans
+[22:51:23] SHDT COL 0512 Shrimp suicided!
+[22:52:08] SHDT COL 0512 Shrimp: !bring duck
+[22:52:42] SHDT COL 0512 Shrimp killed MED PFC 2109 Finnerd using player
+[22:52:55] SHDT COL 0512 Shrimp suicided!
+[22:53:06] MED PFC 2109 Finnerd killed ST PVT 7598 Duck using player
+[22:53:09] SHDT COL 0512 Shrimp killed MED PFC 2109 Finnerd using player
+[22:54:10] SHDT COL 0512 Shrimp killed ST PVT 7598 Duck using player
+[22:54:19] MED PFC 2109 Finnerd killed ST PVT 7598 Duck using player
+[22:54:42] SHDT COL 0512 Shrimp suicided!
+[22:55:08] SHDT COL 0512 Shrimp: thats ok
+[22:55:18] MED PFC 2109 Finnerd: you ready
+[22:55:20] SHDT COL 0512 Shrimp: will you white list duck?
+[22:55:31] ST PVT 7598 Duck: /me salutes
+[22:55:34] MED PFC 2109 Finnerd: /me salute
+[22:55:49] MED PFC 2109 Finnerd: hey ethan, we were just having some fun
+[22:56:30] SHDT COL 0512 Shrimp killed MED PFC 2109 Finnerd using player
+[22:57:08] SHDT COL 0512 Shrimp killed ST PVT 7598 Duck using player
+[22:57:27] SHDT COL 0512 Shrimp killed MED PFC 2109 Finnerd using player
+[22:58:49] SHDT COL 0512 Shrimp<STEAM_0:0:81720841> spawned model models/props_c17/furniturechair001a.mdl
+[22:58:52] SHDT COL 0512 Shrimp<STEAM_0:0:81720841> spawned model models/props_c17/furnitureboiler001a.mdl
+[22:58:57] ST PVT 7598 Duck<STEAM_0:0:53304050> spawned model models/props_junk/plasticcrate01a.mdl
+[22:59:23] Client "CuziMBordga" connected.
+[22:59:56] MED PFC 2109 Finnerd: /me salute
+[22:59:58] MED PFC 2109 Finnerd: /me salute
+[22:59:58] MED PFC 2109 Finnerd: /me salute
+[22:59:59] SHDT COL 0512 Shrimp: at ease trooper(s)
+[23:02:47] SHDT COL 0512 Shrimp killed ST PVT 7598 Duck using player
+[23:02:59] Client "HooDini" connected.
+[23:03:01] MED PFC 2109 Finnerd suicided!
+[23:03:56] Client "HooDini" spawned in server <STEAM_0:1:177652148> (took 57 seconds).
+[23:04:10] HooDini: hey
+[23:04:18] HooDini: yes
+[23:04:23] HooDini: TC
+[23:04:30] HooDini: WAIT
+[23:04:32] HooDini: RLY
+[23:04:34] HooDini: YES!!!!!!!!!!!!!!
+[23:04:36] HooDini suicided!
+[23:04:47] HooDini: nice
+[23:04:49] HooDini: finally
+[23:05:00] HooDini: IDK do I?
+[23:05:08] HooDini: who is this 
+[23:05:16] HooDini: oh
+[23:05:22] HooDini: ok
+[23:05:26] HooDini: well
+[23:05:27] HooDini: ya
+[23:05:29] HooDini: brb
+[23:05:35] HooDini: like gimmie 2 mins my mum needs me
+[23:05:41] HooDini: nah
+[23:05:45] SHDT COL 0512 Shrimp: http://steamcommunity.com/sharedfiles/filedetails/?id=675039044
+[23:06:09] SHDT COL 0512 Shrimp: yes, duck please
+[23:06:10] MED PFC 2109 Finnerd: DUCK
+[23:06:19] (Console) added ST PVT 7598 Duck to group STPVT
+[23:06:39] SHDT COL 0512 Shrimp: thnx, erm for now come back in 10
+[23:06:52] MED PFC 2109 Finnerd: could you start an event?
+[23:06:55] SHDT COL 0512 Shrimp: ok
+[23:07:14] MED PFC 2109 Finnerd: YYYYAYAYAYAYAYAY
+[23:07:34] HooDini: ah ffs
+[23:07:37] HooDini: hold on
+[23:07:41] HooDini: my bro needs me
+[23:07:42] HooDini: xD
+[23:07:51] HooDini: k back
+[23:07:55] HooDini: so
+[23:08:14] HooDini: yes DADDY
+[23:08:24] HooDini: /name ST PVT 1456 HooDini
+[23:08:25] HooDini<STEAM_0:1:177652148> changed their name to ST PVT 1456 HooDini
+[23:08:35] ST PVT 1456 HooDini: I think
+[23:08:36] ST PVT 1456 HooDini: /me salutes
+[23:08:37] ST PVT 1456 HooDini: /me strips weapons and comms
+[23:08:38] ST PVT 1456 HooDini: /me strips weapons and comms
+[23:09:53] ST PVT 1456 HooDini: weapon away
+[23:10:07] ST PVT 1456 HooDini suicided!
+[23:10:10] ST PVT 7598 Duck: /me salutes
+[23:10:33] ST PVT 1456 HooDini: tight and loose
+[23:10:35] ST PVT 1456 HooDini: wat
+[23:10:38] ST PVT 1456 HooDini: ?
+[23:10:50] ST PVT 1456 HooDini: /me PEW PEW
+[23:11:12] ST PVT 1456 HooDini: ohhh yeah
+[23:11:33] ST PVT 1456 HooDini: /me strips weapons and comms
+[23:12:02] ST PVT 7598 Duck killed ST PVT 1456 HooDini using player
+[23:12:35] ST PVT 1456 HooDini: xD
+[23:12:45] ST PVT 1456 HooDini: YEAH
+[23:12:51] SHDT COL 0512 Shrimp killed ST PVT 1456 HooDini using player
+[23:13:00] SHDT COL 0512 Shrimp: last chance
+[23:13:07] ST PVT 7598 Duck killed ST PVT 1456 HooDini using player
+[23:13:22] SHDT COL 0512 Shrimp: !warn HooDini
+[23:14:40] ST PVT 1456 HooDini: I didnt hack u or anythin
+[23:15:11] ST PVT 1456 HooDini: LOl
+[23:15:14] ST PVT 1456 HooDini: y u no kill me
+[23:15:15] SHDT COL 0512 Shrimp: what?
+[23:15:23] SHDT COL 0512 Shrimp: you no clipped
+[23:15:27] ST PVT 1456 HooDini: rly
+[23:15:29] ST PVT 1456 HooDini: ?
+[23:15:32] ST PVT 1456 HooDini: DAMN
+[23:15:36] ST PVT 1456 HooDini: should have used that
+[23:15:40] SHDT COL 0512 Shrimp: well
+[23:15:48] SHDT COL 0512 Shrimp: you are getting kicked now :P
+[23:15:53] SHDT COL 0512 Shrimp: soz
+[23:15:57] ST PVT 1456 HooDini: tho when I try to it says You don't have access to this command, ST PVT 1456 HooDini!
+[23:16:06] ST PVT 1456 HooDini: u r going to kick me?!
+[23:16:10] ST PVT 1456 HooDini: pls dont
+[23:16:11] SHDT COL 0512 Shrimp: yeh, soz
+[23:16:21] SHDT COL 0512 Shrimp: should have listened
+[23:16:40] ST PVT 1456 HooDini: /y hax
+[23:16:42] ST PVT 1456 HooDini: hax
+[23:16:44] ST PVT 1456 HooDini: hax
+[23:16:48] ST PVT 1456 HooDini: cheese
+[23:16:55] ST PVT 1456 HooDini: hax
+[23:16:58] ST PVT 1456 HooDini: hack
+[23:17:00] ST PVT 1456 HooDini: hacks
+[23:17:01] SHDT COL 0512 Shrimp: Ethan? please kick HooDini
+[23:17:03] ST PVT 1456 HooDini: hacks
+[23:17:07] ST PVT 1456 HooDini suicided!
+[23:17:23] (Console) kicked ST PVT 1456 HooDini (wtf is this crap now)
+[23:17:23] Dropped "ST PVT 1456 HooDini" from server<STEAM_0:1:177652148>
+[23:17:46] SHDT COL 0512 Shrimp: ok
+[23:17:50] SHDT COL 0512 Shrimp: he was no clipping
+[23:18:22] SHDT COL 0512 Shrimp: was that you?
+[23:18:27] SHDT COL 0512 Shrimp: ??
+[23:18:49] SHDT COL 0512 Shrimp: was it your second account
+[23:18:53] SHDT COL 0512 Shrimp: ??
+[23:18:56] SHDT COL 0512 Shrimp: test?
+[23:19:14] SHDT COL 0512 Shrimp: really?
+[23:19:26] SHDT COL 0512 Shrimp: yay!
+[23:19:40] SHDT COL 0512 Shrimp: i remembered your name was hoodini
+[23:19:46] (TEAM) SHDT COL 0512 Shrimp: before.....
+[23:20:01] SHDT COL 0512 Shrimp: mind fuck!
+[23:20:07] SHDT COL 0512 Shrimp: yeh
+[23:20:23] SHDT COL 0512 Shrimp: ok
+[23:20:26] SHDT COL 0512 Shrimp: hurray
+[23:20:31] SHDT COL 0512 Shrimp: thats soo weird
+[23:20:56] Client "Ethan" connected.
+[23:21:27] Client "Ethan" spawned in server <STEAM_0:1:72945201> (took 31 seconds).
+[23:21:51] Darth Ethan: /name Ethan
+[23:21:52] Darth Ethan<STEAM_0:1:72945201> changed their name to Ethan
+[23:22:26] Ethan: /advert all to Debrief*
+[23:23:01] Ethan: /name MED REG COMM Ethan
+[23:23:01] Ethan<STEAM_0:1:72945201> changed their name to MED REG COMM Ethan
+[23:23:26] SHDT COL 0512 Shrimp: /me salutes
+[23:23:29] ST PVT 7598 Duck: /me salutes
+[23:23:29] MED PFC 2109 Finnerd: /me salute
+[23:23:47] MED PFC 2109 Finnerd: /me salute
+[23:23:51] MED PFC 2109 Finnerd: /me salute
+[23:24:33] MED REG COMM Ethan: esstarwarsrp.enjin.com
+[23:26:11] MED PFC 2109 Finnerd: /name Finnerd
+[23:26:12] MED PFC 2109 Finnerd<STEAM_0:1:56053138> changed their name to Finnerd
+[23:26:12] MED REG COMM Ethan: /name Jedi Knight Ethan
+[23:26:13] MED REG COMM Ethan<STEAM_0:1:72945201> changed their name to Jedi Knight Ethan
+[23:26:15] SHDT COL 0512 Shrimp: /name Jedi Shrimp
+[23:26:16] SHDT COL 0512 Shrimp<STEAM_0:0:81720841> changed their name to Jedi Shrimp
+[23:26:28] Jedi Shrimp: /name Jedi Knight Shrimp
+[23:26:29] Jedi Shrimp<STEAM_0:0:81720841> changed their name to Jedi Knight Shrimp
+[23:26:44] ST PVT 7598 Duck: /name Sith Apprentice AJFERR
+[23:26:45] ST PVT 7598 Duck<STEAM_0:0:53304050> changed their name to Sith Apprentice AJFERR
+[23:27:05] Finnerd: /name Sith Apprentice Dat Boi
+[23:27:06] Finnerd<STEAM_0:1:56053138> changed their name to Sith Apprentice Dat Boi
+[23:27:08] Jedi Knight Shrimp: // tp pls
+[23:27:10] Jedi Knight Ethan: !tp finn
+[23:27:16] Jedi Knight Ethan: !tp shrim
+[23:27:16] Jedi Knight Ethan teleported Jedi Knight Shrimp
+[23:27:23] Jedi Knight Ethan: !bring shrim
+[23:27:23] Jedi Knight Ethan brought Jedi Knight Shrimp
+[23:27:27] Jedi Knight Ethan: !bring finn
+[23:27:33] Jedi Knight Ethan: !bring dat
+[23:27:35] Sith Apprentice AJFERR: /me salutes
+[23:27:39] Sith Apprentice AJFERR suicided!
+[23:27:39] Jedi Knight Ethan: !tp dat
+[23:27:39] Jedi Knight Ethan teleported Sith Apprentice Dat Boi
+[23:27:47] Jedi Knight Ethan: !tp aj
+[23:27:47] Jedi Knight Ethan teleported Sith Apprentice AJFERR
+[23:28:01] Jedi Knight Ethan<STEAM_0:1:72945201> spawned/gave himself swep gmod_tool
+[23:28:10] Jedi Knight Shrimp suicided!
+[23:28:21] Jedi Knight Ethan<STEAM_0:1:72945201> used the tool rb655_lightsaber on maps/rp_stardestroyer_v1.bsp
+[23:28:29] Jedi Knight Ethan: !tp shri
+[23:28:29] Jedi Knight Ethan teleported Jedi Knight Shrimp
+[23:28:45] Dropped "Sith Apprentice Dat Boi" from server<STEAM_0:1:56053138>
+[23:28:52] Jedi Knight Shrimp killed Jedi Knight Ethan using weapon_lightsaber
+[23:28:59] Jedi Knight Ethan: !goto ajf
+[23:28:59] Jedi Knight Ethan teleported to Sith Apprentice AJFERR
+[23:29:24] Jedi Knight Ethan: !goto ajf
+[23:29:24] Jedi Knight Ethan teleported to Sith Apprentice AJFERR
+[23:29:35] Sith Apprentice AJFERR suicided!
+[23:29:39] Jedi Knight Ethan: !tp ajf
+[23:29:39] Jedi Knight Ethan teleported Sith Apprentice AJFERR
+[23:29:49] Jedi Knight Ethan<STEAM_0:1:72945201> spawned/gave himself swep gmod_tool
+[23:29:51] Jedi Knight Ethan<STEAM_0:1:72945201> used the tool rb655_lightsaber on maps/rp_stardestroyer_v1.bsp
+[23:29:58] Sith Apprentice AJFERR suicided!
+[23:30:02] Jedi Knight Ethan: !tp ajf
+[23:30:02] Jedi Knight Ethan teleported Sith Apprentice AJFERR
+[23:30:17] Jedi Knight Ethan: about 41
+[23:30:35] Sith Apprentice AJFERR suicided!
+[23:30:49] Jedi Knight Ethan: !tp ajf
+[23:30:49] Jedi Knight Ethan teleported Sith Apprentice AJFERR
+[23:31:01] Jedi Knight Ethan: !mapreset
+[23:31:03] Jedi Knight Ethan: !resetmap
+[23:31:04] Jedi Knight Ethan reset the map to its original state
+[23:31:50] Jedi Knight Ethan: !tp shri
+[23:31:50] Jedi Knight Ethan teleported Jedi Knight Shrimp
+[23:32:36] Jedi Knight Shrimp: duck is just changing settings, ill be right back
+[23:32:43] Jedi Knight Shrimp: k?
+[23:33:00] Client "Finnerd" connected.
+[23:33:19] Jedi Knight Ethan: !cleardecals
+[23:33:19] Jedi Knight Ethan cleared decals
+[23:33:48] Jedi Knight Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_physgun
+[23:33:48] Jedi Knight Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_physgun
+[23:34:02] Jedi Knight Ethan: !mapreset
+[23:34:06] Jedi Knight Ethan: !resetmap
+[23:34:07] Jedi Knight Ethan reset the map to its original state
+[23:35:02] Client "Sloth" connected.
+[23:36:45] Jedi Knight Ethan<STEAM_0:1:72945201> used the tool rb655_lightsaber on maps/rp_stardestroyer_v1.bsp
+[23:36:48] Client "Sloth" spawned in server <STEAM_0:1:88690147> (took 106 seconds).
+[23:36:58] Jedi Knight Ethan: !tp sloth
+[23:36:58] Jedi Knight Ethan teleported SKT REG COMM Sloth
+[23:37:44] Client "Finnerd" spawned in server <STEAM_0:1:56053138> (took 284 seconds).
+[23:38:03] Jedi Knight Shrimp killed SKT REG COMM Sloth using weapon_lightsaber
+[23:38:10] Jedi Knight Ethan: !forcerespawn dat
+[23:38:10] Jedi Knight Ethan respawned Sith Apprentice Dat Boi
+[23:38:12] Jedi Knight Ethan: !tp dat
+[23:38:12] Jedi Knight Ethan teleported Sith Apprentice Dat Boi
+[23:38:17] Jedi Knight Ethan: !tp sloth
+[23:38:22] Jedi Knight Ethan: !forcerespawn sloth
+[23:38:22] SKT REG COMM Sloth suicided!
+[23:38:22] Jedi Knight Ethan respawned SKT REG COMM Sloth
+[23:38:25] Jedi Knight Ethan: !tp sloth
+[23:38:25] Jedi Knight Ethan teleported SKT REG COMM Sloth
+[23:38:53] SKT REG COMM Sloth: /NAME The papernator
+[23:38:53] SKT REG COMM Sloth<STEAM_0:1:88690147> changed their name to The papernator
+[23:38:54] Jedi Knight Ethan: !tp sloth
+[23:38:59] Jedi Knight Ethan: !tp pap
+[23:38:59] Jedi Knight Ethan teleported The papernator
+[23:39:27] Jedi Knight Ethan: !cleardecals
+[23:39:27] Jedi Knight Ethan cleared decals
+[23:39:40] The papernator suicided!
+[23:39:55] Jedi Knight Ethan: // nice desk u got here sloth
+[23:40:03] Jedi Knight Ethan: // nice stage as well
+[23:40:15] The papernator: // dew it
+[23:40:44] Jedi Knight Shrimp: bullshit
+[23:40:46] Jedi Knight Ethan: xD
+[23:40:48] Jedi Knight Shrimp: cheese
+[23:40:49] Jedi Knight Ethan: HACKS
+[23:40:54] Jedi Knight Ethan: cheese
+[23:40:54] Jedi Knight Shrimp: cheese
+[23:41:02] Jedi Knight Shrimp: freeman
+[23:41:07] Jedi Knight Ethan: freeman
+[23:41:07] Jedi Knight Shrimp: mesa
+[23:41:11] Jedi Knight Shrimp: cheese
+[23:41:12] Jedi Knight Ethan: hahahah
+[23:41:21] Jedi Knight Ethan: hacks!
+[23:41:23] Jedi Knight Ethan: hack
+[23:41:25] Jedi Knight Ethan: hax
+[23:41:29] Jedi Knight Ethan: hacks
+[23:41:31] Jedi Knight Ethan: hacks
+[23:41:31] Jedi Knight Shrimp: cheese
+[23:41:45] Jedi Knight Ethan brought Sith Apprentice Dat Boi
+[23:42:21] Jedi Knight Ethan: !cleardecals
+[23:42:21] Jedi Knight Ethan cleared decals
+[23:42:22] Sith Apprentice Dat Boi suicided!
+[23:42:50] Jedi Knight Shrimp: do it
+[23:42:52] Sith Apprentice Dat Boi: tp me pls
+[23:42:53] Jedi Knight Shrimp: cheese
+[23:42:56] Jedi Knight Shrimp: hacks
+[23:43:00] Jedi Knight Shrimp: hacks
+[23:43:00] Sith Apprentice AJFERR: hacks
+[23:43:04] Sith Apprentice AJFERR: hacks
+[23:43:06] Jedi Knight Shrimp: hacks
+[23:43:08] Sith Apprentice AJFERR: hacks
+[23:43:11] Jedi Knight Shrimp: freeman
+[23:43:13] Sith Apprentice AJFERR: oh yeahhh
+[23:43:14] Jedi Knight Shrimp: bullshit
+[23:43:18] Jedi Knight Shrimp: bull shit
+[23:43:23] Sith Apprentice AJFERR: oh yeahhhh
+[23:43:30] Sith Apprentice AJFERR: oh yeah
+[23:44:05] Sith Apprentice AJFERR: /me salutes
+[23:44:14] Sith Apprentice Dat Boi suicided!
+[23:44:26] Jedi Knight Shrimp: Reasy ethan
+[23:44:32] Jedi Knight Shrimp suicided!
+[23:44:33] Jedi Knight Ethan: // will be back in 3 mins
+[23:51:08] The papernator: /advert *IC* Put the ship on lock down
+[23:52:07] Sith Apprentice Dat Boi suicided!
+[23:52:54] Jedi Knight Shrimp: // lolololol
+[23:52:58] Jedi Knight Ethan: // back
+[23:53:01] The papernator: // where are you
+[23:53:05] Jedi Knight Ethan: !hp ^ 6500
+[23:53:05] Jedi Knight Ethan set the hp for Themself to 6500
+[23:53:07] Jedi Knight Ethan teleported to Jedi Knight Shrimp
+[23:53:07] Jedi Knight Shrimp: // lololol
+[23:53:49] The papernator: // ethan lets play hide and seek
+[23:53:52] Jedi Knight Ethan: // k
+[23:53:57] The papernator suicided!
+[23:53:57] Jedi Knight Ethan killed Sith Apprentice AJFERR using weapon_lightsaber
+[23:54:03] Jedi Knight Ethan: !tp ajf
+[23:54:03] Jedi Knight Ethan teleported Sith Apprentice AJFERR
+[23:54:06] The papernator: // everyone to the MH
+[23:54:15] Jedi Knight Ethan: // k
+[23:54:32] Jedi Knight Ethan teleported to The papernator
+[23:54:51] Jedi Knight Ethan: !cleardecals
+[23:54:51] Jedi Knight Ethan cleared decals
+[23:55:12] The papernator: // ethan tp everyone to the mh
+[23:55:18] Jedi Knight Ethan brought Sith Apprentice AJFERR
+[23:55:21] Jedi Knight Ethan brought Sith Apprentice Dat Boi
+[23:55:25] Jedi Knight Ethan brought Jedi Knight Shrimp
+[23:55:27] Dropped "Jedi Knight Shrimp" from server<STEAM_0:0:81720841>
+[23:55:33] The papernator: #
+[23:55:51] Dropped "Sith Apprentice AJFERR" from server<STEAM_0:0:53304050>
+[23:56:02] Dropped "Sith Apprentice Dat Boi" from server<STEAM_0:1:56053138>
+[23:56:59] Jedi Knight Ethan: !hp * 5000
+[23:56:59] Jedi Knight Ethan set the hp for Everyone to 5000
+[23:57:38] Jedi Knight Ethan: // damn I whish I had the rape mod for this 
+[23:57:42] Jedi Knight Ethan: // xD
+[23:57:46] The papernator: // xd
+[23:57:53] The papernator: // XD
+[23:57:59] Jedi Knight Ethan: // 15
+[23:58:08] Jedi Knight Ethan: // 10
+[23:58:14] Jedi Knight Ethan: // 5
+[23:58:16] The papernator: // READY
+[23:58:18] Jedi Knight Ethan: // 0
+[23:58:28] Jedi Knight Ethan: /advert cuming for ur botty
+[23:58:33] Jedi Knight Ethan: /advert ER only ya
+[23:58:37] The papernator: // xd
+[23:58:41] The papernator: // AD
+[23:58:42] Jedi Knight Ethan: /advert without Sitha rea
+[23:58:45] The papernator: // XD
+[23:58:46] Jedi Knight Ethan: // sitha rea*
+[23:58:49] Jedi Knight Ethan: // ffs
+[23:58:53] Jedi Knight Ethan: // sith area***
+[23:58:55] Jedi Knight Ethan: // k?
+[23:59:02] The papernator: // CUME ON AND FIND ME
+[23:59:05] Jedi Knight Ethan: // dude
+[23:59:10] The papernator: // YEAH
+[23:59:12] Jedi Knight Ethan: // without hiding in sith area
+[23:59:13] Jedi Knight Ethan: // ok
+[23:59:17] Jedi Knight Ethan: // ok
+<Logging continued in "data/ulx_logs/07-06-16.txt">

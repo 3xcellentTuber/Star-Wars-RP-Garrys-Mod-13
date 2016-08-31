@@ -1,0 +1,60 @@
+; Here's where you put advertisements
+;
+; Whether an advertisement is a center advertisement (csay) or text box advertisement (tsay) is determined by
+; whether or not the "time_on_screen" key is present. If it is present, it's a csay.
+;
+; The 'time' argument inside a center advertisement and the number following a chat advertisement are the
+; time it takes between each showing of this advertisement in seconds. Set it to 300 and the advertisement
+; will show every five minutes.
+;
+; If you want to make it so that one advertisement is shown and then will always be followed by another,
+; put them in a table. For example, if you add the following to the bottom of the file, A will always show
+; first followed by B.
+; "my_group"
+; {
+;     {
+;         "text" "Advertisement A"
+;         "time" "200"
+;     }
+;     {
+;         "text" "Advertisement B"
+;         "time" "300"
+;     }
+; }
+
+{
+	"text" "Join us on TeamSpeak3 at 176.228.13.244:9987"
+	"red" "151"
+	"green" "211"
+	"blue" "255"
+	"time" "300"
+}
+{
+	"text" "Hey if you need an Admin, type in the chat like so @ hello, I need you to whitelist [name]"
+	"red" "151"
+	"green" "211"
+	"blue" "255"
+	"time_on_screen" "10"
+	"time" "300"
+}
+{
+	"text" "Join us on our forums esstarwarsrp.enjin.com"
+	"red" "100"
+	"green" "255"
+	"blue" "200"
+	"time" "300"
+}
+{
+	"text" "Looking for the collection? Open F4 menu -> info -> collection"
+	"red" "20"
+	"green" "157"
+	"blue" "255"
+	"time" "260"
+}
+{
+	"text" "Want to get to the court? type in chat /warp and teleport there"
+	"red" "255"
+	"green" "0"
+	"blue" "0"
+	"time" "200"
+}

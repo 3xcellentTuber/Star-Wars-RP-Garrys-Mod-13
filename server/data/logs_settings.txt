@@ -1,0 +1,2 @@
+#Here are the DarkRP Log Settings! Please do not touch! :)
+;;;true

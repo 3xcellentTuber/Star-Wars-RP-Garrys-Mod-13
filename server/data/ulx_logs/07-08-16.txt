@@ -1,0 +1,1963 @@
+<Logging continued from "data/ulx_logs/07-07-16.txt">
+[05:07:53] Client "egor.kazantsev.1997" connected.
+[11:50:57] Client "A Person" connected.
+[11:52:43] Client "A Person" spawned in server <STEAM_0:0:63975104> (took 106 seconds).
+[11:56:05] ST PVT 1763 Person: /name A Person
+[11:56:05] ST PVT 1763 Person<STEAM_0:0:63975104> changed their name to A Person
+[12:00:12] A Person: /ST PVT 1567 Triggered
+[12:00:35] A Person: /name ST PVT 1765 Triggered
+[12:00:35] A Person<STEAM_0:0:63975104> changed their name to ST PVT 1765 Triggered
+[12:02:32] (Console) added ST PVT 1765 Triggered to group STPVT
+[12:03:20] ST PVT 1765 Triggered: /me Salutes With Honor
+[12:05:18] ST PVT 1765 Triggered: Never shoot a brother unless orderd by the Emperor, Darth Vader or the Grand Admiral
+[12:06:04] ST PVT 1765 Triggered: The Golden Rule Is to Never shoot a brother unless ordered by the Emperor, Darth Vader or the Grand Admiral
+[12:06:22] ST PVT 1765 Triggered: /me Salutes With Honor
+[12:06:23] ST PVT 1765 Triggered: /me Salutes With Honor
+[12:10:30] ST PVT 1765 Triggered: The Golden Rule Is to Never shoot a brother unless ordered by the Emperor, Darth Vader or the Grand Admiral
+[12:14:57] ST PVT 1765 Triggered: @ Hello, I need to be traind
+[12:14:57] ST PVT 1765 Triggered to admins: Hello, I need to be traind
+[12:17:41] Dropped "ST PVT 1765 Triggered" from server<STEAM_0:0:63975104>
+[12:22:51] Client "Roy" connected.
+[12:24:08] Client "Roy" spawned in server <STEAM_0:1:87936506> (took 77 seconds).
+[12:28:55] Dropped "501st PVT 2410 Roy" from server<STEAM_0:1:87936506>
+[15:08:37] Client "Snake" connected.
+[15:10:22] Client "Snake" spawned in server <STEAM_0:0:80611986> (took 105 seconds).
+[15:11:08] Dropped "Snake" from server<STEAM_0:0:80611986>
+[17:01:17] Client "[RG] NievAchieve" connected.
+[17:03:31] Client "[RG] NievAchieve" spawned in server <STEAM_0:1:79001790> (took 134 seconds).
+[17:18:05] Mutated Trooper Bob: /name Shadow on Duty
+[17:18:05] Mutated Trooper Bob<STEAM_0:1:79001790> changed their name to Shadow on Duty
+[17:19:13] Shadow on Duty cloaked Themself by amount 0
+[17:20:22] Shadow on Duty<STEAM_0:1:79001790> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[17:20:24] Shadow on Duty<STEAM_0:1:79001790> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[17:20:24] Shadow on Duty<STEAM_0:1:79001790> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[17:20:31] Shadow on Duty<STEAM_0:1:79001790> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[17:25:06] Client "Team-Nalo.de | SovietWomble |" connected.
+[17:27:14] Client "Team-Nalo.de | SovietWomble |" connected.
+[17:27:51] Client "Team-Nalo.de | SovietWomble |" spawned in server <STEAM_0:0:83788548> (took 37 seconds).
+[17:28:22] Team-Nalo.de | SovietWomble |: @ hi bin da
+[17:28:22] Team-Nalo.de | SovietWomble | to admins: hi bin da
+[17:28:32] Shadow on Duty uncloaked Themself
+[17:29:09] Shadow on Duty set the model for Themself to model
+[17:29:13] Shadow on Duty set the model for Themself to models/player/hydro/212th_stormtrooper/212th_stormtrooper.mdl
+[17:29:32] Shadow on Duty: /name 212th REG Commander Cody
+[17:29:33] Shadow on Duty<STEAM_0:1:79001790> changed their name to 212th REG Commander Cody
+[17:30:15] 212th REG Commander Cody<STEAM_0:1:79001790> spawned/gave himself swep weapon_claws
+[17:30:29] 212th REG Commander Cody<STEAM_0:1:79001790> spawned/gave himself swep weapon_752_ihr
+[17:31:13] Dropped "Team-Nalo.de | SovietWomble |" from server<STEAM_0:0:83788548>
+[17:33:29] 212th REG Commander Cody added Themself to group superadmin
+[17:33:43] (SILENT) 212th REG Commander Cody set the vehicle limit for Group to 10
+[17:33:49] (SILENT) 212th REG Commander Cody set the npc limit for Group to 10
+[17:33:55] (SILENT) 212th REG Commander Cody set the sent limit for Group to 10
+[17:34:02] (SILENT) 212th REG Commander Cody set the effect limit for Group to 10
+[17:34:04] (SILENT) 212th REG Commander Cody set the ragdoll limit for Group to 10
+[17:34:12] (SILENT) 212th REG Commander Cody set the prop limit for Group to 5
+[17:35:00] (SILENT) 212th REG Commander Cody set the ragdoll limit for Group to -1
+[17:35:03] (SILENT) 212th REG Commander Cody set the effect limit for Group to -1
+[17:35:05] (SILENT) 212th REG Commander Cody set the sent limit for Group to -1
+[17:35:08] (SILENT) 212th REG Commander Cody set the npc limit for Group to -1
+[17:35:10] (SILENT) 212th REG Commander Cody set the vehicle limit for Group to -1
+[17:35:13] (SILENT) 212th REG Commander Cody set the prop limit for Group to -1
+[17:36:08] (SILENT) 212th REG Commander Cody set the prop limit for superadmin to 5
+[17:36:14] 212th REG Commander Cody<STEAM_0:1:79001790> spawned model models/lt_c/desk_officer.mdl
+[17:36:23] 212th REG Commander Cody<STEAM_0:1:79001790> used the tool remover on models/lt_c/desk_officer.mdl
+[17:36:28] 212th REG Commander Cody<STEAM_0:1:79001790> spawned model models/lt_c/desk_officer.mdl
+[17:37:15] 212th REG Commander Cody<STEAM_0:1:79001790> used the tool remover on models/lt_c/desk_officer.mdl
+[17:37:19] 212th REG Commander Cody<STEAM_0:1:79001790> spawned model models/lt_c/desk_officer.mdl
+[17:37:43] 212th REG Commander Cody<STEAM_0:1:79001790> used the tool permaprops on models/lt_c/desk_officer.mdl
+[17:38:54] 212th REG Commander Cody<STEAM_0:1:79001790> spawned model models/lt_c/flagpole.mdl
+[17:39:05] 212th REG Commander Cody<STEAM_0:1:79001790> used the tool permaprops on models/lt_c/flagpole.mdl
+[17:39:49] 212th REG Commander Cody<STEAM_0:1:79001790> spawned model models/props_combine/breendesk.mdl
+[17:40:01] 212th REG Commander Cody<STEAM_0:1:79001790> spawned model models/props_combine/breenchair.mdl
+[17:40:49] 212th REG Commander Cody<STEAM_0:1:79001790> used the tool textscreen on models/props_combine/breendesk.mdl
+[17:40:57] 212th REG Commander Cody<STEAM_0:1:79001790> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[17:40:59] 212th REG Commander Cody<STEAM_0:1:79001790> used the tool permaprops on models/props_combine/breenchair.mdl
+[17:41:39] Client "hook12aaa" connected.
+[17:41:49] 212th REG Commander Cody<STEAM_0:1:79001790> spawned model models/lt_c/sci_fi/holo_tablet.mdl
+[17:42:03] 212th REG Commander Cody<STEAM_0:1:79001790> spawned effect models/lt_c/holograms/rt_cam.mdl
+[17:42:09] Client "hook12aaa" spawned in server <STEAM_0:1:90211140> (took 30 seconds).
+[17:42:14] 212th REG Commander Cody<STEAM_0:1:79001790> used the tool remover on models/props_junk/watermelon01.mdl
+[17:42:20] 212th REG Commander Cody<STEAM_0:1:79001790> used the tool remover on models/lt_c/sci_fi/holo_tablet.mdl
+[17:43:25] HOOK: !menu
+[17:43:26] 212th REG Commander Cody added Themself to group admin
+[17:43:45] Hook table of HOOK printed to console
+[17:44:44] HOOK<STEAM_0:1:90211140> spawned/gave himself swep weapon_laserpistol
+[17:44:53] 212th REG Commander Cody<STEAM_0:1:79001790> spawned/gave himself swep weapon_laserpistol
+[17:45:02] 212th REG Commander Cody killed HOOK using player
+[17:45:06] HOOK<STEAM_0:1:90211140> spawned/gave himself swep weapon_laserpistol
+[17:45:14] 212th REG Commander Cody killed HOOK using player
+[17:45:25] HOOK<STEAM_0:1:90211140> spawned/gave himself swep weapon_laserpistol
+[17:45:26] HOOK<STEAM_0:1:90211140> spawned/gave himself swep weapon_laserrpg
+[17:45:37] 212th REG Commander Cody suicided!
+[17:45:51] 212th REG Commander Cody suicided!
+[17:46:05] 212th REG Commander Cody<STEAM_0:1:79001790> spawned/gave himself swep weapon_laserrifle1
+[17:46:07] 212th REG Commander Cody<STEAM_0:1:79001790> spawned/gave himself swep weapon_laserrpg
+[17:46:18] 212th REG Commander Cody suicided!
+[17:46:18] HOOK suicided!
+[17:46:24] 212th REG Commander Cody<STEAM_0:1:79001790> spawned/gave himself swep weapon_laserrpg
+[17:46:26] HOOK<STEAM_0:1:90211140> spawned/gave himself swep weapon_lasermgun
+[17:46:31] 212th REG Commander Cody suicided!
+[17:46:31] HOOK suicided!
+[17:48:14] 212th REG Commander Cody set the model for Themself to models/s250/s2501.mdl
+[17:48:24] 212th REG Commander Cody suicided!
+[17:48:35] 212th REG Commander Cody set the model for Themself to models/tie/tie1.mdl
+[17:48:46] HOOK<STEAM_0:1:90211140> spawned ragdoll models/imperial/guard/blackguard.mdl
+[17:49:30] 212th REG Commander Cody: /warp
+[17:49:37] HOOK: /warp
+[17:50:06] 212th REG Commander Cody<STEAM_0:1:79001790> spawned/gave himself swep weapon_laserpistol
+[17:50:18] HOOK<STEAM_0:1:90211140> spawned/gave himself swep weapon_laserrpg
+[17:50:23] 212th REG Commander Cody suicided!
+[17:50:23] HOOK suicided!
+[17:51:22] HOOK set the model for Themself to models/imperial/guard/blackguard.mdl
+[17:52:00] HOOK set the model for Themself to models/player/sitharmor/sitharmor_pm.mdl
+[17:52:12] HOOK<STEAM_0:1:90211140> spawned/gave himself swep weapon_laserpistol
+[17:52:26] HOOK killed 212th REG Commander Cody using player
+[17:52:31] 212th REG Commander Cody set the model for Themself to models/npc/cody/commander_cody_npc.mdl
+[17:52:43] 212th REG Commander Cody suicided!
+[17:53:03] HOOK killed 212th REG Commander Cody using player
+[17:53:06] 212th REG Commander Cody<STEAM_0:1:79001790> spawned/gave himself swep weapon_laserrpg
+[17:53:12] 212th REG Commander Cody suicided!
+[17:53:12] HOOK suicided!
+[17:53:30] HOOK<STEAM_0:1:90211140> spawned/gave himself swep weapon_laserrpg
+[17:53:42] 212th REG Commander Cody suicided!
+[17:53:42] HOOK suicided!
+[17:53:58] HOOK<STEAM_0:1:90211140> spawned/gave himself swep weapon_laserrpg
+[17:54:03] 212th REG Commander Cody suicided!
+[17:54:03] HOOK suicided!
+[17:54:13] HOOK<STEAM_0:1:90211140> spawned/gave himself swep weapon_lasersmg
+[17:54:30] HOOK<STEAM_0:1:90211140> spawned/gave himself swep weapon_lasermgun
+[17:54:40] HOOK<STEAM_0:1:90211140> spawned/gave himself swep weapon_lasersmg
+[17:55:00] HOOK: !ss
+[17:55:00] HOOK stopped sounds
+[17:55:09] 212th REG Commander Cody added Themself to group superadmin
+[17:55:12] HOOK cleared decals
+[17:55:48] (SILENT) 212th REG Commander Cody set the prop limit for admin to 5
+[17:55:56] HOOK set the model for Themself to models/player/starwars/bdroidfirefighter.mdl
+[17:56:06] 212th REG Commander Cody added Themself to group admin
+[17:56:10] HOOK<STEAM_0:1:90211140> spawned/gave himself swep weapon_slam
+[17:56:14] HOOK<STEAM_0:1:90211140> spawned/gave himself swep weapon_camo
+[17:56:15] 212th REG Commander Cody<STEAM_0:1:79001790> spawned model models/hunter/blocks/cube3x3x025.mdl
+[17:56:31] HOOK whipped 212th REG Commander Cody 10 times with 0 damage
+[17:57:35] HOOK ragdolled Themself
+[17:57:45] HOOK unragdolled Themself
+[17:57:59] 212th REG Commander Cody<STEAM_0:1:79001790> spawned model models/hunter/blocks/cube05x2x025.mdl
+[17:58:21] HOOK: H4D8 Droid Camoed
+[17:58:28] 212th REG Commander Cody<STEAM_0:1:79001790> used the tool weld on models/hunter/blocks/cube3x3x025.mdl
+[17:58:29] 212th REG Commander Cody<STEAM_0:1:79001790> used the tool weld on models/hunter/blocks/cube05x2x025.mdl
+[17:58:37] HOOK: /name H4D8 Droid Camo
+[17:58:38] HOOK<STEAM_0:1:90211140> changed their name to H4D8 Droid Camo
+[17:58:42] 212th REG Commander Cody<STEAM_0:1:79001790> used the tool material on models/hunter/blocks/cube05x2x025.mdl
+[17:58:44] 212th REG Commander Cody<STEAM_0:1:79001790> used the tool material on models/hunter/blocks/cube3x3x025.mdl
+[17:58:53] 212th REG Commander Cody<STEAM_0:1:79001790> used the tool adv_duplicator on models/hunter/blocks/cube3x3x025.mdl
+[17:58:56] 212th REG Commander Cody<STEAM_0:1:79001790> used the tool adv_duplicator on models/hunter/blocks/cube3x3x025.mdl
+[17:58:59] 212th REG Commander Cody<STEAM_0:1:79001790> used the tool adv_duplicator on maps/rp_stardestroyer_v1.bsp
+[17:58:59] 212th REG Commander Cody<STEAM_0:1:79001790> spawned model models/hunter/blocks/cube3x3x025.mdl
+[17:58:59] 212th REG Commander Cody<STEAM_0:1:79001790> spawned model models/hunter/blocks/cube05x2x025.mdl
+[17:59:35] 212th REG Commander Cody added Themself to group superadmin
+[17:59:44] (SILENT) 212th REG Commander Cody set the prop limit for admin to -1
+[18:00:00] (SILENT) 212th REG Commander Cody set the prop limit for admin to 10
+[18:00:12] 212th REG Commander Cody added Themself to group admin
+[18:00:16] 212th REG Commander Cody<STEAM_0:1:79001790> spawned model models/props_c17/canister_propane01a.mdl
+[18:00:20] 212th REG Commander Cody<STEAM_0:1:79001790> used the tool remover on models/props_c17/canister_propane01a.mdl
+[18:00:23] 212th REG Commander Cody<STEAM_0:1:79001790> spawned model models/combine_helicopter/helicopter_bomb01.mdl
+[18:00:33] 212th REG Commander Cody<STEAM_0:1:79001790> used the tool material on models/combine_helicopter/helicopter_bomb01.mdl
+[18:00:43] 212th REG Commander Cody<STEAM_0:1:79001790> used the tool physprop on models/combine_helicopter/helicopter_bomb01.mdl
+[18:01:05] 212th REG Commander Cody<STEAM_0:1:79001790> used the tool material on models/hunter/blocks/cube3x3x025.mdl
+[18:03:19] 212th REG Commander Cody: /name SNDT PVT 5847 Shadow
+[18:03:20] 212th REG Commander Cody<STEAM_0:1:79001790> changed their name to SNDT PVT 5847 Shadow
+[18:03:23] H4D8 Droid Camo<STEAM_0:1:90211140> spawned/gave himself swep weapon_laserpistol
+[18:03:31] H4D8 Droid Camo brought SNDT PVT 5847 Shadow
+[18:03:35] H4D8 Droid Camo brought SNDT PVT 5847 Shadow
+[18:03:57] H4D8 Droid Camo<STEAM_0:1:90211140> spawned NPC npc_antlionguard
+[18:03:57] H4D8 Droid Camo<STEAM_0:1:90211140> spawned NPC npc_antlionguard
+[18:03:57] H4D8 Droid Camo<STEAM_0:1:90211140> spawned NPC npc_antlionguard
+[18:03:58] H4D8 Droid Camo<STEAM_0:1:90211140> spawned NPC npc_antlionguard
+[18:03:58] H4D8 Droid Camo<STEAM_0:1:90211140> spawned NPC npc_antlionguard
+[18:03:59] H4D8 Droid Camo<STEAM_0:1:90211140> spawned NPC npc_antlion
+[18:04:00] H4D8 Droid Camo<STEAM_0:1:90211140> spawned NPC npc_antlion
+[18:04:01] H4D8 Droid Camo<STEAM_0:1:90211140> spawned NPC npc_antlion
+[18:04:02] H4D8 Droid Camo<STEAM_0:1:90211140> spawned NPC npc_antlionguard
+[18:04:21] H4D8 Droid Camo<STEAM_0:1:90211140> spawned NPC npc_antlionguard
+[18:04:35] H4D8 Droid Camo<STEAM_0:1:90211140> spawned NPC npc_antlionguard
+[18:04:37] H4D8 Droid Camo<STEAM_0:1:90211140> spawned NPC npc_antlionguard
+[18:04:49] SNDT PVT 5847 Shadow was killed by npc_antlionguard
+[18:05:00] SNDT PVT 5847 Shadow<STEAM_0:1:79001790> spawned/gave himself swep weapon_laserrpg
+[18:05:01] H4D8 Droid Camo<STEAM_0:1:90211140> spawned sent wt_rocketboots
+[18:05:11] SNDT PVT 5847 Shadow suicided!
+[18:05:11] H4D8 Droid Camo suicided!
+[18:05:19] H4D8 Droid Camo<STEAM_0:1:90211140> spawned sent wt_rocketboots
+[18:05:27] H4D8 Droid Camo<STEAM_0:1:90211140> spawned/gave himself swep weapon_laserrifle1
+[18:05:28] H4D8 Droid Camo<STEAM_0:1:90211140> spawned/gave himself swep weapon_laserrpg
+[18:05:28] H4D8 Droid Camo<STEAM_0:1:90211140> spawned/gave himself swep weapon_laserpistol
+[18:05:43] H4D8 Droid Camo killed SNDT PVT 5847 Shadow using player
+[18:05:48] SNDT PVT 5847 Shadow<STEAM_0:1:79001790> spawned/gave himself swep weapon_laserpistol
+[18:05:52] H4D8 Droid Camo<STEAM_0:1:90211140> spawned NPC npc_antlion
+[18:05:59] H4D8 Droid Camo<STEAM_0:1:90211140> spawned NPC npc_antlion
+[18:06:21] H4D8 Droid Camo killed SNDT PVT 5847 Shadow using player
+[18:06:41] H4D8 Droid Camo set the hp for Themself to 1000
+[18:06:43] SNDT PVT 5847 Shadow<STEAM_0:1:79001790> spawned/gave himself swep weapon_swrc_det
+[18:06:53] SNDT PVT 5847 Shadow was killed by env_explosion
+[18:07:13] H4D8 Droid Camo set the model for Themself to models/player/starwars/bdroidfirefighter.mdl
+[18:07:19] SNDT PVT 5847 Shadow<STEAM_0:1:79001790> spawned/gave himself swep weapon_laserrpg
+[18:07:27] SNDT PVT 5847 Shadow suicided!
+[18:07:27] H4D8 Droid Camo suicided!
+[18:07:43] H4D8 Droid Camo cleared decals
+[18:07:51] H4D8 Droid Camo<STEAM_0:1:90211140> spawned NPC npc_headcrab_fast
+[18:07:52] H4D8 Droid Camo<STEAM_0:1:90211140> spawned NPC npc_headcrab_fast
+[18:07:54] H4D8 Droid Camo<STEAM_0:1:90211140> spawned NPC npc_headcrab_fast
+[18:07:55] H4D8 Droid Camo<STEAM_0:1:90211140> spawned NPC npc_antlionguard
+[18:07:57] H4D8 Droid Camo<STEAM_0:1:90211140> spawned NPC npc_antlionguard
+[18:07:59] H4D8 Droid Camo<STEAM_0:1:90211140> spawned NPC npc_antlionguard
+[18:08:01] H4D8 Droid Camo<STEAM_0:1:90211140> spawned NPC npc_antlionguard
+[18:08:37] H4D8 Droid Camo<STEAM_0:1:90211140> spawned/gave himself swep weapon_laserpistol
+[18:08:45] SNDT PVT 5847 Shadow<STEAM_0:1:79001790> spawned/gave himself swep weapon_slam
+[18:09:05] H4D8 Droid Camo<STEAM_0:1:90211140> spawned/gave himself swep weapon_rpg
+[18:09:08] SNDT PVT 5847 Shadow was killed by npc_antlionguard
+[18:09:14] SNDT PVT 5847 Shadow: /OOC afk
+[18:09:58] H4D8 Droid Camo cleared decals
+[18:10:11] H4D8 Droid Camo reset the map to its original state
+[18:10:43] Dropped "H4D8 Droid Camo" from server<STEAM_0:1:90211140>
+[18:18:35] Client "[KR] Bad RacOOn" connected.
+[18:33:28] Client "Gone for 10 days :( EMRE" connected.
+[18:35:00] Client "AJFERR" connected.
+[18:35:31] Client "Gone for 10 days :( EMRE" connected.
+[18:36:13] Client "Gone for 10 days :( EMRE" spawned in server <STEAM_0:1:105697682> (took 42 seconds).
+[18:36:35] Client "AJFERR" spawned in server <STEAM_0:0:53304050> (took 95 seconds).
+[18:37:01] (Console) added Emre 🆅🅰🅻🆅🅴 to group DARTH
+[18:37:04] Emre 🆅🅰🅻🆅🅴: hi
+[18:37:06] Emre 🆅🅰🅻🆅🅴: Im donated
+[18:37:07] Emre 🆅🅰🅻🆅🅴: :D
+[18:37:11] Client "The_Mantis_Shrimp" connected.
+[18:37:17] TP PVT 7598 Duck: /me salutes
+[18:37:33] SNDT PVT 5847 Shadow: /OOC sure nice thing
+[18:37:52] SNDT PVT 5847 Shadow: /name Shadow on Duty
+[18:37:53] SNDT PVT 5847 Shadow<STEAM_0:1:79001790> changed their name to Shadow on Duty
+[18:37:55] Emre 🆅🅰🅻🆅🅴: /name DARTH TOM 
+[18:37:55] Emre 🆅🅰🅻🆅🅴<STEAM_0:1:105697682> changed their name to DARTH TOM
+[18:37:57] Shadow on Duty: /OOC yay
+[18:38:06] Shadow on Duty cloaked Themself by amount 0
+[18:38:13] Shadow on Duty teleported to DARTH TOM
+[18:38:17] DARTH TOM: /ooc hey I love this server <3
+[18:38:19] DARTH TOM: me too
+[18:38:38] DARTH TOM: ethan is my friend from
+[18:38:41] DARTH TOM: TC
+[18:38:41] Client "The_Mantis_Shrimp" spawned in server <STEAM_0:0:81720841> (took 90 seconds).
+[18:38:41] TP PVT 7598 Duck: // everyone good?
+[18:38:45] DARTH TOM: the circle
+[18:38:52] DARTH TOM: damm my ping
+[18:38:56] DARTH TOM: Im tom
+[18:39:01] DARTH TOM: blue
+[18:39:03] DARTH TOM: :D
+[18:39:23] DARTH TOM: I was sith lord on TC
+[18:39:30] Client "Finnerd" connected.
+[18:39:31] DARTH TOM: eror
+[18:39:33] DARTH TOM: :(
+[18:39:35] DARTH TOM: we need to fix
+[18:39:37] DARTH TOM: it
+[18:39:41] DARTH TOM: ow
+[18:39:44] DARTH TOM: Are you
+[18:39:57] DARTH TOM: MJR
+[18:40:19] DARTH TOM: ay
+[18:40:21] DARTH TOM: yay
+[18:40:28] Client "[RG] Sloth" connected.
+[18:40:30] Client "[KR] Armyguy1722" connected.
+[18:40:32] DARTH TOM: ho many hp do I have
+[18:40:35] DARTH TOM suicided!
+[18:41:04] DARTH TOM: what is my rank
+[18:41:08] DARTH TOM: hmm
+[18:41:09] DARTH TOM: :D
+[18:41:12] DARTH TOM: COL
+[18:41:14] DARTH TOM: comm
+[18:41:21] DARTH TOM: yeah
+[18:41:22] DARTH TOM: o yeah
+[18:41:35] DARTH TOM: any way Im commander :D
+[18:41:47] DARTH TOM: /drop
+[18:41:57] Client "[RG] Sloth" spawned in server <STEAM_0:1:88690147> (took 89 seconds).
+[18:42:04] Client "Ethan" connected.
+[18:42:21] DARTH TOM: yay
+[18:42:29] DARTH TOM: /name Darth TOM
+[18:42:29] DARTH TOM<STEAM_0:1:105697682> changed their name to Darth TOM
+[18:43:23] Client "Ethan" spawned in server <STEAM_0:1:72945201> (took 79 seconds).
+[18:43:28] Shadow on Duty teleported to SKT REG COMM Sloth
+[18:44:00] TP PVT 7598 Duck: /me salutes
+[18:44:01] MED BATT COMM Shrimp: at ease trooper(s)
+[18:44:17] Shadow on Duty<STEAM_0:1:79001790> spawned/gave himself swep weapon_cuff_standard
+[18:44:19] Shadow on Duty<STEAM_0:1:79001790> spawned/gave himself swep weapon_cuff_tactical
+[18:44:47] Ethan teleported to Darth TOM
+[18:44:54] Darth TOM: eror
+[18:44:57] SKT REG COMM Sloth suicided!
+[18:44:58] Darth TOM: :D
+[18:45:03] Darth TOM: hey ethanm
+[18:45:03] Shadow on Duty teleported to SKT REG COMM Sloth
+[18:45:06] Darth TOM: ethan
+[18:45:42] Darth TOM: name
+[18:45:44] Darth TOM: write plz
+[18:46:00] Shadow on Duty brought SKT REG COMM Sloth
+[18:46:05] SKT REG COMM Sloth suicided!
+[18:46:16] Ethan: Darth Nihilus
+[18:46:22] Darth TOM: ok
+[18:46:33] SKT REG COMM Sloth suicided!
+[18:46:59] Ethan: !model ^ models/player/darth_revan.mdl
+[18:46:59] Ethan set the model for Themself to models/player/darth_revan.mdl
+[18:47:10] Ethan<STEAM_0:1:72945201> used the tool camera on maps/rp_stardestroyer_v1.bsp
+[18:47:35] Darth TOM: yes
+[18:47:39] Darth TOM: yes
+[18:47:43] Darth TOM: its  better
+[18:47:51] Darth TOM: ok
+[18:48:06] Darth TOM: lets change
+[18:48:07] Darth TOM: :D
+[18:48:17] Darth TOM: am I the first donatoe ?
+[18:48:18] Darth TOM: donator
+[18:48:32] Shadow on Duty uncloaked Themself
+[18:48:34] Shadow on Duty<STEAM_0:1:79001790> spawned/gave himself swep weapon_cuff_tactical
+[18:48:42] Shadow on Duty<STEAM_0:1:79001790> spawned/gave himself swep weapon_cuff_elastic
+[18:48:57] Ethan: // restarting
+[18:48:58] Client "Finnerd" connected.
+[18:48:59] Ethan: // k?
+[18:49:00] Darth TOM: dammmmmmmmmmmmmmmm
+[18:49:02] Darth TOM: :D
+[18:49:06] Ethan: !restartmap
+[18:49:09] MED BATT COMM Shrimp: //ok
+[18:49:09] Ethan: !maprestart
+[18:49:09] Ethan forced a mapchange
+[18:49:10] Server is shutting down/changing levels.
+
+
+
+[18:49:20] New map: rp_stardestroyer_v1
+[18:49:34] Client "Ethan" spawned in server <STEAM_0:1:72945201> (took 17 seconds).
+[18:49:39] Client "[RG] NievAchieve" spawned in server <STEAM_0:1:79001790> (took 22 seconds).
+[18:49:40] Client "[RG] Sloth" spawned in server <STEAM_0:1:88690147> (took 23 seconds).
+[18:49:44] Client "The_Mantis_Shrimp" spawned in server <STEAM_0:0:81720841> (took 27 seconds).
+[18:49:47] Client "Gone for 10 days :( EMRE" connected.
+[18:49:53] Client "AJFERR" spawned in server <STEAM_0:0:53304050> (took 36 seconds).
+[18:50:08] Client "Gone for 10 days :( EMRE" spawned in server <STEAM_0:1:105697682> (took 21 seconds).
+[18:50:35] Shadow on Duty<STEAM_0:1:79001790> spawned/gave himself swep weapon_cuff_elastic
+[18:50:45] Shadow on Duty<STEAM_0:1:79001790> spawned/gave himself swep dc17grapple
+[18:51:01] Ethan: !goto tom
+[18:51:01] Ethan teleported to Darth TOM
+[18:51:05] Darth TOM: good
+[18:51:06] Shadow on Duty teleported to SKT REG COMM Sloth
+[18:51:17] Darth TOM: dont know
+[18:51:19] Darth TOM: do we have
+[18:51:22] Darth TOM: sith bunks
+[18:51:38] Client "Finnerd" spawned in server <STEAM_0:1:56053138> (took 141 seconds).
+[18:51:41] Darth TOM: I want to see my face
+[18:51:46] Darth TOM: can you change u playermode
+[18:51:50] Darth TOM: wow
+[18:52:08] Darth TOM: can I see my playermodel
+[18:52:15] Darth TOM: make u self darth for sex
+[18:52:16] Darth TOM: sec
+[18:52:17] Darth TOM: XF
+[18:52:21] Darth TOM: XD
+[18:52:23] Ethan: !model ^ models/player/darth_revan.mdl
+[18:52:23] Ethan set the model for Themself to models/player/darth_revan.mdl
+[18:52:27] Darth TOM: good
+[18:52:36] Darth TOM: liked
+[18:52:42] Ethan added Themself to group superadmin
+[18:52:43] Ethan<STEAM_0:1:72945201> used the tool rb655_lightsaber on maps/rp_stardestroyer_v1.bsp
+[18:52:43] Client "✡ Mr. Pickles ✡" connected.
+[18:52:47] MED BATT COMM Shrimp: // event ethan?
+[18:52:50] Darth TOM: good
+[18:52:54] Ethan: // in a few mins
+[18:53:01] Ethan suicided!
+[18:53:10] MED BATT COMM Shrimp: // ok
+[18:53:18] Darth TOM: can u see me
+[18:53:55] Shadow on Duty: !freeze Sloth
+[18:53:55] Shadow on Duty froze SKT REG COMM Sloth
+[18:54:11] Shadow on Duty: !unfreeze Sloth
+[18:54:11] Shadow on Duty unfroze SKT REG COMM Sloth
+[21:22:45] Ethan: // restarting
+[21:22:50] Darth Tom: /ooc YA
+[21:22:54] Client "[RG] Sloth" spawned in server <STEAM_0:1:88690147> (took 82 seconds).
+[21:22:56] Darth Tom: cyke blyad 
+[21:22:58] Darth Tom: wow
+[21:23:00] Darth Tom: it worked
+[21:23:18] Darth Tom: You don't have access to this command, Darth Tom!You don't have access to this command, Darth Tom!You don't have access to 
+[21:23:22] Darth Tom: noooooo
+[21:24:01] Darth Tom: hi
+[21:24:11] Darth Tom: restarttttttt
+[21:24:15] Darth Tom: pings okay
+[21:24:29] Darth Tom: do you like it XD
+
+
+
+[21:25:16] New map: rp_stardestroyer_v1
+[21:25:24] Client "[RG] Sloth" connected.
+[21:25:34] Client "Emre 🆅🅰🅻🆅🅴 DVLPR" spawned in server <STEAM_0:1:105697682> (took 19 seconds).
+[21:25:41] Client "[RG] Sloth" spawned in server <STEAM_0:1:88690147> (took 17 seconds).
+[21:25:57] Darth Tom: /darth
+[21:26:08] Darth Tom: /ooc tytes
+[21:26:12] Darth Tom: /ooc yes
+[21:26:35] Client "IDONTKNOW" connected.
+[21:26:39] Darth Tom: hi
+[21:26:50] Client "IDONTKNOW" spawned in server <STEAM_0:1:165468783> (took 15 seconds).
+[21:26:53] Darth Tom: downtime so
+[21:26:57] Darth Tom: XD
+[21:27:07] Client "Ethan" connected.
+[21:27:19] Client "Ethan" spawned in server <STEAM_0:1:72945201> (took 12 seconds).
+[21:27:28] Darth Tom: /ooc stop ffs
+[21:28:01] Darth Tom: lets
+[21:28:03] Darth Tom: change 
+[21:28:04] Darth Tom: sith
+[21:28:05] Darth Tom: ranks
+[21:28:06] (TEAM) 501st REG COMM REN: /name Darth VAder
+[21:28:07] 501st REG COMM REN<STEAM_0:1:165468783> changed their name to Darth VAder
+[21:28:07] Darth Tom: system
+[21:28:09] Darth Tom: plzzzzzzzzzzzzzzzzzzzzz
+[21:28:15] Darth Tom: elt me write
+[21:28:17] Darth Tom: let *
+[21:28:23] Darth Tom: let me write
+[21:28:25] Darth VAder: /name DARTH VADER
+[21:28:26] Darth Tom: now
+[21:28:26] Darth VAder<STEAM_0:1:165468783> changed their name to DARTH VADER
+[21:28:26] Darth Tom: :D
+[21:28:38] DARTH VADER: !goto tom
+[21:28:38] DARTH VADER teleported to Darth Tom
+[21:28:47] Darth Tom: yes
+[21:29:33] Darth Tom: I will donate again if I can visit mmigrso because Im using migros to upload my money to my card
+[21:29:50] Darth Tom: ethan
+[21:30:08] Darth Tom: set me 7000 hp or make me sp for sec because I know how to set it without restart
+[21:30:13] Darth Tom: superadmim
+[21:30:16] Darth Tom: min
+[21:31:16] Darth Tom: /me tome uses power of the darkside to unlock this shit
+[21:31:20] Darth Tom: now unclok me rp 
+[21:31:30] Darth Tom: RP
+[21:31:47] Darth Tom: /me tom uses power of the darkside to unlock this shit
+[21:31:55] Darth Tom: XD
+[21:32:00] Darth Tom: ffs
+[21:32:14] Darth Tom: I will kill you :D
+[21:32:23] Darth Tom: /me tom uses power of the darkside to kill commander 
+[21:32:27] Darth Tom: you dead
+[21:32:34] SKT REG COMM Sloth suicided!
+[21:32:37] Darth Tom: hahaha
+[21:32:38] Darth Tom: ff
+[21:32:40] Darth Tom: ffs
+[21:32:53] Darth Tom: /recuit
+[21:33:03] Ethan: // brb
+[21:33:05] Darth Tom: ffs
+[21:33:07] Darth Tom: @help me 
+[21:33:07] Darth Tom to admins: help me
+[21:33:08] Ethan: !admin
+[21:33:08] (SILENT) Ethan is now administrating
+[21:33:09] Darth Tom: @ffs
+[21:33:09] Darth Tom to admins: ffs
+[21:33:23] Darth Tom killed SKT REG COMM Sloth using weapon_lightsaber
+[21:33:31] Ethan: // dont do crap
+[21:35:03] Client "OperationWaffles" connected.
+[21:35:55] Client "OperationWaffles" spawned in server <STEAM_0:1:64526417> (took 52 seconds).
+[21:36:05] Ethan: !warn
+[21:36:30] Darth Tom: /warp
+[21:36:43] Darth Tom: hey
+[21:36:58] Darth Tom: /ooc WOWOWOWOWWOW XD
+[21:37:08] DARTH VADER: /ooc Vote for the song now!!!!!!!!!!!!
+[21:37:09] Darth Tom: can I punch
+[21:37:34] Darth Tom: perms
+[21:37:36] Darth Tom: to kill
+[21:37:36] DARTH VADER: /ooc http://esstarwarsrp.enjin.com/forum/m/38867109/viewthread/27748385-main-menu-song/page/1
+[21:37:40] Darth Tom: you higest rank
+[21:37:46] Darth Tom: darth vader afk
+[21:37:54] DARTH VADER: !goto ethan
+[21:37:54] DARTH VADER teleported to Ethan
+[21:37:58] Darth Tom: can I
+[21:38:49] Darth Tom suicided!
+[21:39:18] Darth Tom: /advert M'lord where are you
+[21:39:50] SKT REG COMM Sloth suicided!
+[21:40:14] ST REG COMM Operationwaffles: /advert *IC* The SKT REG COMM has gone rogue he is now AOS
+[21:40:40] ST REG COMM Operationwaffles: /advert *IC* all available troops to the engine room at once!
+[21:40:59] Darth Tom: /advert *IC* Im not trooper
+[21:41:05] ST REG COMM Operationwaffles: /ooc lol no troops
+[21:41:14] Darth Tom: Look at my hp
+[21:41:46] SKT REG COMM Sloth killed ST REG COMM Operationwaffles using e60r_rocket
+[21:41:55] Darth Tom: 6f
+[21:42:08] DARTH VADER: !goto sloth
+[21:42:08] DARTH VADER teleported to SKT REG COMM Sloth
+[21:42:20] Client "Jelly/Branco [Sedin111]" connected.
+[21:42:23] Darth Tom: /ooc FS STOP
+[21:42:28] Ethan: !goto tom
+[21:42:28] Ethan teleported to Darth Tom
+[21:42:34] Darth Tom: he is aos
+[21:42:37] DARTH VADER: !goto ethan
+[21:42:37] DARTH VADER teleported to Ethan
+[21:42:41] Darth Tom: commander
+[21:42:44] Darth Tom: sloth
+[21:42:53] Darth Tom: dont know
+[21:42:54] Ethan: !bring sloth
+[21:42:54] Ethan brought SKT REG COMM Sloth
+[21:42:56] Client "Jelly/Branco [Sedin111]" spawned in server <STEAM_0:1:97107306> (took 36 seconds).
+[21:42:58] Darth Tom: st comm orders
+[21:43:12] Darth Tom: m'lord
+[21:43:13] Darth Tom: dual ?
+[21:43:17] DARTH VADER: yh
+[21:43:25] Ethan teleported to Jelly/Branco | kickback.com
+[21:43:30] Ethan: // brb
+[21:43:30] SKT REG COMM Sloth suicided!
+[21:43:31] Darth Tom: /ooc yes or no ?
+[21:43:32] DARTH VADER: !tp da
+[21:43:33] Darth Tom suicided!
+[21:43:36] DARTH VADER: !tp tom
+[21:43:36] DARTH VADER teleported Darth Tom
+[21:43:43] DARTH VADER: !tp tom
+[21:43:43] DARTH VADER teleported Darth Tom
+[21:43:53] DARTH VADER<STEAM_0:1:165468783> spawned/gave himself swep weapon_physgun
+[21:43:53] Darth Tom: if I defate ?
+[21:43:56] Jelly/Branco | kickback.com: // OH SHIT WADDUP
+[21:44:00] Darth Tom: ok lets start 
+[21:44:06] Darth Tom: stucke
+[21:44:08] Jelly/Branco | kickback.com: /name Branco
+[21:44:08] Jelly/Branco | kickback.com<STEAM_0:1:97107306> changed their name to Branco
+[21:44:09] Darth Tom: stucked
+[21:44:27] DARTH VADER: !hp da 10000
+[21:44:27] DARTH VADER set the hp for Themself,Darth Tom to 10000
+[21:44:31] Darth Tom: lets do 
+[21:44:32] Branco: /name ST PVT 1933 Branco
+[21:44:33] Branco<STEAM_0:1:97107306> changed their name to ST PVT 1933 Branco
+[21:44:34] Darth Tom: at down
+[21:44:38] Darth Tom: and your voice
+[21:44:40] Darth Tom: I cant hear
+[21:44:42] Darth Tom: too much
+[21:44:50] Darth Tom: wrtie
+[21:44:53] DARTH VADER: ready
+[21:44:53] Darth Tom: :D
+[21:45:00] DARTH VADER: no lightning
+[21:45:04] DARTH VADER: go
+[21:45:25] DARTH VADER: !tp tom
+[21:45:25] DARTH VADER teleported Darth Tom
+[21:45:38] ST PVT 1933 Branco: i have 
+[21:45:51] SKT REG COMM Sloth suicided!
+[21:46:25] DARTH VADER: /me search weapon and strip cons
+[21:46:29] Darth Tom: I want to become highest rank XD
+[21:46:31] DARTH VADER: !goto ethan
+[21:46:37] DARTH VADER: !goto ethan
+[21:46:37] DARTH VADER teleported to Ethan
+[21:46:42] Darth Tom: you are not allowedd
+[21:46:52] DARTH VADER: !return
+[21:46:52] DARTH VADER returned Themself to their original position
+[21:46:57] Client "[RG] NievAchieve" connected.
+[21:47:10] Darth Tom: /ooc XD
+[21:47:37] ST PVT 1933 Branco: /me searches and confiscates weapons and comms
+[21:47:40] Darth Tom killed DARTH VADER using weapon_lightsaber
+[21:47:43] Darth Tom: promıte yahj
+[21:47:49] Client "ruin | CSGOSICK.com" connected.
+[21:47:50] DARTH VADER: !goto tom
+[21:47:50] DARTH VADER teleported to Darth Tom
+[21:47:58] ST REG COMM Operationwaffles: /Me Salutes
+[21:47:59] ST PVT 1933 Branco: /me Salutes
+[21:47:59] Darth Tom: m
+[21:48:01] ST REG COMM Operationwaffles: /me At ease trooper(s), your respect has been noticed
+[21:48:06] SKT REG COMM Sloth suicided!
+[21:48:07] Darth Tom: ooc if you want I can train ooc
+[21:48:20] DARTH VADER: !to tom
+[21:48:24] DARTH VADER: !tp tom
+[21:48:24] DARTH VADER teleported Darth Tom
+[21:48:35] ST PVT 1933 Branco: /me Salutes
+[21:48:44] Darth Tom: /ooc just lets do it XD
+[21:48:48] Darth Tom: I cant hear you
+[21:49:25] Client "[RG] NievAchieve" spawned in server <STEAM_0:1:79001790> (took 148 seconds).
+[21:49:26] DARTH VADER added ST PVT 1933 Branco to group STPVT
+[21:49:39] Darth Tom: thanks m'lord 
+[21:49:48] Darth Tom: ooc I defated everyone on TC XD
+[21:49:56] Darth Tom: ooc sith master lower than me I think
+[21:50:14] Darth Tom: /me pushes his shoulders back, moves his arm slowly to just above his right eye and salutes.
+[21:50:14] Darth Tom: ok
+[21:50:19] Darth Tom: mlord
+[21:50:34] Darth Tom: ?
+[21:50:35] Shadow on Duty<STEAM_0:1:79001790> spawned/gave himself swep weapon_physgun
+[21:50:58] Darth Tom: ulx adduser tom sith master
+[21:51:01] Shadow on Duty<STEAM_0:1:79001790> spawned model models/lt_c/desk_officer.mdl
+[21:51:08] Darth Tom: XD
+[21:51:10] DARTH VADER added Darth Tom to group SITHM
+[21:51:18] Shadow on Duty<STEAM_0:1:79001790> spawned/gave himself swep weapon_752_dc15a
+[21:51:25] Client "pottersfan" connected.
+[21:51:26] Darth Tom: /name Sith Master TOM
+[21:51:27] Darth Tom<STEAM_0:1:105697682> changed their name to Sith Master TOM
+[21:51:28] Sith Master TOM: THANKS M'LORD
+[21:51:30] DARTH VADER: !tp tom
+[21:51:30] DARTH VADER teleported Sith Master TOM
+[21:51:34] Shadow on Duty<STEAM_0:1:79001790> spawned/gave himself swep gmod_tool
+[21:51:35] Shadow on Duty<STEAM_0:1:79001790> used the tool permaprops on models/lt_c/desk_officer.mdl
+[21:51:39] Shadow on Duty<STEAM_0:1:79001790> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[21:51:45] Sith Master TOM: m'lord could you write I cant hear
+[21:51:54] Sith Master TOM: can I make my own ssaber
+[21:51:55] Shadow on Duty<STEAM_0:1:79001790> spawned model models/props_interiors/furniture_couch02a.mdl
+[21:52:10] Sith Master TOM: is everyone have to bow ?
+[21:52:14] Shadow on Duty<STEAM_0:1:79001790> spawned model models/props_combine/breenchair.mdl
+[21:52:20] DARTH VADER: if u let me down they will be a thing
+[21:52:25] DARTH VADER: no they salute
+[21:52:29] Shadow on Duty<STEAM_0:1:79001790> used the tool permaprops on models/props_interiors/furniture_couch02a.mdl
+[21:52:32] Shadow on Duty<STEAM_0:1:79001790> used the tool permaprops on models/props_combine/breenchair.mdl
+[21:52:34] Client "=UD,[TE]SoloWarrior28" connected.
+[21:52:39] Shadow on Duty teleported to Ethan
+[21:52:41] Sith Master TOM: I dont understan
+[21:52:48] Client "pottersfan" spawned in server <STEAM_0:1:21566299> (took 83 seconds).
+[21:52:48] DARTH VADER: u can change your lightsaber if u want
+[21:52:57] DARTH VADER: but is has to be red
+[21:53:05] Sith Master TOM: ok
+[21:53:06] Sith Master TOM: wait
+[21:53:09] Shadow on Duty cloaked Themself by amount 0
+[21:53:17] Sith Master TOM: can I use this
+[21:53:17] Ethan teleported to pottersfan
+[21:53:22] Shadow on Duty teleported to pottersfan
+[21:53:28] Sith Master TOM: /drop
+[21:53:37] DARTH VADER: idk i will ask
+[21:53:42] Ethan brought ST REG COMM Operationwaffles
+[21:53:42] DARTH VADER: !goto ethan
+[21:53:42] DARTH VADER teleported to Ethan
+[21:53:44] Sith Master TOM: /drop
+[21:53:53] DARTH VADER: can we use kylo rens light
+[21:53:56] Shadow on Duty uncloaked Themself
+[21:53:58] Shadow on Duty cloaked Themself by amount 0
+[21:54:05] DARTH VADER: tom want to know
+[21:54:06] SKT REG COMM Sloth killed ST PVT 1933 Branco using player
+[21:54:10] DARTH VADER: kk
+[21:54:16] ST PVT 1933 Branco: // RDM
+[21:54:23] Ethan: !goto bran
+[21:54:23] Ethan teleported to ST PVT 1933 Branco
+[21:54:23] SKT REG COMM Sloth: // miss fire
+[21:54:27] SKT REG COMM Sloth: // XD
+[21:54:33] SKT REG COMM Sloth: // Miss fire
+[21:54:33] Ethan: !tp sloth
+[21:54:33] Ethan teleported SKT REG COMM Sloth
+[21:54:34] DARTH VADER: !return
+[21:54:34] DARTH VADER returned Themself to their original position
+[21:54:51] Client "|CG|MG| DJW" connected.
+[21:54:52] DARTH VADER: u carnt use it but u can anyother
+[21:55:09] Sith Master TOM: /drop
+[21:55:11] Shadow on Duty: English?
+[21:55:20] Sith Master TOM: /drop
+[21:55:22] DARTH VADER: yh u can use that 
+[21:55:26] Shadow on Duty: /name Shadow on Tour
+[21:55:27] Shadow on Duty<STEAM_0:1:79001790> changed their name to Shadow on Tour
+[21:55:37] Shadow on Tour: y
+[21:55:38] SKT REG COMM Sloth: /pm ethan XD
+[21:55:38] Client "=UD,[TE]SoloWarrior28" spawned in server <STEAM_0:1:66459746> (took 184 seconds).
+[21:55:40] ST PVT 1933 Branco was killed by func_door
+[21:55:41] pottersfan: i know
+[21:55:44] Sith Master TOM: m'lord also do they have to bow me and 
+[21:55:48] Sith Master TOM: what is my new rank
+[21:55:58] DARTH VADER: if i wau u i would use the saber staff bvut i have to use darth vaders :(
+[21:56:10] Sith Master TOM: /drop
+[21:56:14] Sith Master TOM: its bad
+[21:56:16] SKT REG COMM Sloth: // BRB
+[21:56:17] DARTH VADER: yh that one
+[21:56:20] Sith Master TOM: /drop
+[21:56:28] Ethan brought ST PVT 1933 Branco
+[21:56:35] Shadow on Tour<STEAM_0:1:79001790> used the tool camera on maps/rp_stardestroyer_v1.bsp
+[21:56:36] Client "FearMe" connected.
+[21:56:36] DARTH VADER: i am good with it u wont beet me with it
+[21:56:44] Sith Master TOM: /drop
+[21:56:45] DARTH VADER: put the blade red
+[21:56:57] pottersfan: LOL
+[21:56:58] Sith Master TOM: like that ?
+[21:56:59] Sith Master TOM: /drop
+[21:57:05] Sith Master TOM: I cant ?
+[21:57:09] Sith Master TOM: oh
+[21:57:29] Shadow on Tour uncloaked Themself
+[21:57:32] Sith Master TOM: I have to leave
+[21:57:35] Shadow on Tour cloaked Themself by amount 0
+[21:57:35] DARTH VADER: kk
+[21:57:36] Sith Master TOM: :(
+[21:57:40] Sith Master TOM: so see you tommorow 
+[21:57:41] DARTH VADER: :(
+[21:57:44] Sith Master TOM: also what is my rank
+[21:57:44] DARTH VADER: bye
+[21:57:50] ST PVT 1933 Branco suicided!
+[21:57:52] Ethan: /name MED REG COMM Ethan
+[21:57:53] Ethan<STEAM_0:1:72945201> changed their name to MED REG COMM Ethan
+[21:57:55] Dropped "ST PVT 1933 Branco" from server<STEAM_0:1:97107306>
+[21:57:56] Sith Master TOM: I will try to join 
+[21:57:58] Dropped "pottersfan" from server<STEAM_0:1:21566299>
+[21:57:59] Sith Master TOM: ran ?
+[21:58:01] Sith Master TOM: rank
+[21:58:03] MED REG COMM Ethan: // NOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[21:58:07] Client "RUSKY MEDVEĎ" connected.
+[21:58:11] Client "|CG|MG| DJW" spawned in server <STEAM_0:1:56783918> (took 200 seconds).
+[21:58:12] Sith Master TOM: ok
+[21:58:19] DARTH VADER: cya
+[21:58:20] Sith Master TOM: plz write it u are admin :D
+[21:58:26] Sith Master TOM: to wall
+[21:58:26] Client "FearMe" spawned in server <STEAM_0:1:77732520> (took 110 seconds).
+[21:58:39] MED REG COMM Ethan: !uncloak
+[21:58:39] MED REG COMM Ethan uncloaked Themself
+[21:58:39] Sith Master TOM: ok
+[21:58:42] SKT REG COMM Sloth: /pm ethan more people are joining :)
+[21:58:44] =UD,[TE]SoloWarrior28: yes
+[21:58:47] Sith Master TOM: I will try to jooin this night
+[21:58:48] Shadow on Tour<STEAM_0:1:79001790> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[21:58:52] MED REG COMM Ethan: /pm sloth :D
+[21:59:02] DARTH VADER<STEAM_0:1:165468783> spawned/gave himself swep gmod_tool
+[21:59:11] DARTH VADER<STEAM_0:1:165468783> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[21:59:14] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_physgun
+[21:59:14] DARTH VADER<STEAM_0:1:165468783> spawned/gave himself swep weapon_physgun
+[21:59:15] Shadow on Tour<STEAM_0:1:79001790> used the tool remover on models/hunter/plates/plate1x1.mdl
+[21:59:25] MED REG COMM Ethan: !bring fearme
+[21:59:25] MED REG COMM Ethan brought FearMe
+[21:59:31] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[21:59:36] Shadow on Tour<STEAM_0:1:79001790> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[22:00:04] Shadow on Tour<STEAM_0:1:79001790> used the tool remover on models/hunter/plates/plate1x1.mdl
+[22:00:07] =UD,[TE]SoloWarrior28: yes
+[22:00:34] DARTH VADER: /ooc New people for dayz!!!!!!!! xD
+[22:00:38] =UD,[TE]SoloWarrior28: i carnt hear u
+[22:01:02] ST REG COMM Operationwaffles: /Me Salutes
+[22:01:03] =UD,[TE]SoloWarrior28: /me Salutes With Imperial Honour
+[22:01:05] Dropped "Sith Master TOM" from server<STEAM_0:1:105697682>
+[22:01:26] Dropped "FearMe" from server<STEAM_0:1:77732520>
+[22:01:30] MED REG COMM Ethan: !goto sloth
+[22:01:30] MED REG COMM Ethan teleported to SKT REG COMM Sloth
+[22:01:35] MED REG COMM Ethan: !cleardecals
+[22:01:35] MED REG COMM Ethan cleared decals
+[22:01:38] =UD,[TE]SoloWarrior28: yes
+[22:02:03] =UD,[TE]SoloWarrior28: /name ST PVT 1228 Warrior
+[22:02:03] =UD,[TE]SoloWarrior28<STEAM_0:1:66459746> changed their name to ST PVT 1228 Warrior
+[22:02:13] Client "[KyloRP] [CM] Kenny" connected.
+[22:02:27] DARTH VADER: is everything going okay
+[22:02:34] DARTH VADER: good
+[22:02:56] Client "Emre 🆅🅰🅻🆅🅴 DVLPR" connected.
+[22:02:57] DARTH VADER: goign afk
+[22:03:21] Client "Emre 🆅🅰🅻🆅🅴 DVLPR" spawned in server <STEAM_0:1:105697682> (took 25 seconds).
+[22:03:27] Shadow on Tour<STEAM_0:1:79001790> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[22:03:41] Dropped "|CG|MG| DJW" from server<STEAM_0:1:56783918>
+[22:03:47] Client "|CG|MG| DJW" connected.
+[22:04:05] Shadow on Tour<STEAM_0:1:79001790> used the tool remover on models/hunter/plates/plate1x1.mdl
+[22:04:18] Shadow on Tour uncloaked Themself
+[22:04:20] DARTH VADER: /ooc Who are the 3 guy that donated?
+[22:04:37] MED REG COMM Ethan: // U ,ANCIENT AND TOM
+[22:05:09] Client "Oceges" connected.
+[22:05:20] Client "|CG|MG| DJW" spawned in server <STEAM_0:1:56783918> (took 93 seconds).
+[22:05:23] Sith Master TOM: what is force chocke
+[22:05:33] Client "[KyloRP] [CM] Kenny" spawned in server <STEAM_0:1:89597975> (took 200 seconds).
+[22:05:40] MED REG COMM Ethan: // Train The RECs :D
+[22:05:41] Sith Master TOM: ffs stop
+[22:05:41] Client "Hesh" connected.
+[22:05:46] Sith Master TOM: dammmmmmmmmmm
+[22:05:47] MED REG COMM Ethan: // OMG SO MUCH PPL
+[22:05:49] Sith Master TOM: XD
+[22:05:52] Sith Master TOM: now
+[22:05:55] Sith Master TOM: can u write
+[22:05:56] Sith Master TOM: plz
+[22:06:02] MED REG COMM Ethan: !goto ken
+[22:06:02] MED REG COMM Ethan teleported to Fleet Ensign Kenny
+[22:06:05] Sith Master TOM: hey Im higer tahn you :D
+[22:06:14] Sith Master TOM: Im = fleet
+[22:06:20] Sith Master TOM: m lord
+[22:06:23] Sith Master TOM: could you write
+[22:06:24] Sith Master TOM: plz
+[22:06:25] Sith Master TOM: :(
+[22:06:28] MED REG COMM Ethan added ST PVT 1228 Warrior to group STPVT
+[22:06:30] Sith Master TOM: my rank
+[22:06:41] Shadow on Tour cloaked Themself by amount 0
+[22:07:00] Sith Master TOM: also
+[22:07:13] Client "Hesh" spawned in server <STEAM_0:0:120861938> (took 92 seconds).
+[22:07:19] Shadow on Tour teleported to Fleet Ensign Kenny
+[22:07:31] Client "Oceges" spawned in server <STEAM_0:1:77134720> (took 142 seconds).
+[22:07:34] Sith Master TOM: what
+[22:07:50] DARTH VADER: cool
+[22:08:00] Hesh: !donate
+[22:08:03] DARTH VADER: okay
+[22:08:08] Sith Master TOM: and
+[22:08:09] Sith Master TOM: also
+[22:08:12] Hesh: @i need admin pls
+[22:08:12] Hesh to admins: i need admin pls
+[22:08:14] Sith Master TOM: do they have to bow me ?
+[22:08:20] MED REG COMM Ethan: !goto hes
+[22:08:20] MED REG COMM Ethan teleported to Hesh
+[22:08:36] Sith Master TOM: ehm
+[22:08:37] ST REG COMM Operationwaffles: /Me Salutes
+[22:08:38] Sith Master TOM: XD
+[22:08:41] Sith Master TOM: /y At ease trooper(s).Your respect has been noticed!
+[22:08:46] Sith Master TOM: _
+[22:08:50] ST REG COMM Operationwaffles: /Me Salutes
+[22:08:55] Shadow on Tour<STEAM_0:1:79001790> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[22:08:56] Sith Master TOM: m'lord said
+[22:08:58] Sith Master TOM: you higer
+[22:09:00] |CG|MG| DJW: /me Salutes
+[22:09:02] Sith Master TOM: but
+[22:09:08] Shadow on Tour<STEAM_0:1:79001790> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[22:09:11] Sith Master TOM: m'lord said you fleet commandore 
+[22:09:13] Sith Master TOM: but
+[22:09:16] DARTH VADER<STEAM_0:1:165468783> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[22:09:19] Sith Master TOM: they will talk about it tommorow
+[22:09:22] Sith Master TOM: :D
+[22:09:24] Sith Master TOM: also
+[22:09:26] Sith Master TOM: I have this
+[22:09:28] Sith Master TOM: have
+[22:09:32] |CG|MG| DJW: /name ST PVT 2821 Hound
+[22:09:32] |CG|MG| DJW<STEAM_0:1:56783918> changed their name to ST PVT 2821 Hound
+[22:09:33] Sith Master TOM: do you want to see ?
+[22:09:37] Sith Master TOM: ?
+[22:09:40] Hesh: ! SEC
+[22:09:41] Sith Master TOM: my secret waeapon
+[22:09:42] Sith Master TOM: ooc
+[22:09:44] Sith Master TOM: comeon
+[22:09:46] MED REG COMM Ethan: !cleardecals
+[22:09:46] MED REG COMM Ethan cleared decals
+[22:10:00] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[22:10:05] Sith Master TOM: ehm :D
+[22:10:08] ST PVT 2821 Hound: /me Bows
+[22:10:12] Sith Master TOM: XD
+[22:10:18] Sith Master TOM: wtf 
+[22:10:21] Sith Master TOM: XXD
+[22:10:26] Sith Master TOM: can I kill
+[22:10:33] DARTH VADER: @ Ethan can u turn up the lims plz
+[22:10:33] DARTH VADER to admins: Ethan can u turn up the lims plz
+[22:10:46] DARTH VADER<STEAM_0:1:165468783> spawned NPC npc_seagull
+[22:10:54] ST PVT 2821 Hound: /me Salutes
+[22:10:54] ST PVT 1228 Warrior: /me Salutes With Imperial Honour
+[22:10:56] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on models/seagull.mdl
+[22:10:56] Sith Master TOM: /y At ease trooper(s).Your respect has been noticed!
+[22:11:11] DARTH VADER<STEAM_0:1:165468783> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[22:11:20] ST PVT 2821 Hound: /me Salutes
+[22:11:24] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[22:11:27] Sith Master TOM: ssgt+
+[22:11:39] Sith Master TOM: XD
+[22:11:43] DARTH VADER<STEAM_0:1:165468783> spawned model models/hunter/plates/plate1x4.mdl
+[22:12:01] Dropped "Hesh" from server<STEAM_0:0:120861938>
+[22:12:11] DARTH VADER<STEAM_0:1:165468783> used the tool rope on maps/rp_stardestroyer_v1.bsp
+[22:12:13] Fleet Ensign Kenny: // Ethan tp to me! plz
+[22:12:17] DARTH VADER<STEAM_0:1:165468783> used the tool rope on maps/rp_stardestroyer_v1.bsp
+[22:12:19] DARTH VADER<STEAM_0:1:165468783> used the tool rope on maps/rp_stardestroyer_v1.bsp
+[22:12:22] DARTH VADER<STEAM_0:1:165468783> used the tool rope on maps/rp_stardestroyer_v1.bsp
+[22:12:26] DARTH VADER<STEAM_0:1:165468783> used the tool rope on maps/rp_stardestroyer_v1.bsp
+[22:12:28] DARTH VADER<STEAM_0:1:165468783> used the tool rope on maps/rp_stardestroyer_v1.bsp
+[22:12:34] DARTH VADER<STEAM_0:1:165468783> used the tool rope on maps/rp_stardestroyer_v1.bsp
+[22:12:37] DARTH VADER<STEAM_0:1:165468783> used the tool rope on maps/rp_stardestroyer_v1.bsp
+[22:12:38] DARTH VADER<STEAM_0:1:165468783> used the tool rope on maps/rp_stardestroyer_v1.bsp
+[22:12:43] DARTH VADER<STEAM_0:1:165468783> used the tool rope on maps/rp_stardestroyer_v1.bsp
+[22:12:44] Dropped "Shadow on Tour" from server<STEAM_0:1:79001790>
+[22:12:44] DARTH VADER<STEAM_0:1:165468783> used the tool rope on maps/rp_stardestroyer_v1.bsp
+[22:12:44] DARTH VADER<STEAM_0:1:165468783> used the tool rope on maps/rp_stardestroyer_v1.bsp
+[22:12:44] DARTH VADER<STEAM_0:1:165468783> used the tool rope on maps/rp_stardestroyer_v1.bsp
+[22:12:44] DARTH VADER<STEAM_0:1:165468783> used the tool rope on maps/rp_stardestroyer_v1.bsp
+[22:12:44] DARTH VADER<STEAM_0:1:165468783> used the tool rope on maps/rp_stardestroyer_v1.bsp
+[22:12:47] DARTH VADER<STEAM_0:1:165468783> used the tool rope on maps/rp_stardestroyer_v1.bsp
+[22:13:06] Dropped "Fleet Ensign Kenny" from server<STEAM_0:1:89597975>
+[22:13:09] DARTH VADER<STEAM_0:1:165468783> spawned sent stap
+[22:13:30] DARTH VADER: hi
+[22:13:39] Sith Master TOM: wha
+[22:13:42] DARTH VADER: !tp tom
+[22:13:42] DARTH VADER teleported Sith Master TOM
+[22:13:48] Sith Master TOM: yes
+[22:13:49] Sith Master TOM: I know
+[22:13:59] ST PVT 2821 Hound: /me Salutes
+[22:14:00] ST PVT 2821 Hound: /me Bows
+[22:14:04] DARTH VADER<STEAM_0:1:165468783> spawned sent soulless
+[22:14:09] Sith Master TOM: wow
+[22:14:14] Sith Master TOM: do I need to
+[22:14:17] Sith Master TOM: take permssiom
+[22:14:19] DARTH VADER<STEAM_0:1:165468783> spawned sent xj6
+[22:15:29] Sith Master TOM: XD
+[22:15:36] Sith Master TOM: ye
+[22:15:40] DARTH VADER: !goto sloth
+[22:15:40] DARTH VADER teleported to SKT REG COMM Sloth
+[22:15:44] ST PVT 2821 Hound: /me Bows
+[22:15:54] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep sswep_palpatine
+[22:16:43] DARTH VADER added ST PVT 2821 Hound to group STPVT
+[22:17:01] Sith Master TOM: m'lord
+[22:17:01] DARTH VADER: @ ethan to me
+[22:17:01] DARTH VADER to admins: ethan to me
+[22:17:04] Sith Master TOM: who can order me ?
+[22:17:10] Sith Master TOM: yes
+[22:17:11] MED REG COMM Ethan: @ wait
+[22:17:11] MED REG COMM Ethan to admins: wait
+[22:17:21] DARTH VADER: @ hound wantws u
+[22:17:21] DARTH VADER to admins: hound wantws u
+[22:17:21] SKT REG COMM Sloth: /advert Permission to do tryouts
+[22:17:25] Sith Master TOM: wait
+[22:17:28] Sith Master TOM: can I grant
+[22:17:29] Sith Master TOM: ?
+[22:17:31] SKT REG COMM Sloth: /advert Granted
+[22:17:32] MED REG COMM Ethan brought ST PVT 2821 Hound
+[22:17:34] Sith Master TOM: ff
+[22:17:42] Sith Master TOM: /advert *IC* Granted
+[22:17:43] ST REG COMM Operationwaffles: /me searches for porn in codys office 
+[22:18:02] SKT REG COMM Sloth: /advert *IC* SKT Tryouts in the MH
+[22:18:04] ST REG COMM Operationwaffles: /me finds porn
+[22:18:05] DARTH VADER<STEAM_0:1:165468783> used the tool rb655_lightsaber on maps/rp_stardestroyer_v1.bsp
+[22:18:19] Sith Master TOM: /advert *IC*Granted
+[22:18:21] Sith Master TOM: LOL
+[22:18:22] ST REG COMM Operationwaffles: /me the categories are gay
+[22:18:23] Sith Master TOM: I liked it
+[22:18:30] ST REG COMM Operationwaffles: /Me Salutes
+[22:18:31] DARTH VADER: !tp tom
+[22:18:31] DARTH VADER teleported Sith Master TOM
+[22:18:34] ST PVT 2821 Hound: I'm from Kings Realm, I'm the Former Developer there. Need any help?
+[22:18:35] Sith Master TOM: yes
+[22:18:38] MED REG COMM Ethan: oh
+[22:18:45] Sith Master TOM: this
+[22:18:46] ST PVT 2821 Hound: Former
+[22:18:50] ST PVT 2821 Hound: No Longer
+[22:18:54] Sith Master TOM: let me make it
+[22:18:55] MED REG COMM Ethan: well, at the moment no tbh. but you can apply for staff
+[22:19:01] ST PVT 2821 Hound: Sure
+[22:19:05] Sith Master TOM: you are best darth vader :D
+[22:19:08] MED REG COMM Ethan: and share the server with oyur friends
+[22:19:11] DARTH VADER<STEAM_0:1:165468783> spawned sent d_sidious_chair
+[22:19:14] DARTH VADER<STEAM_0:1:165468783> spawned sent mace_windu_council_chair
+[22:19:15] MED REG COMM Ethan: that would be awesome
+[22:19:15] DARTH VADER<STEAM_0:1:165468783> spawned sent plo_koon_council_chair
+[22:19:16] ST PVT 2821 Hound: I have already :)
+[22:19:17] DARTH VADER<STEAM_0:1:165468783> spawned sent yoda_council_chair
+[22:19:19] Sith Master TOM: 1
+[22:19:20] MED REG COMM Ethan: Thank ya
+[22:19:21] DARTH VADER<STEAM_0:1:165468783> spawned sent d_sidious_chair
+[22:19:22] MED REG COMM Ethan: :D
+[22:19:22] ST PVT 2821 Hound: Most of them
+[22:19:23] Sith Master TOM: ye
+[22:19:25] MED REG COMM Ethan: nice
+[22:19:34] ST PVT 2821 Hound: Right, imma go to Sloth m8
+[22:19:39] MED REG COMM Ethan: K
+[22:19:40] Sith Master TOM: ok
+[22:19:41] ST PVT 2821 Hound: Tryout?
+[22:19:53] Sith Master TOM: I will come back
+[22:19:54] Sith Master TOM suicided!
+[22:20:00] MED REG COMM Ethan: !CLEARDECALS
+[22:20:00] MED REG COMM Ethan cleared decals
+[22:20:09] Sith Master TOM: also set spawn point to here plz
+[22:20:27] Sith Master TOM: actually its not important
+[22:20:27] DARTH VADER<STEAM_0:1:165468783> spawned effect models/lt_c/holograms/rt_cam.mdl
+[22:20:28] Sith Master TOM: ow
+[22:20:30] Sith Master TOM: XD
+[22:20:38] MED REG COMM Ethan: !goto tom
+[22:20:38] MED REG COMM Ethan teleported to Sith Master TOM
+[22:20:38] DARTH VADER<STEAM_0:1:165468783> spawned effect models/lt_c/holograms/fwd_sensors.mdl
+[22:20:44] Sith Master TOM: here
+[22:20:51] DARTH VADER<STEAM_0:1:165468783> spawned effect models/lt_c/holograms/fwd_sensors.mdl
+[22:21:13] Sith Master TOM: ok
+[22:21:14] DARTH VADER<STEAM_0:1:165468783> spawned model models/lt_c/sci_fi/ground_locker_small.mdl
+[22:21:19] MED REG COMM Ethan: /setspawn darth
+[22:21:22] DARTH VADER<STEAM_0:1:165468783> spawned model models/lt_c/sci_fi/ground_locker_small.mdl
+[22:21:24] Sith Master TOM suicided!
+[22:21:32] DARTH VADER<STEAM_0:1:165468783> spawned model models/lt_c/sci_fi/holo_tablet.mdl
+[22:21:38] MED REG COMM Ethan: /setspawn darth
+[22:21:40] DARTH VADER<STEAM_0:1:165468783> spawned model models/lt_c/sci_fi/panels_full_128.mdl
+[22:21:41] Sith Master TOM: ulx setspawnpoint group
+[22:21:43] Sith Master TOM suicided!
+[22:21:52] MED REG COMM Ethan: !setspawn sithm
+[22:21:59] MED REG COMM Ethan: /setspawn sithm
+[22:21:59] DARTH VADER<STEAM_0:1:165468783> spawned model models/lt_c/sci_fi/coffee_mug.mdl
+[22:22:02] Sith Master TOM suicided!
+[22:22:06] Sith Master TOM: yay
+[22:22:09] DARTH VADER<STEAM_0:1:165468783> spawned model models/lt_c/sci_fi/lantern.mdl
+[22:22:13] MED REG COMM Ethan teleported to ST PVT 1489 Oce
+[22:22:18] Sith Master TOM: he gone
+[22:22:29] SKT REG COMM Sloth: L L L L R R R R A A F
+[22:22:32] ST REG COMM Operationwaffles: cheese
+[22:22:36] ST PVT 1489 Oce: yes, But having a bit of trouble with paypal atm
+[22:22:38] ST PVT 1489 Oce: give me a sec
+[22:22:50] ST PVT 1228 Warrior: hi
+[22:23:02] SKT REG COMM Sloth: L L R R A A L R L R F A F A F
+[22:23:02] MED REG COMM Ethan: !motd
+[22:23:10] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on models/lt_c/sci_fi/ground_locker_small.mdl
+[22:23:11] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on models/lt_c/sci_fi/lantern.mdl
+[22:23:12] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[22:23:13] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on models/starwars/syphadias/props/d_sidious_chair/d_sidious_chair.mdl
+[22:23:14] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on models/lt_c/sci_fi/coffee_mug.mdl
+[22:23:14] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on models/lt_c/sci_fi/ground_locker_small.mdl
+[22:23:25] Sith Master TOM: flag maybe
+[22:23:45] ST PVT 2821 Hound: /me Salutes
+[22:23:47] ST PVT 2821 Hound: /me Salutes
+[22:23:59] DARTH VADER<STEAM_0:1:165468783> spawned model models/lt_c/flagpole.mdl
+[22:24:06] MED REG COMM Ethan: !cleardecals
+[22:24:06] MED REG COMM Ethan cleared decals
+[22:24:06] Sith Master TOM: XD
+[22:24:11] ST PVT 2821 Hound: /me Salutes
+[22:24:13] MED REG COMM Ethan: /y at ease
+[22:24:18] DARTH VADER<STEAM_0:1:165468783> used the tool adv_duplicator on models/lt_c/flagpole.mdl
+[22:24:20] MED REG COMM Ethan: !goto waff
+[22:24:20] MED REG COMM Ethan teleported to ST REG COMM Operationwaffles
+[22:24:22] DARTH VADER<STEAM_0:1:165468783> used the tool adv_duplicator on maps/rp_stardestroyer_v1.bsp
+[22:24:23] DARTH VADER<STEAM_0:1:165468783> spawned model models/lt_c/flagpole.mdl
+[22:24:33] Sith Master TOM: also thank you
+[22:24:43] DARTH VADER<STEAM_0:1:165468783> used the tool adv_duplicator on models/lt_c/flagpole.mdl
+[22:24:45] DARTH VADER<STEAM_0:1:165468783> used the tool adv_duplicator on maps/rp_stardestroyer_v1.bsp
+[22:24:45] DARTH VADER<STEAM_0:1:165468783> spawned model models/lt_c/flagpole.mdl
+[22:24:49] DARTH VADER<STEAM_0:1:165468783> used the tool adv_duplicator on maps/rp_stardestroyer_v1.bsp
+[22:24:49] DARTH VADER<STEAM_0:1:165468783> spawned model models/lt_c/flagpole.mdl
+[22:24:51] DARTH VADER<STEAM_0:1:165468783> used the tool remover on models/lt_c/flagpole.mdl
+[22:24:55] Sith Master TOM: also some sabers
+[22:24:57] DARTH VADER<STEAM_0:1:165468783> used the tool adv_duplicator on maps/rp_stardestroyer_v1.bsp
+[22:24:57] DARTH VADER<STEAM_0:1:165468783> spawned model models/lt_c/flagpole.mdl
+[22:24:58] Sith Master TOM: to walls
+[22:24:58] DARTH VADER<STEAM_0:1:165468783> used the tool adv_duplicator on maps/rp_stardestroyer_v1.bsp
+[22:24:59] DARTH VADER<STEAM_0:1:165468783> spawned model models/lt_c/flagpole.mdl
+[22:25:04] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on models/lt_c/flagpole.mdl
+[22:25:05] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on models/lt_c/flagpole.mdl
+[22:25:07] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on models/lt_c/flagpole.mdl
+[22:25:08] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on models/lt_c/flagpole.mdl
+[22:25:14] DARTH VADER<STEAM_0:1:165468783> spawned sent ent_lightsaber
+[22:25:14] Sith Master TOM: yay
+[22:25:22] Sith Master TOM: XD
+[22:25:27] DARTH VADER<STEAM_0:1:165468783> used the tool rb655_lightsaber on maps/rp_stardestroyer_v1.bsp
+[22:25:38] Sith Master TOM: XD
+[22:25:43] DARTH VADER<STEAM_0:1:165468783> spawned sent ent_lightsaber
+[22:25:50] ST REG COMM Operationwaffles: /advert *IC* Should I lock the doors in MH COMM Sloth?
+[22:26:04] Sith Master TOM: many sabers :D
+[22:26:10] DARTH VADER<STEAM_0:1:165468783> spawned sent ent_lightsaber
+[22:26:16] Sith Master TOM: flag XD
+[22:26:21] Sith Master TOM: look at flag
+[22:26:22] Sith Master TOM suicided!
+[22:26:22] ST REG COMM Operationwaffles: /advert *IC* Commander?
+[22:26:27] MED REG COMM Ethan: /pm waff welp
+[22:26:29] Sith Master TOM: XD
+[22:26:32] Sith Master TOM: :D
+[22:26:38] DARTH VADER<STEAM_0:1:165468783> used the tool adv_duplicator on maps/rp_stardestroyer_v1.bsp
+[22:26:38] DARTH VADER<STEAM_0:1:165468783> spawned model models/lt_c/flagpole.mdl
+[22:26:39] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_physgun
+[22:26:39] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep gmod_tool
+[22:26:42] SKT REG COMM Sloth: /ADVERT *ic* THEY ARE CLOSED YOU IDIOT
+[22:26:43] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_752bf3_e11
+[22:26:44] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on models/lt_c/flagpole.mdl
+[22:26:46] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:26:46] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_752bf3_e11
+[22:26:46] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:26:46] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_752bf3_e11
+[22:26:46] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:26:46] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_752bf3_e11
+[22:26:46] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:26:46] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_752bf3_e11
+[22:26:46] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:26:46] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_752bf3_e11
+[22:26:47] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:26:47] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_752bf3_e11
+[22:26:47] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:26:47] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_752bf3_e11
+[22:26:47] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:26:47] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_752bf3_e11
+[22:26:47] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:26:47] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_752bf3_e11
+[22:26:47] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:26:47] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_752bf3_e11
+[22:26:47] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:26:47] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_752bf3_e11
+[22:26:48] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:26:48] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_752bf3_e11
+[22:26:48] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:26:48] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_752bf3_e11
+[22:26:48] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:26:48] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_752bf3_e11
+[22:26:48] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:26:48] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_752bf3_e11
+[22:26:49] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:26:49] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_752bf3_e11
+[22:26:49] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:26:49] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_752bf3_e11
+[22:26:52] MED REG COMM Ethan: !cleardecals
+[22:26:52] MED REG COMM Ethan cleared decals
+[22:26:57] DARTH VADER<STEAM_0:1:165468783> used the tool adv_duplicator on maps/rp_stardestroyer_v1.bsp
+[22:26:57] DARTH VADER<STEAM_0:1:165468783> spawned model models/lt_c/flagpole.mdl
+[22:26:59] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on models/lt_c/flagpole.mdl
+[22:27:01] Sith Master TOM: freeze it
+[22:27:05] Sith Master TOM: it willl move
+[22:27:08] Sith Master TOM: look
+[22:27:08] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on models/weapons/starwars/w_maul_saber_staff_hilt.mdl
+[22:27:08] ST REG COMM Operationwaffles: /advert *IC* that is ooc and they are not closed
+[22:27:10] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on models/weapons/starwars/w_maul_saber_staff_hilt.mdl
+[22:27:13] SKT REG COMM Sloth: // keep them open
+[22:27:14] Sith Master TOM: freeze
+[22:27:18] ST REG COMM Operationwaffles: /me facepalms
+[22:27:19] Sith Master TOM: with rightclick
+[22:27:25] MED REG COMM Ethan teleported to ST PVT 1489 Oce
+[22:27:26] DARTH VADER<STEAM_0:1:165468783> used the tool adv_duplicator on maps/rp_stardestroyer_v1.bsp
+[22:27:26] DARTH VADER<STEAM_0:1:165468783> spawned model models/lt_c/flagpole.mdl
+[22:27:28] Sith Master TOM: use physic gun
+[22:27:30] Sith Master TOM: yeah
+[22:27:32] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on models/lt_c/flagpole.mdl
+[22:27:38] DARTH VADER<STEAM_0:1:165468783> used the tool adv_duplicator on maps/rp_stardestroyer_v1.bsp
+[22:27:39] DARTH VADER<STEAM_0:1:165468783> spawned model models/lt_c/flagpole.mdl
+[22:27:45] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on models/lt_c/flagpole.mdl
+[22:27:47] ST PVT 1228 Warrior: /pm operationwaffles whats the server called
+[22:27:47] MED REG COMM Ethan added Themself to group superadmin
+[22:27:51] Sith Master TOM: also last
+[22:27:52] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[22:27:53] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[22:27:54] Sith Master TOM: some sabers
+[22:27:54] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[22:27:55] Sith Master TOM: to
+[22:28:00] Sith Master TOM: little
+[22:28:07] DARTH VADER<STEAM_0:1:165468783> used the tool rb655_lightsaber on maps/rp_stardestroyer_v1.bsp
+[22:28:30] Sith Master TOM: yes
+[22:28:37] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on models/sgg/starwars/weapons/w_anakin_ep2_saber_hilt.mdl
+[22:28:39] Sith Master TOM: thank you very much
+[22:28:43] Sith Master TOM: for helping
+[22:28:45] DARTH VADER<STEAM_0:1:165468783> spawned sent ent_lightsaber
+[22:29:02] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on models/sgg/starwars/weapons/w_anakin_ep2_saber_hilt.mdl
+[22:29:06] Sith Master TOM: XD
+[22:29:10] MED REG COMM Ethan added Themself to group owner
+[22:29:12] Sith Master TOM: also lets write
+[22:29:18] DARTH VADER<STEAM_0:1:165468783> used the tool adv_duplicator on maps/rp_stardestroyer_v1.bsp
+[22:29:19] SKT REG COMM Sloth: @ Can you come to me
+[22:29:19] SKT REG COMM Sloth to admins: Can you come to me
+[22:29:19] DARTH VADER<STEAM_0:1:165468783> spawned model models/lt_c/flagpole.mdl
+[22:29:24] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on models/lt_c/flagpole.mdl
+[22:29:25] Sith Master TOM: Sith Master Tom's meeting room
+[22:29:32] ST PVT 1228 Warrior: /name ST CPL 1228 Warrior
+[22:29:33] ST PVT 1228 Warrior<STEAM_0:1:66459746> changed their name to ST CPL 1228 Warrior
+[22:29:42] ST PVT 2821 Hound: /name SKT CPL 2812 Hound
+[22:29:43] ST PVT 2821 Hound<STEAM_0:1:56783918> changed their name to SKT CPL 2812 Hound
+[22:29:50] SKT CPL 2812 Hound: /me Salutes
+[22:29:53] SKT REG COMM Sloth: /me At ease trooper(s), your respect has been noticed
+[22:29:58] Sith Master TOM: ethan
+[22:30:03] Sith Master TOM: give me tool gun for sec
+[22:30:04] MED REG COMM Ethan: !cleardecals
+[22:30:04] MED REG COMM Ethan cleared decals
+[22:30:10] Sith Master TOM: give me tool gun for sec I wil show
+[22:30:13] DARTH VADER<STEAM_0:1:165468783> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[22:30:15] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:30:15] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep gmod_tool
+[22:30:15] DARTH VADER<STEAM_0:1:165468783> used the tool textscreen on models/hunter/plates/plate1x1.mdl
+[22:30:15] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:30:15] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep gmod_tool
+[22:30:16] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:30:16] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep gmod_tool
+[22:30:16] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:30:16] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep gmod_tool
+[22:30:19] DARTH VADER<STEAM_0:1:165468783> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[22:30:22] SKT REG COMM Sloth: /pm ethan can you come to me
+[22:30:24] ST REG COMM Operationwaffles: @Warrior needs whitlelisting to CPL
+[22:30:24] ST REG COMM Operationwaffles to admins: Warrior needs whitlelisting to CPL
+[22:30:24] Sith Master TOM<STEAM_0:1:105697682> used the tool rb655_lightsaber on maps/rp_stardestroyer_v1.bsp
+[22:30:29] MED REG COMM Ethan: /pm sloth gimmie a sec
+[22:30:29] Sith Master TOM: physic gun
+[22:30:35] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:30:35] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_physgun
+[22:30:35] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:30:35] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_physgun
+[22:30:36] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:30:36] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_physgun
+[22:30:36] SKT REG COMM Sloth: /pm ethan ok
+[22:30:51] Sith Master TOM<STEAM_0:1:105697682> used the tool adv_duplicator on models/sgg/starwars/weapons/w_vader_saber_hilt.mdl
+[22:31:05] Sith Master TOM<STEAM_0:1:105697682> used the tool adv_duplicator on maps/rp_stardestroyer_v1.bsp
+[22:31:07] DARTH VADER added ST CPL 1228 Warrior to group SKCPL
+[22:31:18] MED REG COMM Ethan: !strip tom
+[22:31:18] MED REG COMM Ethan stripped weapons from Sith Master TOM
+[22:31:20] Sith Master TOM suicided!
+[22:31:22] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[22:31:22] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[22:31:23] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[22:31:23] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[22:31:23] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool remover on models/sgg/starwars/weapons/w_vader_saber_hilt.mdl
+[22:31:24] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[22:31:29] Sith Master TOM: THANK YOU VERY MUCH
+[22:31:29] MED REG COMM Ethan: !goto slot
+[22:31:29] MED REG COMM Ethan teleported to SKT REG COMM Sloth
+[22:31:36] DARTH VADER added ST CPL 1228 Warrior to group STCPL
+[22:31:55] SKT CPL 2812 Hound: /me Salutes
+[22:31:59] MED REG COMM Ethan added SKT CPL 2812 Hound to group SKCPL
+[22:32:08] Sith Master TOM: thank you
+[22:32:25] MED REG COMM Ethan: !forcerespawn hou
+[22:32:25] MED REG COMM Ethan respawned SKT CPL 2812 Hound
+[22:32:32] ST CPL 1228 Warrior: /y im hiding from my problems
+[22:32:35] MED REG COMM Ethan suicided!
+[22:32:58] MED REG COMM Ethan: !scale ^ 1.5
+[22:32:58] MED REG COMM Ethan set the scale for Themself to 2
+[22:33:04] MED REG COMM Ethan: !scale ^ 1
+[22:33:04] MED REG COMM Ethan set the scale for Themself to 1
+[22:33:10] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[22:33:11] Sith Master TOM: if someone sits my chair like darth and lower rank can  I kill ?
+[22:33:14] MED REG COMM Ethan: !goto slo
+[22:33:14] MED REG COMM Ethan teleported to SKT REG COMM Sloth
+[22:33:15] ST CPL 1228 Warrior: /y im hiding from my problems
+[22:33:19] Sith Master TOM: thanks
+[22:33:25] Sith Master TOM: also
+[22:33:37] Sith Master TOM: if someone rdms on server can I kill ?
+[22:33:44] ST CPL 1228 Warrior: /y im the box
+[22:33:48] Sith Master TOM: ok
+[22:33:56] DARTH VADER: !goto sloth
+[22:33:56] DARTH VADER teleported to SKT REG COMM Sloth
+[22:34:08] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep gmod_tool
+[22:34:09] Sith Master TOM: /ooc bring me
+[22:34:15] MED REG COMM Ethan added Themself to group superadmin
+[22:34:18] DARTH VADER: /me salutes
+[22:34:18] DARTH VADER: /me search weapon and strip cons
+[22:34:21] DARTH VADER: !tp tom
+[22:34:21] DARTH VADER teleported Sith Master TOM
+[22:34:24] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool colour on maps/rp_stardestroyer_v1.bsp
+[22:34:30] ST REG COMM Operationwaffles: /ooc ethan come find me
+[22:34:35] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[22:34:36] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[22:34:56] ST CPL 1228 Warrior: can we give him a hint
+[22:35:14] DARTH VADER<STEAM_0:1:165468783> used the tool lamp on maps/rp_stardestroyer_v1.bsp
+[22:35:35] DARTH VADER<STEAM_0:1:165468783> spawned effect models/lt_c/holograms/rt_cam.mdl
+[22:35:44] MED REG COMM Ethan: esstarwarsrp.enjin.com/store
+[22:35:44] Sith Master TOM: XD
+[22:35:47] DARTH VADER<STEAM_0:1:165468783> spawned effect models/lt_c/holograms/eletc_paths.mdl
+[22:35:59] DARTH VADER<STEAM_0:1:165468783> spawned effect models/lt_c/holograms/life_support.mdl
+[22:36:01] MED REG COMM Ethan: /donate
+[22:36:02] ST REG COMM Operationwaffles: /Me Salutes
+[22:36:05] ST CPL 1228 Warrior: /me Salutes With Imperial Honour
+[22:36:05] Sith Master TOM: hi
+[22:36:12] Sith Master TOM: hey guys follow me
+[22:36:13] DARTH VADER<STEAM_0:1:165468783> spawned effect models/lt_c/holograms/shields.mdl
+[22:36:33] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on maps/rp_stardestroyer_v1.bsp
+[22:36:35] Sith Master TOM: ı will show you my room
+[22:36:39] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on models/props_junk/watermelon01.mdl
+[22:37:11] Sith Master TOM: XD
+[22:37:23] Sith Master TOM: no
+[22:37:55] Sith Master TOM: /wwarp
+[22:37:58] Sith Master TOM: /warp
+[22:38:01] ST PVT 1489 Oce<STEAM_0:1:77134720> spawned/gave himself swep forcechoke
+[22:38:07] ST PVT 1489 Oce: @ Ethan tp to me
+[22:38:07] ST PVT 1489 Oce to admins: Ethan tp to me
+[22:38:14] DARTH VADER: !tp ethsn
+[22:38:16] MED REG COMM Ethan: @ wait Ren Someone needs me
+[22:38:16] MED REG COMM Ethan to admins: wait Ren Someone needs me
+[22:38:18] (TEAM) DARTH VADER: !tp ethsn
+[22:38:19] MED REG COMM Ethan: !goto oc
+[22:38:19] MED REG COMM Ethan teleported to ST PVT 1489 Oce
+[22:38:22] DARTH VADER: !tp ethan
+[22:38:25] Sith Master TOM: yay
+[22:38:30] DARTH VADER: /ooc I carnt target u
+[22:38:37] MED REG COMM Ethan: // wait Ren
+[22:38:50] SKT REG COMM Sloth: /warp
+[22:39:10] SKT REG COMM Sloth: /warp
+[22:39:19] DARTH VADER<STEAM_0:1:165468783> spawned model models/lt_c/sci_fi/girder_128.mdl
+[22:39:22] DARTH VADER<STEAM_0:1:165468783> spawned model models/lt_c/sci_fi/coffee_mug.mdl
+[22:39:24] DARTH VADER<STEAM_0:1:165468783> spawned model models/lt_c/sci_fi/alarm_gib1.mdl
+[22:39:28] DARTH VADER<STEAM_0:1:165468783> spawned effect models/lt_c/holograms/overlays_warnings.mdl
+[22:39:33] DARTH VADER<STEAM_0:1:165468783> spawned effect models/lt_c/holograms/life_support.mdl
+[22:39:34] DARTH VADER<STEAM_0:1:165468783> spawned model models/lt_c/holo_rails_angled_cheap.mdl
+[22:39:38] DARTH VADER<STEAM_0:1:165468783> spawned model models/lt_c/sci_fi/cafeteria/tray.mdl
+[22:39:52] SKT REG COMM Sloth suicided!
+[22:40:02] SKT CPL 2812 Hound: @ Does the "Explain what your character does" mean current or one I'm going for?
+[22:40:02] SKT CPL 2812 Hound to admins: Does the "Explain what your character does" mean current or one I'm going for?
+[22:40:11] DARTH VADER: !tp tom
+[22:40:11] DARTH VADER teleported Sith Master TOM
+[22:40:16] DARTH VADER<STEAM_0:1:165468783> spawned effect models/lt_c/holograms/rt_cam.mdl
+[22:40:18] SKT REG COMM Sloth: /warp
+[22:40:22] Sith Master TOM: sure
+[22:40:26] MED REG COMM Ethan: /pm hound what u r going for
+[22:40:29] Sith Master TOM: ok
+[22:40:31] ST REG COMM Operationwaffles: /waro
+[22:40:32] DARTH VADER<STEAM_0:1:165468783> spawned effect models/lt_c/holograms/fwd_sensors.mdl
+[22:40:33] ST CPL 1228 Warrior: msgic
+[22:40:35] ST REG COMM Operationwaffles: /warp
+[22:40:39] ST CPL 1228 Warrior: /warp
+[22:40:41] SKT CPL 2812 Hound: /pm Ethan Emperor Palpy
+[22:40:42] Sith Master TOM: ok thanks
+[22:40:47] DARTH VADER<STEAM_0:1:165468783> spawned effect models/lt_c/holograms/eletc_paths.mdl
+[22:40:57] SKT CPL 2812 Hound: /pm Ethan And staff 
+[22:41:02] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on models/props_junk/watermelon01.mdl
+[22:41:03] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on models/nova/airboat_seat.mdl
+[22:41:04] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on models/props_junk/watermelon01.mdl
+[22:41:05] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on models/props_junk/watermelon01.mdl
+[22:41:08] SKT REG COMM Sloth: /warp
+[22:41:11] Sith Master TOM: thanks
+[22:41:17] Sith Master TOM: stay
+[22:41:24] DARTH VADER: !goto ethan
+[22:41:31] DARTH VADER: !goto ethan
+[22:41:31] DARTH VADER teleported to MED REG COMM Ethan
+[22:41:39] Sith Master TOM: /warp
+[22:41:43] SKT REG COMM Sloth: /warp
+[22:41:58] SKT CPL 2812 Hound: /pm Ethan Also, Why is there an application tab? xD If there bad at what they bought then they shouldve never had bought it
+[22:42:04] Sith Master TOM: ?
+[22:42:05] Sith Master TOM: :D
+[22:42:18] DARTH VADER: !return
+[22:42:18] DARTH VADER returned Themself to their original position
+[22:42:48] ST CPL 1228 Warrior: /me Salutes With Imperial Honour
+[22:42:55] DARTH VADER: bow
+[22:43:18] Sith Master TOM: wtf
+[22:43:18] Sith Master TOM: :D
+[22:43:21] DARTH VADER killed ST REG COMM Operationwaffles using weapon_lightsaber
+[22:43:32] DARTH VADER: rise
+[22:43:34] MED REG COMM Ethan: /name BRB
+[22:43:35] MED REG COMM Ethan<STEAM_0:1:72945201> changed their name to BRB
+[22:43:38] ST REG COMM Operationwaffles: /ooc RDM!
+[22:43:44] SKT REG COMM Sloth suicided!
+[22:43:51] SKT CPL 2812 Hound: // Do @ xD
+[22:43:54] DARTH VADER: /advert *IC* Arrest Sloth ASAP!!!!
+[22:43:56] ST PVT 1489 Oce: // HOUND
+[22:44:00] Sith Master TOM: Im master
+[22:44:10] ST PVT 1489 Oce: // are u of Express Gaming?
+[22:44:14] ST PVT 1489 Oce: // off*
+[22:44:21] SKT CPL 2812 Hound: // Baybe...
+[22:44:25] DARTH VADER: /ooc I am the grand inquisitor
+[22:44:25] ST PVT 1489 Oce: // xD
+[22:44:27] ST REG COMM Operationwaffles: /ooc the bad one?
+[22:44:29] (TEAM) SKT CPL 2812 Hound: // *m xD
+[22:44:39] Sith Master TOM: /advert SKT Commadner is AOS he attacked to Darth Vader
+[22:44:40] ST PVT 1489 Oce: // Vader, They dont have a grand inquisitor...
+[22:44:46] DARTH VADER: rise
+[22:44:56] DARTH VADER<STEAM_0:1:165468783> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:44:56] DARTH VADER<STEAM_0:1:165468783> spawned/gave himself swep weapon_cuff_elastic
+[22:44:58] DARTH VADER<STEAM_0:1:165468783> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:44:58] DARTH VADER<STEAM_0:1:165468783> spawned/gave himself swep weapon_cuff_elastic
+[22:45:01] DARTH VADER<STEAM_0:1:165468783> spawned/gave himself swep taser
+[22:45:04] DARTH VADER<STEAM_0:1:165468783> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:45:04] DARTH VADER<STEAM_0:1:165468783> spawned/gave himself swep taser
+[22:45:20] SKT CPL 2812 Hound: /me Bows
+[22:45:22] Sith Master TOM: I will force chocke
+[22:45:32] BRB: /name MED REG COMM Ethan
+[22:45:33] BRB<STEAM_0:1:72945201> changed their name to MED REG COMM Ethan
+[22:45:56] Sith Master TOM: can I use force 'ng'tate
+[22:45:58] Sith Master TOM: ingitate
+[22:46:06] Sith Master TOM: ingitate _
+[22:46:13] DARTH VADER<STEAM_0:1:165468783> spawned/gave himself swep weapon_cuff_elastic
+[22:46:15] DARTH VADER<STEAM_0:1:165468783> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[22:46:15] DARTH VADER<STEAM_0:1:165468783> spawned/gave himself swep weapon_cuff_elastic
+[22:46:17] (TEAM) SKT CPL 2812 Hound: Where are u?
+[22:46:33] SKT REG COMM Sloth: /advert YOU WILL NEVER FIND ME
+[22:46:35] DARTH VADER: /advert *IC* Arrest Sloth now!!!!!!
+[22:46:42] (TEAM) SKT CPL 2812 Hound: I'm helping you
+[22:47:00] DARTH VADER: /advert *IC* When you get him bring him to me!!!!!
+[22:47:08] MED REG COMM Ethan: //O O Sloth
+[22:47:13] MED REG COMM Ethan: // Oh oh Sloth
+[22:47:31] MED REG COMM Ethan added ST PVT 1489 Oce to group STPVT
+[22:47:40] DARTH VADER: /ooc Yh he tried to push me off the lift and nearly killed me.
+[22:47:46] MED REG COMM Ethan: // OMG
+[22:47:58] SKT REG COMM Sloth: // 300 HEALTH
+[22:48:10] SKT REG COMM Sloth: // NEARLY KILLED
+[22:48:13] DARTH VADER: /ooc I was on low health.
+[22:48:21] Sith Master TOM suicided!
+[22:48:35] ST PVT 1489 Oce: Island Watches & Art (EISWatches)
+[22:48:36] DARTH VADER: /ooc Ethan the throme room looks amazing.
+[22:48:56] DARTH VADER: /ooc Sith can come in with per
+[22:49:12] DARTH VADER: /y what is it sith master
+[22:49:25] Sith Master TOM: m'lord we lost commander I think he escaped
+[22:49:33] (TEAM) SKT CPL 2812 Hound: Where are you?! I'm helping you!
+[22:50:01] DARTH VADER: /ooc HE carnt go far the Tie's carnt go in hyperspace we will find him.
+[22:50:01] Sith Master TOM: ooc spectate and tell me place for RP
+[22:50:07] DARTH VADER: i will xD
+[22:50:10] SKT CPL 2812 Hound: /pm Sloth Where are you?! I'm trying to help you!
+[22:50:11] Sith Master TOM: when
+[22:50:18] DARTH VADER: i will do it now
+[22:50:21] Sith Master TOM: ok
+[22:50:24] DARTH VADER: !spectate sloth
+[22:50:32] SKT REG COMM Sloth: @ Spawn a ship in the MH
+[22:50:32] SKT REG COMM Sloth to admins: Spawn a ship in the MH
+[22:50:34] DARTH VADER: !unspectate sloth
+[22:50:38] Sith Master TOM: press space
+[22:50:44] DARTH VADER: !spectate 
+[22:50:49] SKT REG COMM Sloth: @ So i can escape
+[22:50:49] SKT REG COMM Sloth to admins: So i can escape
+[22:50:55] DARTH VADER: !unspectate 
+[22:50:56] ST CPL 1228 Warrior: yes
+[22:50:59] Sith Master TOM: press space
+[22:51:18] DARTH VADER: he's in the dark trooper bunks xD
+[22:51:22] Sith Master TOM: whre is it
+[22:51:34] Sith Master TOM: wariw
+[22:51:36] Sith Master TOM: wwia
+[22:51:45] Sith Master TOM: wair
+[22:51:46] Sith Master TOM: wait
+[22:51:55] DARTH VADER: follow me
+[22:51:58] SKT CPL 2812 Hound: /me Bows
+[22:52:01] Sith Master TOM:  yme tom uses the power of darkside to freeze commadner 
+[22:52:03] Sith Master TOM: can I use
+[22:52:04] DARTH VADER: good
+[22:52:18] SKT REG COMM Sloth: /advert STILL CAN NOT FIND ME 
+[22:52:25] DARTH VADER: !tp hound
+[22:52:25] DARTH VADER teleported SKT CPL 2812 Hound
+[22:52:28] MED REG COMM Ethan teleported to SKT REG COMM Sloth
+[22:52:40] Dropped "ST PVT 1489 Oce" from server<STEAM_0:1:77134720>
+[22:52:46] ST REG COMM Operationwaffles: /advert *IC* HB
+[22:52:51] Sith Master TOM: /me me tom uses the power of darkside to freeze commadner 
+[22:52:55] Sith Master TOM: froeze
+[22:52:58] MED REG COMM Ethan<STEAM_0:1:72945201> spawned sent tie_fighter
+[22:52:59] Sith Master TOM: /ooc you frozen
+[22:52:59] MED REG COMM Ethan<STEAM_0:1:72945201> spawned sent tie_fighter
+[22:53:04] MED REG COMM Ethan<STEAM_0:1:72945201> spawned sent tie_fighter
+[22:53:06] Sith Master TOM: /me me tom uses the power of darkside to freeze commadner 
+[22:53:08] MED REG COMM Ethan<STEAM_0:1:72945201> spawned/gave himself swep weapon_physgun
+[22:53:10] DARTH VADER<STEAM_0:1:165468783> spawned/gave himself swep taser
+[22:53:11] Sith Master TOM: /ooc ffs you frozen
+[22:53:16] Sith Master TOM: /ooc you cant move
+[22:53:19] ST REG COMM Operationwaffles: /advert *IC* Quick!
+[22:53:21] MED REG COMM Ethan added Themself to group superadmin
+[22:53:22] Sith Master TOM: /ooc or I will kill you
+[22:53:25] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool permaprops on models/tie2/tie2.mdl
+[22:53:30] Sith Master TOM: ı will kill
+[22:53:38] Sith Master TOM: /me me tom uses the power of darkside to freeze commadner 
+[22:53:46] Sith Master TOM: ge frozen
+[22:53:50] Sith Master TOM: he frozen
+[22:53:58] MED REG COMM Ethan teleported to SKT REG COMM Sloth
+[22:54:03] SKT REG COMM Sloth: /ADVERT THERE IS NO BREEZE IN SPACE (i can stay here for 5 min)
+[22:54:15] Sith Master TOM: /me me tom uses the power of darkside to freeze commadner 
+[22:54:22] Sith Master TOM: ffs
+[22:54:27] Sith Master TOM: /me me tom uses the power of darkside to freeze commadner 
+[22:54:30] Sith Master TOM: /me me tom uses the power of darkside to freeze commadner 
+[22:54:31] Sith Master TOM: /me me tom uses the power of darkside to freeze commadner 
+[22:54:31] Sith Master TOM: /me me tom uses the power of darkside to freeze commadner 
+[22:54:38] Sith Master TOM: i
+[22:54:44] Sith Master TOM: /me me tom uses the power of darkside to freeze commadner 
+[22:54:45] Sith Master TOM: /me me tom uses the power of darkside to freeze commadner 
+[22:54:46] Sith Master TOM: /me me tom uses the power of darkside to freeze commadner 
+[22:54:50] Sith Master TOM: /me me tom uses the power of darkside to freeze commadner 
+[22:54:52] Sith Master TOM: y
+[22:54:53] Sith Master TOM: ffs
+[22:54:59] Sith Master TOM: /me me tom uses the power of darkside to freeze commadne 
+[22:55:05] Sith Master TOM: /me me tom uses the power of darkside to freeze commadner 
+[22:55:06] Sith Master TOM: ok
+[22:55:14] Sith Master TOM: /adver  tom uses the power of darkside to freeze commadner 
+[22:55:17] DARTH VADER: !tp waf
+[22:55:17] DARTH VADER teleported ST REG COMM Operationwaffles
+[22:55:17] MED REG COMM Ethan teleported to SKT REG COMM Sloth
+[22:55:22] DARTH VADER: !tp da
+[22:55:22] Sith Master TOM: /advert tom uses the power of darkside to freeze commadner 
+[22:55:26] DARTH VADER: !tp tom
+[22:55:26] DARTH VADER teleported Sith Master TOM
+[22:55:33] DARTH VADER<STEAM_0:1:165468783> spawned sent soulless
+[22:55:34] MED REG COMM Ethan teleported to SKT REG COMM Sloth
+[22:55:37] MED REG COMM Ethan teleported to SKT REG COMM Sloth
+[22:55:57] DARTH VADER<STEAM_0:1:165468783> spawned sent lambda
+[22:56:03] MED REG COMM Ethan: !cleardecals
+[22:56:03] MED REG COMM Ethan cleared decals
+[22:56:18] DARTH VADER<STEAM_0:1:165468783> spawned sent soulless
+[22:56:26] MED REG COMM Ethan: /pm vader go to ur throne room
+[22:56:38] MED REG COMM Ethan: /pm vader I want to see how it looks when u r in it
+[22:56:47] DARTH VADER: !goto ethan
+[22:56:47] DARTH VADER teleported to MED REG COMM Ethan
+[22:56:59] DARTH VADER: /y hi
+[22:57:01] Sith Master TOM: /me me tom uses the power of darkside to freeze commadner 
+[22:57:12] Sith Master TOM: /ooc FFS HE TOLE MY SHIP
+[22:57:16] Sith Master TOM: /oooc stole
+[22:57:24] Sith Master TOM: /ooc stole 
+[22:57:35] MED REG COMM Ethan: // SLOTH U FAILRP 
+[22:57:35] Sith Master TOM: /ooc you cant use I m riding this ship with force
+[22:57:43] Sith Master TOM: ops
+[22:57:44] Sith Master TOM: sprry
+[22:57:46] Sith Master TOM: sorry
+[22:57:58] DARTH VADER: /ooc Tom back to the ship
+[22:58:04] MED REG COMM Ethan brought SKT REG COMM Sloth
+[22:58:06] Sith Master TOM: /ooc Im in hip
+[22:58:09] Sith Master TOM: /ooc ship
+[22:58:10] MED REG COMM Ethan: !goto sloth
+[22:58:10] MED REG COMM Ethan teleported to SKT REG COMM Sloth
+[22:58:13] DARTH VADER: !goto tom
+[22:58:18] DARTH VADER: !goto tom
+[22:58:18] DARTH VADER teleported to Sith Master TOM
+[22:58:26] Sith Master TOM: he stole my ship 
+[22:58:32] Sith Master TOM: or someoen else
+[22:58:41] DARTH VADER: !goto sloth
+[22:58:41] DARTH VADER teleported to SKT REG COMM Sloth
+[22:58:57] DARTH VADER: !tp tom
+[22:58:57] DARTH VADER teleported Sith Master TOM
+[22:59:02] DARTH VADER: !bring tom
+[22:59:02] DARTH VADER brought Sith Master TOM
+[22:59:05] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool remover on models/soulless/soulless1.mdl
+[22:59:19] Sith Master TOM: i dont have
+[22:59:21] Sith Master TOM: cuffs
+[22:59:27] SKT REG COMM Sloth: /drop
+[22:59:40] SKT REG COMM Sloth: /advert HELP
+[22:59:44] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool remover on maps/rp_stardestroyer_v1.bsp
+[22:59:44] MED REG COMM Ethan<STEAM_0:1:72945201> used the tool remover on models/soulless/soulless1.mdl
+[22:59:49] Sith Master TOM: pr'son _
+[23:00:18] Sith Master TOM: [Advert] Sith Master TOM: tom uses the power of darkside to freeze commadner 
+[23:00:18] MED REG COMM Ethan suicided!
+[23:00:25] Sith Master TOM: XD
+[23:00:31] ST REG COMM Operationwaffles: /me wets finger
+[23:00:34] Sith Master TOM: dont know
+[23:00:36] MED REG COMM Ethan: // WTF WAFF
+[23:00:39] MED REG COMM Ethan: // xD
+[23:00:45] Sith Master TOM: LOL
+[23:00:47] MED REG COMM Ethan added Themself to group owner
+[23:00:48] ST REG COMM Operationwaffles: /ooc xD
+[23:00:52] MED REG COMM Ethan brought ST REG COMM Operationwaffles
+[23:01:25] MED REG COMM Ethan: /advert *IC* m'lord where are you?
+[23:01:30] Sith Master TOM: how can I
+[23:01:31] Sith Master TOM: you know
+[23:01:43] DARTH VADER: /advert *IC* I am coming to the Prison.
+[23:01:48] Sith Master TOM: cant XD
+[23:01:49] Sith Master TOM: write
+[23:01:59] Dropped "ST CPL 1228 Warrior" from server<STEAM_0:1:66459746>
+[23:02:18] ST REG COMM Operationwaffles was killed by func_door
+[23:02:26] MED REG COMM Ethan: !bring waff
+[23:02:28] DARTH VADER: !tp waf
+[23:02:28] DARTH VADER teleported ST REG COMM Operationwaffles
+[23:02:31] MED REG COMM Ethan: !bring waff
+[23:02:31] MED REG COMM Ethan brought ST REG COMM Operationwaffles
+[23:02:37] MED REG COMM Ethan: /me salutes
+[23:02:39] Sith Master TOM: Xd
+[23:02:42] Sith Master TOM: m'lord
+[23:02:42] ST REG COMM Operationwaffles: /me At ease trooper(s), your respect has been noticed
+[23:02:43] ST REG COMM Operationwaffles: /Me Salutes
+[23:02:44] Sith Master TOM: here
+[23:02:46] ST REG COMM Operationwaffles: /Me Salutes
+[23:02:49] Sith Master TOM: mlor
+[23:02:55] Sith Master TOM: follow me m'lord
+[23:03:33] Sith Master TOM: Im using
+[23:03:36] Sith Master TOM: force absorb
+[23:04:04] Sith Master TOM: cant heaer
+[23:04:09] Sith Master TOM: I didint hear
+[23:04:20] DARTH VADER: tom force lightnining him
+[23:04:26] Sith Master TOM: cant
+[23:04:33] Sith Master TOM: standup
+[23:05:11] Sith Master TOM: now what is my rank
+[23:05:12] Sith Master TOM: :D
+[23:05:17] SKT REG COMM Sloth: gagged
+[23:05:24] Sith Master TOM: commadner ?
+[23:05:28] Sith Master TOM: ok
+[23:05:39] DARTH VADER: /me sences a jedi controling sloth
+[23:06:00] MED REG COMM Ethan brought SKT CPL 2812 Hound
+[23:06:02] ST REG COMM Operationwaffles: /me At ease trooper(s), your respect has been noticed
+[23:06:03] Sith Master TOM: let me arrest him
+[23:06:11] DARTH VADER: /me At ease trooper(s), your respect has been noticed
+[23:06:13] MED REG COMM Ethan: !bring waff
+[23:06:13] MED REG COMM Ethan brought ST REG COMM Operationwaffles
+[23:06:17] DARTH VADER: sloth 
+[23:06:24] ST REG COMM Operationwaffles suicided!
+[23:06:29] MED REG COMM Ethan: !bring waff
+[23:06:29] MED REG COMM Ethan brought ST REG COMM Operationwaffles
+[23:06:44] MED REG COMM Ethan: !bring waff
+[23:06:44] MED REG COMM Ethan brought ST REG COMM Operationwaffles
+[23:06:48] DARTH VADER: /name Fleet
+[23:06:49] DARTH VADER<STEAM_0:1:165468783> changed their name to Fleet
+[23:06:51] Sith Master TOM: /warp
+[23:07:00] Sith Master TOM: /me tom uses the power of darkside to freeze jeday 
+[23:07:03] Sith Master TOM: /me tom uses the power of darkside to freeze jeday 
+[23:07:04] Fleet: /advert *IC* Jedi ship incoming!!!!!
+[23:07:08] MED REG COMM Ethan: /warp
+[23:07:12] Fleet: /name DARTH VADER
+[23:07:13] Fleet<STEAM_0:1:165468783> changed their name to DARTH VADER
+[23:07:14] Sith Master TOM: when we start
+[23:07:20] Sith Master TOM suicided!
+[23:07:44] Sith Master TOM: /advert M'LORD PERMISSION TI KILL JEDAY
+[23:07:59] DARTH VADER: /advert *IC* try to capture him/she.
+[23:08:00] ST REG COMM Operationwaffles: /me waves hand
+[23:08:04] Sith Master TOM: /advert if I see him
+[23:08:07] MED REG COMM Ethan suicided!
+[23:08:12] ST REG COMM Operationwaffles killed SKT REG COMM Sloth using weapon_lightsaber
+[23:08:20] MED REG COMM Ethan: !ungod
+[23:08:20] MED REG COMM Ethan revoked god mode from Themself
+[23:08:21] DARTH VADER: /advert If reresponds kill him.
+[23:08:27] Sith Master TOM: hold fire
+[23:08:35] Sith Master TOM: /advert hol fire I will dual with jeday
+[23:08:39] Sith Master TOM: /advert hold
+[23:08:45] Sith Master TOM: /ooc dual with me
+[23:08:54] ST REG COMM Operationwaffles: /oooc just a sec
+[23:08:58] SKT CPL 2812 Hound: // Applying for Palpy
+[23:09:03] DARTH VADER: !spectate tom
+[23:09:03] MED REG COMM Ethan: // K
+[23:09:06] ST REG COMM Operationwaffles: /name Jedi Master Waffles
+[23:09:06] ST REG COMM Operationwaffles<STEAM_0:1:64526417> changed their name to Jedi Master Waffles
+[23:09:10] Sith Master TOM: /ooc id I lose kill jeaday D
+[23:09:12] MED REG COMM Ethan: // good luck m8
+[23:09:18] Sith Master TOM: ffs
+[23:09:23] SKT REG COMM Sloth: // good luke
+[23:09:23] Sith Master TOM: /ooc dude your saber is not normal
+[23:09:24] MED REG COMM Ethan: !cleardecals
+[23:09:24] MED REG COMM Ethan cleared decals
+[23:09:30] Sith Master TOM: /ooc make vit normal
+[23:09:34] Sith Master TOM: its too big
+[23:09:39] Jedi Master Waffles: /me At ease trooper(s), your respect has been noticed
+[23:09:39] SKT REG COMM Sloth: // luck*
+[23:09:44] Sith Master TOM: wait
+[23:09:44] MED REG COMM Ethan: // ya good LukeSkyWalker
+[23:09:52] MED REG COMM Ethan: // XD
+[23:09:52] Sith Master TOM: /drop
+[23:10:00] Sith Master TOM: ok lets start then
+[23:10:05] DARTH VADER: /ooc Ethan i rember the time when u put shit in chat xD
+[23:10:16] DARTH VADER: !goto ethan
+[23:10:18] Sith Master TOM: /drop
+[23:10:22] (TEAM) DARTH VADER: !goto ethan
+[23:10:22] DARTH VADER teleported to MED REG COMM Ethan
+[23:10:30] MED REG COMM Ethan: // Ahhhh WHAT R U TALKING ABOUT *STEESES OUT*
+[23:10:54] MED REG COMM Ethan: // Guys im going off for today
+[23:11:01] MED REG COMM Ethan: // Today was absolute banter
+[23:11:05] MED REG COMM Ethan: // Cya tommorow
+[23:11:07] DARTH VADER: /name Darth Ren
+[23:11:07] DARTH VADER<STEAM_0:1:165468783> changed their name to Darth Ren
+[23:11:11] MED REG COMM Ethan: /name Ethan
+[23:11:11] MED REG COMM Ethan<STEAM_0:1:72945201> changed their name to Ethan
+[23:11:12] SKT CPL 2812 Hound: // Cya
+[23:11:19] (TEAM) SKT CPL 2812 Hound: // Read my app 
+[23:11:21] Darth Ren: /ooc Cya!!!!!!!!!!!!
+[23:11:24] SKT CPL 2812 Hound: :P
+[23:11:27] SKT REG COMM Sloth: // ok
+[23:11:33] Ethan: // OK Hound :D
+[23:11:35] Dropped "Ethan" from server<STEAM_0:1:72945201>
+[23:11:45] Sith Master TOM: /ooc ffs his saber is too big
+[23:12:10] SKT CPL 2812 Hound: h
+[23:12:13] Sith Master TOM: /drop
+[23:12:40] Sith Master TOM: lpol
+[23:12:52] Darth Ren<STEAM_0:1:165468783> spawned/gave himself swep dc17grapple
+[23:13:00] Darth Ren: !give tom dc17grapple
+[23:13:00] Darth Ren gave Sith Master TOM dc17grapple
+[23:13:20] Sith Master TOM killed Jedi Master Waffles using weapon_lightsaber
+[23:13:32] Sith Master TOM suicided!
+[23:13:38] Sith Master TOM: /warp
+[23:13:56] Darth Ren: !hp ren 6500
+[23:13:56] Darth Ren set the hp for Themself to 6500
+[23:14:05] Sith Master TOM: 8000
+[23:14:18] Sith Master TOM: make me jeday
+[23:14:20] Sith Master TOM: for event
+[23:14:22] Sith Master TOM: oo
+[23:14:23] Sith Master TOM: ooc
+[23:14:35] Sith Master TOM: ok
+[23:14:38] Jedi Master Waffles: /name Jedi Master Waffleduck
+[23:14:39] Jedi Master Waffles<STEAM_0:1:64526417> changed their name to Jedi Master Waffleduck
+[23:14:51] Darth Ren: !goto waf
+[23:14:51] Darth Ren teleported to Jedi Master Waffleduck
+[23:14:56] Sith Master TOM: /ADVERT OPEN MH DOORS
+[23:15:04] Jedi Master Waffleduck suicided!
+[23:15:08] Darth Ren: !tp waf
+[23:15:08] Darth Ren teleported Jedi Master Waffleduck
+[23:15:20] Darth Ren: !hp waf 8000
+[23:15:20] Darth Ren set the hp for Jedi Master Waffleduck to 8000
+[23:15:59] Darth Ren: !tp waf
+[23:15:59] Darth Ren teleported Jedi Master Waffleduck
+[23:16:18] Darth Ren<STEAM_0:1:165468783> spawned sent eta2
+[23:16:26] Darth Ren<STEAM_0:1:165468783> spawned/gave himself swep weapon_physgun
+[23:16:42] Darth Ren: /advert *IC* Jedi ship incoming!!!!!!!!
+[23:16:59] Sith Master TOM: /ooc little ship XD
+[23:17:09] Darth Ren: /name DARTH VADER
+[23:17:10] Darth Ren<STEAM_0:1:165468783> changed their name to DARTH VADER
+[23:17:17] Sith Master TOM: wait
+[23:17:23] Sith Master TOM: ok
+[23:17:29] Sith Master TOM: you are jeday
+[23:17:32] DARTH VADER: !cleardecals
+[23:17:32] DARTH VADER cleared decals
+[23:17:34] Sith Master TOM: surrender or die
+[23:17:37] Sith Master TOM: or join 
+[23:17:49] DARTH VADER: /name SKT BATT COMM REN
+[23:17:50] DARTH VADER<STEAM_0:1:165468783> changed their name to SKT BATT COMM REN
+[23:17:55] SKT REG COMM Sloth: /advert *IC* There is a jedi in the MH
+[23:18:10] Sith Master TOM: chosed maul
+[23:18:12] Sith Master TOM: but if you want
+[23:18:14] Sith Master TOM: wait
+[23:18:29] Sith Master TOM: /drop
+[23:18:36] SKT BATT COMM REN<STEAM_0:1:165468783> spawned/gave himself swep gmod_tool
+[23:18:39] SKT BATT COMM REN<STEAM_0:1:165468783> used the tool creator on maps/rp_stardestroyer_v1.bsp
+[23:18:39] SKT BATT COMM REN<STEAM_0:1:165468783> spawned/gave himself swep weapon_lightsaber
+[23:18:52] SKT BATT COMM REN<STEAM_0:1:165468783> spawned sent duel_of_the_fates
+[23:18:56] SKT BATT COMM REN<STEAM_0:1:165468783> spawned/gave himself swep weapon_physgun
+[23:21:30] SKT REG COMM Sloth: !motd
+[23:21:50] SKT BATT COMM REN<STEAM_0:1:165468783> spawned sent eta2
+[23:22:07] SKT BATT COMM REN<STEAM_0:1:165468783> spawned sent lambda
+[23:22:11] SKT BATT COMM REN<STEAM_0:1:165468783> spawned sent soulless
+[23:22:26] (SILENT) SKT CPL 2812 Hound opened the profile of Themself
+[23:22:35] SKT BATT COMM REN: !tp sloth
+[23:22:35] SKT BATT COMM REN teleported SKT REG COMM Sloth
+[23:23:31] Sith Master TOM suicided!
+[23:23:35] Sith Master TOM: /oox XD
+[23:23:38] Sith Master TOM: /ooc XD
+[23:23:48] Sith Master TOM: /warp
+[23:23:50] SKT CPL 2812 Hound: // Could an administrator, please give me SteamID?
+[23:23:53] Jedi Master Waffleduck: /advert Going into hyperspace
+[23:23:58] SKT BATT COMM REN: !tp hound
+[23:23:58] SKT BATT COMM REN teleported SKT CPL 2812 Hound
+[23:23:59] SKT REG COMM Sloth suicided!
+[23:24:08] Sith Master TOM: /ooc type status to console
+[23:24:32] Jedi Master Waffleduck: /advert Hyperspace engaged
+[23:24:40] Sith Master TOM suicided!
+[23:24:45] SKT BATT COMM REN: /name DARTH VADER
+[23:24:46] SKT BATT COMM REN<STEAM_0:1:165468783> changed their name to DARTH VADER
+[23:24:51] Jedi Master Waffleduck: /advert until next time sith
+[23:24:58] SKT REG COMM Sloth: /advert You need better training in a ship sith
+[23:25:10] DARTH VADER: /advert *IC* SITH MASTER TO ME NOW!!!!!!!!
+[23:25:33] Jedi Master Waffleduck: cya
+[23:25:37] DARTH VADER: /y i am disapornted
+[23:25:39] Sith Master TOM: ooc my ship stucked XDto the wall
+[23:25:40] Jedi Master Waffleduck: /ooc gtg
+[23:25:45] Sith Master TOM: for ec then I tried to die
+[23:25:45] DARTH VADER: xD
+[23:25:45] SKT REG COMM Sloth: // bye
+[23:25:50] Sith Master TOM: ops started
+[23:25:57] Dropped "Jedi Master Waffleduck" from server<STEAM_0:1:64526417>
+[23:26:03] DARTH VADER: i am not very happy tom
+[23:26:09] DARTH VADER: u let him go
+[23:26:34] Sith Master TOM: /ooc actually I will kill him but someone gave ship to him
+[23:26:44] Sith Master TOM: /ooc ı was close
+[23:27:00] DARTH VADER: u should of destroy his ship
+[23:27:08] DARTH VADER: when he landed
+[23:27:15] Sith Master TOM: /ooc he turned on ship cheat.exe XD
+[23:27:23] SKT CPL 2812 Hound: // XD
+[23:27:25] DARTH VADER: oh xD
+[23:27:27] Sith Master TOM: XD
+[23:27:29] Sith Master TOM: /ooc agaga
+[23:27:32] Sith Master TOM: /ooc XD
+[23:27:35] SKT CPL 2812 Hound: /me Salutes
+[23:27:41] DARTH VADER: u are dismissed
+[23:27:54] SKT CPL 2812 Hound: /me Bows
+[23:28:03] Sith Master TOM: /me tom crys
+[23:28:13] SKT REG COMM Sloth: /me huges tom
+[23:28:15] Sith Master TOM: /ooc XD
+[23:28:20] DARTH VADER: !defend the bridge
+[23:28:44] DARTH VADER: hound come in the bridge i need to spleak to u
+[23:29:07] DARTH VADER: sit
+[23:29:08] Sith Master TOM: /me tom crys and huges his emperROR doll XD
+[23:29:08] SKT CPL 2812 Hound: /me Bows
+[23:29:14] Sith Master TOM: XD
+[23:29:30] DARTH VADER: /ooc sloth tp me
+[23:29:36] DARTH VADER: !tp slo
+[23:29:36] DARTH VADER teleported SKT REG COMM Sloth
+[23:29:41] Sith Master TOM: /advert tom crys and huges his emperROR doll XD
+[23:29:49] Sith Master TOM: /ooc XD
+[23:29:50] DARTH VADER: !tp tom
+[23:29:50] DARTH VADER teleported Sith Master TOM
+[23:29:53] SKT REG COMM Sloth: // XD
+[23:29:57] DARTH VADER: !tp tom
+[23:29:57] DARTH VADER teleported Sith Master TOM
+[23:30:03] DARTH VADER: !bring tom
+[23:30:03] DARTH VADER brought Sith Master TOM
+[23:30:48] Sith Master TOM: confratz
+[23:30:52] Sith Master TOM: congratz
+[23:30:53] SKT CPL 2812 Hound: /me Salutes
+[23:31:17] Sith Master TOM: force chocke
+[23:31:37] DARTH VADER: CPT
+[23:31:40] Sith Master TOM: wow
+[23:31:41] Sith Master TOM: XD
+[23:31:46] Sith Master TOM: fastest
+[23:31:49] SKT CPL 2812 Hound: /name SKT CPT 2813 Hound
+[23:31:49] SKT CPL 2812 Hound<STEAM_0:1:56783918> changed their name to SKT CPT 2813 Hound
+[23:32:09] DARTH VADER added SKT CPT 2813 Hound to group SKCPT
+[23:32:14] SKT REG COMM Sloth suicided!
+[23:32:33] Sith Master TOM: ok sir
+[23:32:36] SKT CPT 2813 Hound: /me Salutes
+[23:32:36] Sith Master TOM: ooc
+[23:32:37] Sith Master TOM: wait
+[23:32:46] Sith Master TOM: dude this ship i very bad :D
+[23:33:09] Client "Ryadboualem" connected.
+[23:33:31] Sith Master TOM: vulture
+[23:33:36] DARTH VADER: kk
+[23:33:41] DARTH VADER<STEAM_0:1:165468783> spawned sent vulture
+[23:33:45] Sith Master TOM: yes
+[23:33:47] Sith Master TOM: lets try it
+[23:33:49] Sith Master TOM: /warp
+[23:34:06] DARTH VADER: !goto tom
+[23:34:06] DARTH VADER teleported to Sith Master TOM
+[23:34:11] DARTH VADER<STEAM_0:1:165468783> spawned sent vulture
+[23:34:14] DARTH VADER<STEAM_0:1:165468783> spawned/gave himself swep weapon_physgun
+[23:34:24] Sith Master TOM: this is better
+[23:34:32] Sith Master TOM: /ooc swame thing happend :D
+[23:34:42] DARTH VADER: !tp tom
+[23:34:42] DARTH VADER teleported Sith Master TOM
+[23:35:25] DARTH VADER: lol
+[23:35:42] Client "Ryadboualem" spawned in server <STEAM_0:0:172713212> (took 153 seconds).
+[23:35:43] Sith Master TOM: actually I was using another sip at TC thts why I failed
+[23:35:49] Sith Master TOM: ship*
+[23:35:54] (TEAM) SKT CPT 2813 Hound: Here we go :D
+[23:36:18] Sith Master TOM: yes
+[23:36:27] Sith Master TOM suicided!
+[23:36:33] Sith Master TOM: /warp
+[23:36:33] SKT CPT 2813 Hound: Alright?
+[23:36:57] SKT REG COMM Sloth suicided!
+[23:37:15] Ryadboualem: i not english
+[23:37:24] SKT CPT 2813 Hound: Bonjour?
+[23:37:38] DARTH VADER: /ooc back
+[23:37:45] Sith Master TOM: no
+[23:37:47] SKT CPT 2813 Hound: // This guy isnt english
+[23:37:50] Sith Master TOM: ı HATE NEW SHIPS
+[23:37:54] DARTH VADER: /ooc down time
+[23:37:56] Sith Master TOM: /warp
+[23:37:57] SKT CPT 2813 Hound: // Come give me a hand m8
+[23:38:08] Sith Master TOM suicided!
+[23:38:09] DARTH VADER teleported to Ryadboualem
+[23:38:17] DARTH VADER: english
+[23:38:34] DARTH VADER: english
+[23:38:34] Ryadboualem: no english
+[23:38:35] Sith Master TOM: Ich heibe emre
+[23:38:43] Ryadboualem: i fench
+[23:38:46] Sith Master TOM: ow
+[23:38:54] DARTH VADER: !kick ryad speak english
+[23:38:54] DARTH VADER kicked Ryadboualem (speak english)
+[23:38:54] Dropped "Ryadboualem" from server<STEAM_0:0:172713212>
+[23:38:58] Sith Master TOM: XD
+[23:39:13] Sith Master TOM: jamapel emre
+[23:39:15] Sith Master TOM: wtf
+[23:39:16] Sith Master TOM: XD
+[23:39:22] Sith Master TOM: what is 
+[23:39:25] Sith Master TOM: my next rank
+[23:39:51] Sith Master TOM: am I goingg to become sıthstarkiller ?
+[23:40:12] Sith Master TOM: can I try force chocke
+[23:40:16] Sith Master TOM: on  you
+[23:40:22] Sith Master TOM: WTF
+[23:40:58] SKT CPT 2813 Hound: /drop
+[23:41:02] Sith Master TOM: hey
+[23:41:13] Sith Master TOM: you are not emperor
+[23:41:15] Sith Master TOM: D:
+[23:41:32] SKT CPT 2813 Hound: /name Emperor Palpatine
+[23:41:33] SKT CPT 2813 Hound<STEAM_0:1:56783918> changed their name to Emperor Palpatine
+[23:41:38] Sith Master TOM: hey
+[23:41:40] Sith Master TOM: what is my
+[23:41:46] Sith Master TOM: ranks next stape
+[23:42:05] Sith Master TOM: what is my ranks next step
+[23:42:23] Sith Master TOM:  what is my ranks next step ?
+[23:42:27] Sith Master TOM: I need to go so
+[23:42:30] Sith Master TOM: fast plz
+[23:42:35] SKT REG COMM Sloth: /NAME Grand Moff Sloth
+[23:42:36] SKT REG COMM Sloth<STEAM_0:1:88690147> changed their name to Grand Moff Sloth
+[23:42:37] Grand Moff Sloth: /Me Salute
+[23:42:40] Sith Master TOM: what is my ranks next step ?
+[23:42:57] Sith Master TOM: ok
+[23:43:34] Grand Moff Sloth: /name SKT REG COMM Sloth
+[23:43:35] Grand Moff Sloth<STEAM_0:1:88690147> changed their name to SKT REG COMM Sloth
+[23:43:44] SKT REG COMM Sloth: /Me Salute
+[23:43:52] Sith Master TOM suicided!
+[23:44:39] Sith Master TOM: /ooc down time so
+[23:45:09] Sith Master TOM: /ooc I nned some sleep so see you tommorow its 00:01 am in my country
+[23:45:09] SKT REG COMM Sloth suicided!
+[23:45:17] Emperor Palpatine: // Cya man!
+[23:45:23] Sith Master TOM: /ooc bye 
+[23:45:26] DARTH VADER: /ooc Cya
+[23:45:36] Dropped "Sith Master TOM" from server<STEAM_0:1:105697682>
+[23:46:02] DARTH VADER<STEAM_0:1:165468783> spawned/gave himself swep gmod_tool
+[23:46:27] DARTH VADER<STEAM_0:1:165468783> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[23:46:29] DARTH VADER<STEAM_0:1:165468783> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[23:46:59] Emperor Palpatine suicided!
+[23:47:08] SKT REG COMM Sloth suicided!
+[23:47:11] DARTH VADER<STEAM_0:1:165468783> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[23:47:32] DARTH VADER<STEAM_0:1:165468783> used the tool textscreen on maps/rp_stardestroyer_v1.bsp
+[23:48:01] DARTH VADER<STEAM_0:1:165468783> used the tool permaprops on models/hunter/plates/plate1x1.mdl
+[23:48:12] SKT REG COMM Sloth suicided!
+[23:48:56] SKT REG COMM Sloth killed Emperor Palpatine using weapon_lightsaber
+[23:49:00] SKT REG COMM Sloth suicided!
+[23:49:39] SKT REG COMM Sloth suicided!
+[23:49:59] SKT REG COMM Sloth killed Emperor Palpatine using weapon_lightsaber
+[23:50:26] DARTH VADER: !goto sloth
+[23:50:26] DARTH VADER teleported to SKT REG COMM Sloth
+[23:50:37] SKT REG COMM Sloth killed DARTH VADER using weapon_lightsaber
+[23:50:44] DARTH VADER: !slay  sloth
+[23:50:44] SKT REG COMM Sloth suicided!
+[23:50:44] DARTH VADER slayed SKT REG COMM Sloth
+[23:50:54] SKT REG COMM Sloth killed DARTH VADER using weapon_lightsaber
+[23:51:09] DARTH VADER: !hp palp 1000000
+[23:51:09] DARTH VADER set the hp for Emperor Palpatine to 1000000
+[23:51:17] SKT REG COMM Sloth killed DARTH VADER using weapon_lightsaber
+[23:51:22] DARTH VADER: !god palp
+[23:51:22] DARTH VADER granted god mode upon Emperor Palpatine
+[23:51:56] DARTH VADER<STEAM_0:1:165468783> spawned/gave himself swep weapon_laserrifle1
+[23:52:59] DARTH VADER: !hp sloth 1000
+[23:52:59] DARTH VADER set the hp for SKT REG COMM Sloth to 1000
+[23:53:06] DARTH VADER: !hp sloth 10000
+[23:53:06] DARTH VADER set the hp for SKT REG COMM Sloth to 10000
+[23:53:18] DARTH VADER: !give palp weapon_laserrifle1
+[23:53:18] DARTH VADER gave Emperor Palpatine weapon_laserrifle1
+[23:53:27] (TEAM) DARTH VADER: !ungodpalp
+[23:53:34] DARTH VADER suicided!
+[23:53:35] (TEAM) DARTH VADER: !ungod palp
+[23:53:35] DARTH VADER revoked god mode from Emperor Palpatine
+[23:53:35] Emperor Palpatine suicided!
+[23:53:44] DARTH VADER<STEAM_0:1:165468783> spawned/gave himself swep weapon_laserrifle1
+[23:53:44] SKT REG COMM Sloth suicided!
+[23:53:48] Emperor Palpatine: // Gees it again xD
+[23:53:51] (TEAM) DARTH VADER: !give s weapon_laserrifle1
+[23:53:51] DARTH VADER gave SKT REG COMM Sloth weapon_laserrifle1
+[23:53:54] DARTH VADER suicided!
+[23:53:54] Emperor Palpatine suicided!
+[23:54:01] DARTH VADER: !give palp weapon_laserrifle1
+[23:54:01] DARTH VADER gave Emperor Palpatine weapon_laserrifle1
+[23:54:07] DARTH VADER<STEAM_0:1:165468783> spawned/gave himself swep weapon_laserpistol
+[23:54:08] DARTH VADER<STEAM_0:1:165468783> spawned/gave himself swep weapon_lasermgun
+[23:54:19] DARTH VADER suicided!
+[23:54:19] Emperor Palpatine suicided!
+[23:54:20] Emperor Palpatine: // He killed me, againn pls
+[23:54:27] DARTH VADER suicided!
+[23:54:27] Emperor Palpatine suicided!
+[23:54:32] Emperor Palpatine: !rocket Pand
+[23:54:34] (TEAM) DARTH VADER: !give palp weapon_laserrifle1
+[23:54:34] DARTH VADER gave Emperor Palpatine weapon_laserrifle1
+[23:54:39] DARTH VADER<STEAM_0:1:165468783> spawned/gave himself swep weapon_laserrifle1
+[23:54:40] Emperor Palpatine suicided!
+[23:54:57] DARTH VADER suicided!
+[23:54:57] Emperor Palpatine suicided!
+[23:55:06] DARTH VADER suicided!
+[23:55:06] Emperor Palpatine suicided!
+[23:55:13] Emperor Palpatine suicided!
+[23:55:13] DARTH VADER: !strip sloth
+[23:55:13] DARTH VADER stripped weapons from SKT REG COMM Sloth
+[23:55:20] SKT REG COMM Sloth suicided!
+[23:55:25] Emperor Palpatine: // Now give me it xD
+[23:55:32] SKT REG COMM Sloth suicided!
+[23:55:33] DARTH VADER: !give palp weapon_laserrifle1
+[23:55:33] DARTH VADER gave Emperor Palpatine weapon_laserrifle1
+[23:55:40] DARTH VADER: !tp sloth
+[23:55:40] DARTH VADER teleported SKT REG COMM Sloth
+[23:55:46] DARTH VADER: !tp palp
+[23:55:46] DARTH VADER teleported Emperor Palpatine
+[23:56:21] DARTH VADER<STEAM_0:1:165468783> spawned/gave himself swep gmod_tool
+[23:56:21] DARTH VADER<STEAM_0:1:165468783> used the tool duplicator on maps/rp_stardestroyer_v1.bsp
+[23:56:21] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_junk/popcan01a.mdl
+[23:56:21] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_junk/popcan01a.mdl
+[23:56:22] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_junk/popcan01a.mdl
+[23:56:22] DARTH VADER<STEAM_0:1:165468783> spawned model models/xqm/rails/gumball_1.mdl
+[23:56:22] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_junk/popcan01a.mdl
+[23:56:22] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_junk/popcan01a.mdl
+[23:56:22] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_junk/popcan01a.mdl
+[23:56:22] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_lab/jar01a.mdl
+[23:56:22] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_c17/clock01.mdl
+[23:56:22] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_junk/popcan01a.mdl
+[23:56:42] DARTH VADER<STEAM_0:1:165468783> used the tool duplicator on maps/rp_stardestroyer_v1.bsp
+[23:56:42] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_junk/garbage_metalcan002a.mdl
+[23:56:42] DARTH VADER<STEAM_0:1:165468783> spawned model models/food/hotdog.mdl
+[23:57:00] DARTH VADER<STEAM_0:1:165468783> used the tool duplicator on maps/rp_stardestroyer_v1.bsp
+[23:57:00] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[23:57:12] DARTH VADER<STEAM_0:1:165468783> used the tool duplicator on maps/rp_stardestroyer_v1.bsp
+[23:57:12] DARTH VADER<STEAM_0:1:165468783> spawned model models/hunter/tubes/tube2x2x4.mdl
+[23:57:12] DARTH VADER<STEAM_0:1:165468783> spawned model models/hunter/misc/shell2x2a.mdl
+[23:57:12] DARTH VADER<STEAM_0:1:165468783> spawned model models/hunter/tubes/tubebend1x2x90.mdl
+[23:57:12] DARTH VADER<STEAM_0:1:165468783> spawned model models/hunter/tubes/tubebend1x2x90.mdl
+[23:57:12] DARTH VADER<STEAM_0:1:165468783> spawned model models/hunter/misc/shell2x2a.mdl
+[23:57:12] DARTH VADER<STEAM_0:1:165468783> spawned model models/hunter/misc/shell2x2a.mdl
+[23:57:21] SKT REG COMM Sloth killed DARTH VADER using weapon_lightsaber
+[23:57:25] DARTH VADER: !goto sloth
+[23:57:25] DARTH VADER teleported to SKT REG COMM Sloth
+[23:57:29] DARTH VADER<STEAM_0:1:165468783> spawned/gave himself swep gmod_tool
+[23:57:34] DARTH VADER<STEAM_0:1:165468783> used the tool duplicator on maps/rp_stardestroyer_v1.bsp
+[23:57:34] DARTH VADER<STEAM_0:1:165468783> spawned ragdoll models/monk.mdl
+[23:57:35] DARTH VADER<STEAM_0:1:165468783> spawned ragdoll models/kleiner.mdl
+[23:57:43] DARTH VADER suicided!
+[23:57:43] Emperor Palpatine suicided!
+[23:57:54] Emperor Palpatine: // ,_,
+[23:57:55] DARTH VADER: !goto sloth
+[23:57:55] DARTH VADER teleported to SKT REG COMM Sloth
+[23:58:03] (TEAM) DARTH VADER: !give palp weapon_laserrifle1
+[23:58:03] DARTH VADER gave Emperor Palpatine weapon_laserrifle1
+[23:58:07] DARTH VADER: !tp pal
+[23:58:07] DARTH VADER teleported Emperor Palpatine
+[23:58:16] DARTH VADER<STEAM_0:1:165468783> spawned/gave himself swep gmod_tool
+[23:58:17] DARTH VADER<STEAM_0:1:165468783> used the tool duplicator on maps/rp_stardestroyer_v1.bsp
+[23:58:17] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_docks/dock01_pole01a_128.mdl
+[23:58:17] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_docks/dock01_pole01a_128.mdl
+[23:58:17] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_c17/furnituretable003a.mdl
+[23:58:17] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_docks/dock01_pole01a_128.mdl
+[23:58:17] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_docks/dock01_pole01a_128.mdl
+[23:58:17] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_docks/dock01_pole01a_128.mdl
+[23:58:17] DARTH VADER<STEAM_0:1:165468783> spawned vehicle models/nova/airboat_seat.mdl
+[23:58:17] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_interiors/furniture_lamp01a.mdl
+[23:58:17] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_docks/dock01_pole01a_128.mdl
+[23:58:17] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_docks/dock01_pole01a_128.mdl
+[23:58:17] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_docks/dock01_pole01a_128.mdl
+[23:58:17] DARTH VADER<STEAM_0:1:165468783> spawned vehicle models/nova/airboat_seat.mdl
+[23:58:17] DARTH VADER<STEAM_0:1:165468783> spawned vehicle models/nova/airboat_seat.mdl
+[23:58:17] DARTH VADER<STEAM_0:1:165468783> spawned vehicle models/nova/airboat_seat.mdl
+[23:58:17] DARTH VADER<STEAM_0:1:165468783> spawned vehicle models/nova/airboat_seat.mdl
+[23:58:17] DARTH VADER<STEAM_0:1:165468783> spawned vehicle models/nova/airboat_seat.mdl
+[23:58:33] DARTH VADER<STEAM_0:1:165468783> used the tool duplicator on maps/rp_stardestroyer_v1.bsp
+[23:58:33] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_docks/dock01_pole01a_128.mdl
+[23:58:33] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_docks/dock01_pole01a_128.mdl
+[23:58:33] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_c17/furnituretable003a.mdl
+[23:58:33] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_docks/dock01_pole01a_128.mdl
+[23:58:33] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_docks/dock01_pole01a_128.mdl
+[23:58:33] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_docks/dock01_pole01a_128.mdl
+[23:58:33] DARTH VADER<STEAM_0:1:165468783> spawned vehicle models/nova/airboat_seat.mdl
+[23:58:33] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_interiors/furniture_lamp01a.mdl
+[23:58:33] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_docks/dock01_pole01a_128.mdl
+[23:58:33] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_docks/dock01_pole01a_128.mdl
+[23:58:33] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_docks/dock01_pole01a_128.mdl
+[23:58:33] DARTH VADER<STEAM_0:1:165468783> spawned vehicle models/nova/airboat_seat.mdl
+[23:58:33] DARTH VADER<STEAM_0:1:165468783> spawned vehicle models/nova/airboat_seat.mdl
+[23:58:33] DARTH VADER<STEAM_0:1:165468783> spawned vehicle models/nova/airboat_seat.mdl
+[23:58:33] DARTH VADER<STEAM_0:1:165468783> spawned vehicle models/nova/airboat_seat.mdl
+[23:58:33] DARTH VADER<STEAM_0:1:165468783> spawned vehicle models/nova/airboat_seat.mdl
+[23:58:37] DARTH VADER<STEAM_0:1:165468783> used the tool duplicator on maps/rp_stardestroyer_v1.bsp
+[23:58:37] DARTH VADER<STEAM_0:1:165468783> spawned model models/highrise/potted_plant_05.mdl
+[23:58:37] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_interiors/side_table_square.mdl
+[23:58:37] DARTH VADER<STEAM_0:1:165468783> spawned model models/hunter/blocks/cube025x1x025.mdl
+[23:58:37] DARTH VADER<STEAM_0:1:165468783> spawned model models/hunter/blocks/cube2x3x025.mdl
+[23:58:37] DARTH VADER<STEAM_0:1:165468783> spawned model models/hunter/blocks/cube025x2x025.mdl
+[23:58:37] DARTH VADER<STEAM_0:1:165468783> spawned model models/hunter/blocks/cube025x3x025.mdl
+[23:58:37] DARTH VADER<STEAM_0:1:165468783> spawned model models/hunter/tubes/circle2x2c.mdl
+[23:58:37] DARTH VADER<STEAM_0:1:165468783> spawned model models/hunter/blocks/cube025x2x025.mdl
+[23:58:37] DARTH VADER<STEAM_0:1:165468783> spawned model models/props_interiors/lamp_table02.mdl
+[23:58:37] DARTH VADER<STEAM_0:1:165468783> spawned model models/hunter/blocks/cube075x1x025.mdl
+[23:59:04] DARTH VADER: !tp slo
+[23:59:04] DARTH VADER teleported SKT REG COMM Sloth
+[23:59:07] Emperor Palpatine: // !give Palp sw_weapon_first_order_f11d
+[23:59:08] SKT REG COMM Sloth suicided!
+[23:59:21] DARTH VADER<STEAM_0:1:165468783> spawned/gave himself swep sw_weapon_first_order_f11d
+[23:59:31] DARTH VADER: !give Palp sw_weapon_first_order_f11d
+[23:59:31] DARTH VADER gave Emperor Palpatine sw_weapon_first_order_f11d
+[23:59:46] (TEAM) DARTH VADER: !tp slop
+[23:59:54] DARTH VADER: !tp sloth
+[23:59:54] DARTH VADER teleported SKT REG COMM Sloth
+[23:59:59] SKT REG COMM Sloth suicided!
+<Logging continued in "data/ulx_logs/07-09-16.txt">
