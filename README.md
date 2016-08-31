@@ -12,3 +12,6 @@ This project is for people that already have thier server server configured and 
 I will be supporting this project, if there are any errors with the code that I had written, I will check it, 
 you may contact me over my youtube channel https://www.youtube.com/c/3xcellenttuberen
 I will not be fixing YOUR errors, if you created any changes over my code or FPtje's I do not guarantee that I will fix it for you.
+
+All rights belong to me, Ethan K (3xcellentTuber), and to my server's community http://esstarwarsrp.enjin.com/
+"Royal Star SWRP"
