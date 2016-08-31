@@ -15,3 +15,4 @@ I will not be fixing YOUR errors, if you created any changes over my code or FPt
 
 All rights belong to me, Ethan K (3xcellentTuber), and to my server's community http://esstarwarsrp.enjin.com/
 "Royal Star SWRP"
+EDIT: Report ERRORS on https://github.com/3xcellentTuber/StarWars-RP-gamemode-for-Garrys-Mod-13/issues
