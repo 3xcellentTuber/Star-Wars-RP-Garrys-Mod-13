@@ -1,7 +1,7 @@
 # Star-Wars-RP-gamemode-for-Garry-s-Mod-13
 Please read:
 Hello, my name is 3xcellentTuber(Ethan), 1 mounth ago I STOPPED developing this gamemode and the GMod server, 
-This gamemode is a very well developed one, and you will be able to set this up pretty quickly on your server if you have worked with such files before.
+This gamemode is a very well developed one, an impiral swrp(the most popular one) and you will be able to set this up pretty quickly on your server if you have worked with such files before.
 Please notice, this gamemode needs to work with the addons I provide here, you will need to create a garry's mod collection and add all of the addons that are on my collection http://goo.gl/fI18Ma 
 to yours.
 all of the copy rights belong to me and to my server's community, and you may not call it yours even after you made changes, due to this gamemode being written by FPtje, and overwritten by me.
