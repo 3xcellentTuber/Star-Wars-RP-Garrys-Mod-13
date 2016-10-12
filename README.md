@@ -8,7 +8,7 @@ all of the copy rights belong to me and to my server's community, and you may no
 By you downloading this and using this project, you agree to the fact that the base code is FPtje's and that the overwritten one(darkrp mod') is mine.
 You are allowed to make changes(Localy).
 
-This project is for people that already have thier server server configured and ready to go.
+This project is for people that already have thier server configured and ready to go.
 I will be supporting this project, if there are any errors with the code that I had written, I will check it, 
 you may contact me over my youtube channel https://www.youtube.com/c/3xcellenttuberen
 I will not be fixing YOUR errors, if you created any changes over my code or FPtje's I do not guarantee that I will fix it for you.
