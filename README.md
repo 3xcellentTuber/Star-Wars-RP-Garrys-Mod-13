@@ -13,6 +13,6 @@ I will be supporting this project, if there are any errors with the code that I 
 you may contact me over my youtube channel https://www.youtube.com/c/3xcellenttuberen
 I will not be fixing YOUR errors, if you created any changes over my code or FPtje's I do not guarantee that I will fix it for you.
 
-All rights belong to me, Ethan K (3xcellentTuber), and to my server's community http://esstarwarsrp.enjin.com/
+All rights belong to me, Ethan K (3xcellentTuber), and to my server's community https://reddit.com/r/royalstar
 "Royal Star SWRP"
 EDIT: Report ERRORS on https://github.com/3xcellentTuber/StarWars-RP-gamemode-for-Garrys-Mod-13/issues
